@@ -1,0 +1,1479 @@
+## intent:alarm_query
+- what time have you set the alarm
+- list my different alarm
+- what time i am waking up [tomorrow](date)
+- what alarms did i set [today](date)
+- what alarms are coming up
+- if there any alarm is set then let me know
+- review all alarms
+- is the alarm set for [tomorrow](date) [morning](timeofday)
+- what time is alarm set for
+- do i have alarms set
+- what time is my alarm set for [tomorrow](date) [morning](timeofday)
+- is my reminder alarm set for [dance class](event_name)
+- when is my alarm set for
+- what time will my alarm wake me up
+- how many alarms are set
+- how many alarms have i set
+- what time will my alarm go off [today](date)
+- please let me know the alarm kept for [tuesday](date)'s [meeting](event_name)
+- did you set the alarm for [five am](time)
+- let me know about the alarms you set
+- what alarms do i have set for [today](date)
+- what's my next alarm
+- let me see my alarms
+
+## intent:alarm_remove
+- remove alarm of [seven thirty am](time) on [monday](date)
+- can you please remove the alarm
+- cancel alarm for [tenth of march two thousand seventeen](date)
+- this alarm needs to be permanently silenced
+- remove the alarm for [tomorrow](date)
+- i dont want any alarms
+- delete my [eight pm](time) alarm
+- remove [finlee](person)'s bedtime alarm
+- reset alarm
+- remove the alarm
+- will you turn the alarm off for me
+- remove my [morning](timeofday) alarm
+- delete my alarm for [eight am](time)
+- remove my alarm for [tomorrow](date) [morning](timeofday)
+- remove [seven am](time) alarm
+- cancel the alarm at [four am](time) [ten pm](time)
+- turn off the alarm
+- snooze
+
+## intent:alarm_set
+- set an [eight hundred am](time) alarm for next [tuesday](date)
+- set alarm for reminder
+- make an alarm for [three pm](time)
+- the set alarm for [nine pm](time) on [Thursday](date) [night](timeofday)
+- set an alarm for [five am](time)
+- confirm that the alarm is set for [tomorrow](date)
+- please make me wake up at [four am](time) [tomorrow](date)
+- remind me at [five pm](time)
+- turn on alarm [thirty minutes](time) before [liverpool started to play](event_name)
+- set a wake up call for [ten am](time)
+- set an alarm for [thursday](date) at [seven pm](time)
+- please set alarm to my mobile phones
+- alarm me at [eight am](time)
+- wake me at [seven am](time)
+- set an alarm at [ten](time) [tomorrow](date) to remind me a [meeting](event_name)
+- set an alarm at [six am](time) [tomorrow](date)
+- i need an alarm for [sunday](date) at [eight am](time) can you please set one for me
+- turn on my alarm
+- remind me at [six thirty pm](time)
+- add alarm
+- can you set the alarm for [one hundred and thirty](time)
+- alarm time for [twelve pm](time)
+- wake me at [daybreak](time)
+
+## intent:audio_volume_down
+- can you make it a little quieter
+- lower all volume on speakers please
+- volume down
+- please reduce the speaker volume
+- can you speak quieter please
+- turn the music lower
+- speaker volume decrease
+- softer
+
+## intent:audio_volume_mute
+- mute audio
+- don't talk until i ask you to
+- please be quiet for the next [two hours](time)
+- mute volume now
+- don't respond for [fifty seconds](time)
+- turn off the speakers
+- do not talk
+- quiet time
+- mute for [one hour](time)
+- please be silent
+- please do not respond
+- volume control
+- can you set [radio](device_type) to mute
+- please mute the [television](device_type) for [one hour](time)
+- can you please be muted for a while
+- i'm in a [meeting](event_name) please do not speak
+- turn the volume off
+- sound off please
+- i want you to mute
+- do not make any noise until [morning](timeofday) alarm
+- mute for [twenty minutes](time)
+- stop the audio
+
+## intent:audio_volume_up
+- please turn up the volume
+- play it louder
+- change the volume level [to nineteen](change_amount) please
+- turn the sound up
+- i am unable to hear you can you speak little loud
+- turn up
+- turn up the speakers
+- change the speaker volume [to sixty five percent](change_amount)
+- can you turn up your volume
+- increase volume
+- please speak up
+- get louder
+- increase the volume [to fifty](change_amount)
+- increase volume [by one](change_amount)
+- unmute after
+- could you speak louder
+- increase the volume of the [left speaker](device_type) [by ten](change_amount)
+- can you turn it up a little
+- can you speak louder
+- louder please
+- turn up sound
+- i need you to say that last information again but much louder
+
+## intent:calendar_query
+- what's on my schedule [this week](date)
+- are there any events schedule for [this week](date)
+- show me my reminders
+- My weekly plan
+- show up the events for me [today](date)
+- what are my plans for [today](date)
+- pawel prepare the [meeting](event_name) with [john](person)
+- when is my next [appointment](event_name) with [dr smith](person)
+- within the [past three months](time) how many [meetings](event_name) did i have with [mr richards](person)
+- [meetings](event_name) from [twenty to twenty five june](time)
+- whats my schedule [today](date)
+- show [todays](date) reminders
+- make a list of all the [halloween](event_name) events going around in [new york](place_name)
+- what is happening [this weekend](date)
+- [first week of march](time) [meetings](event_name)
+- are there any events on my calendar for [this week](date)
+- please tell me what day this event reminder is set for
+- please show [today](date) meting with [clients](relation)
+- do i have any pending reminder
+- can you pull up the latest time so i won't be late for my [appointment](event_name)
+- what do i have next to do
+- do i have a date for [tonight](timeofday)
+- tell me if there are any events from [three to five](time)
+
+## intent:calendar_remove
+- change my plan erase my next event
+- cancel the plan of [party](event_name)
+- reset all events in calendar
+- erase all content in my calendar
+- this event needs to be deleted
+- erase my [appointment](event_name) on the [twelfth](date) from my calendar
+- remove [twenty fourth march](date) [meeting](event_name) from schedule
+- i want all my events deleted
+- can you empty my calendar
+- delete all of my [appointments](event_name) with [dr smith](person) [this week](date)
+- please remove [dinner](meal_type) date scheduled for this [friday](date) at [nine pm](time)
+- delete my [appointment](event_name) [tomorrow](date)
+- remove [dinner](meal_type) with [mike](person) from my calendar
+- delete my [dr k appointment](event_name) in [march](date)
+- please erase the next [birthday](event_name) event
+- make my calendar empty
+- cancel [sam](person)'s [party](event_name)
+- please delete this event
+- delete all events in calendar
+- i am no longer attending the [wedding](event_name) on the [tenth](date) so remove it from my calendar
+- delete every event
+- delete the scheduled [meeting](event_name) on [fourth october](date) [twelve pm](time)
+- open calendar and erase all events for [all months](time)
+
+## intent:calendar_set
+- put my [brother](relation)'s [birthday](event_name) in my calendar for [july fourth](date)
+- add [jane](person)'s [birthday party](event_name) at [one hundred and twenty three main for two pm](time) [tomorrow](date) on my calendar
+- schedule my [meeting](event_name) with my [girlfriend lisa](relation) in the night [today](date) at [nine pm](time)
+- [march fifth](date) is [john](person)'s [birthday](event_name) please place this on the calendar
+- take note of [today](date) as [my first date with bob](date)
+- remember to remind me about [client meet](event_name) at [four pm](time)
+- set reminder for [tomorrow](date) for this item
+- can you remind me to [check my clothes](event_name) [in a hour](time)
+- give me the list of all events coming up in the [next month](date) and set notifications for all of them
+- [thirteenth june](date) is a day of [election result](event_name) please set it
+- add my [spin class](event_name) to the calendar for [Saturday](date) at [seven am](time)
+- please set this date to repeat
+- make a repeating reminder for [tomorrow](date)
+- [thursday](date) at [three pm](time) there is a [teachers meeting](event_name) i need to be reminded of
+- remind me to have [launch with boss](event_name) [today](date) at [one pm](time)
+- remind me to [take the casserole out of the oven](event_name) at [seven hundred and forty five pm](time)
+- please remind me that i have a [meeting](event_name) [tomorrow](date) [ten](time) in the [morning](timeofday)
+- add to calendar [may two](date) is [mary](person)'s [birthday](event_name) repeat [every year](general_frequency)
+- call [sarah](person)
+- send me notice of [meeting](event_name) [wednesday](date) [nine am](time)
+- the location is my [office](place_name)
+- on [january twenty five](date) set [meeting](event_name) for [twelve](time)
+- please put me your input to know my schedule
+
+## intent:cooking_recipe
+- what temperature should the [oil](ingredient) be for [frying](cooking_type) [french fries](food_type)
+- what conducts heat better copper bottomed pots or cast iron
+- how do i make [mashed potatoes](food_type)
+- tell me how to [cook](cooking_type) [pasta](food_type)
+- what ingredients do i need for [tomato soup](food_type)
+- what does [rice wine](drink_type) go with
+- what is the best way to cook [pasta al dente](food_type)
+- at what temperature should i bake [cookies](food_type)
+- tell me the recipe for [mashed potatoes](food_type)
+- what is a good [vegan egg](ingredient) substitute
+- show me [pancakes](food_type)
+- can you pull up a recipe for [spaghetti](food_type)
+- how do i braise a [pork loin](food_type)
+- what is a good way to make [steak](food_type)
+- please search for beginners guide to cooking
+- find me a recipe for [carrot soup](food_type)
+- recipe for [spaghetti](food_type)
+- how long should i cook [chicken](food_type) for
+- what is the cooking time for [boiled eggs](food_type)
+- how long do i need to cook a [brisket](food_type) for it to be medium
+- how long should i [cook](cooking_type) a [hamburger](food_type) on each side
+- what temperature should a [baked chicken](food_type) be
+- what is in a [curry](food_type)
+
+## intent:datetime_convert
+- how much later is [new york](place_name) than [la](place_name)
+- change the time zone from [washington](place_name) to [new york](place_name)
+- if it's [sunrise](time) in [stockholm](place_name) what time is it in [okinawa](place_name)
+- change the time zone from [irish](time_zone) time zone to [moscow](time_zone) time zone
+- how many hours difference is [hong kong](place_name) from [new york city](place_name)
+- [eight am](time) in [manila](place_name) is what in [new york](place_name)
+- convert [new york](place_name) time to [london](place_name)
+- if it's [midnight](time) in [colorado](place_name) what time is it in [munich](place_name)
+- convert [g. m. t.](time_zone) to [ist](time_zone)
+- switch to [los angeles](place_name) time
+- it's [eight fifty five](time) here what time is it in [england](place_name)
+- change this time zone to [washington](place_name)
+- what is the time difference between [california](place_name) and [michegan](place_name)
+- can you change my time zone from [central](time_zone) time to [pacific](time_zone)
+- what is time now in [japan](place_name) compared to [usa](place_name)
+
+## intent:datetime_query
+- what time is it [eastern](time_zone)
+- can you give me the time in [new delhi](place_name)
+- tell me the time
+- what is the date [today](date)
+- what date is [easter sunday](event_name) [this year](date)
+- what is the time for the [eastern](time_zone) time zone
+- what's the time in [china](place_name) right now
+- what will be the time now in [washington](place_name)
+- what day of the week is it
+- whats the time in [denver](place_name)
+- what is the [day](time_zone) [today](date)
+- what is the current day month and year
+- what is [today](date)'s current date
+- please let me know [today](date)'s date
+- what is the month day and year
+- show time in [china](place_name)
+- give me [new york](place_name)'s current time
+- current [time](time_zone) [new york](place_name)
+- be my clock
+- give me the time in [pst](time_zone)
+- what time is it in [new york city](place_name)
+- please give me [today](date)'s date
+- what time i sit in [china](place_name) right now
+
+## intent:email_addcontact
+- add this person's [email](personal_info)
+- please add [dan](person)'s email to my contacts
+- please add an email to my contacts
+- add this email to my address book
+- add email address [iamironman@gmail dot com](email_address)
+- i need you to add [gary](person)'s email to my favorites
+- put [sam@gmail dot com](email_address) in my email contacts list
+- add the email [oriam@gmail dot com](email_address) to my contacts
+- add this email address to my contacts and send an email to
+- please add a new email in my contacts from [sara](person)
+- save my contacts
+- i would like you to add an email to my contacts
+- create new contact
+- add this email to my contact list
+- add new email to contacts
+
+## intent:email_query
+- did i receive any email in the [past hour](time)
+- what are the subject line and sender from [today](date)'s email [inbox](email_folder)
+- would you go check my emails for me
+- open [inbox](email_folder)
+- show all emails regarding the breach
+- show me emails from my [friends](relation)
+- have i received any emails from [beth](person)
+- refresh my [inbox](email_folder) and inform me about new emails
+- do i have an email from person a
+- get contact
+- i need to see if i got any new email
+- have i got any new email from my [company](relation)
+- did i get an email from [mike](person)
+- check email from [john](person)
+- do i have any new emails in my [inbox](email_folder) [today](date)
+- give a last minute update on incoming emails please
+- Check outlook
+- are there new emails for me
+- check by [inbox](email_folder) for me
+- check my email messages
+- has [mike](person) sent me an email
+- check emails from [gary](person) for [last hour](time)
+- pull up all emails sent to me from [amazon](business_name)
+
+## intent:email_querycontact
+- tell me [john](person)'s [phone number](personal_info)
+- list [phone](personal_info) and [email id](personal_info) of [robert](person)
+- where does [joe joe](person) [live](personal_info)
+- which contact haven't i called in [twelve months](time)
+- what is the [email address](personal_info) for [tessa](person)
+- what is [bob stevens](person) [phone number](personal_info) it is in my contacts
+- how do i contact [charles](person)
+- check [mom](relation)'s number
+- can you give me the newest [phone number](personal_info) for [bobby mcgee](person)
+- give me [charles](person) [telephone number](personal_info)
+- [rahul](person) [contact](personal_info)
+- what is [charles](person)'s [email](personal_info)
+- did [sara](person) tried to call me
+- what is the [home phone number](personal_info) for [sarah](person)
+- where does [fred](person) [work](personal_info)
+- display [address](personal_info) of [john](person)
+- [julie](person)'s [information](personal_info)
+- look up in contacts
+- is it [joes](person) [birthday](event_name) soon
+- is there a contact [named](personal_info) [allen](person) in my list
+- call [vikki](person)
+- what is [mom](relation)'s [email address](personal_info)
+- do i have any other contact [phone number](personal_info) for [alison](person)
+
+## intent:email_sendemail
+- send email to [gary](person)
+- send happy new year to [john@gmail dot com](email_address)
+- email my [mom](relation)
+- compose email
+- send email to [family](relation) and tell them to bring the bug spray before coming to the park
+- respond to my [bosses](relation) email with the word that i will be in at four in the evening
+- email [mom](relation) and ask how the weather is there
+- answer email
+- send this message to the [family](relation) group starts with a
+- please send [mom](relation) an email saying that i can make it [next week](date)
+- send an email to [adele](artist_name)
+- i need to add a new email to my contacts
+- send an email to my [mum](relation) that i will visit her next weekend
+- email [dad](relation) how is the weather [this week](date)
+- email my [sister](relation) about [mom](relation)'s [birthday](event_name) [jane](person) we should think about arranging the party at the park
+- tell [chris](person) i will be late through email
+- send an email to [george brown](person)
+- please send the email to [abc@gmail dot com](email_address) instead of [xyz@gmail dot com](email_address)
+- please send an email to [mom](relation)
+- email my [mother](relation)
+- i'd like to send a reply
+- email [chris](person) add following content sorry I will be late [today](date)
+- send email to [mommy](relation) that i'll be going the [party](event_name)
+
+## intent:general_affirm
+- yeah amazing response.
+- yeap you've understood it correcly.
+- you have done it perfectly.
+- it's right.
+- yeap right response.
+- yeap you've gotten that correcly.
+- yes you have done it exactly.
+- you have got my instructions right.
+- yeap perfect.
+- you understood the answer right.
+- yes wonderful response to command.
+- yes it's confirmed.
+- you understood command perfectly.
+- confirmed.
+- yeah you have got your understanding perfectly.
+- yeap right.
+- yeah you have got my instructions right.
+- yeap correcly.
+- yes right.
+- you have gotten that exactly.
+- yeap it was correct.
+- yeap that's correct.
+- yes it was perfect.
+
+## intent:general_commandstop
+- olly will you stop.
+- would you shut down please.
+- can you just cancel it.
+- olly i would like you just stop it.
+- that is all, just cancel it.
+- that is all, just stop.
+- olly could you please shut up.
+- i want you just cancel it.
+- olly please can you cancel.
+- olly that is all.
+- olly that is all, just stop it.
+- olly please just cancel.
+- could you shut up.
+- i like you stop.
+- that is all.
+- olly please could you cancel.
+- olly will you just stop it please.
+- olly that is enough, just cancel it.
+- that is enough.
+- will you please shut off.
+- i would like you cancel it.
+- olly that is all, cancel.
+- shut down please.
+
+## intent:general_confirm
+- confirm my last command please.
+- check and confirm my last command please.
+- i'd like you confirm the question please.
+- can you confirm the details please.
+- please could you confirm instruction.
+- would you please confirm details.
+- will you check and confirm that please.
+- i would like you to check and confirm detail please.
+- please can you confirm details.
+- check last thing said please.
+- please check what said.
+- could you please confirm the instruction.
+- check and confirm the instruction.
+- check detail please.
+- could you please check and confirm that.
+- check what said.
+- can you confirm what said please.
+- please will you check my last instruction.
+- can you please check command.
+- please could you check question.
+- i want you to check and confirm what last said please.
+- please can you check and confirm the details.
+- can you please confirm detail.
+
+## intent:general_dontcare
+- i have no idea regarding to what to select.
+- anything is ok for me.
+- this doesn't really matter to me.
+- that does not really matter, olly.
+- don't bother.
+- would not really care, olly.
+- i do not really care, olly.
+- i don't mind to select any one.
+- wouldn't really mind to choose any one, olly.
+- does not really matter with me.
+- it is of no importance, olly.
+- this is of no importance to me.
+- that does not matter for me.
+- i have no idea regarding to what to do, olly.
+- anything is okay for me.
+- that doesn't matter to me, olly.
+- i do not know, olly.
+- would not mind for any one.
+- anything will be ok with me.
+- i do not really mind, olly.
+- doesn't matter with me.
+- wouldn't really care.
+- do not really mind for whatever, olly.
+
+## intent:general_explain
+- once again elaborate me on what you have just said please.
+- s1, again explain to me please.
+- s1, would you elaborate further on your answer to me please.
+- can you please clarify me more on your answer.
+- s1, could you please clarify me about what you've just said once again.
+- s1, further rephrase me about what you just said now please.
+- s2, i was unclear about your response.
+- didn't understand your answers.
+- please will you further clarify me on that.
+- once again explain your answer.
+- i was not clear about your answer.
+- would you elaborate your words once again to me please.
+- s1, please again elaborate me about your answer.
+- i am not clear about your words.
+- could you rephrase me about your response again please.
+- please will you clarify me more on it.
+- please explain me about your words once again.
+- please rephrase again to me.
+- s1, rephrase this further.
+- elaborate me further on your answer please.
+- i was not so clear about your words.
+- would you again rephrase me on your words please.
+- i was not so clear about what you've said.
+
+## intent:general_joke
+- i need a [naughty](joke_type) joke not to naughty though
+- what is a [funny](joke_type) joke about [car](joke_type)
+- what's the famous monty python joke about the bird
+- what's the [funniest](joke_type) joke
+- whats a [silly](joke_type) joke you know
+- tell me jokes
+- tell a joke
+- crack a joke
+- what's the [latest](joke_type) joke
+- a [priest](relation) walks into a [bar](business_type)
+- whats a [good](joke_type) joke
+- tell me something [funny](joke_type)
+- tell a joke that puts smile on my face
+- can i hear the joke [about the old woman](joke_type) again
+
+## intent:general_negate
+- i am sorry but i think you are not right.
+- sorry but i think you have messed up with command.
+- uhh no, you have done task all in wrong manner.
+- that's not the right answer.
+- dammit, not right response.
+- thanks but you are incorrect.
+- i am sorry but i think you're incorrect.
+- no, you gave me incorrect information.
+- it was not the correct response.
+- nope, it's not the correct command.
+- i think you have done the task all wrong.
+- sorry but i think you got it wrongly.
+- oops, you did not get me.
+- sorry but you have messed up the command.
+- uhh no, i did not say that.
+- i think you have made a mistake, please rectify this.
+- hmm, i think not correct.
+- hmm, i did not ask for this response.
+- you gave me not correct information.
+- i think this is not correct command.
+- you have done the task wrong.
+- uh no, i think you have done task in wrong manner.
+- no, it is not what i wanted.
+
+## intent:general_praise
+- it was amazing, olly.
+- you've done it correctly thanks, olly.
+- thank you very much for that information.
+- thank you, olly.
+- thank you.
+- you are hero, appreciated.
+- thank you very much for reminding me of that.
+- ah it's amazing.
+- that's great one, thanks.
+- i appreciate it, that's amazing.
+- thank you for your response, olly.
+- that was nice one.
+- fantastic work, you've done well.
+- that's good one, thank you very much, olly.
+- you are my star, thank you so much.
+- it's helpful, thank you.
+- it's wonderful job, thank you very much.
+- that was useful,.
+- you have done that right appreciated.
+- wonderful job, you have done well.
+- excellent work, you've done well.
+- appreciated, that is great job.
+- you are so smart.
+
+## intent:general_quirky
+- what is your mood [today](date)
+- what does [jon bon jovi](person)'s [wife](relation) look like
+- i would like it to be able to compute answer from search results like wolfram alpha does
+- what things can't you do
+- kill all the frogs you see
+- does [mr t](person) have a family
+- i have a deadline on [tuesday](date)
+- show me a map of everywhere the cat has been [this week](date)
+- opinion about latest gadgets
+- are you real
+- [today](date) was a hard day
+- dolores how was your day
+- [today](date) some things happened
+- when will you do my laundry
+- what are you doing
+- plan me a holiday trip
+- why does [tom izzo](person) look like a whiny bitch when his team plays
+- what is my location
+- friend updates
+- i had a long hard day
+- can you watch a movie on netflix with me
+- hey i met one of my old classmates [today](date)
+- i would like it if my robot could make money for me
+
+## intent:general_repeat
+- stop and try what i've just said once more.
+- could you repeat that.
+- i want to hear what said again.
+- i'd like to hear the last things spoke again.
+- please could you tell me that comment said once again.
+- please tell me once more.
+- tell me once more please.
+- please will you speak once again.
+- please speak one more time again.
+- let's try again please.
+- tell me once more.
+- let us do it again please.
+- say it once again please.
+- sorry.
+- will you tell me what you have said one more time please.
+- can you retry please.
+- please let's do it again.
+- can you try what i just said again.
+- tell me that one more time again.
+- could you do it again please.
+- will you say once again please.
+- tell me the last spoke one more time.
+- will you tell me that once more please.
+
+## intent:iot_cleaning
+- get the [roomba](device_type) to start cleaning
+- company coming over turn on the [vacuum cleaner](device_type) right now
+- robot do the [whole house](house_place) now
+- vacuum the [kitchen](house_place)
+- start the [vacuum](device_type) at [nine am](time)
+- please help me turn on the [robot vacuum cleaner](device_type)
+- if my [vacuum cleaner](device_type) is not activated please activate it
+- start [vacuum cleaner](device_type)
+- initiate to operate [robot vacuum cleaner](device_type)
+- start the [vacuum](device_type) for me
+- turn on vacuum cleaning
+- [vacuum](device_type) on
+- run the [vacuum](device_type)
+- power up the [vacuum](device_type)
+- go near [vacuum cleaner](device_type)
+- activate [vacuum](device_type)
+- please activate the [vacuum cleaner](device_type)
+- turn the [robot vacuum cleaner](device_type) on
+- olly i need the [living room](house_place) vacuumed can you turn on the [vacuum cleaner](device_type)
+- cleaning is good dust is so bad do now your magic clean my [carpet](house_place)
+- at [one pm](time) [today](date) start the [robot vacuum cleaner](device_type)
+- activate the [robot](device_type) and vacuum the [floor](house_place)
+- i want to clean my bedroom put the [vacuum](device_type) on and go to my [room](house_place)
+
+## intent:iot_coffee
+- how do i set my [coffee machine](device_type) to make coffee
+- access [coffee maker](device_type) begin process
+- get the coffee started please
+- please warm up [coffee machine](device_type)
+- run [coffee maker](device_type)
+- set coffee to brew at [seven am](time)
+- make coffee at [six am](time)
+- can you bring me a [nice](coffee_type) coffee
+- please start the coffee
+- do coffee
+- prepare a cup of coffee
+- make me [happy juice](coffee_type)
+- i need some coffee
+- can i have an [espresso](coffee_type) please
+- please make me coffee [without sweetener](coffee_type)
+- i will need my [filter](coffee_type) coffee in [ten minutes](time) please ask the [coffee maker](device_type) accordingly
+- can i get a cup of coffee
+- hey can you please make me a [creamy](coffee_type) coffee
+- make me some coffee
+- i want some coffee
+- make me coffee now
+- brew coffee at [noon](timeofday)
+- could you get me some coffee
+
+## intent:iot_hue_lightchange
+- change the light color the [red](color_type)
+- switch from [blue](color_type) to [yellow](color_type) lights
+- color change of lights
+- please change light color to [purple](color_type)
+- change the lights to [blue](color_type)
+- i like [red](color_type) colour for my [home](house_place) change it
+- turn lights [blue](color_type)
+- change lights
+- change light colors from [blue](color_type) to [white](color_type)
+- house lights [blue](color_type)
+- light color change
+- change light whenever i find myself in my house
+- i don't like this light please show me other options
+- switch to night light setting
+- change color of lights
+- make a contrast one
+- want to have [vibrant](color_type) colours
+- please set the lights to [green](color_type)
+- please adjust the colors in my lights
+- give me a new light color
+- change the light to [blue](color_type)
+- make my lights [green](color_type)
+- give me some [lavender](color_type) toned light
+
+## intent:iot_hue_lightdim
+- reduce light intensity
+- lower the intensity of light
+- lower the [overhead](house_place) lights
+- dim the lights in the [bathroom](house_place)
+- lower the lights in the [living room](house_place)
+- dim the lights down a bit
+- darken
+- please dim the lights
+- may i ask you to dim the lights
+- lower the lights [a little more](change_amount)
+- please dim the lights in the [bedroom](house_place)
+- attenuate the lights
+- could you dim the lights
+- show me the dim colour
+- darker lights please
+- make a [room](house_place) darker
+- dim lights
+- nighttime mode
+
+## intent:iot_hue_lightoff
+- turn [all lights](device_type) off [during the day](time)
+- turn off my [bedside lamp](device_type) please
+- turn off [one light](device_type) in my [bedroom](house_place)
+- please switch off the light
+- [desk lamp one](device_type) off
+- shut off lights
+- off lights
+- turn off the lights in the [bedroom](house_place)
+- shutoff light in the [kitchen](house_place)
+- turn the [security light](device_type) off
+- [bedroom](house_place) light off
+- please turn off all the lights in the [house](house_place)
+- turn the lights off to [my room](house_place)
+- please turn off the light of [my son's room](house_place)
+- turn off overhead light
+- turn the [kitchen](house_place) lights off
+- turn lights in the [room](house_place) off
+- by switch off
+- turn off the lights in the [living room](house_place)
+- will you please turn the lights off
+- turn off lights
+- turn off the nearest light to me
+- no lights
+
+## intent:iot_hue_lighton
+- and the darkness has fallen
+- can you put the lights on the high setting
+- lights on
+- switch on the lights
+- turn all lights on
+- It's too dark in here
+- please turn on my [balcony](house_place) lights
+- turn [corner](house_place) light on
+- turn on all upstairs lights
+- it's awfully dark here
+- put the [disco lights](device_type) on
+
+## intent:iot_hue_lightup
+- please increase the brightness in this [room](house_place)
+- its dark in here mind turning up the light intensity
+- raise the light
+- increase brightness in [the room](house_place)
+- do more light
+- i want to bright the [room](house_place) more
+- set lights brightness higher
+- please increase the light of [table lamp](device_type)
+- please turn up the [screen](device_type) brightness [all the way](change_amount)
+- increase the bright of the light
+- please olly put on [multi colored lightning](device_type) in my [apartment](house_place) set for festival diwali
+- i want to raise the light
+- brighten light
+- more light
+
+## intent:iot_wemo_off
+- cut [wemo](device_type) power please
+- will you please turn off the [smart plug](device_type)
+- turn [wemo plug socket](device_type) off
+- if idle then turn off else turn on
+- please turn socket off
+- can you turn off [wemo plug socket](device_type)
+- turn off on the socket
+- turn off [wemo socket](device_type)
+- turn off my [wemo plug socket](device_type)
+- turn off [wemo plug](device_type) in [game room](house_place)
+- Switch off the [smart socket](device_type)
+- can you turn off the [smart socket](device_type)
+- turn off socket
+- mute your [android phone](device_type) when you arrive at work
+- disable [wemo socket](device_type)
+- turn off [wemo](device_type)
+- switch off the [wemo plug](device_type)
+
+## intent:iot_wemo_on
+- switch on [smart plug](device_type)
+- [outlet](device_type) on
+- turn on this [socket](device_type)
+- turn on the [rice cooker socket](device_type)
+- turn on the [wemo plug socket](device_type)
+- turn on my [wemo socket](device_type)
+- enable [wemo](device_type)
+- power on [wemo](device_type)
+- turn on switch of [wemo socket](device_type)
+- please turn on the [smart socket](device_type)
+- turn on [smart socket](device_type) in [dining room](house_place)
+- make the [wemo plug socket](device_type) turned on
+- power yourself on
+
+## intent:lists_createoradd
+- add [appointment](event_name) in the list
+- add new items in the [remainder](list_name) list
+- help me start my [kitchen](list_name) list
+- reopen groceries and add milk
+- please add list of things to buy for [party](event_name)
+- pick up dry cleaning [tomorrow](date)
+- create a list for the following
+- add new item to list
+- enter this to a list
+- prepare a new list
+- set list
+- select the item
+- create a list for [today's tasks](list_name)
+- put the item on the list
+- add grocery shopping to [today](date)'s [to do](list_name) list
+- make a list of [numbers](list_name) for me
+- add [new songs](music_descriptor) to playlist
+- new list please
+- please create a list of due payment those who not received more then ten months
+- add to my [groceries](list_name)
+- add spent five dollars in my [expenses](list_name) list
+- make a list about [selena gomez](person) concert schedule
+- start a list of [dog names](list_name)
+
+## intent:lists_query
+- what are the names of all my saved lists
+- what is that on the list
+- what is on this list
+- what to do lists do i have
+- show me what lists are available
+- there are anything in my list
+- what is on my [shopping](list_name) list [today](date)
+- what lists available
+- what is on my [to do](list_name) list
+- what's next on my list
+- give me all my lists
+- find the list
+- what lists are in my notebook
+- tell me what lists i have
+- list [to do](list_name)
+- read out my [shopping](list_name) list for [today](date)
+- what lists are open
+- what's still on the list
+- could you open my list app and check for [groceries](list_name) please
+- read my list to me
+- please show me the list that i have
+- give me the details on purchase order
+- arrange the list in alphabetical order that are available
+
+## intent:lists_remove
+- delete the [famous actors](list_name) list
+- delete my [to do](list_name) list
+- clear all from my iphone
+- throw away my [to do](list_name) list please
+- remove [mike stein](person) from contacts list
+- trash file one
+- remove that event from list
+- find list and remove apple
+- delete the list please
+- erase item please from my list
+- erase the [chore](list_name) list
+- delete this from list
+- remove chores from my [to do](list_name) list
+- delete shopping from my list
+- please delete the list
+- go to the list and remove item
+- delete butterfly clips from my [wish list](list_name)
+- i don't need the [shopping](list_name) list delete it
+- get rid of item on the list
+- delete the last line
+- remove pepper from my [grocery](list_name) list
+- remove pencil from [stationary](list_name)
+- delete the [grocery](list_name) list
+
+## intent:music_likeness
+- remember that this is my favorite music
+- can you save this song to my favorites
+- this is the best band ever
+- what a wonderful song can you save what i just said for me
+- save my music choices
+- thumbs up this song
+- add [bruno mars](artist_name) to my favorites
+- save my opinion about the current song playing
+- i like songs from
+- current song rating three stars
+- Olly save all the songs i have listened to more than once
+- please add note to this file good tune
+- [kfi](artist_name) is my favorite rapper
+- i like top forty music
+- nice lyrics
+- i love [kfi](artist_name) so much he's by far my favorite
+- please record what i have said about this song
+- rate five
+
+## intent:music_query
+- what's the name of the piece you are playing
+- what song in the [theme song for frasier](music_album)
+- what song is playing now
+- what genre of music is in my music folder
+- what playlist is on [shuffle](player_setting)
+- tell me the singer of this track
+- who is the singer
+- email me the lyrics to this song
+- what song is this
+- what music is playing
+- i am interested in what emotions are conveyed in grateful dead music
+- what's my favorite music at the moment
+- when is boy band playing
+- what is the song name
+- who wrote this song
+- what is the track information currently
+- who is singing the song i am listening to right now
+- tell me who wrote this song
+- tell me a play list
+- what is the title of this song
+- tell me the artist of this song
+- which song am i listening to right now
+- what genre is this
+
+## intent:music_settings
+- turn on [spotify](app_name) [shuffle](player_setting)
+- turn on [shuffle](player_setting)
+- [stop repeating](player_setting) this song
+- [move](player_setting) to the next song in the list
+- [repeat](player_setting) song number ten from [main list](playlist_name)
+- olly [shuffle](player_setting) playlist
+- olly skip two songs
+- [repeat](player_setting) [jazz](music_genre)
+- set [track](media_type) twenty eight in music player on [repeat](player_setting)
+- [repeat](player_setting) song
+- [repeat](player_setting) [music](media_type)
+- please [repeat](player_setting) the last song
+- [repeat](player_setting) album
+- [repeat](player_setting) the music
+
+## intent:news_query
+- notification regarding the [new iphone release update](news_topic)
+- get news from [bbc](media_type)
+- [iphone](news_topic)
+- what's going on in the [world](place_name) these days
+- give me the news
+- i want to read [yahoo news](media_type)
+- headlines from [dhaka tribune](media_type)
+- what is the headline from [today](date)'s [morning local news](media_type)
+- get me the latest news in [new york](place_name)
+- what are the news stories on the [cnn](media_type) website
+- latest news
+- olly please read me [today](date)'s news
+- what is trending in tech [today](date)
+- give me the headline news
+- get me fresh news
+- please share up to the minute details on [sprint](news_topic)
+- any recent news about [north korea](place_name)
+- tell the latest news about the [trump](news_topic)
+- tell me updates
+- is [india win today cricket match](news_topic)
+- automobiles
+- is [snap](news_topic) doing good after the [ipo](news_topic)
+- can you search [trump](news_topic)
+
+## intent:play_audiobook
+- please repeat the last sentence from that book
+- [resume](player_setting) [harry potter book one](audiobook_name)
+- [restart](player_setting) [american gods](audiobook_name)
+- start play [johns](audiobook_name) [audiobook](media_type)
+- [resume](player_setting) audio playback of [twilight](audiobook_name)
+- please [continue playing](player_setting) [odd thomas](audiobook_name) by [dean koontz](audiobook_author)
+- [stop](player_setting) [audiobook](media_type)
+- [pause](player_setting) the [audiobook](media_type)
+- i want to [start](player_setting) [war and peace](audiobook_name) [where i left off](player_setting)
+- look for this playback in [audiobook](media_type) and play for me
+- [resume](player_setting) [war and peace](audiobook_name)
+- play [the jungle](audiobook_name) book
+- play this [audiobook](media_type) for me
+- [resume playing](player_setting) [you are joking mr feynman](audiobook_name)
+- play [the god of small things](audiobook_name)
+- i want to [resume](player_setting) where i last left off in my [audio book](media_type)
+- play [the two towers](audiobook_name)
+- [start](player_setting) the audiobook file for where i left off in [a tale of two cities](audiobook_name)
+- find me an [audio book](media_type) version of [ready player one](audiobook_name) and play it for me
+- [begin playing](player_setting) the [audiobook](media_type) [beauty and the beast](audiobook_name)
+- play the [audiobook](media_type) [swan](audiobook_name) from first
+- open [audiobook](media_type)
+- [resume](player_setting) [audiobook](media_type) playback
+
+## intent:play_game
+- open [solitaire](game_name) play with me
+- start the [league of legends](game_name) game
+- how about a nice game of [chess](game_name)
+- play [fmod](game_name)
+- play [i spy](game_name) with me
+- start play [spider](game_name)
+- co play game [monopoly](game_name)
+- start [candy crush](game_name)
+- how about a game of [snakes and ladders](game_name)
+- will play [chess](game_name)
+- would you like to play [never have i ever](game_name)
+- please run this game
+- start play [fifa seventeen](game_name)
+- play [snake](game_name) with me
+- let us play [millionaires](game_name)
+- play [racing](game_name)
+- create a playing teams and play with them
+- i'd like to play [monopoly](game_name)
+- let's play a game of [trivia](game_name)
+- let's play [checkers](game_name)
+- play [golf](game_name)
+- i wish i could play [video](game_type) games together
+- [angry bird](game_name)
+
+## intent:play_music
+- play [chopin](artist_name)
+- play only songs by the [beatles](artist_name) please
+- i want to listen to [classical](music_genre) music
+- please play the song [joy to the world](song_name)
+- play [purple haze](song_name)
+- play song [aces high](song_name)
+- please play the early [franks sinatra stuff](artist_name) i have
+- i'd love to hear any song that i've given [five stars](music_descriptor) by [serge gainsbourg](artist_name)
+- play song [over the rainbow](song_name)
+- [jazz](music_genre) could be choice for me
+- play what [i am](song_name) by [edie brickel](artist_name)
+- play [r and b](playlist_name)
+- go to [youtube](media_type) and play me the [best wedding songs](playlist_name) collection
+- play music from where you left off
+- would you play some music please
+- please play [workout playlist](playlist_name)
+- play [maroon five](artist_name) playlist
+- play the song [get happy](song_name) by [ella fitzgeral](artist_name)
+- play [closer](song_name) music track
+- play my [morning playlist](playlist_name)
+- skip to the next song
+- play [jingle bells](song_name)
+- make my collection mostly [pop](music_genre) with a good bit of psychedelia
+
+## intent:play_podcasts
+- i want to see the [previous episode](podcast_descriptor)
+- move forward to the [next episode](podcast_descriptor)
+- please start [joe rogan](person) podcast please
+- please check [episode number thirty nine](podcast_descriptor)
+- search for [podcasts](media_type) that cover [men's issues](podcast_descriptor)
+- can you [forward](player_setting) an episode in the podcast
+- play episode ten in the podcast
+- play [heavyweight](podcast_name) podcast
+- skip to the [next podcast](podcast_descriptor)
+- go to the third episode of this podcast
+- please start my podcast
+- i would like to listen to this [mornings](time) [mike](person) and mike podcast
+- [rewind](player_setting) to [four twelve](time)
+- play a podcast about latest [yoga videos](podcast_name)
+- favourite podcast
+- i want to see the [next podcast](podcast_descriptor) available
+- start playing [ringcast](podcast_name)
+- i am ready to hear the [next episode](podcast_descriptor) of podcast
+- can you [pull up](player_setting) the [dave ramsey](person) podcast that aired on [monday](date)
+- play the [next episode](podcast_descriptor) of this series
+- play next [doctor who](podcast_name) episode
+- [next episode](podcast_descriptor) in the podcast please
+- play podcast one
+
+## intent:play_radio
+- please start [fm eight hundred and ninety](radio_name) radio channel
+- have remainder of the program to listen
+- start [radio station](radio_name) [one oh seven point five fm](radio_name)
+- start [pandora](app_name)
+- begin radio play
+- play billybob show on [bbc radio four](radio_name)
+- can you play [acoustic music](radio_name) with no commercials
+- scan the radio for howard stern
+- set radio
+- play [miley cyrus](person) radio
+- tune to [pandora](app_name)
+- let's hear [ninety two point one](radio_name)
+- please open my [fm radio](radio_name) and play [nine hundred and eighty seven](radio_name)
+- i want to hear [this week](date)'s midweek motorsport
+- play for me american idol on [television](device_type)
+- play the radio for me
+- play a [pop station](radio_name) on the radio
+- play the radio music band
+- play the health show on the [television](device_type) in the [living room](house_place)
+- open [pandora](app_name) and play top hits
+- i want to listen to today's hits
+- open the radio app
+- play any [country music station](radio_name)
+
+## intent:qa_currency
+- what is the exchange rate for the [english pound](currency_name) and [us dollar](currency_name)
+- how much is two thousand five hundred [philippine pesos](currency_name) in [dollars](currency_name)
+- how many [dollars](currency_name) is twelve [pesos](currency_name)
+- exchange rate from [cad](currency_name) to [u. s. d.](currency_name)
+- how much is one [american dollars](currency_name) worth in [england](currency_name)
+- what is price of [dollar](currency_name)
+- please let me know the exchange rate between [indian rupees](currency_name) and [us](currency_name)
+- currency to currency rate
+- what is the exchange rate of [rupee](currency_name) for [dollar](currency_name)
+- what is the [us dollar](currency_name) and [euro](currency_name) exchange rate
+- let me know about the exchange rate of [rupee](currency_name) to [dirham](currency_name)
+- how many [dollars](currency_name) are in a [pound](currency_name)
+- exchange rate for converting ten [dollar](currency_name) to [euro](currency_name)
+- what is six hundred [euros](currency_name) in [u. s. d.](currency_name)
+- what is the [dollar](currency_name) exchange rate
+- what is the [dollar](currency_name) against the [pound](currency_name)
+- please show me the exchange rate between the [dollar](currency_name) and the [yen](currency_name)
+- what is exchange for the [us](currency_name) and [euro](currency_name)
+- could you please tell me what is the rate for [pound](currency_name) to [u. s. d.](currency_name)
+- how many [euro](currency_name) will i get for ten [dollars](currency_name)
+- give me the exchange rate between [united states dollar](currency_name) and [canadian dollar](currency_name)
+- what is the exchange rate between [us dollars](currency_name) and [bitcoin](currency_name)
+- how much money is one [dollars](currency_name) worth in [denmark](currency_name)
+
+## intent:qa_definition
+- what does a [soccer ball](definition_word) look like
+- what an [umbrella](definition_word) means
+- define [organism](definition_word)
+- what does the word [hypocrisy](definition_word) mean
+- describe [the empire state building](definition_word)
+- what is the meaning of the word [sanctimonious](definition_word)
+- how would the [volkswagen golf car](definition_word) look like
+- define and describe an [ultraviolet ray](definition_word)
+- how would you describe a [tennis ball](definition_word)
+- what does [joke](definition_word) mean
+- what does [formidable](definition_word) mean
+- what i can do with [laptop](definition_word)
+- how do you describe a [capabara](definition_word)
+- define [forensic](definition_word)
+- tell me what a [workhouse](definition_word) is
+- what is the definition of [god](definition_word)
+- what does a [baguette](definition_word) look like
+- look up the meaning of [logic](definition_word)
+- describe to me what a [ball](definition_word) looks like
+- what does [session](definition_word) mean
+- hey what does [incite](definition_word) mean
+- Explain object
+- define [session](definition_word)
+
+## intent:qa_factoid
+- is [yemen](place_name) closer to [japan](place_name) or [india](place_name)
+- why did [bob dylan](person) earn a nobel peace prize
+- how old is [betty white](person)
+- is [adele](artist_name) going to go on tour
+- actually what is the life style of [sahara desert](place_name)
+- what color is the sky
+- how far is [france](place_name) from [miami](place_name)
+- what is the financial capital of [canada](place_name)
+- how far is [parana river](place_name)
+- how far does my dollar go in japan
+- what is the birthday of [hemingway](person)
+- when's [mark lanegan](person)'s next album out
+- what's [bob scrote](person)'s net worth
+- what movies is [kevin spacey](person) in
+- how smooth is marble floor
+- how many cups in a quart
+- tell me why relationships are so hard
+- when is the next lakers game
+- what size is a sperm whale
+- when was [einstein](person)'s [birthday](event_name)
+- how big is [the grand canyon](place_name)
+- when was [justin bieber](person) born
+- what is the temperature in [indianapolis indiana](place_name)
+
+## intent:qa_maths
+- what is the root of six hundred and twenty five
+- what is five over three
+- do you know how to answer this math question
+- what's the answer to one plus one
+- let's do math
+- tell me the simple interest of seven with interest in two year
+- i want to know the result of twenty is to two
+- what is the result of two by two
+- what is two plus four
+- how much is one plus one
+- sum of five and two
+- calculate two plus 29
+- how do you subtract numbers
+- can you do nine plus two
+- twenty minus ten
+- tell me formula for area of circle
+- what is two hundred divided by thirteen
+- divide one thousand five hundred by one hundred and sixty
+- how many times does fifty go into one million
+- can you tell me what twenty five percent of two thousand one hundred is
+- figure out what percentage thirty is of one hundred and sixty three
+- convert one kilo to pound
+
+## intent:qa_stock
+- did the price of [walmart](business_name) stock go up or down
+- what is [amazon](business_name) worth
+- stock [google](business_name) find out
+- how is the stock going in general
+- what's the closing price of [abc](business_name)
+- what is the lowest [microsoft](business_name) stock price [today](date)
+- tell me which stocks were the biggest gainers in stock market nasdaq [today](date)
+- let me know about the stock rate of a [microsoft](business_name)
+- what is the stock for [hp](business_name) company
+- what's new with the [stock market](news_topic)
+- what's the stock price of this item
+- let me know up and down in stock price of this company stock
+- what is the price of [amd](business_name) on the stock market
+- stock
+- what was the stock price for [google](business_name) [yesterday](date)
+- stock please
+- open td ameritrade
+- what is [terranova](business_name) stock going for
+- [tvs](business_name) stock price
+- what's the price of [ge](business_name) right now
+- whats the current price of [mcdonalds](business_name) stock
+- send me the [stock market](news_topic) updates for [today](date)
+- what are [amd](business_name) stock prices
+
+## intent:recommendation_events
+- find the events
+- could you suggest some fun in [new york](place_name)
+- Show latest events around [new york](place_name)
+- show me upcoming events in the [quad cities](place_name)
+- are there any events happening in [town](place_name)
+- do i need to undertake any particular activity during my stay at the [yellowstone national park](place_name)
+- tell me all the current events in my [hometown](place_name)
+- any cultural events in [california](place_name)
+- are there any events going on close by
+- what are the local concerts [tonight](timeofday)
+- what is the event name going in me area
+- where should i go for [dinner](meal_type) in [san francisco](place_name) [tonight](timeofday)
+- what is happening [tomorrow](date)
+- what type of event
+- [fun things](event_name) to do [today](date)
+- show me events nearby
+- find events in local area
+- refer [local current events](event_name)
+- show me upcoming events in this area
+- what events are happening in [los angeles](place_name)
+- what is planned for [today](date) in my local area
+- what is going on around here
+- what's happening around me
+
+## intent:recommendation_locations
+- where can i get [shawarma](food_type) in this area
+- tell me a nice [chinese](food_type) [restaurant](business_type)
+- is there a well rated [pizza](food_type) [place](business_type) [between fourteenth and eighteenth streets](place_name)
+- i want to take [karate classes](event_name) where are local [karate studios](place_name)
+- where is a [petrol station](business_type) in [five mile radius](place_name)
+- is there any [salon](business_type) in [babaji nagar](place_name)
+- find me the cheapest place to buy a new backpack
+- what [restaurant](business_type) is open after [midnight](time)
+- what [clothes store](business_type) would you recommend here
+- please recommend a [restaurant](business_type) in [seattle](place_name)
+- where is a good [place to eat](business_type) in [seattle](place_name)
+- i need to find [a gift](business_type) what [stores](business_type) are [within a one mile radius](place_name)
+- what [pubs](business_type) are near [the metro station](place_name)
+- where is the [pharmacy](business_type) in [leavenworth](place_name)
+- where can i eat along route sixty six
+- locate me the [amazon](business_name) [restaurants](business_type)
+- find [gluten free bakery](business_type) near me
+- which [restaurant](business_type) is there in [shivaji nagar](place_name)
+- best reviews [restaurant](business_type) in [south sacramento](place_name)
+- search for local shops
+- where are [italian](food_type) [restaurants](business_type) in me area
+- what [clothing shops](business_type) are close to my current location
+- nearest walmart location
+
+## intent:recommendation_movies
+- do you have any suggestion [action](movie_type) movies
+- can you suggest a good [drama](movie_type) for me to watch
+- are there any good movies running in nearby [theaters](business_type)
+- i need a good [chick flick](movie_name) any thoughts
+- what movie are playing near me
+- what movie should i go see
+- what highly rated movies are playing [this weekend](date)
+- [deadpool](movie_name)
+- can you tell me which [movie](event_name) is going on in the [nearby multiplex](place_name)
+- inform me about the most popular [rom com](movie_type) movie playing now in theatres across [new york](place_name)
+- is [logan](movie_name) a good movie to watch
+- show me movie times
+- Show times for nearest [theater](business_type)
+- name a [rom com](movie_type) movie playing in and around [new york](place_name) theatres
+- two thousand and seventeen movies
+- what movie do you recommend [tonight](timeofday)
+- what movies are showing in [cinema](business_type) [today](date)
+
+## intent:social_post
+- post a complaint via [twitter](media_type) to [cvs pharmacy](business_name)
+- i would want you to [tweet](media_type) for me at [india consumer complaints forum](event_name) regarding the late delivery of gas cylinder
+- [customer service](business_name) complaint
+- [tweet](media_type) something for me
+- send a [tweet](media_type) to [esurance](business_name) to say i hate you
+- hello google post my current status on [twitter](media_type) mentioning a great trip to [paris](place_name) with [friends](relation) and [family](relation)
+- post a new status on [facebook](media_type) saying that i am enjoying the [nice weather](weather_descriptor)
+- please create a new [tweet](media_type)
+- send a [tweet](media_type) to [meijer](business_name) tell them that they have the worst customer service
+- can you put this on [facebook](media_type)
+- post to [twitter](media_type) [trump](person) is such an ass
+- [tweet](media_type) a complaint to [old navy website](business_name)
+- [tweet](media_type) on the bad service
+- please say the following on [facebook](media_type)
+- [tweet](media_type) [consumer service](business_name)
+- [tweet](media_type) to the [customer service account of starbucks](business_name)
+- write a [tweet](media_type) of complaint about my tv to [samsung](business_name)
+- tell them that their lines were too long
+- can you send a [tweet](media_type) to [lif](business_name) saying that their app crashed
+- [tweet](media_type) consumer complaint
+- [snapchat](media_type)
+- please add complaint about the service in [tweet](media_type) to [olive garden](business_name)
+- complaint to [dept](business_name) for food quality
+
+## intent:social_query
+- let me know what [maria](person) has put on her [facebook](media_type) over the [weekend](time)
+- what's the latest in my social media
+- [myspace](media_type)
+- did anybody post on [facebook](media_type) [today](date)
+- hi what is the hot topic in [facebook](media_type)
+- please let me know what's happening to my social media
+- my [facebook](media_type) update in [every three hour](general_frequency) should be available
+- what's new on social media
+- new friends request details
+- is [trump](person) [tweeting](media_type) [today](date)
+- what's going on on [fb](media_type)
+- i heard [ale](person) just got married can you please show me the wedding pictures on their [instagram](media_type)
+- what's new in [facebook](media_type)
+- live show reminders
+- what did [jeff](person) post on the yard sale page
+- what's happening in my social media
+- did [tracy](person) update her [facebook](media_type) status [today](date)
+- has [derek](person) logged into [facebook](media_type) [today](date)
+- show me a list of places where my [relatives](relation) have been based on their photos
+- check [instagram](media_type)
+- hi what kind of pictures you uploaded in [pinterest](media_type)
+
+## intent:takeaway_order
+- order two [cheeseburgers](food_type) from [wings n. ale](business_name) on university drive
+- order me some [chinese](food_type) food
+- show me [delivery](order_type) near me
+- order me the [fish risotto](food_type) from [the golden fork](business_name)
+- can i order [take out](order_type) food at [this time](time)
+- place a [take out](order_type) order at [olive garden](business_name)
+- please order some [sushi](food_type) for [dinner](meal_type)
+- i'm in the mood to order [takeaway](order_type)
+- search for [pizza](food_type) nearby
+- order a double [bacon cheeseburger](food_type) with [bacon](food_type) an white [american cheese](food_type)
+- call the nearest [pizza place](business_type) that offers [buffalo pizza](food_type)
+- find [restaurant](business_type) order food name
+- schedule a [delivery](order_type) from food at the nearby [takeaway](order_type) [diner](meal_type)
+- order a [takeaway](order_type) [sandwich](food_type) and [soup](food_type) from the [italian](business_name)'s
+- can you please order some food for me
+- order a large [pepperoni pizza](order_type) from [dominos](business_name) to go
+- give me the best [pizza](food_type) deals offered [today](date)
+- hey order me some take out from [jason's deli](business_name)
+- hey call the nearest [chinese](food_type) [restaurant](business_type) for a [takeaway](order_type)
+- open the [grubhub](app_name) app so i can order take out
+- can you order me some [pizza](food_type)
+- order some [fried chicken](food_type) from [church's chicken](business_name) via [grubhub](app_name)
+- free home [delivery](order_type)
+
+## intent:takeaway_query
+- can i pick up my large order at [pizza hut](business_name)
+- does [restaurant](business_type) has home [delivery](order_type)
+- do they [deliver](order_type)
+- does [pings](business_name) have [takeaway](order_type)
+- hows the food order going
+- does [dominos](business_name) has a [delivery](order_type) option
+- what [asian](food_type) [restaurants](business_type) nearby offer to go food
+- check the status of my [pizza hut](business_name) order please
+- when will my [chinese](food_type) food be delivered
+- does [fongs](business_name) do [carry out](order_type)
+- status of [take away](order_type)
+- is [mr pizza](business_name) on skip the dishes
+- does [peking garden](business_name) take orders [over the phone](order_type)
+- does [peking garden](business_name) do [orders online](order_type)
+- does this place do [takeaway](order_type)
+- can i order [olive garden](business_name) to go
+- when is my order arriving
+- check on the [delivery](order_type) of my current order
+- check the [dish](food_type) price and all
+- reviews of the [restaurants](business_type)
+- [domino](business_name)'s has [takeaway](order_type) right
+- where can i get a shot of [tequila](food_type) and some to go [mexican](food_type) food
+- does that [restaurant](business_type) allow [call in](order_type) orders
+
+## intent:transport_query
+- i'd like a [train](transport_type) ticket to this location
+- [train](transport_type) schedule
+- i would like to know the route the [train](transport_type) will go to get to [miami](place_name)
+- what are departure arrival times for this train
+- get me the local [train](transport_type) timing to destination [cstm](place_name)
+- find [ny](place_name) [train](transport_type) time
+- can you give me the [train](transport_type) times to [nyc](place_name)
+- how far is [orlando](place_name) from [my house](place_name)
+- how far is the distance to [rccg ikoyi lagos](place_name) from here by [train](transport_type)
+- give me the [train](transport_type) time
+- directions to the target on I forty
+- train times to [glasgow](place_name)
+- when does the last [train](transport_type) from work leave
+- how long until we get to [chicago](place_name)
+- get me [train](transport_type) times to [location](place_name) from [station](place_name)
+- how far is it from [tokyo](place_name) to [dallas](place_name)
+- how do i book a [train](transport_type) ticket online
+- is there any [train](transport_type) plying from [pune](place_name) to [mumbai](place_name) [tonight](timeofday)
+- give me the list of available [train](transport_type) tickets from [edinburgh](place_name) to [leeds](place_name)
+- when is the next septa [train](transport_type) to [philadelphia](place_name)
+- get me directions to [meijer](place_name)
+- from where can i get a [train](transport_type) ticket for [athens](place_name)
+- can you look up [train](transport_type) ticket prices for me
+
+## intent:transport_taxi
+- can you book an [uber](transport_agency) [tomorrow](date)
+- flag me an [uber](transport_agency) for [ten pm](time) [tonight](timeofday)
+- book for me an [uber](transport_agency) [taxi](transport_type) to [bardonia](place_name)
+- check all [cab](transport_type) companies and get a time booked for [three pm](time)
+- call a [taxi](transport_type) for me to arrive [tonight](timeofday) at [five](time)
+- arrange a [taxi](transport_type)
+- get me a [taxi](transport_type) to take me to the [airport](place_name) on [friday](date) at [five thirty am](time)
+- book me a [cab](transport_type) going to location
+- i need to get to location call a [cab](transport_type)
+- get me an [uber](transport_agency) please
+- lets get a [taxi](transport_type)
+- book a [cab](transport_type) in the [evening](timeofday) for me
+- book a [taxi](transport_type) for [tomorrow](date) [morning](timeofday)
+- request an [uber](transport_agency) now
+- book [uber](transport_agency) from my [home](place_name)
+- book me an [uber](transport_agency) please
+- can you book an [uber](transport_agency) after i left for office
+- i need a ride to the [airport](place_name)
+- book a [taxi](transport_type) to [airport](place_name) for me in the [evening](timeofday)
+
+## intent:transport_ticket
+- book a ticket for the [ethan allen express](transport_name) to [vermont](place_name)
+- find me a [train](transport_type) ticket next [monday](date) to [new york city](place_name)
+- i want to buy a [train](transport_type) ticket [tomorrow](date) for [boston](place_name) to [new york](place_name)
+- book a ride from [new york](place_name) to [orlando](place_name) covering [ten places to see](transport_descriptor)
+- book a ticket to [ny](place_name) by [train](transport_type)
+- i need to book a [train](transport_type) ticket to [la](place_name)
+- fetch me two [train](transport_type) tickets for the earliest [train](transport_type) to [paris](place_name)
+- transportation ticket booking [train](transport_type)
+- please purchase a [train](transport_type) ticket for this [weekend](time)
+- reserve a ticket to go to [destination](place_name) by [train](transport_type)
+- book a [train](transport_type) ticket from [baltimore maryland](place_name) to [new york new york](place_name)
+- book a [train](transport_type) ticket from [mumbai to goa](place_name)
+- i want a [train](transport_type) ticket from [los angeles](place_name) to [phoenix](place_name)
+- google can you book me a ticket on the [train](transport_type) for [tomorrow](date)
+- search for a [train](transport_type) ticket to [newcastle](place_name)
+- book [train](transport_type) ticket to [ny](place_name)
+- please book the [five pm](time) [train](transport_type) to [rockville](place_name)
+- get me a ticket to [boston](place_name)
+- can you book a [train](transport_type) ticket for my [mother](relation)
+- get me a [train](transport_type) ticket from [mumbai to goa](place_name)
+- please order one [train](transport_type) ticket to [los angeles](place_name)
+- i need to go to [lyon](place_name) book a [train](transport_type) ticket
+- order travel ticket
+
+## intent:transport_traffic
+- how is the traffic on [the i fifteen](place_name) in [las vegas](place_name) [today](date)
+- what is my eta to the office if i leave in [thirty minutes](time)
+- what about the [new york](place_name) city traffic
+- length of traffic
+- how is the traffic in [san francisco](place_name) over the [bay bridge](place_name)
+- how heavy is traffic now in [denver](place_name)
+- which place has more traffic
+- what is the current traffic in [washington town](place_name)
+- few traffic roads
+- traffic
+- what does i [seventy five](place_name) look like
+- are the streets congested right now
+- how was the traffic now
+- is there more traffic in [canal street](place_name)
+- in [jaipur](place_name) traffic level is high
+- are there any backups on [route eighty](place_name) [today](date)
+- is the road clear in [florida](place_name)
+- is there bad traffic on the [highway](place_name) right now
+- whats the traffic density in
+
+## intent:weather_query
+- what's the weather supposed to be like on [wednesday](date)
+- how is [this weeks](date) weather
+- will the [temperature](weather_descriptor) be in the [today](date)
+- what is the current weather in [denver](place_name)
+- how warm is it in [columbus ohio](place_name)
+- it is very [hot](weather_descriptor) [today](date) is not it
+- will i need an [umbrella](weather_descriptor) [today](date)
+- its [cold](weather_descriptor) outside
+- will I need a [raincoat](weather_descriptor) when I go to [glasgow](place_name) on [sunday](date)
+- how [cold](weather_descriptor) is it outside
+- will it [rain](weather_descriptor)
+- tell me weather forecast
+- can i go outing without any [raincoat](weather_descriptor)
+- give me the [weekly](date) weather near me
+- will i need [sunblock](weather_descriptor) [this weekend](date)
+- is it supposed to [rain](weather_descriptor) [tomorrow](date)
+- tell me the current weather for [danville il](place_name)
+- how is the weather of this place
+- how [hot](weather_descriptor) is it in [miami](place_name)
+- will it [snow](weather_descriptor) [next week](date)
+- am i gonna need [rain boots](weather_descriptor)
+- should i bring [warm clothes](weather_descriptor)
+- what is the weather this [friday](date)

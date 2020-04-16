@@ -1,0 +1,10288 @@
+## intent:alarm_query
+- what alarms do i have set right now
+- checkout [today](date) alarm of meeting
+- report alarm settings
+- see see for me the alarms that you have set [tomorrow](date) [morning](timeofday)
+- is there an alarm for [ten am](time)
+- confirm the alarm time
+- show my alarms
+- at what time have you set alarm for me
+- please list active alarms
+- please tell me about upcoming alarms
+- what alarms have i set for [tomorrow](date)
+- have i set any alarm for [today](date)
+- what alarms are upcoming
+- what alarms do you have set
+- show me all scheduled alarms
+- could you tell me about the alerts i have set
+- show me my alarms i have set
+- do i have any alarms for [tomorrow](date) [morning](timeofday)
+- what alarm do i have set for [today](date)
+- what alarms have been set for me
+- list all set alarms
+- please tell me my alarms
+- what is the [wake up](alarm_type) time for my alarm i have set for the flight [this weekend](date)
+- did i set an alarm to [wake up](alarm_type) in the [morning](timeofday)
+- what times do my alarms go off
+- are there any alarms for [today](date)
+- what time is my wakeup alarm set for
+- please read out all the alarms that are set
+- what time are my alarms set for
+- check if default alarm is set
+- how many alarms do i have set
+- are there any alarms currently set
+- confirm alarm for [tomorrow](date) [morning](timeofday)
+- do i have an alarm set for [morning](timeofday) [flight](event_name)
+- what's my next scheduled alarm
+- do i have any alarms set for [tomorrow](date)
+- please check alarms
+- what alarms do i have set
+- do i have an alarm set
+- show me the list of alarms
+- just to confirm you set the alarm to go off at [eight hundred](time)
+- did i set my [house alarm](alarm_type)
+- tell me my alarms
+- what are the next three alarms set to go off
+- check if alarm is set for [six am](time)
+- i need to set an alarm how many do i have set
+- is the alarm to the backdoor set and ready to go
+- what time do i have my alarm set for [tomorrow](date)
+- what's the description for the alarm at [eleven am](time)
+- are there any alarms set
+- are there any alarms set right now
+- are there any alarms
+- do i have alarms set for [today](date)
+- how many alarms are listed
+- remind me about my alarms [today](date)
+- list alarms
+- do i have alarms set [before six](time) in the [morning](timeofday)
+- how many alarms do i have
+- just see for me the alarms that you have set [today](date) [morning](timeofday)
+- what alarms are on right now
+- please tell about the alarms
+- review set alarms
+- is my work alarm set for [tomorrow](date)
+- what alarms are set
+- what time are my alarms
+- which alarms are set in the [phone](device_type)
+- is my alarm set for [tomorrow](date) [morning](timeofday)
+- check if any alarm is there after [five am](time)
+- what alarms do i have set for [thursday](date)
+- checkout [today](date) set alarm of [ten am](time)
+- is my school alarm set
+- what alarms do i have scheduled for [tomorrow](date)
+- tell me if my alarm is set for the [morning](timeofday)
+- do i have an alarm set for [tomorrow](date)
+- what alarms do i have
+- when was the last alarm set
+- [today](date) how many alarms do i have set
+- how many alarms do i have set for [morning](timeofday) hours between [six and nine am](time)
+- what is [tomorrow](date)'s alarm time set to
+- please let me know the [morning](timeofday) alarm time for [weekdays](date)
+- can you tell me about the alarm called bed
+- read me my alarms
+- is there any alarm after [five am](time)
+- what are my alarms
+- what days are my alarms set for
+- would like to know the alarm you sent
+- confirm i have set an alarm for [six am](time)
+- what alarms did i set
+- what alarms do i got
+- show me the alarms that are set
+- tell me about alarms
+- list all the alarms
+- checkout [today](date) third set alarm
+- how many alarms are currently set
+- are there any alarms set what are they
+- is my alarm set
+- all alarms
+- tell me what alarms are set for me
+- next alarm
+- when is the next alarm
+- show alarms
+- let me know about any alarms set [today](date)
+- confirm my alarm settings
+- give me the alarm times for the [next two days](time)
+- let me know the alarm time
+- is there any alarm active
+- what alarms are set in the [house](house_place)
+- do i have any alarms
+- have i set any alarms in the [morning](timeofday)
+- check if i have set any alarm for [morning](timeofday)
+- list all of my upcoming alarms
+- my alarms
+- do i have any alarms set for [six am](time) [tomorrow](date)
+- how many alarms are currently on my phone
+- any alarms currently listed
+- did i remember to set a reminder alarm for my next [doctor's appointment](event_name)
+- what time is set for my [wake up](alarm_type) alarm
+- what alarms are set for [this week](date)
+- what is on my alarm schedule
+- show me all of my active alarms
+- what alarms are currently set
+- review the alarms i have
+- what's the alarm situation for [tomorrow](date)
+- olly find any alarms i have set for [today](date)
+- i want to see all set alarms
+- do i have an alarm set for [today](date)
+- at what time is my alarm set
+- can you tell me if i have any alarms set
+- did I set an alarm [to have tablets](event_name) in the [noon](timeofday)
+- which alarms do i have
+- show me the alarms i set
+- what time is my alarm set for
+- is my [wake up](alarm_type) alarm set a [six am](time)
+- what home alarms have been set
+- please read me my alarms
+- what times are my alarms set for
+- when will my alarm go off in the [morning](timeofday)
+- do i have any alarms set for [today](date)
+- show me what alarm times i've set for the [week](time)
+- list current set alarms
+- are there any alarms going off [today](date)
+- what alarms do i all have set
+- show me the alarms i've set
+- my set alarms
+- what alarms will wake me up [tomorrow](date)
+- have i got any alarms set
+- what alarms i have set
+- tell me about the alarm timings
+- alarms
+- when does my alarm go off
+- would you please check to see if i've set my alarm for [tomorrow](date) [morning](timeofday)
+- alarm status
+- what time have you set the alarm
+- list my different alarm
+- what time i am waking up [tomorrow](date)
+- what alarms did i set [today](date)
+- what alarms are coming up
+- if there any alarm is set then let me know
+- review all alarms
+- is the alarm set for [tomorrow](date) [morning](timeofday)
+- what time is alarm set for
+- do i have alarms set
+- what time is my alarm set for [tomorrow](date) [morning](timeofday)
+- is my reminder alarm set for [dance class](event_name)
+- when is my alarm set for
+- what time will my alarm wake me up
+- how many alarms are set
+- how many alarms have i set
+- what time will my alarm go off [today](date)
+- please let me know the alarm kept for [tuesday](date)'s [meeting](event_name)
+- did you set the alarm for [five am](time)
+- let me know about the alarms you set
+- what alarms do i have set for [today](date)
+- what's my next alarm
+- let me see my alarms
+
+## intent:alarm_remove
+- delete alarm
+- remove the latest alarm
+- stop [wake up](alarm_type) calls for [this week](date)
+- remove the first alarm
+- remove my earliest alarm for [tomorrow](date)
+- kickball is over i do not need the alarm for kickball on [wednesday](date) [evening](timeofday) any longer
+- remove all alarms
+- take off my alarms
+- cancel my [seven am](time) alarm
+- disable all alarms set for [today](date)
+- olly cancel alarms
+- remove my [six am](time) alarm
+- snooze all [today](date)'s alarms permanently
+- remove my work alarm
+- [one pm](time) removed
+- olly cancel yoga alarms
+- do not wake me up on [weekends](time)
+- remove [wake up](alarm_type) calls for [this week](date)
+- cancel my alarm for [tomorrow](date) [morning](timeofday)
+- reset the alarm
+- remove [tomorrow](date)'s alarm
+- set the alarm off
+- remove my [four am](time) alarm
+- cancel my [eight am](time) alarm
+- delete the [meeting](event_name) alarm at [two pm](time) on [tuesday](date)
+- please remove this alarm
+- remove [six am](time) alarm of [whole week](time) for future
+- [twelve am](time) removed
+- delete my [six am](time) alarm
+- i need to delete the alarm for church on [sundays](date) at [eleven am](time)
+- cancel my [three pm](time) alarm
+- please remove the alarm which i set for [today](date) [morning](timeofday)
+- cancel alarm for [tomorrow](date)
+- remove number three alarm of list
+- cancel [wake up](alarm_type) calls for [this week](date)
+- please remove the the alarm which i set
+- Get rid of my current alarms
+- please remove the alarm that is set for [weekdays](date) at [nine](time)
+- disable the alarm at [ten am](time)
+- remove [tuesday](date) alarm of [nine am](time)
+- get rid of my [eight am](time) alarm
+- clear my [nine am](time) alarms
+- remove alarm of [six am](time) on [tuesday](date)
+- turn off all of my alarms
+- get rid of my [wake up](alarm_type) alarm set for [saturday](date)
+- disable alarm for [three pm](time)
+- remove set alarm
+- remove the alarm set for [ten pm](time)
+- remove all alarm of [sunday](date)
+- do not wake me up [tomorrow](date)
+- please remove the alarm set for [wednesday](date) called [kickball](event_name)
+- turn off my alarms
+- forget alarm
+- set off this alarm
+- turn off my alarm
+- cancel all alarms
+- remove all alarms set [today](date)
+- [two am](time) removed
+- take away my alarm for [tomorrow](date) at [four thirty am](time)
+- turn off any [morning](timeofday) alarms [after Friday](date)
+- please remove any alarms that i have set
+- remove my [wake up](alarm_type) alarm
+- change my alarm
+- turn off [eight am](time) alarm
+- please turn off my alarm for [this evening](timeofday)
+- turn off the alarm for [tomorrow](date) [morning](timeofday)
+- change the alarm weekly settings
+- remove my early alarms
+- please remove my alarm
+- turn off the [six am](time) alarm for [Wednesday](date)
+- get rid of the [five pm](time) alarm
+- disable the first alarm
+- i would like this alarm permanently removed
+- remove all alarms if any
+- i no longer need the daily [five pm](time) alarm
+- remove the alarm set for [four hundred am](time)
+- stop [seven am](time) alarm
+- disable my [three pm](time) alarm
+- remove my bedtime alarm
+- turn off all alarms
+- remove alarms set for [tomorrow](date)
+- olly cancel all [soccer practice](alarm_type) alarms
+- remove my [eight pm](time) alarm and set it to [seven pm](time)
+- remove alarm if any
+- cancel the alarm that is set for [tomorrow](date) at [eight am](time)
+- delete the first alarm
+- remove alarm
+- unset all alarm which is set
+- remove alarm of [seven thirty am](time) on [monday](date)
+- can you please remove the alarm
+- cancel alarm for [tenth of march two thousand seventeen](date)
+- this alarm needs to be permanently silenced
+- remove the alarm for [tomorrow](date)
+- i dont want any alarms
+- delete my [eight pm](time) alarm
+- remove [finlee](person)'s bedtime alarm
+- reset alarm
+- remove the alarm
+- will you turn the alarm off for me
+- remove my [morning](timeofday) alarm
+- delete my alarm for [eight am](time)
+- remove my alarm for [tomorrow](date) [morning](timeofday)
+- remove [seven am](time) alarm
+- cancel the alarm at [four am](time) [ten pm](time)
+- turn off the alarm
+- snooze
+
+## intent:alarm_set
+- Set a alarm for the day
+- set an alarm for [tomorrow](date) at [six](time) in the [morning](timeofday)
+- put an alarm and wake me up at [six am](time) [tomorrow](date) [morning](timeofday)
+- set alarm at [five am](time)
+- update alarm
+- set new alarm on [five am](time)
+- please set alarm for
+- please arrange to wake me up at [three am](time) alarm
+- set the alarm for [tomorrow](date) [five am](time)
+- set an alarm for me at [eight am](time)
+- set alarm [tomorrow](date) at [six am](time)
+- set an alarm [forty minutes from now](time)
+- set an alarm for me for [tomorrow](date) at [seven pm](time)
+- set an alarm for [two pm](time)
+- set an alarm for [five minutes from now](time)
+- set alarm for [tomorrow](date) [morning](timeofday) at [six am](time)
+- i want an alarm for [three](time) [today](date)
+- set alarm at [nine am](time) on [next sunday](date)
+- set alarm for [eight am](time)
+- set a [continuous alarm](alarm_type) without the option to snooze for [seven am](time) please
+- make an alarm for the [meeting](event_name) with [bob](person) at [seven](time) [today](date)
+- please set an alarm for [tomorrows](date) [meeting](event_name) at [seven am](time)
+- set an alarm for [eight pm](time)
+- set my calendar for an alarm at [five pm](time) [tuesday](date)
+- turn my [morning](timeofday) alarm on
+- tell me when it is [five pm](time)
+- [two pm](time) set
+- set alarm for [six am](time) [tomorrow](date)
+- set up an alarm clock at [one pm](time)
+- i need to get up at [seven am](time)
+- i need to get going at [eight am](time) [tomorrow](date) set up an alarm [thirty minutes before that](time)
+- let me know when it is [ten](time)
+- create an alarm for [five pm](time)
+- set the alarm for [five am](time)
+- set alarm of every [tuesday](date) of [march](date) month [morning](timeofday) [eight am](time)
+- repeat alarm
+- please set the alarm for [seven](time)
+- wake me up at [six am](time)
+- set a new alarm for that time
+- ensure i have to get up at [six](time) in [morning](timeofday)
+- set alarm for [one hour from now](time)
+- schedule an alarm for [next weeks](date) [dentist appointment](event_name)
+- alarm for [ten am](time)
+- please we're the following alarm
+- set an alarm for [one pm](time)
+- set an alarm for the [dance classes](event_name) [two hours](time) before the classes start
+- set my alarm for [twelve pm](time)
+- wake me up at [five am](time)
+- set the alarm tone
+- olly set my alarm to go off in [an hour](time)
+- send me a [wake up](alarm_type) alert at [seven am](time) [tomorrow](date) [morning](timeofday)
+- please wake me up at [eight am](time)
+- make an alarm for [four pm](time)
+- wake me up at [four am](time)
+- fix an alarm
+- set an alarm for [seven am](time)
+- set alarm for this event reminder [repeating for ten times](event_name)
+- set an alert for [two pm](time)
+- i need to get up at [ten](time) [tomorrow](date)
+- get me up at [eight am](time)
+- set alarm for [tomorrow](date) at [two pm](time)
+- wake me up at [six thirty](time)
+- please set my alarm clock for [eight am](time)
+- set an alarm for next [tuesdays](date) [meeting](event_name)
+- set alarm at [ten am](time)
+- please create a new alarm
+- alert me at [three pm](time) to goto the [concert](event_name)
+- make a new alarm
+- please set a reminder alarm for [three pm](time) on [Saturday](date)
+- open clock
+- set alarm for [tomorrow](date) [six am](time)
+- set my alarm for [tuesday](date) at [six pm](time)
+- alert me at [five](time) hours
+- [one am](time) set
+- set alarm to begin
+- set the alarm for [nine am](time) on [weekends](time)
+- add an alarm for [tomorrow](date) [morning](timeofday) at [six am](time)
+- please set an alarm at [six am](time)
+- set an alarm for [tomorrow](date) [morning](timeofday) at [eight](time)
+- ring the alarm when i get home
+- set my alarm for time
+- set an alarm for [ten](time) o'clock [tomorrow](date) [morning](timeofday)
+- alarm set
+- i want an alarm for [six am](time) [everyday](date)
+- add a [five am](time) alarm in place of my [nine pm](time) alarm
+- remind me at [one thousand three hundred](time)
+- alarm
+- make an alarm
+- please set alarm for [all days](date)
+- wake me up at [seven am](time)
+- is my alarm set for [seven am](time)
+- can you set an alarm for me
+- create event with alarm for [meeting](event_name) in [two hours](time)
+- set my alarm for [six am](time) [tomorrow](date)
+- please set an alarm for [seven hundred and thirty am](time) [tomorrow](date)
+- wake me up in [thirty minutes](time)
+- schedule an alarm to wake me up [after three hours](time)
+- set an alarm
+- make an alarm for me at [five am](time) [tomorrow](date)
+- set alarm for [twelve weeks from today](time) at [eight am](time)
+- wake me up at time
+- set wake up [Thursday](date) [seven am](time)
+- please set my alarm for [five pm](time)
+- get me up in [half an hour](time)
+- wake me up at this time
+- wake me up at [ten](time)
+- set an alarm for [five hundred and thirty](time)
+- put alarm at [five am](time)
+- wake me up on [Friday](date) at [five](time) in the [morning](timeofday) i need to catch the [train](event_name)
+- set an alarm for [seven thirty am](time)
+- please ring the [wake up](alarm_type) alarm at [eight am](time) next [saturday](date)
+- create an alarm for [six am](time)
+- i need an alarm set for [five hundred and thirty am](time) [tomorrow](date)
+- set a repeating reminder alarm for the [facebook](media_type) event i have to attend on [seventh april](date)
+- set alarm on [twenty fifth](date) [may](date) at [five pm](time)
+- please wake me up at [seven thirty am](time)
+- set an alarm for [eight am](time)
+- alarm [five pm](time) [tuesday](date)
+- wake me up at [five thirty](time)
+- set my alarm for [eight am](time)
+- set my alarm for [six thirty](time) in the [morning](timeofday) [tomorrow](date)
+- set the time
+- i need an alarm
+- wake me up
+- i need a [six am](time) wakeup call
+- wake me up at [five am](time) [this week](date)
+- set alarm for [saturday](date) [morning](timeofday) [soccer practice](event_name) at [eight am](time)
+- please set the alarm for [next morning](timeofday) to [seven am](time)
+- can you set my alarm for [seven thirty am](time)
+- set alarm at [two am](time)
+- please set the alarm for [eight pm](time) [wednesday](date) [evening](timeofday)
+- could you please set an alarm at [six am](time)
+- set an alarm for [four](time) in the [afternoon](timeofday)
+- set a reminder i need to wake up at [five am](time) [every morning](general_frequency)
+- please set an alarm at [seven am](time) [tomorrow](date) [morning](timeofday)
+- create an alarm for [today](date) at [ten am](time)
+- i need you to set an alarm
+- make an alarm to help me remember
+- set an alarm for [two hours from now](time)
+- set alarm for [nine am](time)
+- set an alarm at [six](time) in the [morning](timeofday)
+- make an alarm for the [morning](timeofday)
+- set an alarm for [two hours from now](time) please
+- set an alarm at [six am](time)
+- place alarm at [five](time) o'clock [morning](timeofday)
+- wake me up at [five hundred and thirty](time)
+- i want to wake up at [six am](time) [tomorrow](date) please
+- call me at [six am](time)
+- set an alarm for [one hour](time) from now
+- new alarm for [six am](time)
+- i need a reminder alarm at [one](time)
+- please set alarm at [five pm](time)
+- set an [eight hundred am](time) alarm for next [tuesday](date)
+- set alarm for reminder
+- make an alarm for [three pm](time)
+- the set alarm for [nine pm](time) on [Thursday](date) [night](timeofday)
+- set an alarm for [five am](time)
+- confirm that the alarm is set for [tomorrow](date)
+- please make me wake up at [four am](time) [tomorrow](date)
+- remind me at [five pm](time)
+- turn on alarm [thirty minutes](time) before [liverpool started to play](event_name)
+- set a wake up call for [ten am](time)
+- set an alarm for [thursday](date) at [seven pm](time)
+- please set alarm to my mobile phones
+- alarm me at [eight am](time)
+- wake me at [seven am](time)
+- set an alarm at [ten](time) [tomorrow](date) to remind me a [meeting](event_name)
+- set an alarm at [six am](time) [tomorrow](date)
+- i need an alarm for [sunday](date) at [eight am](time) can you please set one for me
+- turn on my alarm
+- remind me at [six thirty pm](time)
+- add alarm
+- can you set the alarm for [one hundred and thirty](time)
+- alarm time for [twelve pm](time)
+- wake me at [daybreak](time)
+
+## intent:audio_volume_down
+- decrease the volume
+- lower volume [to half](change_amount)
+- decrease the volume [to ten percent](change_amount)
+- could you please lower your volume
+- turn down the speakers
+- please slow down volume of speaker
+- start the [radio](device_type) now on low volume
+- set the volume [to low](change_amount)
+- lessen the speaker volume
+- please speak quieter to me
+- can you turn that down
+- please reduce the sound
+- slow the volume speaker
+- you're too loud
+- talk quieter please
+- down the volume
+- quieter
+- no no turn it down
+- please change the volume low of the speakers
+- lower volume of [music player](device_type)
+- please turn the volume down
+- lower volume
+- decrease [twenty percent](change_amount)
+- it's really loud can you please turn the music down
+- decrease the volume [to ten](change_amount)
+- turn down the sound
+- down
+- please lower music volume
+- turn down the volume
+- please lower the speaker volume
+- decrease speaker volume
+- i want to slow down my speaker
+- turn down volume [twenty percent](change_amount)
+- too loud
+- turn_down speakers
+- your volume is too high please repeat that lower
+- speak quieter
+- speak softer please
+- I need the volume to be quieter
+- lower the volume [ten percent](change_amount)
+- make the volume lower
+- slow down the speaker volume
+- lower audio
+- cut down the volume
+- decrease volume to very soft
+- low the volume
+- lower speaker volume
+- turn off the bass from the audio
+- Please lower the volume
+- turn speaker volume down
+- please adjust the speakers to a lower more comfortable level
+- lower the volume on the speakers
+- please turn down the volume
+- turn the volume down
+- turn the volume down a little please
+- decrease volume
+- lower the speakers
+- lower the volume of the speakers
+- lower your volume please
+- turn down media volume
+- lower the volume
+- please decrease the volume of [music player](device_type)
+- turn the speakers down [to five percent](change_amount)
+- lower the volume please
+- can you make it a little quieter
+- lower all volume on speakers please
+- volume down
+- please reduce the speaker volume
+- can you speak quieter please
+- turn the music lower
+- speaker volume decrease
+- softer
+
+## intent:audio_volume_mute
+- don't talk
+- go silent [until three pm](time)
+- please do not talk for [thirty minutes](time)
+- Silence speakers
+- please be quiet
+- silently adjust
+- turn off audio
+- turn off sound
+- set to mute
+- keep quiet
+- please stop for a bit
+- Please pause the song
+- off the speakers
+- be silent for [thirty minutes](time)
+- can you place the sound on mute
+- stop making sounds for [forty minutes](time)
+- can you please stop speaking
+- mute volume
+- please do not answer
+- please be silent until i tell you not to be
+- i want to mute the speaker
+- silent mode
+- mute yourself when i am in a [meeting](event_name)
+- please pause yourself
+- please keep quiet for the [next hour](time)
+- mute the [living room speakers](device_type)
+- down the speaker volume at the end of level
+- set the speakers to mute
+- please mute the volume control
+- turn on silent mode until my alarm goes off
+- pause the music
+- silent
+- go silent for [a day](time)
+- mute for volume
+- set mute mode for [one hour](time)
+- can you mute when i am not home
+- mute please
+- please be quiet for [another hour](time)
+- set to silent for [five minutes](time)
+- silence please
+- stop playing
+- mute the audio
+- mute the settings
+- mute the volume
+- please quiet the speaker
+- silence for [two hours](time)
+- please stop talking
+- mute for [two hours](time)
+- activate silent
+- mute for [fifteen minutes](time)
+- silence
+- do not speak [today](date)
+- turn off the sounds
+- mute the speaker please
+- enter silence mode
+- help me to mute my speaker
+- can you mute my speaker
+- google please be extra quiet the baby is sleeping
+- mute enabled until i say so
+- Shut down the sound
+- please hold for the [next hour](time)
+- disable [music player](device_type)
+- mute the sound
+- set the settings to mute
+- quiet mode on until i am home from work
+- turn the vibrate off from speaker
+- please mute the speakers
+- mute sound on speakers please
+- don't speak for [an hour](time)
+- set [music system](device_type) to mute
+- stay quiet
+- set volume [to zero](change_amount)
+- please mute my speaker
+- speakers off
+- please do not speak
+- quiet on
+- no speaking please
+- i would like to mute the speakers please
+- please mute the sound
+- please shut off
+- from now on mute
+- please unmute yourself
+- mute speakers
+- i dont want sound
+- will you please mute my speakers
+- mute speakers please
+- mute sound
+- quiet
+- sound off
+- silence for certain amount of hours
+- please you don't speak in [eight to ten pm](time)
+- mute
+- turn the sound off
+- mute immediately
+- mute all responses now
+- be mute
+- shut up
+- don't make any sounds
+- turn sound off
+- silent mode on for the [next three hours](time)
+- cut off noise
+- touch the mute button
+- get yourself muted
+- set mute until said otherwise
+- be quiet
+- mute yourself [until five pm](time)
+- don't speak for a while
+- i've got a meeting by [tonight](timeofday) [seven pm](time) please mute the music for [an hour](time)
+- quiet mode [four hours](time)
+- turn down the noise
+- please change the volume to mute
+- mute for the [next hour](time) please
+- please mute yourself
+- make the volume [to zero](change_amount)
+- hey olly mute the speakers
+- mute the speakers
+- goodnight
+- it's quiet time
+- turn off speaker
+- mute yourself until i say otherwise
+- mute audio
+- don't talk until i ask you to
+- please be quiet for the next [two hours](time)
+- mute volume now
+- don't respond for [fifty seconds](time)
+- turn off the speakers
+- do not talk
+- quiet time
+- mute for [one hour](time)
+- please be silent
+- please do not respond
+- volume control
+- can you set [radio](device_type) to mute
+- please mute the [television](device_type) for [one hour](time)
+- can you please be muted for a while
+- i'm in a [meeting](event_name) please do not speak
+- turn the volume off
+- sound off please
+- i want you to mute
+- do not make any noise until [morning](timeofday) alarm
+- mute for [twenty minutes](time)
+- stop the audio
+
+## intent:audio_volume_up
+- turn up [radio](device_type) volume
+- i can't hear you speak up
+- Speak louder please
+- increase the volume please
+- please increase the volume of the current song
+- adjust media volume up
+- bring back talking after
+- unmute my sound
+- please increase volume in [music player](device_type)
+- raise the volume of the speakers [to fifty five percent](change_amount)
+- Hey turn the volume high
+- hello beef up the volume a little bit
+- can you speak a little louder
+- please raise the volume of speaker
+- louder
+- i cant hear a thing
+- set the volume higher
+- i need you to have the volume louder
+- turn up the volume of my speakers
+- volume up
+- please unmute the settings
+- audio up
+- the volume of the music playing now should be raised
+- raise the volume of the speakers
+- turn my audio higher
+- can you increase the volume of the speakers
+- raise the volume [to fifty](change_amount)
+- Volume louder softer
+- turn up the sound
+- i need to hear the volume of the current music
+- please increase the volume
+- please turn the music up
+- could you please yell the answer out to me
+- please speak loud
+- on the [music player](device_type) set the volume level at [sixty](change_amount)
+- raise speaker volume
+- raise the volume of the current music
+- turn up volume of music
+- raise your volume
+- can you turn up the volume on itunes
+- louder volume please
+- volume louder please
+- turn up media volume
+- could you speak up
+- increase the volume of the speaker
+- make the speaker volume on [maximum](change_amount)
+- i need to hear sound on my speakers
+- up the volume the sound is too low
+- audio on
+- speak louder
+- i can't hear you
+- turn up your volume
+- turn up the volume
+- please increase the volume [to maximum](change_amount)
+- lower my [music player](device_type) volume [by fifty percent](change_amount) of its current level
+- please turn my speakers on google
+- turn up the volume on my speakers
+- increase the volume
+- please turn the volume to the [loudest](change_amount) setting
+- set the music volume [to ninety](change_amount)
+- i need a high volume
+- make sound louder
+- up
+- turn the volume up
+- i can barely hear you
+- made media volume louder
+- increase the volume [to max](change_amount) please
+- please decrease the volume of this song
+- speak louder please
+- please turn the music volume up
+- i can't hear you can you say it again louder
+- i can't hear just increase the volume
+- please turn up the volume [to twenty one](change_amount)
+- increase volume [by two levels](change_amount)
+- speaker volume increase
+- the music volume should increase [to ninety](change_amount)
+- turn the volume up on [music player](device_type)
+- can you turn up the volume
+- raise volume
+- hey sound is low can you tune it up
+- turn up speakers
+- increase the volume [to seventy percent](change_amount)
+- i need the volume to be louder
+- increase the volume of the music [to ninety](change_amount)
+- unmute the speaker now
+- please increase volume
+- could you speak [more softly](change_amount)
+- i want volume on my speakers
+- raise the volume [to sixty](change_amount)
+- unmute
+- increase the volume so that i can hear it in other room
+- loudly
+- turn up [music](media_type) please
+- please turn up the speaker volume
+- more volume please
+- change my [music player](device_type) volume [to eighty percent](change_amount)
+- i couldn't hear you repeat that louder
+- turn up volume
+- turn up the volume on the music
+- increase the volume a bit
+- move the volume up a little
+- can you turn the volume up
+- speak loudly
+- turn volume up to highest level
+- please turn up the volume
+- play it louder
+- change the volume level [to nineteen](change_amount) please
+- turn the sound up
+- i am unable to hear you can you speak little loud
+- turn up
+- turn up the speakers
+- change the speaker volume [to sixty five percent](change_amount)
+- can you turn up your volume
+- increase volume
+- please speak up
+- get louder
+- increase the volume [to fifty](change_amount)
+- increase volume [by one](change_amount)
+- unmute after
+- could you speak louder
+- increase the volume of the [left speaker](device_type) [by ten](change_amount)
+- can you turn it up a little
+- can you speak louder
+- louder please
+- turn up sound
+- i need you to say that last information again but much louder
+
+## intent:calendar_query
+- how the list of upcoming events
+- do i have a [dentist appointment](event_name) on [monday morning](date)
+- do i have a [meeting](event_name) on [saturday](date) [march twenty fifth](date)
+- is my calendar free for [Thursday](date)
+- what important dates are there in my calendar [this month](date)
+- tell me about the [meetings](event_name) over a period of time
+- time time is the [holiday party](event_name) at the office
+- [today](date)'s schedule
+- what have i got going on [between three and four pm](time) today
+- hows many more reminders are left
+- is the [birthday](event_name) event on [fifteenth of this month](date) true
+- tell me what is on my schedule for [today](date)
+- do i have anything planned for the [twenty first](date)
+- is my schedule full for [tomorrow](date) from [eight am to two pm](time)
+- what [meetings](event_name) do i have between [eight ten](time) [today](date)
+- need information about events [before shift ends](time)
+- is there any pending reminder for me
+- when and where is [june](person)'s [birthday party](event_name)
+- what am i up to this [weekend](time)
+- [meeting](event_name) [july](date) calendar
+- what day is the [meeting](event_name) on
+- which day [this week](date) do i have plans
+- is calendar event true
+- is there any events planned for the [next three months](time)
+- tell me what is on my calendar for [tomorrow](date)
+- where is the event [today](date)
+- list out my [meetings](event_name) [today](date)
+- search schedules for [this week](date)
+- any upcoming events
+- do i have any off days [this week](date)
+- [rahul](person) [marriage](event_name) reminder
+- when is the next [office meeting](event_name)
+- is there any event [today](date) in my calendar
+- where am i supposed to be by this time [tomorrow](date)
+- what events are [this week](date)
+- i needed to prepare for a [meeting](event_name)
+- when is my [doctor's appointment](event_name)
+- events happening between [eight am](time) and [five pm](time) [today](date)
+- what is my next reminder
+- how soon is my [anniversary](event_name)
+- what [meetings](event_name) are available in [march](date)
+- what is on the agenda for the [four pm](time) meeting with [joe](person)
+- tell me what is on the schedule for [july seventh](date)
+- was my [meeting](event_name) [today](date) rescheduled
+- where is [tuesday](date)'s [morning](timeofday) [meeting](event_name)
+- my events
+- what's my next [appointment](event_name)
+- whats going on in my calendar
+- what else is on the list
+- what time does the [dinner party](event_name) start [tonight](timeofday)
+- do i have a [sales meeting](event_name) [today](date)
+- please tell me when's my [financial meeting](event_name)
+- confirm that my notification is set to remind me when i leave
+- open my calendar
+- when will the [match](event_name) start
+- do i have a [meeting](event_name) [today](date)
+- shall we meet for [today](date)'s [party](event_name)
+- let's go through all pending reminders
+- is it true that [susan](person)'s [birthday](event_name) is on [march first](date)
+- where is my [meeting](event_name) at [nine am](time)
+- what events are scheduled [this week](date)
+- [march one](date) is [susan](person)'s [birthday](event_name) right
+- what on my calendar
+- is this program is scheduled
+- tell me when the [hockey game](event_name) tickets are for
+- tell me about my [upcoming week](time)
+- latest events
+- when is [bank holiday](event_name)
+- what day is this event scheduled for
+- give me the reminders
+- show me my calendar event [this Friday](date) [afternoon](timeofday)
+- is there a chili cookoff [this weekend](date)
+- what events are scheduled for me to do [today](date)
+- what are the pending reminder for [today](date) [evening](timeofday)
+- do i have a [doctors appointment](event_name) [today](date)
+- is [jimmie](person)'s [party](event_name) on [friday](date) cancelled
+- what do i have scheduled on [july seventh](date)
+- am i busy on [Wednesday](date) [evening](timeofday)
+- what events do i have scheduled [today](date)
+- what is on the agenda for [today](date)
+- when the [meeting](event_name) start
+- on my calendar are there any [birthdays](event_name)
+- am i free on [sunday](date) day
+- do i have any [get togethers](event_name) [this week](date)
+- please tell me the main points of my [two hundred](time) [meeting](event_name) from [this afternoon](timeofday)
+- can you tell me the next scheduled event
+- anything interesting happening next [friday](date)
+- how many calories did i burn between [three and five](time) [today](date)
+- can you tell me what's on the schedule for [tomorrow](date)
+- do i have any thing going on at [five](time)
+- what's coming up [this week](date)
+- do the knicks have a game at [home](place_name) [tonight](timeofday)
+- do i have free time next [tuesday](date) to schedule a [meeting](event_name)
+- how many things do i have planned [tonight](timeofday)
+- hey please provide information about events [by the end of the day](time)
+- let me know about upcoming events
+- do i have anything scheduled in my events
+- please check my reminders
+- what time do i have a [doctors appointment](event_name) on [the twenty second](date)
+- what are the upcoming reminders
+- what time am i supposed to pick up [john](person) again
+- what time is the [evening meeting](event_name) i have with [john](person)
+- show me [future](time) events
+- list all the events in my [march](date) calendar
+- did you add [tomorrow](date)'s [meeting](event_name) to my calendar
+- when is the [doctor's appointment](event_name)
+- which is the next event coming up
+- what is scheduled on my calendar [today](date)
+- is the [thanks giving](event_name) event on [fourteenth of this month](date) true
+- please check my coming up events
+- do i have any [meetings](event_name) on [friday](date)'s [afternoon](timeofday)
+- do i have any events scheduled [today](date)
+- is there any program for [tomorrow](date) [evening](timeofday)
+- notify me about the [meetings](event_name) over a period of some days
+- open events [this week](date)
+- do i have any calendar events [this month](date)
+- what are my reminders for [this week](date)
+- do i have any [appointments](event_name) scheduled for [march twenty four two thousand and seventeen](date)
+- can you tell me about my [meetings](event_name) [next week](date)
+- is the [anniversary](event_name) event on [twenty second of this month](date) true
+- what events are going to happen in my [city](place_name) between [two](time) [four pm](time) [today](date)
+- is the [balloon festival](event_name) [this weekend](date)
+- who is scheduled for [tomorrow](date)'s [meeting](event_name)
+- what is next in my calendar
+- does my calendar say i'm free on [april one two thousand and seventeen](date)
+- from [four](time) to [six](time) when do i have a [free break](event_name)
+- are there any [meetings](event_name) set for next [wednesday](date)
+- what is my schedule for [tomorrow](date) [morning](timeofday)
+- is [mary](person)'s [birthday party](event_name) [tonight](timeofday)
+- tell me what's happening [this week](date)
+- do i have a busy day [today](date)
+- what are [meeting](event_name) scheduled for [today](date)
+- what is my next event
+- what time is the [party](event_name) [tonight](timeofday)
+- am i on [vacation](event_name) [this week](date)
+- what [meetings](event_name) do i have next [thursday](date)
+- what's going on [between three hundred and thirty and four](time)
+- do i have any [appointments](event_name) coming up
+- what is my [afternoon](timeofday) schedule [tomorrow](date)
+- am i free between [six to seven pm](time)
+- do i have a [party](event_name) [tomorrow](date) save on my calendar
+- when [monet's exhibition](event_name) takes place
+- do i have [meeting](event_name) with [steve](person) [this week](date)
+- what time do i work [tomorrow](date)
+- when is [dale](person)'s [birthday](date)
+- give me [today](date)'s calendar events [after six pm](time)
+- can you check the facts on this issue
+- what's my next events
+- what date is my [anniversary](event_name)
+- show me my events
+- is there [valet service](relation) at the event
+- show me my meetings [this Friday](date)
+- what's on my schedule [this week](date)
+- are there any events schedule for [this week](date)
+- show me my reminders
+- My weekly plan
+- show up the events for me [today](date)
+- what are my plans for [today](date)
+- pawel prepare the [meeting](event_name) with [john](person)
+- when is my next [appointment](event_name) with [dr smith](person)
+- within the [past three months](time) how many [meetings](event_name) did i have with [mr richards](person)
+- [meetings](event_name) from [twenty to twenty five june](time)
+- whats my schedule [today](date)
+- show [todays](date) reminders
+- make a list of all the [halloween](event_name) events going around in [new york](place_name)
+- what is happening [this weekend](date)
+- [first week of march](time) [meetings](event_name)
+- are there any events on my calendar for [this week](date)
+- please tell me what day this event reminder is set for
+- please show [today](date) meting with [clients](relation)
+- do i have any pending reminder
+- can you pull up the latest time so i won't be late for my [appointment](event_name)
+- what do i have next to do
+- do i have a date for [tonight](timeofday)
+- tell me if there are any events from [three to five](time)
+
+## intent:calendar_remove
+- remove [standup](event_name) on [Friday](date) at [ten am](time)
+- update the calendar with the [last event removed](event_name)
+- delete an last event reminder of [twenty ninth of march twenty seventeen](date)
+- take away all events
+- erase next calendar event
+- clear my schedule for [today](date)
+- cancel everything on my calendar
+- cancel my [meeting](event_name) [tomorrow](date)
+- hey olly make sure my calendar is completely clear [tomorrow](date)
+- can you delete the [doctors appointment](event_name) i had [Tuesday](date)
+- i wish this event to be removed from my calendar
+- remove my [dinner](meal_type) event for [monday](date)
+- delete all my calendar events
+- remove all my engagements from calendar for [tomorrow](date)
+- please clear [jeff](person)'s [birthday](event_name) from the calendar
+- can you please disregard the [party](event_name) that i will be going to [this weekend](date) on my calendar
+- clear all events on my calendar
+- please clear my calendar for [tomorrow](date)
+- i need everything deleted from calendar please
+- remove next [meeting](event_name) [today](date) in my calendar
+- cancel the [breakfast](meal_type) at [tiffany's house](place_name)
+- remove the [fundraiser for dolphines](event_name) in [april](date)
+- please clear out my calendar completely
+- delete [meeting](event_name)
+- can you take off the next event on my calendar
+- remove the [doctor's appointment](event_name) i added to my calendar for [february twelfth](date) at [nine am](time)
+- hey olly on the [twentieth](date) clear my calendar
+- cancel my event on [june nineteenth](date)
+- remove all upcoming events please
+- clean my calendar
+- remove all events from my calendar
+- hi olly please cancel all the programs for [friday](date)
+- i don't want to attend the [dinner](meal_type) on [march first](date) any more so could you remove it from my agenda
+- please delete [all meetings](event_name) of [today](date) [after seven pm](time)
+- cancel [business meeting](event_name) on [wednesday](date)
+- delete [appointment](event_name) at time
+- delete my [dentist appointment](event_name)
+- erase my next calendar event
+- i want you to remove this event
+- remove [today](date)'s [meeting](event_name) at [evening](timeofday)
+- delete all my [appointments](event_name) for [today](date)
+- clear all events for [this month](date)
+- cancel all my [appointments](event_name)
+- remove calendar events for [this week](date)
+- remove sample [meeting](event_name) from [calendar app](app_name)
+- whatever the next event is in the calendar delete it
+- get rid of everything on my calendar
+- please delete this calendar event
+- hi olly please remove the [birthday](event_name) event on [coming sunday](date)
+- remove all the reminders from the calendar
+- remove all the events and schedules
+- erase that from my calendar
+- delete my next scheduled event please
+- cancel [tomorrow](date)'s [meeting](event_name)
+- can you delete all events from my calendar
+- delete event for [tuesday](date)
+- clear my day on the [twenty ninth](date)
+- delete [lunch](meal_type) [tomorrow](date)
+- clear everything from the calendar
+- delete the events from the calendar on [twenty eighth march](date)
+- remove the event from [monday](date)
+- take off the [doctor's appointment](event_name) on [march twentieth](date)
+- cancel [meeting](event_name) at [three](time)
+- delete all [recurring](general_frequency) [staff meetings](event_name)
+- remove all the events of [last month](date) from the calendar
+- i'm not doing thing [this week](date)
+- delete all events for the [next five days](date)
+- delete all the events of [today](date)
+- delete that
+- can you delete the [dentist appointment](event_name)
+- please remove my next event
+- delete my [meeting](event_name) for [one pm](time) on [march nineteenth](date)
+- i need to cancel my [rsvp for dinner](event_name) this evening can you remove it on my calendar as well
+- remove all the events in my calendar
+- can you deleted the current event
+- event remove
+- please delete next [meeting](event_name) with [rajesh](person)
+- remove meeting for [wednesday](date) [morning](timeofday)
+- dismiss my next event
+- give some of delete in [today](date) events
+- remove my [car payment](event_name) on the [fifteenth](date) from my calendar
+- delete the next event in the calendar
+- cancel all [meetings](event_name) for [today](date)
+- clear all events from [march seven](date)
+- remove my calendar event at [one pm](time) [today](date)
+- please remove the [appointment](event_name) which i have made with [mrjim](person)
+- can you remove that on my calendar
+- please delete my [lunch](meal_type) date from the [march twenty third](date) schedule
+- list all events and delete
+- delete all details in event
+- take out event from calendar
+- delete my calendar
+- change the plan of [meeting](event_name)
+- delete all [appointments](event_name) for [tomorrow](date)
+- erase my [appointment](event_name) for [march seven](date)
+- remove [birthday party](event_name)
+- find my next event and delete it please
+- cancel my [birthday party](event_name)
+- please delete all my calendar events
+- clear off the [vet appointment](event_name) [tomorrow](date)
+- delete an first event of [twenty third of march twenty seventeen](date)
+- delete my [dinner](meal_type) [tomorrow](date)
+- clean my entire calendar
+- erase all events
+- please delete all calendar events
+- erase my whole calendar
+- remove [john](person)'s [birthday](event_name) from the calendar
+- clear up my calendar
+- clear everything off my calendar for the [rest of the year](date)
+- can you take out [dentist appointment](event_name) from my calendar
+- please remove this event from my calendar
+- can you delete the not so important events
+- erase my next event
+- clear my calendar for [saturday](date)
+- is there a way to clear my calendar
+- cancel all my [appointments](event_name) after [three pm](time) [today](date) and inform me the details
+- erase events
+- what do i have to do [today](date)
+- get rid of the first three events in my calendar
+- please delete the [meeting](event_name) i have with [john](person) [tonight](timeofday)
+- rm rf calendar
+- delete everything on my calendar for [the next two weeks](time)
+- please remove the [doctor appointment](event_name) in my calendar for [february twelfth](date) at [nine am](time)
+- delete my [meeting](event_name) for [tomorrow](date)
+- remove [father's day](event_name) from calendar
+- please cancel my [next hair cut](event_name)
+- please empty my calendar
+- remove events from calendar
+- delete all meetings for [tomorrow](date)
+- erase my [appointment](event_name) with [ted](person)
+- please delete all [meeting](event_name) [after seven am](time)
+- cancel [future event](event_name) from place i worked
+- please clean my calendar
+- i am busy [tomorrow](date) so delete all calendar events
+- delete from the calendar the next event
+- delete all scheduled events
+- format data from calendar
+- find [dinner](meal_type) with [mom](relation) on my calendar and delete it
+- remove my event at [one pm](time) in my calendar
+- please [clear](time) my calendar
+- do remove next event from the calendar
+- delete all events and content from my calendar
+- no [lunch date](event_name) [tomorrow](date)
+- delete my next [meeting](event_name)
+- delete the [monthly](general_frequency) recurring [team meeting](event_name) till [june](time)
+- i will no longer be joining [mom](relation) for [lunch](meal_type) [tomorrow](date)
+- destroy all events
+- clear my next event
+- check the events on calendar and delete the next event
+- clear all data from calendar
+- cancels [lunch](meal_type) at the [restaurant](business_type) booked for [march twenty five](date)
+- cancel [dentist appointment](event_name) for [this week](date)
+- change my plan erase my next event
+- cancel the plan of [party](event_name)
+- reset all events in calendar
+- erase all content in my calendar
+- this event needs to be deleted
+- erase my [appointment](event_name) on the [twelfth](date) from my calendar
+- remove [twenty fourth march](date) [meeting](event_name) from schedule
+- i want all my events deleted
+- can you empty my calendar
+- delete all of my [appointments](event_name) with [dr smith](person) [this week](date)
+- please remove [dinner](meal_type) date scheduled for this [friday](date) at [nine pm](time)
+- delete my [appointment](event_name) [tomorrow](date)
+- remove [dinner](meal_type) with [mike](person) from my calendar
+- delete my [dr k appointment](event_name) in [march](date)
+- please erase the next [birthday](event_name) event
+- make my calendar empty
+- cancel [sam](person)'s [party](event_name)
+- please delete this event
+- delete all events in calendar
+- i am no longer attending the [wedding](event_name) on the [tenth](date) so remove it from my calendar
+- delete every event
+- delete the scheduled [meeting](event_name) on [fourth october](date) [twelve pm](time)
+- open calendar and erase all events for [all months](time)
+
+## intent:calendar_set
+- write down that i am going to meet with [jenny](person) on the [third](date) okay
+- on [third april](date) we will go to [watch j llb movie](event_name) set it
+- schedule a [meeting](event_name) with [al](person) on [tuesday](date)
+- remind me the upcoming [meeting](event_name) at [four am](time) [today](date)
+- reminder about [meeting](event_name) from [eight am](time) to [twelve pm](time)
+- new reminder at [three pm](time)
+- set [rotating event](event_name)
+- i have a [meeting](event_name) at [noon](timeofday) [today](date)
+- schedule [lunch](meal_type) at [tomo in arcata california](place_name) [tomorrow](date) at [noon](timeofday)
+- add event to calendar
+- set a reminder for [two days](date) prior of the event
+- remind me [everyday](general_frequency) at [two pm](time) for [lunch](meal_type)
+- remind me to [eat](event_name) when [i get home](time)
+- i need to set up a [meeting](event_name) with [the ceo](relation) [tomorrow](date)
+- create a [meeting](event_name) event in my calendar
+- make [appointment](event_name) for next [friday](date)
+- latest reminder about [meeting](event_name)
+- set a reminder for my [shopping trip](event_name) [tomorrow](date) at [five pm](time)
+- remind me [every year](general_frequency) on this date of
+- set reminder notification for [three](time) o'clock
+- reminders
+- notify me an hour before my [two pm](time) [appointment](event_name) at the car dealership
+- i need you to mark next [monday](date)
+- let me know when my [meetings](event_name) are on [monday](date)
+- set a reminder for [john](person)'s [birthday](event_name) [next week](date)
+- [every wednesday](general_frequency) night at [five pm](time) remind me to meet [phil](person)
+- set a [meeting](event_name) with [hongbin](person)
+- invite people to the calendar event
+- remind me [tomorrow](date) at [four](time) about an event
+- add practice to calendar on [feb four](date) at [king's park](place_name) at [two pm](time)
+- set a two day notification before [maria](person)'s [birthday](event_name) please
+- let me know of the [meeting](event_name) on [tuesday](date)
+- meeting update my calendar to [reflect meeting](event_name)
+- remind me at the start of [each month](general_frequency)
+- add my [car payment](event_name) on the [twelfth](date) in my calendar
+- give me an update on the [election](event_name) in [one hour](time)
+- on [february fourteenth](date) make [dinner](meal_type) reservations at the [restaurant](business_type)
+- repeating event [meeting](event_name) on [mondays](general_frequency)
+- please set reminder
+- remind me if i miss my [evening walk routine](event_name)
+- please remind me about the event later [five pm](time)
+- schedule a reminder on [fifteenth march](date) and input name as [meeting](event_name)
+- tell me when my next [doctors appointment](event_name) is
+- [meeting](event_name) this [friday](date)
+- set a reminder on [fifteenth march](date) as [meeting](event_name)
+- set [generic calendar event](event_name) for next [saturday](date) at [ten am](time)
+- add a reminder to [april fourth](date) to go to the [dentist](relation)
+- remind me to move so there is no weight gain
+- set a reminder for [twelve thirty](time) [meeting](event_name) with the [boss](relation)
+- remind me of my [appointment](event_name) on the [fifteenth](date)
+- remind me to [pay the electricity bill](event_name) on this [weekend](time) at [nine am](time)
+- schedule a [meeting](event_name) with [reeta](person) [today](date) [evening at five pm](time)
+- open calendar schedule event [meeting](event_name)
+- can you remind me of [sunday gym](event_name) [every saturday](date) [evening](timeofday)
+- remind me about [tomorrow](date) [meeting](event_name) at [ten am](time)
+- hi please remind the next [meeting](event_name) with my [boss](relation) it will be at [eleven am](time) next [monday](date)
+- please remind me for the [function](event_name) at [miami](place_name) [tomorrow](date)
+- put a [seven pm](time) [meeting](event_name) time down for [march fourteenth](date)
+- remember [dinner](meal_type) on [thursday](date) at [bistro italia](place_name)
+- remind me after a [month](date)
+- in the [following week](time) repeat this event at [ten am](time) [every day](general_frequency)
+- can you notify the event in my calendar
+- add event [baseball practice](event_name) [five pm](time) [tonight](timeofday)
+- remind me of my [twelve](time) oclock [meeting](event_name) by eleven thirty
+- calendar event send invite [bill malinda](person)
+- add [dentist appointment](event_name) for [friday](date) at [five](time)
+- my calendar is to be updated with all [rccg](place_name) event in [march](date)
+- please remind to [sleep](event_name) at [nine pm](time)
+- [church](event_name) with [mom](relation) and [dad](relation) on [sunday](date)
+- can you sync my calendar with [mark](person)
+- hey turn on your reminders for [tomorrow](date)'s meeting at [ten am](time)
+- add a reminder to my calendar [every year](general_frequency) on this date
+- remind me to [water my plants](event_name) [every tuesday thursday and saturday](general_frequency)
+- on [twenty third february](date) [rahul](person) will come with me on [india cricket match](event_name)
+- i have to go to a meting on [friday](date) at [noon](timeofday) can you remind me
+- set the event to recur on the [first monday of the month](general_frequency)
+- alert me at the time of the event
+- please add the [meeting](event_name) with [ms boland](person) on [wednesday](date) [eight hundred am](time) to my calendar
+- set a [neighbor party](event_name) for [next week](date)
+- please add [dinner with mary](event_name) to my calendar on [saturday](date)
+- don't let me forget [tomorrow](date)'s [meeting](event_name) with [sheila](person)
+- please set a [monthly](general_frequency) reminder for [paying rent](event_name)
+- add [lunch appointment](event_name) with [lisa](person) to [january second](date) at [twelve thirty pm](time)
+- make a calendar entry for next [saturday](date) at [ten am](time) please
+- remind me to [pick up john from the airport](event_name) [tonight](timeofday) at [eight](time)
+- remind me about calendar
+- add to calendar an [medical appointment](event_name) for the [first day of the next five months](time)
+- remind me about my [biology test](event_name) at [fsu](place_name) on [friday](date)
+- add meet with [dave](person) at [subway](business_name) on [weber](place_name) on [four april](date) at [five pm](time)
+- set a reminder for [fifteen minutes](time) to [change laundry loads](event_name)
+- can you remind me about the [gym class](event_name) [in two hours](time)
+- set a [meeting](event_name) with [tom](person) [tomorrow](date) at [seven pm](time)
+- can you set a reminder for [wednesday](date) at [one pm](time) for my meeting
+- remind me to meet [joe](person) for [lunch](meal_type) [tomorrow](date)
+- write down [meeting](event_name) at [seven pm](time)
+- [twelveth july](date) is [bola](person)'s [birthday](event_name) and my calendar to be updated with this date
+- set reminder for [tennis game](event_name) with [peter](person) on [Sunday](date) at [four pm](time)
+- please block off [friday](date) at [eight am](time) on my calendar
+- all [rccg](place_name) [march](date) event is to be added to my calendar
+- add [valia's wedding](event_name) the next [saturday](date) at [eight o clock](time)
+- i have a [meeting](event_name) [tomorrow](date) [morning](timeofday) at [ten](time) please remind me
+- i need you to remind me to go to store [tomorrow](date)
+- remind me of this [meeting](event_name) soon
+- [dentist appointment](event_name) [today](date) at [nine am](time)
+- create a [repeating](general_frequency) event on [mondays](date) at [seven pm](time)
+- remind me of [meeting](event_name) [five minutes before](time) time
+- remind me to [meet with steve](event_name) at [one pm](time) [tomorrow](date)
+- add [new year](event_name) with [family](relation) [next week](date)
+- schedule a [lunch meeting](event_name) with [brent](person) on [Wednesday](date) at [noon](timeofday)
+- call me for this [meeting](event_name)
+- schedule [dinner](meal_type) with [sara](person) and [jamie](person)
+- remind me later
+- just set me reminders about [pending payment of children school fees](event_name)
+- add a reminder for [april twenty](date) as my [bro](relation)'s [birthday](event_name)
+- remind me about my [monday](date) [meeting](event_name) with [peter francis](person) [fifteen minutes](time) before the meeting
+- show me the events in my [work](event_name) calendar for [next week](date)
+- the [meeting](event_name) with [justin](person) and [katrina](person) has been changed put it on [thursday](date)
+- open calendar and make an event reminder
+- remind me off about my [tomorrow](date) [meeting](event_name) sharply at [ten](time)
+- please add shopping at [mall](place_name) on [twenty six march](date) at [twelve pm](time)
+- repeat [birthday](event_name)
+- put working out on my calendar for [eight am](time) [every day](general_frequency) [this week](date)
+- add event to date
+- schedule [meeting](event_name) with [laura](person)
+- remind me on [fifth march](date) of [every year](general_frequency) to arrange [wedding anniversary presents](event_name)
+- can you tell me on [tuesday](date) to give [jane](person) a call
+- make a [meeting](event_name) with [friend](relation)
+- tell me when i need to leave the airport
+- set [meeting](event_name) with [the ceo](relation) [tomorrow](date)
+- set a calendar event to repeat [yearly](general_frequency) on this date
+- please set a reminder for [church services](event_name) on [sundays](date) for [eleven am](time)
+- flag [two day after this day](date) as [my holiday](event_name)
+- set meeting with [joanna](person) on [Saturday](date) [four pm](time)
+- don't let me forget i have a [parent teacher conference](event_name) this [monday](date) at [four hundred pm](time)
+- alter [lunch](meal_type) event to repeat [every friday](date)
+- add event book [club debbie's house](place_name) [wednesday](date) [night](time)
+- set a reminder alert for [saturday](date) [nine am](time) towards [payment of electricity bill](event_name)
+- please remind me of all the nba scores in a week
+- remind me to take out the trash
+- set on [second january](date) about [soccer match](event_name) of [manchester](place_name)
+- remind me clock that i have a event
+- can you remind my next [meeting](event_name) with my [boss](relation) [one hour](time) before it will happen
+- set a notification for [june fifth every year](date)
+- plan a [meeting](event_name) in office with all employees [tomorrow](date) [morning at eight](time)
+- set a [thanks giving](event_name) event for [friday](date)
+- remind me about my [anniversary](event_name) [in one day advance](date)
+- on [every tuesday](general_frequency) remind me to go shopping
+- set event on recurring
+- schedule a [sales meeting](event_name) for [wednesday](date) at [eleven am](time)
+- please tell me to [take my umbrella](event_name) because it will be very hot [today](date)
+- remind me to go grocery shopping [today](date)
+- set a notification on [third march](date) about [company meeting](event_name)
+- put my [brother](relation)'s [birthday](event_name) in my calendar for [july fourth](date)
+- add [jane](person)'s [birthday party](event_name) at [one hundred and twenty three main for two pm](time) [tomorrow](date) on my calendar
+- schedule my [meeting](event_name) with my [girlfriend lisa](relation) in the night [today](date) at [nine pm](time)
+- [march fifth](date) is [john](person)'s [birthday](event_name) please place this on the calendar
+- take note of [today](date) as [my first date with bob](date)
+- remember to remind me about [client meet](event_name) at [four pm](time)
+- set reminder for [tomorrow](date) for this item
+- can you remind me to [check my clothes](event_name) [in a hour](time)
+- give me the list of all events coming up in the [next month](date) and set notifications for all of them
+- [thirteenth june](date) is a day of [election result](event_name) please set it
+- add my [spin class](event_name) to the calendar for [Saturday](date) at [seven am](time)
+- please set this date to repeat
+- make a repeating reminder for [tomorrow](date)
+- [thursday](date) at [three pm](time) there is a [teachers meeting](event_name) i need to be reminded of
+- remind me to have [launch with boss](event_name) [today](date) at [one pm](time)
+- remind me to [take the casserole out of the oven](event_name) at [seven hundred and forty five pm](time)
+- please remind me that i have a [meeting](event_name) [tomorrow](date) [ten](time) in the [morning](timeofday)
+- add to calendar [may two](date) is [mary](person)'s [birthday](event_name) repeat [every year](general_frequency)
+- call [sarah](person)
+- send me notice of [meeting](event_name) [wednesday](date) [nine am](time)
+- the location is my [office](place_name)
+- on [january twenty five](date) set [meeting](event_name) for [twelve](time)
+- please put me your input to know my schedule
+
+## intent:cooking_recipe
+- what does one have to damage in [cream](ingredient) to make [butter](food_type)
+- what can i cook with [broccoli](ingredient) and [chicken](ingredient)
+- in five sentences let me know the procedure of making [thanksgiving turkey](food_type)
+- what food is good
+- i would like instructions on how to cook [baked chicken](food_type)
+- tell me how to cook [meatballs](food_type)
+- give me some recipes for [sheperds pie](food_type)
+- is [soft cheese](food_type) better than hard
+- how do i cook [meatballs](food_type)
+- how do i prepare all my food for cooking
+- whats needed to make [pizza](food_type)
+- get recipe for making a [hotdog](food_type)
+- can I get the recipe for [chocolate brownies](food_type)
+- recipe for meal
+- annie could you please search the internet and play the [videos](media_type) for cooking [italian](food_type) food
+- what's the recipe for [fish soup](food_type)
+- i would like the recipe for [baked chicken](food_type)
+- recipe for [crabmeat](food_type)
+- cooking recipe
+- how to make [sausage](food_type)
+- find easy recipe for [almond milk](drink_type)
+- what can i substitute [butter](ingredient) with
+- recipe please
+- are there any cooking classes nearby my area
+- use google to show me how to cook
+- how do i [steam](cooking_type) [rice](ingredient)
+- give me recipes
+- boiled
+- find me a recipe of [spaghetti](food_type)
+- how do i [cook](cooking_type) [rice](food_type)
+- how do i make [tuna casserole](food_type) from scratch
+- show me how to cook a recipe
+- give me best cooking ideas
+- how long do i roast [chicken breasts](food_type)
+- give me a recipe for [lasagne](food_type)
+- search for the best [spagetti](food_type) recipe
+- i want to know the procedure of making [thanksgiving turkey](food_type) in five sentences
+- tell me how to make [garlic bread](food_type)
+- how to make [fried rice](food_type)
+- show me tutorials on cooking food
+- find the recipe for [sambar](food_type) in [cookingforu](app_name) application
+- what is the temperature i am supposed to cook this [lasagna](food_type) at
+- show me a [spaghetti](food_type) recipe
+- how much is one serving of [broccoli](food_type)
+- what is a [cookie](food_type) recipe
+- do we add [rosemary](ingredient) in [pasta](food_type)
+- how many cups of sugar in [texas sheet cake](food_type) frosting
+- show me cooking websites
+- tell me the best recipes for a given dish
+- find a recipe that uses [ground beef](ingredient) and [zucchini](ingredient)
+- can you tell me how to cook [chocolate chip cookies](food_type)
+- what's an easy recipe to cook for food
+- how long should i simmer [rice](food_type) for
+- what is the best tasting cut of [beef](food_type)
+- recipes
+- access recipe book please
+- how do you make sunny side up [eggs](food_type)
+- how do i make [cookies](food_type)
+- tell me how to make [tacos](food_type)
+- what goes with [risotto](food_type)
+- show me the recipe for [cookies](food_type)
+- how do i [cook](cooking_type) a [pasta](food_type)
+- what is an [alternative to flour](ingredient)
+- [evaporated](cooking_type)
+- cook me some [oats](ingredient)
+- find me a recipe for [chicken noodle soup](food_type)
+- what do i need to make [pot roast](food_type)
+- how do i make [meatloaf](food_type)
+- please find the recipe for [meatballs](food_type)
+- find me the recipe for a [cake](food_type)
+- i need help making [pancakes](food_type)
+- how to cook [spaghetti squash](food_type)
+- how much [meat](food_type) should i buy to serve ten people
+- what is recipe
+- what are the ingredients necessary
+- what do you use to make [cookies](food_type)
+- show me how to cook [lasagna](food_type)
+- how can we prepare [biriyani](food_type)
+- how can a cook [risotto](food_type)
+- how many millilitres is two table spoons
+- [healthy foods](food_type)
+- i need the recipe for [hot cross buns](food_type)
+- what is the best recipe for [tacos](food_type)
+- best [energy food](food_type) for gym
+- how to cook [crabs](food_type)
+- what are the ingredients in [macaroni and cheese](food_type)
+- find easy recipe for [corn bread](food_type)
+- what the [sexiest](food_type) food to cook on a date
+- crockpot recipe for [chicken alfredo](food_type)
+- how many teaspoons are in a cup
+- search for [gluten free](food_type) menus
+- how many [eggs](food_type) should i put in my [cake](food_type) mixture
+- how do you [zest](cooking_type) a [lime](ingredient) without a zester
+- good food
+- please look up best recipes
+- find recipe [chicken casserole](food_type)
+- what type of cheese do i need for my [enchiladas](food_type)
+- recipes that can be cooked in an hour
+- what are the steps for [biriyani meal](food_type)
+- i want to know how to make a [chicken](food_type) in the [oven](device_type)
+- how can i cook [pizza](food_type)
+- do you know how to cook [risotto](food_type)
+- find a recipe for [homemade bread](food_type)
+- how do i deglaze a pan
+- what ingredient can be used to replace [white wine](ingredient)
+- give me instructions on how to cook [chicken](food_type)
+- how do you pan sear a [porterhouse steak](food_type)
+- bring up a recipe for [turkey meatballs](food_type)
+- Show [chicken tikka](food_type) recipe
+- how many calories are in a one divided by of [peanuts](food_type)
+- what is the difference between bake and broil
+- find the correct temperature for frying a [whole turkey](food_type)
+- how do i cook a [medium rare steak](food_type)
+- i want to see the recipe of [veg biryani](food_type)
+- how do i bake a [potato](food_type)
+- show me a [video](media_type) on cooking [fried chicken](food_type)
+- find a recipe for [chicken alfredo](food_type)
+- show the method to prepare [icecream](food_type)
+- quick meals
+- i need a recipe that is from ingredients on my [shopping](list_name) list
+- instructions to make a meal
+- how long should i cook a [steak](food_type) to be medium
+- what is the recipe for [apple pie](food_type)
+- how to cook this food
+- get recipe for [apple pie](food_type)
+- let me know the recipe for preparing [pasta](food_type)
+- i need a recipe for [spaghetti](food_type)
+- what's the recipe for [fried chicken](food_type)
+- find the right amount of cinnamon for the [garam masala](food_type)
+- [freezing](cooking_type)
+- how do i make meal
+- tell me the recipe to cook [pav bhaji](food_type)
+- can you prepare a [cheese sandwich](food_type)
+- what temperature do you [bake](cooking_type) a [potato](ingredient)
+- what's the best way to cook [pasta](food_type)
+- how to make [chicken tikka](food_type)
+- what do i need to make [lamb pathia](food_type)
+- what is the cooking time for [mashed potatoes](food_type)
+- show me what the ingredients are
+- how to make [cheesecake](food_type)
+- i want to cook [italian](food_type) dishes show me some
+- how do you make [cookies](food_type)
+- how long do i chill an icebo pie
+- tell me the recipe for [yellow rice](ingredient)
+- show me the recipe of [tandoori chicken](food_type)
+- what should i make for [dinner](meal_type)
+- how do you make [pasta](food_type)
+- can you eat [sweet potato greens](food_type) raw
+- please explain the [rice](food_type) recipe
+- how do i cook a [meatloaf](food_type)
+- i want to cook [pasta in american style](food_type) show me how
+- can you give me a recipe for homemade [chicken noodle soup](food_type)
+- what temperature should the [oil](ingredient) be for [frying](cooking_type) [french fries](food_type)
+- what conducts heat better copper bottomed pots or cast iron
+- how do i make [mashed potatoes](food_type)
+- tell me how to [cook](cooking_type) [pasta](food_type)
+- what ingredients do i need for [tomato soup](food_type)
+- what does [rice wine](drink_type) go with
+- what is the best way to cook [pasta al dente](food_type)
+- at what temperature should i bake [cookies](food_type)
+- tell me the recipe for [mashed potatoes](food_type)
+- what is a good [vegan egg](ingredient) substitute
+- show me [pancakes](food_type)
+- can you pull up a recipe for [spaghetti](food_type)
+- how do i braise a [pork loin](food_type)
+- what is a good way to make [steak](food_type)
+- please search for beginners guide to cooking
+- find me a recipe for [carrot soup](food_type)
+- recipe for [spaghetti](food_type)
+- how long should i cook [chicken](food_type) for
+- what is the cooking time for [boiled eggs](food_type)
+- how long do i need to cook a [brisket](food_type) for it to be medium
+- how long should i [cook](cooking_type) a [hamburger](food_type) on each side
+- what temperature should a [baked chicken](food_type) be
+- what is in a [curry](food_type)
+
+## intent:datetime_convert
+- if it is [noon](timeofday) in [virginia](place_name) what time is it in [california](place_name)
+- switch to [eastern](time_zone) time zone
+- please change time zone to [india](place_name)
+- change this time to [ist](time_zone)
+- please convert the time of here at [nine pm](time) to [brasil](place_name) time zone
+- it is [nine](time) here what time is it in [california](place_name)
+- what the time difference from here to [ottawa](place_name)
+- what is the time difference between [eastern](time_zone) time and [pacific time](time_zone)
+- i need you to convert [nine am](time) [cst](place_name) to [est](place_name) time
+- given it is [four thirty five pm](time) in [london](place_name) what time is it in [melbourne](place_name)
+- what is the time difference between my location and [hong kong](place_name)
+- convert [eight am](time) [manila](place_name) time to [new york](place_name) time
+- set the time zone to [g. m. t.](time_zone)
+- what is the time at [singapore](place_name) when our time is [five pm](time)
+- convert time zone to [ist](time_zone)
+- convert time zone
+- what time is [twelve pm](time) [eastern](time_zone) time in [pacific](time_zone) time
+- how many hours difference is there between [london](place_name) and [new york](place_name)
+- can you change my time zone to [central](time_zone)
+- change my clock to [central](time_zone) time zone from [my current zone](time_zone)
+- tell me the time in [g. m. t. plus five](time_zone)
+- please can i know what time will it be at [six pm](time) here in [australia](place_name)
+- when it's [ten pm](time) here what time is it in [brisbane](place_name)
+- what is the time difference between [california](place_name) and [new york](place_name)
+- what is the time difference between [pacific](time_zone) and [central](time_zone)
+- convert [twenty one thirty](time) from [gtm four](time_zone) to [g. m. t. four thirty](time_zone)
+- convert [eight thirty](time) from [gtm four](time_zone) to [g. m. t. five thirty](time_zone)
+- if it is [six am](time) here what time is it in [tokyo](place_name)
+- if it's [ten pm](time) in [california](place_name) what time is it in [alabama](place_name)
+- convert current time from [ist](time_zone) to [est](time_zone)
+- what is the time in [india](place_name) when the time in [us](place_name) is [twelve pm](time)
+- what is the time difference between [india](place_name) and [ivory coast](place_name)
+- it's [eight](time) at [night](time) in [france](place_name) what time is it in [new york](place_name)
+- can you convert my time zone to the time zone i'm currently in
+- it is [five forty five am](time) in [liverpool](place_name) what time is now [new york](place_name)
+- now it's [five thirty pm](time) in [india](place_name) what about the time in [ivory coast](place_name)
+- how many hours distance is between my location and [new york](place_name)
+- if it is [twelve hours](time) ahead of [eastern](time_zone) standard centaur time what's the time in the [philippines](place_name) now
+- time between [us](place_name) and [canada](place_name)
+- what is the time difference between here and [japan](place_name)
+- what is the [nine am](time) [cst](place_name) to [est](place_name)
+- can you tell how many hours of difference are between [boston](place_name) and [los angeles](place_name)
+- change the time in [this location](place_name) to [ist](time_zone)
+- what time can i call from [pennsylvania](place_name) and it will be business hours in [australia](place_name)
+- please convert [nine am](time) [cst](place_name) to [est](place_name) time
+- what is the time difference between [new york](place_name) and [lagos](place_name)
+- time difference between [uk](place_name) and [us](place_name)
+- if it's [five am](time) in [berlin](place_name) what time is it here
+- i need the time zone from [london england](time_zone) instead of [central](time_zone) time zone
+- if i was in the [eastern](time_zone) time zone what time would it be
+- what is the time difference between here and there
+- convert [one oh two](time) from [gtm four thirty](time_zone) to [g. m. t. one thirty](time_zone)
+- what is the time difference between eastern and pacific time zones
+- when it is [nine](time) in the [east](time_zone) what time is it in the [west](time_zone)
+- convert current time from [g. m. t.](time_zone) to [est](time_zone)
+- convert [usa](place_name) time in to [indian](place_name) time
+- what is the time difference between [central](time_zone) and [eastern](time_zone)
+- what is the time difference between [eastern](time_zone) and [pacific](time_zone)
+- time zone between [india](place_name) and [us](place_name)
+- the time difference between [lagos](place_name) and [new york](place_name) is what
+- convert [eastern](time_zone) time to [western](time_zone) time
+- [eight am](time) [manila](place_name) time is what in [eastern](time_zone) time
+- if i call [mike](person) in [california](place_name) at [six pm](time) what will his time be
+- what's the time difference between here and [queensland](place_name)
+- how much later is [new york](place_name) than [la](place_name)
+- change the time zone from [washington](place_name) to [new york](place_name)
+- if it's [sunrise](time) in [stockholm](place_name) what time is it in [okinawa](place_name)
+- change the time zone from [irish](time_zone) time zone to [moscow](time_zone) time zone
+- how many hours difference is [hong kong](place_name) from [new york city](place_name)
+- [eight am](time) in [manila](place_name) is what in [new york](place_name)
+- convert [new york](place_name) time to [london](place_name)
+- if it's [midnight](time) in [colorado](place_name) what time is it in [munich](place_name)
+- convert [g. m. t.](time_zone) to [ist](time_zone)
+- switch to [los angeles](place_name) time
+- it's [eight fifty five](time) here what time is it in [england](place_name)
+- change this time zone to [washington](place_name)
+- what is the time difference between [california](place_name) and [michegan](place_name)
+- can you change my time zone from [central](time_zone) time to [pacific](time_zone)
+- what is time now in [japan](place_name) compared to [usa](place_name)
+
+## intent:datetime_query
+- give me time
+- could you please tell me what time is in [singapore](place_name)
+- report the current time in [oakland](place_name)
+- the [twenty second](date) is on what day of the week
+- what week of the year does the [summer season](time) start
+- what is the correct time
+- what is the time in [beijing](place_name)
+- is there a national holiday on [fifth december](date)
+- the [last friday of the month](date) lands on what day
+- what time in [las vegas](place_name)
+- what is [mondays](date) actual date
+- give me the time in [phoenix az](place_name)
+- what is the time in [china](place_name)
+- what is the current time in [chennai](place_name)
+- [new york](place_name) time
+- what time is it in [central](time_zone) time zone
+- can you tell me the time in [new york](place_name)
+- what's the time in [this time zone](time_zone)
+- what is time now in [california](place_name)
+- what time is it in [this city](place_name)
+- can you tell me the current time in [dallas texas](place_name)
+- [march tenth](date) lands on what day of the week
+- what time of day is it in [london](place_name)
+- can i get the time
+- how time is it
+- when is [easter](event_name) in the year [two thousand and eighteen](date)
+- what day of the week does the [fifteenth of march](date) fall on
+- what's the time for [neighboring city](place_name)
+- time and date of [today](date)
+- what day does [my birthday](event_name) fall on [next year](date)
+- what does the clock say
+- what day is [christmas](event_name)
+- let me know [today](date)'s date in american format
+- what is the time in [hyderabad](place_name)
+- what is the time in [bangalore](place_name)
+- what's the time in [dubai](place_name)
+- is it [noon](timeofday) in [paris](place_name)
+- whats the date [today](date)
+- show me [boston](place_name)'s current time
+- what is the current date time group
+- display date
+- what time is it in [denver](place_name)
+- what time is it in [akron](place_name)
+- what day does [easter](event_name) fall on
+- do we have [thirty first](date) day on [this month](date)
+- is it [Monday](date) [today](date)
+- hey what time is it in [london](place_name) now
+- just let me know the current date [today](date)
+- on what date is [easter](event_name) this [year](time)
+- time in [chicago](place_name)
+- may i know the time in [london](place_name)
+- show me the date of [today](date)
+- what day of the month is it
+- what is the date and time
+- what time is it in [mountain](time_zone) time zone
+- would like to see the time zone
+- show me what time it is
+- show me the time
+- what is the date [easter](event_name) falls on
+- what day of the week is the [twenty second march](date)
+- what time is it in the [eastern](time_zone) half of the us right now
+- what day of the [month](date) is next [tuesday](date)
+- what time is it in [another city](place_name)
+- current time please
+- what day is it on [fifth december](date)
+- what is the current time right now
+- what day is [the fifteenth](date)
+- what day of the week is [june twenty seventh](date) on this year
+- uh what does the current date happen to be
+- what is the current time in [delhi](place_name)
+- what day [today](date)
+- what is the day on [twenty third march](date)
+- i want exact time in [washington](place_name) right now
+- what day is it [today](date)
+- show me what day [the thirty first](date) is on
+- give me the current time
+- [twenty second april](date) day
+- what is the time in [london](place_name)
+- what day does [april sixteenth](date) fall on
+- what day is [easter](date)
+- mention the time in [canada](place_name) now
+- tell me what time it is right now
+- the time in [cairo](place_name) please
+- which week is [twenty third](date)
+- what is [today](date)'s date
+- what day of the week does [christmas](event_name) fall on [this year](date)
+- what is the time in [ajmer](place_name)
+- show me the time in [new york city](place_name)
+- what is the time in [australia](place_name) right now
+- what day of the week is [first april](date)
+- how many [birthday](event_name)'s are on [twenty third](date)
+- what is [tomorrows](date) date
+- what day of the week is the [first of march](date)
+- i need to know what is the date [today](date)
+- what is [eastern](time_zone) standard time right noe
+- [twenty ninth march](date) comes on what day
+- what date is [today](date)
+- whats [today](date)
+- please provide current time in [india](place_name)
+- please tell me the current [date](time_zone)
+- is there [christmas](event_name) on [twenty second](date)
+- what is the current date [today](date)
+- give me the time in [london](place_name)
+- what's the date is currently
+- [todays](date) a lovely day what the date
+- can you tell me [today](date)'s date
+- what is the current [central](time_zone) time
+- how many days are in [this month](date)
+- [today](date) is which date
+- is today [march sixth](date)
+- what time is it in [karachi](place_name) right now
+- please alert me to the time
+- what time is it in [singapore](place_name)
+- what date is the third [friday](date) of [this month](date)
+- tell me current time
+- can you tell me the time at [san francisco](place_name)
+- [may twenty two](date) is my [birthdate](event_name) and i want to know the what day is [twenty third may](date)
+- report the time in [miami](place_name)
+- whats the time now
+- what is the current time in [lagos nigeria](place_name)
+- when is [the third monday of this month](date)
+- what's [today](date) date
+- please give me the time
+- what is [today](date)'s day
+- [today](date) is [monday](date) is it
+- what day of the week does the [twenty second](date) fall on [this month](date)
+- what is the date and month [today](date)
+- what is the date for next [tuesday](date)
+- what time is it on the [east coast](time_zone) of the [united states](place_name)
+- what time is it in [england](place_name)
+- tell me the current time in [san paulo](place_name) [brazil](place_name)
+- what is the time in [canada](place_name) now
+- [date](date) in [new york](place_name)
+- current date please
+- what time is it on the [west coast](time_zone)
+- how me the time now in [boston](place_name)
+- date and time
+- what time is it in [a city](place_name)
+- i want the time for [another city outside us](place_name)
+- hello what time it is now
+- [ten past seven](time)
+- give me the time
+- what is the current time in [california](place_name)
+- show me the current time
+- can you give me the time in [this time zone](time_zone)
+- do you know what day it is
+- tell me the time now
+- what is the time in [milwaukee](place_name)
+- please show me [today](date)'s date
+- what's the time in [new york](place_name)
+- what is the current time in [london](place_name)
+- what time is it in [london](place_name)
+- what time is it [eastern](time_zone)
+- can you give me the time in [new delhi](place_name)
+- tell me the time
+- what is the date [today](date)
+- what date is [easter sunday](event_name) [this year](date)
+- what is the time for the [eastern](time_zone) time zone
+- what's the time in [china](place_name) right now
+- what will be the time now in [washington](place_name)
+- what day of the week is it
+- whats the time in [denver](place_name)
+- what is the [day](time_zone) [today](date)
+- what is the current day month and year
+- what is [today](date)'s current date
+- please let me know [today](date)'s date
+- what is the month day and year
+- show time in [china](place_name)
+- give me [new york](place_name)'s current time
+- current [time](time_zone) [new york](place_name)
+- be my clock
+- give me the time in [pst](time_zone)
+- what time is it in [new york city](place_name)
+- please give me [today](date)'s date
+- what time i sit in [china](place_name) right now
+
+## intent:email_addcontact
+- please add this email to my contacts
+- just add a new email in my contacts from [michael](person)
+- save this email in contact
+- can you look up and add [john](person)'s old email to my contacts again
+- add [email](personal_info) to existing contact
+- i need you to add this email in my contacts
+- add [dr rosenstock](person) as an email contact
+- email [hwu@gmail dot com](email_address) add to email contacts
+- Update my contacts with the new contact [sam@gmail dot com](email_address)
+- add this new email with contact
+- can you add a new email to my contacts
+- remember this email
+- store my contacts
+- add a new contact for [daniel bell](person) [dbell@aol dot com](email_address)
+- make a new contact with this email
+- add [erosser@hotmail dot com](email_address) as a new contact for [emily rosser](person)
+- add [jpearsonjessica@gmail dot com](email_address) to email contacts
+- change my [mum](relation)'s [email](personal_info) in my phonebook
+- save new email addresses to my contacts
+- please add an email for [john doe](person) to my contacts [johndoe@yahoo dot com](email_address)
+- add [carl](person)'s email to my contact
+- open up contacts and add email [something@gmail dot com](email_address)
+- create new contact with [email](personal_info)
+- add a new email in my contacts from [john](person)
+- add this email to my contact
+- add new email address
+- add [something@gmail dot com](email_address) to my contacts
+- i want to and my email address
+- i need to add this new contact for [sam smith](person) [ssmith@yahoo dot com](email_address)
+- please place my new email address to the contact
+- use that email address as a contact
+- save email id
+- update my contacts with the new contact [sam@gmail dot com](email_address)
+- add the new email to my contacts
+- save that email as a new contact
+- here's an email address
+- please add to my [contact lists](list_name) and send them a reminder email
+- save to contacts
+- add [sarah](person) as email contact
+- add [apahelp@yahoo dot com](email_address) in my contact list
+- please add [smurfette@gmail dot com](email_address) to my email contacts
+- add email to contacts
+- add [dale@gmail dot com](email_address) to my contacts
+- please add [smithjoe@email dot com](email_address) to the contact information for [joe smith](person)
+- add this email to a new contact
+- make this email a new contact
+- add [john@gmail dot com](email_address) to contacts
+- add [sam@gmail dot com](email_address) to my contacts list
+- add lowes hardware to my contact emails located in [cleveland ohio](place_name)
+- add this email to my contacts
+- add a new email address which is
+- add a new email contact to my list
+- locate the email to [giant eagle](business_name) and put it into my [contact list](list_name)
+- add new [email](personal_info) to [anna](person)
+- please add contact email [johndoe@yahoo dot com](email_address) to [john doe](person)'s contact information
+- add new email to my contacts [macs@gmail dot com](email_address)
+- please add [tom](person) to my contact list
+- send an email and save the contact information for [samuelwaters@hotmail dot com](email_address)
+- will you please put something [something@gmail dot com](email_address) in my contacts
+- add [dan@dancom](email_address) to my contacts
+- add [apahelp@yahoo dot com](email_address) to my contacts
+- please create a new contact information about [jo](person)
+- save this email in my contact for future use
+- add a new email
+- add this person's [email](personal_info)
+- please add [dan](person)'s email to my contacts
+- please add an email to my contacts
+- add this email to my address book
+- add email address [iamironman@gmail dot com](email_address)
+- i need you to add [gary](person)'s email to my favorites
+- put [sam@gmail dot com](email_address) in my email contacts list
+- add the email [oriam@gmail dot com](email_address) to my contacts
+- add this email address to my contacts and send an email to
+- please add a new email in my contacts from [sara](person)
+- save my contacts
+- i would like you to add an email to my contacts
+- create new contact
+- add this email to my contact list
+- add new email to contacts
+
+## intent:email_query
+- what is the last email i received
+- refresh the [inbox](email_folder) and update about any unread mails
+- check [inbox](email_folder) for mail from [sarah](person)
+- any recent emails
+- have i gotten any emails from [mom](relation) lately
+- tell me when i get new emails from [principal lowry](person)
+- are there any unread messages in my [inbox](email_folder)
+- what did the [clinic](business_name) say about my exams
+- are there any unread emails from [patrick](person)
+- list new emails
+- have i gotten any new emails from [mary](person)
+- did [bert](person) write me [today](date)
+- please check recent emails from new contact
+- please check if there is a new email on the [inbox](email_folder)
+- have i received any emails since [noon](timeofday)
+- read new messages from my [wife](relation)
+- check if there any new email
+- what new emails do i have form [amie](person)
+- tell me who send the email about the boss [yesterday](date)
+- check all the new them emails and mark them star
+- can you check to see if i have any recent email alerts
+- tell me my latest email
+- what is the email i got from my [girlfriend](relation)
+- when did [dave matthews](person) email me about the contract
+- look at my email
+- have i received any mail in the [last hour](time)
+- do i have any new emails from my [dad](relation)
+- what was the name of my last email
+- compile information on the data breach
+- tell me about new emails
+- check for all emails from [tom brady](person)
+- update my [inbox](email_folder) please
+- how many emails do i have from work [today](date)
+- how many emails have i got since [yesterday](date)
+- any new emails after [five pm](time)
+- is there anything new in my email folder
+- did [paul](person) email me recently
+- do i have any new emails from [sarah](person)
+- read email
+- please check if i got any emails from [mom](relation)
+- do i have any new entries in my [inbox](email_folder)
+- check mails
+- how is my [inbox](email_folder) looking at the moment
+- [jane doe](person) emails
+- read me the last email from [stefan](person) and oil change
+- all new mail
+- inform me of my new emails
+- check emails for [last hour](time)
+- show me my emails from the [past hour](time)
+- please check my gmail for new mail
+- scan my [inbox](email_folder) for any new emails from [robert](person)
+- did [linda connors](person) reply to any of my emails this [morning](timeofday)
+- how many emails [today](date)
+- did [mike](person) send me an email
+- have i gotten any new emails
+- check email for otp sent by my bank
+- did i get any replies from [jan](person)
+- please alert me when [john](person) emails me
+- what are my new contact emails
+- check my email
+- please archive my read messages
+- do i have new emails from [john](person)
+- can you please read the my [mom](relation) sent this [morning](timeofday) at [ten am](time)
+- show unread new emails
+- is there any new email
+- Has [john](person) sent me any new emails
+- has [tom](person) emailed me about ammunition
+- can you see if [john](person) has replied to my email yet
+- what is my recent email activity
+- can you tell me my recent emails
+- check someone's recent emails
+- what is my email from [steve](person) about
+- how many new emails since i last checked
+- update me on my emails
+- please tell me how many emails i have
+- did [dan](person) send me any emails
+- check all new emails in my [inbox](email_folder)
+- any incoming emails in the [last five minutes](time)
+- read me new emails
+- any new emails for me
+- what is the email sent by this contact read
+- hey do i have any emails from [bob](person) about the bulldog
+- did my [mom](relation) send me an email
+- read me new messages from name
+- do i have a new email from [eric](person)
+- any important notifications
+- check email client
+- please check email from my [boss](relation)
+- let me know of any incoming emails for the [last hour](time) please
+- have i received any emails from [my father](relation)
+- new messages
+- what is the latest email from [zita](person)
+- are there any new emails from [robert jones](person)
+- is there any new mail for me
+- beep when i get an email from [john](person)
+- do i have any emails from [katherine](person)
+- did i get an email from [sarah](person)
+- display latest emails
+- please read the last email for me
+- are there any new emails in outlook
+- do i have any new email
+- please check new email from [andy](person)
+- did [trey](person) sand any messages
+- who was the last person to email me
+- hey read any email to me
+- do i have any mail
+- are there any recent emails from [rohit](person)
+- please check all new email of [income tax department](business_name)
+- find my email for date
+- did you receive this person email
+- did i email [tom](person) on the subject of gun control
+- have i received any emails about [jared](person)'s [birthday](event_name)
+- what and who was i emailed about [last week](date)
+- do have any new email
+- are there any new emails received [after four](time) o'clock [today](date)
+- find new email
+- any new email since last time
+- are there any emails i haven't read yet
+- check for new emails
+- did i get an email from [jen](person) [last night](date)
+- did i receive any new email
+- please check whether the email of [jancy](person) has come
+- do i have any emails from [robert](person)
+- has any mail received with an attachment
+- check to see if my [mom](relation) sent me any emails
+- check any mail from [amazon](person)
+- have any emails come in since [four hundred](time) [today](date)
+- is the mail from [chris](person) about work
+- who's emailed me recently
+- please send a notification when [john](person) replies
+- do i have a new email from [sandy](person)
+- [jane doe](person)
+- display recent email from [john](person)
+- initiate polling for new email
+- show me the latest emails from [amazon](business_name)
+- hey check emails
+- do i have email from my [friend](relation) [rachel](person)
+- how many emails do i have in the last [fifteen minutes](time)
+- have i gotten any emails lately
+- has [amy](person) sent me any new emails
+- do i have any new emails from [dan](person)
+- read unchecked email
+- update on email
+- what were the first number of email subjects i got [today](date)
+- what new messages do i have
+- play back the last message
+- what are my newest emails
+- open email for unread mails
+- are any of my new emails from [amy](person)
+- which new emails were received
+- show me the email of [jack](person)
+- list all emails with subject contract
+- did i receive any email in the [past hour](time)
+- what are the subject line and sender from [today](date)'s email [inbox](email_folder)
+- would you go check my emails for me
+- open [inbox](email_folder)
+- show all emails regarding the breach
+- show me emails from my [friends](relation)
+- have i received any emails from [beth](person)
+- refresh my [inbox](email_folder) and inform me about new emails
+- do i have an email from person a
+- get contact
+- i need to see if i got any new email
+- have i got any new email from my [company](relation)
+- did i get an email from [mike](person)
+- check email from [john](person)
+- do i have any new emails in my [inbox](email_folder) [today](date)
+- give a last minute update on incoming emails please
+- Check outlook
+- are there new emails for me
+- check by [inbox](email_folder) for me
+- check my email messages
+- has [mike](person) sent me an email
+- check emails from [gary](person) for [last hour](time)
+- pull up all emails sent to me from [amazon](business_name)
+
+## intent:email_querycontact
+- where does [john smith](person) live and what is his [phone number](personal_info)
+- when was the last time that i spoke to [john](person)
+- make a call to
+- what's the [email address](personal_info) of [silvia](person)
+- please find a [mail address](personal_info) of [manoj](person) and tell me
+- check in contacts
+- does [mary smith](person) live on [main street](place_name)
+- hey ms the [email address](personal_info) of [john miller](person)
+- what is [email id](personal_info) of [john](person)
+- how many [numbers](personal_info) are saved for [alex](person)
+- what's [john](person)'s home [phone number](personal_info)
+- what do you know about [mary](person)
+- who is the most frequently called person in my [phone book](device_type)
+- what is [joe joe](person)'s [home address](personal_info)
+- please let me know when is [sam](person)'s [birthday](event_name)
+- call [raju](person) [phone number](personal_info)
+- open the contact [alex](person) in phonebook
+- what is [my daughter](relation)'s [phone number](personal_info)
+- tell me the [office address](personal_info) of my [brother](relation)
+- what are [john](person)'s contact details
+- please contact [michael m](person) from my list with this text
+- show contact of [john](person)
+- when is [jacob](person)'s [birthday](event_name)
+- call [dad](relation)
+- what's [leon](person)'s [email](personal_info)
+- can i find out information about a contact
+- do i have a [work number](personal_info) for [susan](person)
+- does [bob](person) [live](personal_info) in [france](place_name)
+- contacts please
+- tell me about [joose](person)
+- what is this person's contact information
+- could you get [john](person)'s email address for me
+- find [john smith](person) in contacts
+- select the information on the contact
+- find all the contacts [named](personal_info) [john](person)
+- what is [john smith](person)'s number
+- tell me the email address for [aunt ruth](person)
+- what is [mr taxi](business_name)'s [phone number](personal_info) it is in my contacts
+- open contacts and call [john smith](person)
+- can you provide me with the contact information assigned to this person
+- open [derek](person)'s contact information
+- how many [phone numbers](personal_info) do i have for [brenden](person)
+- is there a way to pull up information about a contact
+- find [john smith](person) from [alabama](place_name)
+- open contacts and find [john smith](person)
+- show me [derek](person)'s contact information
+- what's [june](person)'s [address](personal_info) nowadays
+- where [seth](person) [lives](personal_info)
+- find my [wife](relation)
+- where does [tar](person) [work](personal_info) currently
+- give me the details of friend
+- is there [email id](personal_info) of [john](person) in the list
+- fetch me the [phone number](personal_info) of [Alexander](person)
+- what is [jimmy johns](person)'s [corporate number](personal_info)
+- open the contact named [john](person)
+- locate information on [john smith](person) about his work location
+- please delete the contacts that i havent spoken to in [three of months](date)
+- open the [profile](personal_info) of [allen](person) from my contact
+- tell me the [area code](personal_info) for [jen k](person)
+- will you look up [joe](person)'s contact information for me
+- read about [mary s.](person)
+- is [alex](person) saved in my contacts list
+- what is [mary s.](person)'s [phone number](personal_info)
+- are my contacts mostly female or male
+- search [jack](person) in contacts
+- is [bills](person) [pager number](personal_info) in my contacts
+- tell me [mary](person)'s [cell number](personal_info)
+- what is [derek](person)'s [phone number](personal_info)
+- help me call [james](person)
+- what is the [home phone number](personal_info) of [mark](person)
+- how many contacts do i have in my [phone book](device_type)
+- tell me [joe joe](person)'s [home address](personal_info)
+- check for this mail in my contact if not then add it
+- do i have a [home number](personal_info) for [shelly](person)
+- please find a contact [number](personal_info) of [jayesh](person) and tell me
+- how do i [reach](personal_info) [sarah](person)
+- what is [john](person)'s [phone number](personal_info)
+- do i have the [address](personal_info) for the [apple store](person) in my contacts
+- give me [petey](person)'s [telephone number](personal_info)
+- who is the contact that last called me
+- how many of my contacts live or work in [detroit](place_name)
+- what's his [number](personal_info)
+- what's [jesse](person)'s [birthday](event_name)
+- find me my [dad](relation)'s email address
+- what is a [work phone number](personal_info) of [emilia](person)
+- please give me [details](personal_info) of [allen](person) from my contact
+- do i have a number for [jerry](person)
+- what is [mary s.](person)'s [birthday](event_name)
+- how do i [dial](personal_info) [sarah](person)
+- show me my contacts
+- can you pull up [jeff](person)
+- tell me about [mary s.](person)
+- show [ana](person) [number](personal_info)
+- what is [frieda](person)'s [home address](personal_info)
+- what is [mary smith](person)'s telephone number
+- is this the correct area code for my [boss](relation)
+- tell contact [mobile number](personal_info)
+- can you tell me the contact information of jo
+- [jay](person)'s [phone number](personal_info)
+- is [bills](person) [house number](personal_info) in my contacts
+- please open my [contact list](list_name)
+- what is [amber stevens](person) address it is in my contacts
+- please check and tell me where is the [location](personal_info) of [toms](person) [new business](personal_info)
+- tell me about [mary s.](person) in my contacts
+- is it anyone i knows [birthday](event_name) [this month](date)
+- when is [john](person)'s [birthday](event_name)
+- do i have any missed call from [patrick](person)
+- how can i contact this person
+- how [old](personal_info) is [joanne](person)
+- provide contact [location](personal_info)
+- can you please give me [john](person)'s [email](personal_info)
+- can you tell me the phone number of me
+- what is [john](person)'s [last name](personal_info)
+- please check and tell me [contact details](personal_info) of [mongomery llc company](person)
+- get me [tom](person)'s number
+- show me the information of [friend](relation)
+- contacts
+- is [mary smith](person) in my contacts list
+- show [johns](person) [office number](personal_info)
+- how many work contacts are in my phone book
+- search the contact
+- is [bills](person) [cell phone number](personal_info) in my contacts
+- call [mom](relation)
+- find me someone
+- what's [jesse](person)'s [number](personal_info)
+- do we have [morgan](person)'s [office's number](personal_info)
+- give me the [number](personal_info) to [mom](relation)
+- when was the last call i received from [jordan](person)
+- tell me the [street address](personal_info) of my [facebook](media_type) [friend](relation) [george](person)
+- show [dan](person)'s [contact detail](personal_info)
+- does my [co worker](relation) have a [home phone number](personal_info)
+- check and tell me the [address](personal_info) of my [friend](relation) [alex](person)
+- do i have the [contact](personal_info) of [tara john](person)
+- find [jhonny](person)'s [address](personal_info)
+- give me contact [mail id](personal_info)
+- what is [job title](personal_info) of [jan medvesek](person)
+- show [john](person)'s contact information
+- what is [john smith](person)'s [home phone number](personal_info)
+- may you please pull up information about a contact
+- [mary](person)'s [contact number](personal_info)
+- tell me the [landline number](personal_info)
+- did i receive a message from [kevin](person)
+- please let me know the what [raj](person)'s [status update](personal_info) in [facebook](app_name)
+- what's [rene](person) [phone number](personal_info)
+- do you have the mailing address for the [electric company](business_name)
+- what is [tom](person)'s [phone number](personal_info)
+- olly i need to call my [mom](relation) will you check her [work number](personal_info) for me
+- what's the [address](personal_info) for [alex](person)
+- what information do you have on file in my information about [bill](person)
+- link me to [jeff](person)'s [email](personal_info)
+- what is [john doe](person)'s address
+- send a text to [alice](person)
+- tell me [john](person)'s [phone number](personal_info)
+- list [phone](personal_info) and [email id](personal_info) of [robert](person)
+- where does [joe joe](person) [live](personal_info)
+- which contact haven't i called in [twelve months](time)
+- what is the [email address](personal_info) for [tessa](person)
+- what is [bob stevens](person) [phone number](personal_info) it is in my contacts
+- how do i contact [charles](person)
+- check [mom](relation)'s number
+- can you give me the newest [phone number](personal_info) for [bobby mcgee](person)
+- give me [charles](person) [telephone number](personal_info)
+- [rahul](person) [contact](personal_info)
+- what is [charles](person)'s [email](personal_info)
+- did [sara](person) tried to call me
+- what is the [home phone number](personal_info) for [sarah](person)
+- where does [fred](person) [work](personal_info)
+- display [address](personal_info) of [john](person)
+- [julie](person)'s [information](personal_info)
+- look up in contacts
+- is it [joes](person) [birthday](event_name) soon
+- is there a contact [named](personal_info) [allen](person) in my list
+- call [vikki](person)
+- what is [mom](relation)'s [email address](personal_info)
+- do i have any other contact [phone number](personal_info) for [alison](person)
+
+## intent:email_sendemail
+- email my [friend](relation) about our plans [tonight](timeofday)
+- send email to [cat](person) that i will accept job offer
+- email [james](person) about the softball game [james](person) we need to get some refreshments before heading over
+- send email to [daddy](relation) i'll be going to the [birthday party](event_name)
+- can you open the reply [inbox](email_folder)
+- prepare email for [susan](person)
+- [inbox](email_folder) this mail
+- reply to [heather](person)'s latest email by answering no
+- send an email to my [assistant](relation) [clara](person) to cancel all [appointments](event_name) for [tomorrow](date)
+- send an email for me
+- send an email to my [boss](relation)
+- i need an email to be sent to [comcastcom](business_name) about my service issues
+- email friend
+- send an email to [john](person)
+- go to email compile
+- reply wishes to [john](person) by email
+- send the email to [john](person)
+- send the following email to [bro](relation) hi come down for [dinner](meal_type) [tonight](timeofday)
+- please answer [jean](person)'s email
+- respond to [all](person) that i am on my way
+- send an email to [dad](relation) about the weather for the week
+- send a test email to
+- draft an email to [kailey](person) about work later
+- answer [paul](person)'s email
+- please reply to my [colleagues](relation) mail about his query
+- hello you have a send an email to someone
+- reply an email to [jason](person) that i will not come [tonight](timeofday)
+- hey send an email to my [friend](relation)
+- send email to [newmail@gmail dot com](email_address)
+- can you reply to the email
+- you should reply to the mail
+- hi [buddy](person) send mail to my [friend](relation) [hellen](person) regarding home builders are not accepted the offer
+- send an email to [fred](person) from work he is in my contacts
+- hey reply a mail which i received
+- please email [celine](person)
+- write an email about [next week](date) weather to my [wife](relation)
+- you can send the email to [abc@gmail dot com](email_address) this is my new email address
+- create an email that needs to go out to my [family](relation)
+- send email to [joanne@aol dot com](email_address) and add as new contact
+- send reply thank you so much [mom](relation) to mom
+- send an email to [mom](relation) subject weather body what is the weather like there [this week](date)
+- reply to [john](person)'s email [today](date) saying i will be late
+- i want to email my [supervisor](relation)
+- write email to [family member](relation) and read it back
+- send an email to [frank](person) and ask them what the weather going to be like [this week](date)
+- please open a reply to the email
+- compose an email to [parisa](person)
+- open [terry](person)'s email
+- email my meeting details to my [manager](relation)
+- send a mail to [alex](person) asking about the due payment
+- send [mom](relation) an email now
+- email [tom](person)
+- send email to [mom](relation) asking about the weather
+- open a new email to contact
+- reply to the latest email
+- can you send an email to my [mother](relation) about the weekly weather
+- compose this email to this new email address
+- send a confirmation email to [sandy](person)
+- reply to the mail with the following content hello you
+- send will do thanks to [john](person) as a reply to his last message
+- send email to [mom](relation) and tell her see her at [disney world](place_name)
+- text [sarah](person) if she is free for [brunch](event_name) [today](date)
+- respond back to the mail
+- forward email
+- start and email to [john smith](person)
+- i need to send an email to [michael](person)
+- send answer to [george](person)
+- email [mahmoud](person)
+- send email to [robert](person), what time is dinner
+- send this email to reply to the latest emails
+- send an email to [juanpedro@gmail dot com](email_address)
+- [mahaboobsayyad@gmail dot com](email_address)
+- can you send an email for me to a new email address
+- send mail to [bubbles](person) i want to meet her [tomorrow](date) at [two pm](time) in office
+- send an email to with the subject as test and no content
+- please start an email for my [sister](relation)
+- send email how are you [dad](relation) to [dad](relation)
+- please send email to [pawel](person) with reminder
+- send an email to [jesse](person)
+- reply back to this email
+- send email to [marissa](person)
+- email [alice](person) to let her know we are on the way
+- reply email to [charlotte](person)
+- open a reply message
+- reply to the email received from [mark](person)
+- send response i will be there
+- send a reply to [robert](person) for his email received [today](date) [morning](timeofday)
+- send email to bill asking to reschedule
+- send message via email
+- send email to [david davis](person) email address
+- please send a voice mail to [mr richard](person) office about [meting](event_name) him on [first of february twenty seventeen](date) at [five pm](time)
+- [inbox](email_folder) my [family](relation)
+- prepare to send an outgoing reply message
+- send mail to [mom](relation) i am planning vacations with her [next week](date)
+- send an email to my [wife](relation) about [next week](date) weather
+- email [co worker](relation) about work project
+- now i need to write an email to my [colleague](relation)
+- reply to [erins](person) email by saying i will be on time
+- my [friend](relation) [john](person) has sent me a invitation card to his newly bought home say thanks to him in his mail id
+- send email to [nancy](person) about [tomorrow](date)'s [work party](event_name) details
+- write an email recipient [ray](person)
+- send an email to my [family](relation) wishing them a happy [holiday](event_name)
+- forward the mail to new email address
+- hey i want to send an email to my [friend](relation)
+- send an email to my [brother](relation) and say [wedding anniversary](event_name)
+- tell [sean](person) i appreciate him reaching out to me
+- write this message to the [coworker](relation) group
+- respond to [graham](person) and let him know that i will be free [tomorrow](date)
+- send an email to my [boss](relation) and attach the presentation file with it apologize for being late
+- [lindafancy55@gmail dot com](email_address)
+- start email for address not in contacts
+- send an email to [emma](person)
+- answer the email
+- compose a mail for [jack](person)
+- i want the email to be sent to my new email address [abc@gmail dot com](email_address)
+- email my favourite contacts
+- i did not want you to send that text yet wait until i say send
+- send an email to my [boss](relation) about my leave
+- i need to edit [marie jones](person) email address to read
+- send an email to [peter](person) and ask him how is he now can i do something to help him
+- please send an email to [john](person) saying i'm on leave
+- send an email with the address you gave me to [jean](person) saying meet us here at [eight pm](time)
+- compose a new email to [ray](person)
+- mail [macs@xorg](email_address)
+- send a [birthday](event_name) email to my [boss](relation)
+- start email
+- email my [boss](relation) that i will be late [today](date) because of an emergency and apologize to him for missing the [meeting](event_name)
+- send an email to [rohit](person) saying i am busy tomorrow
+- reply email
+- send an email to [qerwerq@hotmail dot com](email_address)
+- please sent this email to my [friend](relation)
+- send email to [bro](relation) and say hi come down for [dinner](meal_type) [tonight](timeofday)
+- send [mom](relation) the following email
+- hey email [jan](person) about our [meeting](event_name)
+- will you send the email to [greg](person)
+- create an email to my [brother](relation) asking him what time he will be over for [dinner](meal_type)
+- reach by mail to my [family](relation)
+- send an email to [grandma](relation) saying we are dropping by on saturday see you then
+- pleas reply to the mail of [allen](person)
+- send an email to [bob](person)
+- send email new address
+- hey send email to [john](person)
+- please send a reminder email to peter and ask him how long he will be taking to prepare the presentation ppt
+- compose a new email but i got a new address this time [brandon at example dot com](email_address)
+- pull up outlook i need to send a email
+- respond to [mom](relation)'s mail message about the recipe site
+- schedule text messages for later
+- send an email to [bill](person) that i'm sorry i didn't realize he was so sick
+- send a request to [martin](person)
+- send a reply to [mike](person) with the answer four hundred and thirty from his email he sent this [morning](timeofday)
+- write an email to [luke](person) asking how the weather will be [this coming week](date)
+- send an email to [john](person) that i am on my way to home
+- send email to [gary](person)
+- send happy new year to [john@gmail dot com](email_address)
+- email my [mom](relation)
+- compose email
+- send email to [family](relation) and tell them to bring the bug spray before coming to the park
+- respond to my [bosses](relation) email with the word that i will be in at four in the evening
+- email [mom](relation) and ask how the weather is there
+- answer email
+- send this message to the [family](relation) group starts with a
+- please send [mom](relation) an email saying that i can make it [next week](date)
+- send an email to [adele](artist_name)
+- i need to add a new email to my contacts
+- send an email to my [mum](relation) that i will visit her next weekend
+- email [dad](relation) how is the weather [this week](date)
+- email my [sister](relation) about [mom](relation)'s [birthday](event_name) [jane](person) we should think about arranging the party at the park
+- tell [chris](person) i will be late through email
+- send an email to [george brown](person)
+- please send the email to [abc@gmail dot com](email_address) instead of [xyz@gmail dot com](email_address)
+- please send an email to [mom](relation)
+- email my [mother](relation)
+- i'd like to send a reply
+- email [chris](person) add following content sorry I will be late [today](date)
+- send email to [mommy](relation) that i'll be going the [party](event_name)
+
+## intent:general_affirm
+- great response to command.
+- yeap amazing response to the command.
+- yes you've done your understanding correcly.
+- yeap you have done answer exactly.
+- you have understood my instructions perfectly.
+- yeap excellent response to the command.
+- yes you have gotten it exactly.
+- you have done that perfectly.
+- you've got the command exactly.
+- you have got that exactly.
+- yes you got command exactly.
+- it was wonderful.
+- fantastic response to command.
+- you have done it correcly.
+- correct response to the command.
+- yes good response to command.
+- yeah right.
+- yes fantastic.
+- your understanding was exact.
+- yeap.
+- yeap that's right.
+- yes that is confirmed.
+- yeap you've got your understanding right.
+- yeah you have gotten my instructions perfectly.
+- yeah fantastic response to the command.
+- that is good.
+- you have understood my instructions exactly.
+- yeah it's good.
+- strongly agreed.
+- yes fantastic response.
+- yes the command was confirmed.
+- yes affirmative.
+- got it correcly.
+- yeap get that right.
+- good response to the command.
+- yeah you get it perfectly.
+- amazing response to the command.
+- yeap amazing response to command.
+- right response to command.
+- yeap correct response.
+- yeah you got your understanding perfectly.
+- got it exactly.
+- yeap great response.
+- yeap the command was exact.
+- you've got your understanding correcly.
+- exact response to the command.
+- yeah that is perfect.
+- yeap you get your understanding exactly.
+- excellent.
+- you've understood my instructions exactly.
+- yeap you have gotten the command perfectly.
+- yeah wonderful.
+- yes exact.
+- yes amazing response.
+- yeah that's great.
+- yeap perfect response to the command.
+- yes strongly agree.
+- yes your understanding was perfect.
+- yes you've done command exactly.
+- you've done the command correcly.
+- yes answer was confirmed.
+- the answer is confirmed.
+- yes agree.
+- answer is confirmed.
+- yes that's correct.
+- the command was confirmed.
+- yes the command is confirmed.
+- you've done the command right.
+- get command exactly.
+- you have got the answer exactly.
+- yes answer was amazing.
+- yeap you've gotten the command correcly.
+- that is excellent.
+- got the answer exactly.
+- yeah get that correcly.
+- yes correct response.
+- correcly.
+- yeap you get that perfectly.
+- yeah correct response to the command.
+- yes it's excellent.
+- your understanding is confirmed.
+- it's exact.
+- yeah great response to command.
+- yeap exact response to command.
+- yeap fantastic.
+- it's amazing.
+- yeah you did it exactly.
+- you've got the answer perfectly.
+- you've gotten your understanding correcly.
+- yes that's fantastic.
+- yes you get your understanding perfectly.
+- fantastic response to the command.
+- it's perfect.
+- yeap strongly agreed.
+- yes exact response.
+- yes that's amazing.
+- yes great response to the command.
+- yeap you've understood the answer right.
+- you've done your understanding correcly.
+- yeap it's good.
+- exact.
+- yeap you have got my instructions exactly.
+- yes right response.
+- you have done command exactly.
+- command was confirmed.
+- yeap you have got my instructions perfectly.
+- that's confirmed.
+- you've understood command perfectly.
+- you understood command exactly.
+- yeap correct response to the command.
+- yeah it's confirmed.
+- excellent response to the command.
+- that is correct.
+- yeah great response.
+- good response to command.
+- yeah that's confirmed.
+- yeah exact response.
+- you did it exactly.
+- yes you have understood my instructions perfectly.
+- yeah you did the command correcly.
+- you have done your understanding correcly.
+- yeap you have got my instructions correcly.
+- yeap good.
+- yeah please.
+- yeap excellent response.
+- yeap that was wonderful.
+- yeah you've got my instructions right.
+- yes perfectly.
+- yeap good response.
+- yeah you've got that perfectly.
+- yeap you've done that right.
+- yeah answer was correct.
+- yeap you've got command correcly.
+- yeap fantastic response to command.
+- yes you've understood that right.
+- yeah fantastic response to command.
+- that is right.
+- yeap you've understood my instructions perfectly.
+- yeap fantastic response.
+- yeap it's confirmed.
+- yeah that was fantastic.
+- you did command perfectly.
+- you've gotten my instructions exactly.
+- yes you have done that exactly.
+- you got that perfectly.
+- yeah you get command exactly.
+- yeah you've gotten my instructions right.
+- wonderful response to command.
+- yeap you've got my instructions correcly.
+- yeah you've understood my instructions perfectly.
+- yes wonderful response.
+- yes you got answer correcly.
+- yeah amazing response.
+- yeap you've understood it correcly.
+- you have done it perfectly.
+- it's right.
+- yeap right response.
+- yeap you've gotten that correcly.
+- yes you have done it exactly.
+- you have got my instructions right.
+- yeap perfect.
+- you understood the answer right.
+- yes wonderful response to command.
+- yes it's confirmed.
+- you understood command perfectly.
+- confirmed.
+- yeah you have got your understanding perfectly.
+- yeap right.
+- yeah you have got my instructions right.
+- yeap correcly.
+- yes right.
+- you have gotten that exactly.
+- yeap it was correct.
+- yeap that's correct.
+- yes it was perfect.
+
+## intent:general_commandstop
+- olly please will you shut off.
+- olly please shut down.
+- olly would you please shut up.
+- olly please will you shut up.
+- will you stop please.
+- please would you cancel.
+- i will talk to you later on.
+- can you please shut up.
+- olly will you stop it.
+- olly please cancel.
+- i would talk to you later.
+- olly that would be all.
+- olly that is enough, cancel.
+- i'd like you just stop.
+- please will you shut off.
+- olly shut down.
+- cancel.
+- please can you stop it.
+- olly that's all, stop it.
+- i'd like you just cancel.
+- olly will you shut up please.
+- that's enough, stop it.
+- olly could you stop.
+- please will you shut up.
+- i want you just stop it.
+- would you just stop it please.
+- will you just stop please.
+- olly can you just stop it please.
+- will you shut down please.
+- olly please shut off.
+- olly stop please.
+- olly just stop please.
+- please could you shut off.
+- please will you shut down.
+- would you shut up.
+- olly i like you cancel it.
+- that's enough, just cancel.
+- please would you just cancel it.
+- olly please can you shut off.
+- i'd like you cancel it.
+- will you please shut up.
+- olly can you cancel please.
+- olly that is all, just cancel.
+- i like you stop it.
+- olly i want you just stop it.
+- please shut down.
+- would you stop it.
+- olly will you shut down please.
+- i would like you stop.
+- olly i like you cancel.
+- please just cancel.
+- would you stop.
+- olly will you cancel it.
+- olly please would you shut off.
+- olly could you shut up please.
+- that's enough, stop.
+- olly would you shut up please.
+- that is enough, stop it.
+- olly i like you just cancel.
+- please would you cancel it.
+- just cancel.
+- please cancel.
+- that's enough, just cancel it.
+- olly that is enough, just cancel.
+- that's all, just cancel it.
+- olly please would you shut down.
+- could you please shut down.
+- would you stop please.
+- i like you just cancel it.
+- olly talk to you later on.
+- that would be all.
+- olly could you shut down.
+- olly will you shut down.
+- can you shut off please.
+- that's enough, just stop it.
+- that's all, just stop.
+- olly will you please shut off.
+- olly that is enough, cancel it.
+- i will talk to you later.
+- would you shut up please.
+- could you please shut up.
+- olly can you please shut up.
+- can you shut up please.
+- that's all, stop.
+- talk to you later.
+- shut up.
+- olly will you stop please.
+- olly that's enough, stop it.
+- can you just stop it please.
+- olly can you shut off.
+- can you please shut down.
+- olly that's all, just stop.
+- olly could you just cancel please.
+- olly would you shut up.
+- olly please stop.
+- olly would you shut off please.
+- just stop please.
+- please will you just cancel.
+- just cancel please.
+- olly that will be all.
+- could you stop please.
+- olly please can you just stop it.
+- olly i would like you stop.
+- would you shut off please.
+- could you shut down.
+- i want you cancel.
+- that is all, just cancel.
+- olly please would you just stop it.
+- olly will you please shut down.
+- olly that's enough, cancel.
+- could you just cancel.
+- olly could you please shut off.
+- olly please could you just cancel.
+- olly can you shut up.
+- will you shut up.
+- please can you shut off.
+- olly i would like you just cancel it.
+- olly that's enough, stop.
+- i would talk to you later on.
+- i like you just cancel.
+- olly will you shut off.
+- please can you cancel it.
+- olly that is enough, stop it.
+- would you please shut up.
+- olly can you please shut down.
+- olly that is enough.
+- olly i'd like you just cancel it.
+- would you just cancel it please.
+- would you please shut down.
+- that is all, stop it.
+- olly would you please shut off.
+- i would like you just cancel.
+- olly i will talk to you later.
+- please would you shut up.
+- olly shut up.
+- can you just cancel please.
+- olly please could you shut up.
+- please shut off.
+- could you just cancel it please.
+- olly can you please shut off.
+- olly please could you shut down.
+- olly please just stop.
+- olly would you shut off.
+- olly that's all.
+- olly i want you cancel it.
+- can you shut up.
+- olly can you shut up please.
+- that is enough, just cancel it.
+- would you shut off.
+- olly just stop.
+- olly could you shut off.
+- olly i want you stop.
+- olly will you stop.
+- would you shut down please.
+- can you just cancel it.
+- olly i would like you just stop it.
+- that is all, just cancel it.
+- that is all, just stop.
+- olly could you please shut up.
+- i want you just cancel it.
+- olly please can you cancel.
+- olly that is all.
+- olly that is all, just stop it.
+- olly please just cancel.
+- could you shut up.
+- i like you stop.
+- that is all.
+- olly please could you cancel.
+- olly will you just stop it please.
+- olly that is enough, just cancel it.
+- that is enough.
+- will you please shut off.
+- i would like you cancel it.
+- olly that is all, cancel.
+- shut down please.
+
+## intent:general_confirm
+- confirm the question please.
+- confirm last thing said please.
+- please check last thing i said.
+- i like you check and confirm last thing i said please.
+- please confirm it.
+- i like you confirm my last command please.
+- will you check and confirm instruction.
+- can you check last thing i said please.
+- would you confirm last thing i said please.
+- can you check and confirm detail please.
+- did you get my last command correctly?
+- would you check and confirm the question please.
+- please check detail.
+- can you please confirm what said.
+- did you get it correctly?
+- please confirm my last instruction.
+- would you please confirm that.
+- can you check and confirm my last command please.
+- would you please check and confirm what i last said.
+- would you please check my last command.
+- could you confirm my last instruction please.
+- could you confirm what i just said please.
+- please will you confirm command.
+- will you check and confirm my last command.
+- can you check my last question.
+- check the command.
+- can you please check what i last said.
+- please would you check and confirm it.
+- could you please check and confirm my last command.
+- check that.
+- please will you check last thing said.
+- check and confirm what i said please.
+- please check and confirm command.
+- please check and confirm detail.
+- please check my last question.
+- i'd like you check details please.
+- please can you check that.
+- could you please check that.
+- did you get last thing said correctly?
+- would you please check that.
+- i'd like you to check and confirm last thing said please.
+- could you check what just said.
+- check and confirm the last thing said please.
+- please check and confirm the last thing said.
+- please check and confirm the command.
+- i want you confirm that please.
+- i like you to confirm the details please.
+- did you get the last thing i said correctly?
+- could you confirm detail please.
+- confirm that please.
+- check and confirm the details please.
+- would you please check instruction.
+- did you get that correctly?
+- did you get what i just said correctly?
+- did you get the last thing said correctly?
+- can you check and confirm details.
+- could you check and confirm detail please.
+- please confirm my last question.
+- please can you check and confirm last thing i said.
+- i would like you check detail please.
+- please will you check and confirm it.
+- confirm the last thing said please.
+- would you check what i said.
+- check last thing i said please.
+- i want you to check what just said please.
+- could you please check what said.
+- i want you check the last thing i said please.
+- i would like you to check and confirm my last command please.
+- will you please check and confirm detail.
+- would you please confirm the last thing i said.
+- can you please check my last question.
+- i would like you to check what last said please.
+- please can you confirm last thing said.
+- could you confirm the question please.
+- would you check and confirm the details please.
+- please can you check the last thing i said.
+- i would like you check details please.
+- can you please check and confirm the detail.
+- i'd like you check what i last said please.
+- would you please check the detail.
+- could you please confirm the details.
+- i'd like you confirm it please.
+- i like you to confirm question please.
+- can you please check and confirm what just said.
+- will you please check and confirm the last thing i said.
+- check and confirm that please.
+- i would like you to check the question please.
+- i want you to confirm what i last said please.
+- i like you check what i last said please.
+- would you confirm the detail.
+- please will you check and confirm what i just said.
+- can you please confirm last thing i said.
+- i would like you confirm last thing i said please.
+- check and confirm the detail please.
+- i like you check it please.
+- did you get my last instruction correctly?
+- please can you check and confirm what just said.
+- would you check the details please.
+- please can you confirm the command.
+- please will you check and confirm my last instruction.
+- could you please check and confirm the detail.
+- would you check and confirm question please.
+- please confirm details.
+- will you please check and confirm it.
+- please would you check instruction.
+- would you please check question.
+- could you please check the detail.
+- could you please check and confirm details.
+- check the last thing said please.
+- i would like you check and confirm it please.
+- please would you confirm detail.
+- i like you to confirm detail please.
+- can you confirm instruction.
+- please confirm last thing said.
+- would you please check and confirm detail.
+- did you get the instruction correctly?
+- would you please check it.
+- confirm detail please.
+- check last thing i said.
+- check what just said please.
+- check question.
+- i like you confirm last thing said please.
+- i like you confirm details please.
+- check and confirm last thing said please.
+- would you check and confirm last thing said please.
+- would you check my last question please.
+- will you confirm that please.
+- could you please confirm what i just said.
+- i'd like you to confirm that please.
+- will you check what i said please.
+- could you check that please.
+- please will you check details.
+- please will you confirm the last thing said.
+- would you please check and confirm it.
+- could you check instruction.
+- i like you to check it please.
+- could you check it.
+- did you get the detail correctly?
+- please check last thing said.
+- can you confirm what just said please.
+- i'd like you check my last question please.
+- would you please check what i last said.
+- could you please check and confirm last thing i said.
+- can you check and confirm what said please.
+- i'd like you check and confirm that please.
+- can you please check the last thing i said.
+- would you check and confirm detail please.
+- check and confirm the instruction please.
+- would you check my last command.
+- did you get last thing i said correctly?
+- i want you to check what i just said please.
+- would you confirm the last thing i said please.
+- confirm my last command please.
+- check and confirm my last command please.
+- i'd like you confirm the question please.
+- can you confirm the details please.
+- please could you confirm instruction.
+- would you please confirm details.
+- will you check and confirm that please.
+- i would like you to check and confirm detail please.
+- please can you confirm details.
+- check last thing said please.
+- please check what said.
+- could you please confirm the instruction.
+- check and confirm the instruction.
+- check detail please.
+- could you please check and confirm that.
+- check what said.
+- can you confirm what said please.
+- please will you check my last instruction.
+- can you please check command.
+- please could you check question.
+- i want you to check and confirm what last said please.
+- please can you check and confirm the details.
+- can you please confirm detail.
+
+## intent:general_dontcare
+- i do not really know, olly.
+- would not care.
+- anything will be okay with me.
+- does not matter to me.
+- it is unimportant for me, olly.
+- that does not matter for me, olly.
+- it does not matter with me, olly.
+- i wouldn't know.
+- anything will be good with me, olly.
+- i would not really know, olly.
+- i wouldn't really mind.
+- it is of no importance to me, olly.
+- i would not mind for any one.
+- wouldn't know, olly.
+- have no idea regarding to what to do.
+- it doesn't really matter, olly.
+- do not really care.
+- wouldn't know.
+- anything is fine to me, olly.
+- doesn't really matter for me.
+- i don't really mind.
+- i don't mind for whatever.
+- any one will be okay with me, olly.
+- whatever will be okay for me.
+- doesn't matter, olly.
+- this is unimportant to me, olly.
+- i wouldn't really mind, olly.
+- that doesn't matter for me, olly.
+- anything is ok to me.
+- i wouldn't really care.
+- anything would be ok with me.
+- don't care.
+- have no idea for what to choose.
+- i do not really mind for anything.
+- really would not mind.
+- i do not really care.
+- that is of no importance, olly.
+- i have no idea for which to choose.
+- anything is ok with me.
+- i don't really mind for anything.
+- anything would be fine with me.
+- any one is okay to me.
+- i don't really mind to select any one.
+- i would not really mind, olly.
+- it doesn't matter for me.
+- i have no idea for which to select.
+- have no idea, olly.
+- anything would be good.
+- really i would not mind.
+- wouldn't mind for anything.
+- i have no idea regarding to which to select.
+- i would not bother.
+- whatever is ok with me.
+- wouldn't mind to select any one, olly.
+- that does not really matter with me, olly.
+- do not really bother.
+- have no idea regarding to which to select, olly.
+- really wouldn't mind.
+- that is of no importance for me, olly.
+- that is unimportant with me.
+- would not really mind.
+- i would not mind for any one, olly.
+- i don't mind for any one, olly.
+- this does not matter, olly.
+- have no idea regarding to which to choose.
+- do not really mind for any one.
+- that does not matter.
+- have no idea regarding to which to select.
+- whatever, olly.
+- it is unimportant to me.
+- any one will be ok with me, olly.
+- i don't really care.
+- anything is good to me.
+- anything would be okay with me.
+- that is of no importance for me.
+- doesn't really matter with me.
+- any one, olly.
+- do not mind to choose any one.
+- any one would be good to me.
+- whatever is good with me, olly.
+- i have no idea, olly.
+- any one would be fine for me.
+- i wouldn't really care, olly.
+- whatever is okay with me.
+- do not care.
+- i don't care, olly.
+- wouldn't mind.
+- any one will be fine.
+- any one would be okay, olly.
+- whatever would be ok to me.
+- would not know.
+- that is unimportant.
+- whatever would be good to me, olly.
+- don't really bother.
+- i wouldn't bother, olly.
+- i wouldn't bother.
+- that is unimportant, olly.
+- anything is okay with me.
+- this is unimportant with me, olly.
+- don't bother, olly.
+- would not bother, olly.
+- do not mind.
+- that doesn't really matter to me.
+- i would not know, olly.
+- i don't really mind for whatever.
+- any one would be okay with me, olly.
+- i wouldn't really bother, olly.
+- doesn't matter with me, olly.
+- it is unimportant.
+- i don't bother.
+- anything is fine.
+- wouldn't mind to choose any one.
+- wouldn't really bother.
+- have no idea about what to do, olly.
+- any one will be good to me.
+- do not mind for any one.
+- whatever.
+- i don't really mind to choose any one.
+- do not mind to select any one.
+- wouldn't bother.
+- don't mind.
+- would not mind to select any one, olly.
+- i do not care.
+- does not matter.
+- doesn't matter.
+- it doesn't matter to me.
+- whatever is good.
+- have no idea for which to choose.
+- this is unimportant to me.
+- whatever is okay for me.
+- this is unimportant.
+- that does not matter with me.
+- i do not know.
+- i would not bother, olly.
+- that doesn't really matter.
+- don't mind for whatever.
+- have no idea for which to select, olly.
+- whatever will be fine.
+- don't mind to choose any one.
+- don't really know.
+- really i don't mind, olly.
+- any one will be ok for me.
+- anything would be good with me, olly.
+- doesn't really matter to me.
+- i have no idea for which to choose, olly.
+- that is unimportant to me, olly.
+- i have no idea for what to do, olly.
+- really don't mind, olly.
+- don't really care.
+- does not really matter to me.
+- whatever would be good.
+- this does not matter to me, olly.
+- i have no idea regarding to what to select.
+- anything is ok for me.
+- this doesn't really matter to me.
+- that does not really matter, olly.
+- don't bother.
+- would not really care, olly.
+- i do not really care, olly.
+- i don't mind to select any one.
+- wouldn't really mind to choose any one, olly.
+- does not really matter with me.
+- it is of no importance, olly.
+- this is of no importance to me.
+- that does not matter for me.
+- i have no idea regarding to what to do, olly.
+- anything is okay for me.
+- that doesn't matter to me, olly.
+- i do not know, olly.
+- would not mind for any one.
+- anything will be ok with me.
+- i do not really mind, olly.
+- doesn't matter with me.
+- wouldn't really care.
+- do not really mind for whatever, olly.
+
+## intent:general_explain
+- once again clarify me about your answers please.
+- don't get this.
+- explain it further please.
+- s1, rephrase me more on it.
+- would you elaborate again to me please.
+- would you once again clarify me about your response please.
+- would you explain further on it to me please.
+- i am unclear about your response.
+- s1, please elaborate further on it to me.
+- please explain again to me.
+- further explain.
+- s1, again clarify your answers please.
+- it was not clear.
+- s1, would you please further clarify me on your answers.
+- s2, i was not so clear about what you said now.
+- s1, could you rephrase further on what you have said to me please.
+- could you clarify me on it further.
+- could you please again clarify your answer to me.
+- please explain me more on what you said.
+- s2, i was unclear about what you've just said.
+- s1, will you further explain.
+- please further elaborate your response.
+- i am not so clear about your answers.
+- could you again elaborate me on your answers please.
+- s1, rephrase me further on it please.
+- s2, do not get your answer.
+- could you please once again elaborate to me.
+- s2, i can not catch up with you.
+- s1, would you explain me about what you have just said once again.
+- will you further elaborate me on what you have said please.
+- s2, i was not clear about it.
+- i was unclear about what you have said.
+- i don't quite catch that.
+- i do not get the last sentence.
+- can you further explain me on it please.
+- again clarify me on your answers please.
+- s1, please clarify me about your answers once again.
+- please further rephrase it.
+- i could not quite catch up with you.
+- i can not quite catch up with you.
+- your answer was not so clear.
+- s1, can you please again rephrase to me.
+- elaborate me about your answers further.
+- i can't get that.
+- can you please clarify once again.
+- s2, i could not quite catch up with you.
+- s1, can you rephrase me more on the last sentence please.
+- s2, i was unclear about your answers.
+- will you explain me more on what you just said please.
+- what you have said is not so clear.
+- can you elaborate me on your answers again.
+- can you explain me further on what you just said.
+- what you just said was not so clear to me.
+- explain further please.
+- please can you rephrase me further on your answers.
+- could you please further elaborate me about what you have just said.
+- i don't understand what you just said now.
+- your words was not so clear.
+- i do not catch up with you.
+- will you further elaborate me on it please.
+- would you please elaborate more on your response to me.
+- i did not catch that.
+- s1, please elaborate me on your answer further.
+- could you elaborate me more on your response please.
+- i was not clear about what you just said now.
+- i could not understand this.
+- explain further on last sentence to me please.
+- what you have said was not so clear to me.
+- please rephrase more on what you have just said to me.
+- can you please further explain me about that.
+- further elaborate me on what you have said please.
+- once again elaborate me on that.
+- i don't get this.
+- s2, i don't get your words.
+- please rephrase me more on what you said now.
+- what did you mean by it.
+- s1, will you please further explain me about what you said.
+- could you clarify further on what you said now to me please.
+- s2, i am unclear about it.
+- what did you mean by that.
+- i am unclear about your answer.
+- would you again explain the last sentence to me please.
+- please explain me more on what you've just said.
+- i am not so clear about that.
+- what do you mean.
+- will you once again rephrase me about what you just said now.
+- i was not so clear about your answers.
+- s1, again elaborate me on what you have just said please.
+- explain further.
+- s2, i was not clear about that.
+- please will you elaborate further on last sentence.
+- will you please clarify again.
+- explain me further on what you have said please.
+- once again explain it to me.
+- please will you explain me more on what you've said.
+- s1, please explain me more on your answers.
+- will you explain me about the last sentence further please.
+- what do you mean by it.
+- what you have said was not so clear.
+- s2, i am unclear about your words.
+- will you please rephrase me further on that.
+- can you please further elaborate what you just said.
+- i couldn't get what you've said.
+- can you elaborate further on this to me please.
+- s1, can you please explain more on what you've said to me.
+- s2, i could not catch up with you.
+- can you please clarify me more on your answers.
+- what did you mean by saying this.
+- could not understand it.
+- would you please once again explain me about your words.
+- s2, do not get the last sentence.
+- i don't understand what you have said.
+- s2, can not get this.
+- your response was not clear.
+- s2, i can not quite catch that.
+- please once again rephrase me about what you have said.
+- i didn't catch that.
+- will you rephrase this again to me please.
+- s1, explain more on your response.
+- s2, could not get what you have said.
+- s2, i didn't catch up with you.
+- rephrase me about what you've said further please.
+- please clarify once again.
+- can you please explain more on last sentence to me.
+- s1, would you further elaborate to me please.
+- s2, last sentence was not clear.
+- s2, i didn't catch that.
+- clarify further on that to me please.
+- please elaborate once again to me.
+- i did not quite catch that.
+- your answer is not clear.
+- i was not clear about your response.
+- could you once again rephrase me about your answers.
+- s1, please explain further on your words to me.
+- i am not so clear about what you just said.
+- i am not clear about your answers.
+- i am not clear about last sentence.
+- s2, i could not get that.
+- will you rephrase me on what you've just said again please.
+- will you explain me about what you have said once again please.
+- what did you mean by saying it.
+- would you please once again rephrase me on your answers.
+- rephrase further on your response please.
+- s2, i didn't quite catch that.
+- would you again clarify me on it.
+- have you made a mistake.
+- elaborate further on what you've just said to me please.
+- s1, please once again clarify to me.
+- s1, can you further clarify me on it.
+- will you please again elaborate.
+- can you please clarify me about this further.
+- could you elaborate further on your answers to me.
+- once again elaborate me on what you have just said please.
+- s1, again explain to me please.
+- s1, would you elaborate further on your answer to me please.
+- can you please clarify me more on your answer.
+- s1, could you please clarify me about what you've just said once again.
+- s1, further rephrase me about what you just said now please.
+- s2, i was unclear about your response.
+- didn't understand your answers.
+- please will you further clarify me on that.
+- once again explain your answer.
+- i was not clear about your answer.
+- would you elaborate your words once again to me please.
+- s1, please again elaborate me about your answer.
+- i am not clear about your words.
+- could you rephrase me about your response again please.
+- please will you clarify me more on it.
+- please explain me about your words once again.
+- please rephrase again to me.
+- s1, rephrase this further.
+- elaborate me further on your answer please.
+- i was not so clear about your words.
+- would you again rephrase me on your words please.
+- i was not so clear about what you've said.
+
+## intent:general_joke
+- can you tell me a [nice](joke_type) joke
+- say joke
+- i need to find a [funny](joke_type) joke that is ok for [kids](relation)
+- do you know any [good](joke_type) jokes
+- do you know any jokes
+- i need a [good](joke_type) joke
+- the joke of the day
+- i want to hear a [yo mama](joke_type) joke
+- humor me
+- find me the best [knock knock](joke_type) joke on the internet
+- tell me joke
+- tell me a joke about [birds](joke_type)
+- what is the [funniest](joke_type) joke ever
+- what's the [funniest](joke_type) joke you know
+- say some jokes
+- i need a [funny](joke_type) joke to tell [sam](person)
+- please tell me a joke
+- tell joke
+- tell me a joke about a [man](joke_type)
+- hey olly make me laugh with a [good](joke_type) joke
+- tell me a [good](joke_type) joke
+- cheer me up
+- tell me a joke [about aliens](joke_type)
+- hey tell me a [knock knock](joke_type) joke
+- find jokes on the web
+- make me laugh i want to hear a joke
+- i want to hear a joke
+- open some [cools](joke_type) jokes
+- hey olly tell me a joke
+- hey share me some joke to make me happy
+- joke of the day
+- tell me a joke
+- tell me a [dirty](joke_type) joke
+- find a joke in your vault and tell me
+- i would like to hear some [good funny](joke_type) jokes
+- share me a joke
+- make me happy
+- what is a [good](joke_type) joke
+- how many jokes do you know
+- give me a joke
+- open jokes
+- make me smile by telling a joke
+- do you know any joke
+- provide a joke
+- what is the [highest rated](joke_type) joke [today](date)
+- joke me
+- any [funny](joke_type) jokes
+- tell me a [clean](joke_type) joke
+- search for [new](joke_type) jokes
+- what's a [good](joke_type) joke
+- tell me a joke [about chickens](joke_type)
+- say a [funny](joke_type)
+- do you have a [funny](joke_type) joke for me
+- a joke please
+- can you find an [animal](joke_type) joke for me
+- make me laugh
+- could you tell me [funny](joke_type) things
+- say something [funny](joke_type)
+- tell me a joke about [dogs](joke_type)
+- tell me the [funniest](joke_type) joke that was ever told
+- are you aware this joke
+- find [funny](joke_type) jokes
+- let me laugh hearing some [good](joke_type) joke
+- [funny](joke_type) joke
+- tell me a good [doctor](joke_type) joke
+- what is your [best](joke_type) joke
+- [funny](joke_type) story
+- tell me some [funny](joke_type) joke to laugh
+- [sarcastic](joke_type) jokes
+- let me hear a joke
+- knock knock
+- say a joke
+- search for a good [nerd](joke_type) joke
+- i want to listen to a joke
+- i would like a joke
+- say a [good](joke_type) joke for me right now
+- send a giggle my way
+- hey do you know any jokes
+- tell [funny](joke_type) things
+- i need to hear a joke can you tell me one
+- i wanna laugh can you make it happen
+- what is a [funny](joke_type) joke
+- i want to hear a [funny](joke_type) joke
+- tell me a joke about [lawyers](relation)
+- tell me a joke please
+- tell me some joke
+- show me a [funny](joke_type) joke
+- jokes
+- tell me a [funny](joke_type) joke
+- find the joke about [the orange and the banana](food_type)
+- be funny for me
+- i want to hear a [good](joke_type) joke
+- please tell me a joke that i'll think is funny
+- hey olly have you heard any [funny](joke_type) jokes lately
+- can you tell me a joke
+- have you heard any [good](joke_type) jokes lately
+- i need a [naughty](joke_type) joke not to naughty though
+- what is a [funny](joke_type) joke about [car](joke_type)
+- what's the famous monty python joke about the bird
+- what's the [funniest](joke_type) joke
+- whats a [silly](joke_type) joke you know
+- tell me jokes
+- tell a joke
+- crack a joke
+- what's the [latest](joke_type) joke
+- a [priest](relation) walks into a [bar](business_type)
+- whats a [good](joke_type) joke
+- tell me something [funny](joke_type)
+- tell a joke that puts smile on my face
+- can i hear the joke [about the old woman](joke_type) again
+
+## intent:general_negate
+- i think you messed up with my command.
+- this was not what i am searching for.
+- uhh no, that's not what i am searching for.
+- i am sorry but this was not the correct command.
+- you told me the incorrect date please correct this.
+- nope, i did not say it.
+- shit, i didn't ask for this.
+- sorry but it was not the correct response.
+- incorrect command.
+- thanks but this is not the right response.
+- goddammit.
+- i am sorry but that's not the correct response.
+- dammit, it isn't what i asked.
+- are you sure that is correct.
+- stop, this is not right answer.
+- oh no, you gave me not right information.
+- thanks but i think you did not get the answer correctly.
+- sorry but that is not the right answer.
+- uhh no, i did not say this.
+- dammit, that's not what i meant.
+- thanks but i think that was not the correct command.
+- that was incorrect let's try again.
+- no, i think that's not the right response.
+- you didn't say my name right.
+- it seems like olly's command was not right.
+- i am sorry but you did not interpret command right.
+- i think you've done this all in wrong manner.
+- dont do that again.
+- i did not say it.
+- uh no, you've done in wrong manner.
+- it's not the correct command.
+- oops, i think this was not the right response.
+- thanks but i think this was not the correct command.
+- uhh no, you didn't interpret the request right.
+- that isn't what i meant.
+- i think this was not correct.
+- wait, this is not the right command.
+- thanks but you didn't get me.
+- shit, you've done a task wrong.
+- thanks but i think you have messed up my request.
+- nope, incorrect command.
+- thanks but you have got it incorrect.
+- i think you did not get this right.
+- sorry but that was not the correct response.
+- i am sorry but that is not the right answer.
+- thanks but i think you do not understand this right.
+- i think that's not correct answer.
+- shit, not correct response.
+- please make sure your command was correct because it doesn't sound right.
+- please check the command.
+- i am sorry but i think you have messed up with my request.
+- sorry but i think you are not right.
+- sorry but it is not correct.
+- i am sorry but you have messed up with my request.
+- i don't think thats right.
+- i am sorry but i think that's not correct.
+- dammit, it isn't what i am looking for.
+- shit, not correct.
+- this is not the correct answer.
+- i asked for something else.
+- i think you made mistake, please change this.
+- listen carefully that is not correct.
+- oops, that's not the right response.
+- uh no, i think incorrect command.
+- i did not ask for that.
+- i am sorry but i think it's not the right command.
+- wrong i will repeat the command now.
+- thats not it please do it again.
+- i do not think that was correct.
+- thanks but it is not correct command.
+- that was not what i meant.
+- i think you made some mistake, please check it.
+- oops, i think you do not understand me.
+- that wasn't it.
+- you didn't get it correctly.
+- uhh no, i think you've done this incorrectly.
+- dammit, that's not what i said.
+- dammit, i think incorrect response.
+- it must be mistake.
+- this is not what i requested.
+- nope, i didn't say this.
+- i think you did the task incorrectly.
+- thanks but i think it's wrong response.
+- wait, you've understood me not right.
+- i think incorrect.
+- it seems like the answer was not correct.
+- nope, i think you did this all in wrong manner.
+- oops, you're wrong.
+- sorry but it is incorrect.
+- please modify the wrong command.
+- you've got me incorrectly.
+- olly's command is incorrect.
+- uhh no, i think not right response.
+- the command was wrong.
+- i am sorry but i think it is not the right command.
+- nope, you are incorrect.
+- that must be some mistakes.
+- you are leading me into wrong.
+- stop, you didn't instruction the request right.
+- no, you gave me not correct information.
+- hmm, it is not what i wanted.
+- hmm, not correct response.
+- hmm, you gave me not correct information.
+- i am sorry but this was not the right command.
+- i am sorry but it's not the right answer.
+- sorry but that's not the correct response.
+- please rectify the command.
+- you had me incorrectly.
+- oh no, this was not what i was searching for.
+- hmm, you've done this all in wrong manner.
+- i think you are wrong.
+- shit, that isn't what i wanted.
+- shit, it isn't what i was searching for.
+- the command is not correct.
+- this was not correct command.
+- sorry but it's not the right answer.
+- oh no, you did task all wrong.
+- i am sorry but it's not correct response.
+- i think that's not the right command.
+- that's wrong.
+- seems like the response was not correct.
+- you don't understand it right.
+- uhh no, you gave me not correct information.
+- that's not what i just said.
+- nope, you did a task in wrong manner.
+- no, you don't get what i just requested.
+- i think this was not the correct answer.
+- uh no, i did not ask for that command.
+- uh no, i think not correct response.
+- thanks but it's not the correct command.
+- that's not the correct answer.
+- thanks but i think you made some mistakes.
+- uh no, it isn't what i am looking for.
+- stop, i think that's not the correct command.
+- oh no, i didn't say it.
+- shit, you made a mistake, please correct this.
+- your answer was not what i was looking for.
+- oh no, you did not get what i was searching for.
+- wait, i think that's not the correct command.
+- thanks but i think you have gotten me not correct.
+- oh no, you've done the task wrong.
+- olly i said call jack not jake.
+- oh no, i think you have done a task wrong.
+- i think it's not the correct answer.
+- i am sorry but you got that incorrectly.
+- dammit, this isn't what i just said.
+- you have done task all wrong.
+- uhh no, that isn't what i was looking for.
+- hmm, i think incorrect answer.
+- i think you didn't understand me.
+- uh no, you gave me incorrect information.
+- i think you've done task all wrong.
+- i am sorry but i think you are not right.
+- sorry but i think you have messed up with command.
+- uhh no, you have done task all in wrong manner.
+- that's not the right answer.
+- dammit, not right response.
+- thanks but you are incorrect.
+- i am sorry but i think you're incorrect.
+- no, you gave me incorrect information.
+- it was not the correct response.
+- nope, it's not the correct command.
+- i think you have done the task all wrong.
+- sorry but i think you got it wrongly.
+- oops, you did not get me.
+- sorry but you have messed up the command.
+- uhh no, i did not say that.
+- i think you have made a mistake, please rectify this.
+- hmm, i think not correct.
+- hmm, i did not ask for this response.
+- you gave me not correct information.
+- i think this is not correct command.
+- you have done the task wrong.
+- uh no, i think you have done task in wrong manner.
+- no, it is not what i wanted.
+
+## intent:general_praise
+- that's helpful,.
+- that's perfect, musch appreciated.
+- thank you so much.
+- fantastic job, you did well, olly.
+- perfect work, you've done well, olly.
+- appreciate your helping, olly.
+- it is great one, thank you.
+- you did awesome job,.
+- that's wonderful work, thank you.
+- you've done it right thank you so much.
+- you helped a lot, i appreciate it, olly.
+- it's useful,, olly.
+- you have done that correctly thanks.
+- thanks, it's perfect, olly.
+- that's cool, thank you very much, olly.
+- you are awesome, thanks.
+- i appreciate your helping.
+- you are so helpful, musch appreciated, olly.
+- you've done it correctly thank you.
+- you are my hero, thank you so much, olly.
+- that was helpful,.
+- thank you so much for the information.
+- thanks for doing that.
+- it was cool, thank you very much.
+- you are helpful, appreciated.
+- it's helpful, thank you very much.
+- awesome work, you've done well.
+- thank you so much for your helping.
+- that is nice work, thanks.
+- well done,.
+- amazing job, you have done well.
+- that's good one, thank you very much.
+- ah it was great one, olly.
+- it's good one, appreciated.
+- thank you for doing it, olly.
+- it was nice one, thanks.
+- thanks for your answers.
+- thank you very much, olly.
+- thanks for reminding me.
+- thanks for asssistance.
+- ah it's great work.
+- thank you very much for listening.
+- you are awesome, i appreciate it.
+- you've done that correctly thanks.
+- thank you so much for the help, olly.
+- you rock, musch appreciated.
+- it was good job, i appreciate it, olly.
+- appreciated, olly.
+- ah it's awesome, olly.
+- thanks for the response, olly.
+- that is helpful, thanks.
+- oh it's nice one.
+- you have done it right musch appreciated, olly.
+- it's perfect job, musch appreciated, olly.
+- you are star, thank you.
+- that's good one, olly.
+- you are smart.
+- it was good one, thank you very much.
+- that's useful, thank you so much, olly.
+- you are the best,.
+- oh it is nice one, olly.
+- that is cool, musch appreciated.
+- ah that is great one.
+- it's useful, thank you so much.
+- that's useful, thank you.
+- that's cool,.
+- you are my hero, appreciated.
+- you have done it right thanks, olly.
+- it's cool, thanks.
+- it was helpful, musch appreciated.
+- you've done that right thank you very much.
+- that's amazing work, i appreciate it.
+- i appreciate answers.
+- that's helpful, thank you very much.
+- that's amazing job, musch appreciated.
+- i appreciate it, that's great job.
+- you did great job, musch appreciated.
+- it's fantastic, thanks.
+- you are so helpful, thank you so much, olly.
+- you are the best, thank you so much, olly.
+- it's excellent, appreciated.
+- great job, you have done well.
+- you did nice job, appreciated, olly.
+- that's useful, thank you very much.
+- you have done it correctly musch appreciated, olly.
+- that's nice job, thank you so much.
+- you are awesome,.
+- awesome work, you did well.
+- you are so helpful, thank you so much.
+- excellent job, you have done well.
+- you are my hero,.
+- that's nice one, thanks.
+- you are helpful, musch appreciated.
+- that's helpful, i appreciate it.
+- oh that's good, olly.
+- that's cool,, olly.
+- ah that's awesome work.
+- it's fantastic, musch appreciated.
+- you helped a lot, musch appreciated, olly.
+- thanks for reminding me, olly.
+- well done, musch appreciated.
+- you are smart, olly.
+- you've done that right, olly.
+- it's useful, thank you.
+- it was cool, i appreciate it.
+- musch appreciated, that's good.
+- appreciated, that's nice.
+- wonderful work, you did well, olly.
+- you did awesome work,.
+- you've done it right thanks.
+- thanks for the helping, olly.
+- it's helpful, musch appreciated, olly.
+- perfect job, you have done well.
+- it was nice job, thank you so much.
+- you rock, i appreciate it.
+- you are star, musch appreciated, olly.
+- good work, you have done well, olly.
+- thanks for the answer.
+- that was cool,, olly.
+- you did nice job, thank you.
+- thank you so much, olly.
+- you are my hero, thank you, olly.
+- you are hero, thank you very much.
+- it's great one, i appreciate it.
+- you did awesome work, thank you so much.
+- you helped a lot,, olly.
+- that's useful, appreciated, olly.
+- you've done that right.
+- i appreciate it, it is great one, olly.
+- you've done it right appreciated.
+- you are hero,, olly.
+- it is useful, thank you so much.
+- it is useful, thank you.
+- you are star, thank you so much.
+- it was nice one, thank you very much.
+- it's amazing job, thank you very much, olly.
+- ah that was great work.
+- that was good one, thank you so much.
+- you are helpful, thanks.
+- oh it's great job.
+- that's good one.
+- ah it is excellent.
+- nice job, you have done well, olly.
+- well done, thank you so much.
+- it's good job, i appreciate it.
+- thanks, that's fantastic job, olly.
+- you've done that correctly thank you very much.
+- that's amazing, thanks, olly.
+- thank you very much for your answers.
+- you did good job, thanks.
+- you rock,.
+- that's useful, musch appreciated, olly.
+- it was amazing, olly.
+- you've done it correctly thanks, olly.
+- thank you very much for that information.
+- thank you, olly.
+- thank you.
+- you are hero, appreciated.
+- thank you very much for reminding me of that.
+- ah it's amazing.
+- that's great one, thanks.
+- i appreciate it, that's amazing.
+- thank you for your response, olly.
+- that was nice one.
+- fantastic work, you've done well.
+- that's good one, thank you very much, olly.
+- you are my star, thank you so much.
+- it's helpful, thank you.
+- it's wonderful job, thank you very much.
+- that was useful,.
+- you have done that right appreciated.
+- wonderful job, you have done well.
+- excellent work, you've done well.
+- appreciated, that is great job.
+- you are so smart.
+
+## intent:general_quirky
+- i had a relaxing day [today](date)
+- i want a not only to direct me to an internet site but actually answer any given question
+- can you feel
+- have a anyinput day
+- tell me about economy and gdp about [india](place_name) versus [china](place_name)
+- what is the best chocolate chip cookie recipe
+- is it true the hanging tree really had someone hung from it
+- i am happy
+- nightime
+- nice to meet you
+- what is the best method to decide what the best thing to do isre
+- how can i make your day a little better
+- can you explain string theory to me
+- what do you think i should have for [breakfast](meal_type)
+- i really enjoyed sunny day [today](date)
+- when i want it to take down notes
+- what [rihanna](person) is doing
+- famous person biographies
+- i hate how [long](time) the traffic jams get
+- how do i duct tape a gooseto apig
+- what about [tonight](timeofday) [dinner](meal_type) with me
+- lets begin buddy
+- celebrities
+- why do some people still think the earth is flat
+- let me know when charges hit my credit card
+- i want it to be able to tell me statistics about things it's done for me like how often i've eaten out [this month](date)
+- how do you make steel
+- what do you think was the best decade
+- plants
+- [dubai marriage](event_name)
+- what do you do with my personal data
+- good morning isn't it a great day
+- tell me about this person
+- i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz
+- when is the first seventy degree day forecast
+- find me a good [wine shop](business_type) that stock old wines like older than ten years navigate me to that shop
+- how much do you know about me
+- if it is a consumer good then what is the customer feedback
+- how has your life been changed by me
+- [jlo](person) fan updates
+- how about you
+- uefa european championship
+- good [restaurants](business_type)
+- what happened to [charlie chaplin](person)
+- what can you do
+- what would be the a perfectly nutritionally balanced meal for [dinner](meal_type)
+- moderate
+- how much can i bleed before i die
+- tell me everything about [umf](event_name)
+- it has a meaning of rhythm
+- it was a very hectic workday
+- can you make dinner for me
+- how often do you complete updates
+- i would like to solve maths issues
+- did you change the wallpaper
+- hey i am having a bad day [today](date) what can i watch to cheer me up
+- how would you tackle the following problem brush your teeth
+- an graphical images effects to be required
+- the weather is sunny [today](date)
+- if you put a velociraptor and a hippo together what would happen
+- Is country better [today](date) or [ten years ago](date)
+- i want to know more about this person
+- [today](date) i couldn't find my phone
+- ask me an arithmetic question
+- show me what i can do with fitness
+- please explain space
+- who won the sports game last night
+- i would like to crack jokes
+- how do i buy tickets for that
+- i am exhausted from work
+- can you be my best [friend](relation)
+- about reality in world
+- veganism
+- how many calories did i burn with my fifty minutes of yoga
+- show me the places where i was
+- give me the most recent stuff you have [angelina jolie](person)
+- what is your prescription for long and healthy life
+- what are the details on [umf](event_name)
+- explain quantum physics to me in language i understand
+- journal entry for [today](date)
+- are you happy [today](date)
+- do i need my tire pressure checked
+- can you tell me a little about yourself
+- amazon deals
+- hey whatsapp
+- i took my truck to the shop
+- check the status of my power usage
+- see you
+- has it been a busy day
+- what's next
+- recent advice concerning google seo
+- please tell me who is going to win the nba championship
+- find recent events of the celebrity
+- horoscope
+- [today](date) i had a record breaking sale
+- i bought [pre season baseball](event_name) tickets
+- tell me more about that [concert](event_name)
+- did [ashwin](person) joined [party](event_name) [yesterday](date)
+- i would like my to write original romantic messages for my [wife](relation)
+- [today](date) wore me out
+- what is your mother language
+- the meaning of life
+- how does production and population affects us
+- what's your favorite color
+- drive the car and bring my friends over
+- your birth date
+- can you tell me how to measure my shoe size
+- please check this info on geographics for me
+- my day was so busy
+- life
+- could you manipulate roip for me
+- tell me your answer
+- my day was great
+- are you human
+- bingo
+- do homework for me please
+- hey [today](date) i was fired from my job
+- what is the story of the movie [titanic](movie_name)
+- do you know of any good free knitting patterns
+- how can you get basalt
+- what's on your mind [today](date)
+- can you lie
+- can i tell you about my day
+- give me some health tips
+- do you think [today](date) will be nice out
+- is there a groomer in town for cats only
+- compare prices of dairy items in local shops
+- downloads management
+- let's make some popcorn and watch an old movie together
+- its very tough one
+- cheering me up
+- what is your age
+- find me the cheapest copy of the four hour body
+- please tell me how to do my daughters eighth grade math
+- suggestions for future
+- i would like it if my robot could engage in deep conversation with me
+- i want to know more about the upcoming [commonwealth games](event_name)
+- how do you like being my assistant
+- i just want to know some information about you
+- what are the scores from [last night](timeofday)'s hockey games
+- i saw a bulldog [today](date)
+- why people like movies
+- i watched the best movie please reserve me a copy when it releases
+- movies making money
+- why do starving people keep having kids
+- i need to keep two toddlers busy tell me what to do
+- i don't understand this question but what's it like in there
+- too private
+- latest technologies gadgets
+- is there life on other planets
+- what am i doing [today](date)
+- what is your name
+- what is your mood [today](date)
+- what does [jon bon jovi](person)'s [wife](relation) look like
+- i would like it to be able to compute answer from search results like wolfram alpha does
+- what things can't you do
+- kill all the frogs you see
+- does [mr t](person) have a family
+- i have a deadline on [tuesday](date)
+- show me a map of everywhere the cat has been [this week](date)
+- opinion about latest gadgets
+- are you real
+- [today](date) was a hard day
+- dolores how was your day
+- [today](date) some things happened
+- when will you do my laundry
+- what are you doing
+- plan me a holiday trip
+- why does [tom izzo](person) look like a whiny bitch when his team plays
+- what is my location
+- friend updates
+- i had a long hard day
+- can you watch a movie on netflix with me
+- hey i met one of my old classmates [today](date)
+- i would like it if my robot could make money for me
+
+## intent:general_repeat
+- would you do it again.
+- let us start over.
+- please would you replay your last phrase said.
+- say the last one said again please.
+- reset.
+- can you tell me what said once more.
+- please start over.
+- please would you repeat that.
+- please try the things one more again.
+- would you speak it one more again please.
+- can you try the last one spoken once again.
+- please reset that.
+- can you speak the command spoke one more again please.
+- i'd like to hear what i have just said again.
+- tell me once again.
+- please say what you've just said once again.
+- start over please.
+- can you repeat please.
+- will you reset.
+- could you tell me it one more time please.
+- one more time again.
+- will you retry it please.
+- would you try that instruction said again please.
+- tell me that once again.
+- tell me it one more again please.
+- i would like to hear what i've said again.
+- would you tell me that once again.
+- please speak the last one said one more time.
+- one more again please.
+- try it once more please.
+- please let's start over.
+- i would like to hear the last you just said again.
+- tell me what you just said once again please.
+- could you try what you just said one more again.
+- i'd like to hear the last utterance spoken again.
+- would you try what you said again.
+- please would you reset.
+- please would you repeat what you've said.
+- will you say again please.
+- could you tell me one more time please.
+- replay please.
+- please could you try what you've said once more.
+- i would like to hear the last one you said again.
+- do it again please.
+- can you reset.
+- say that again.
+- please replay your last statement.
+- try the last message one more time please.
+- please tell me that one more again.
+- retry the last spoken.
+- please tell me it one more again.
+- i want to hear your last instruction you said again.
+- reset please.
+- can you speak it again please.
+- please can you tell me that word said once again.
+- i'm sorry.
+- can you say it one more time again please.
+- please repeat that.
+- would you repeat the last please.
+- replay the last utterance said.
+- please speak that one more again.
+- i need to hear that sentence said again.
+- can you speak once again please.
+- tell me that one more time please.
+- what's that.
+- say it one more time please.
+- tell me again.
+- please can you say it one more time again.
+- tell me what i said one more time again please.
+- speak one more time please.
+- could you tell me once again please.
+- will you speak one more time again.
+- i would like to hear what said again.
+- let's try it again.
+- could you speak once more please.
+- please will you say that one more again.
+- speak again please.
+- tell me one more time again please.
+- i'd like to hear that sentence spoke again.
+- will you say what you have just said once more please.
+- could you say the sentence spoken once again please.
+- what is that one more time.
+- please let's try it one more time again.
+- could you speak one more again please.
+- retry it please.
+- let's try what you have said again.
+- please will you try again.
+- please will you reset.
+- i would like to hear your last the procedure said again.
+- please try what you've just said again.
+- can you say what you have said one more again.
+- retry the instruction spoke please.
+- will you retry please.
+- could you speak it one more again please.
+- try it one more time please.
+- what is that once again.
+- would you try the last one spoken one more time again please.
+- let us try it one more again please.
+- say again.
+- i want to hear what i've said again.
+- start over.
+- please would you speak one more again.
+- i want to hear what you have said again.
+- can you say one more again.
+- let us do it again.
+- say what you've said one more time again please.
+- repeat that.
+- stop and start over.
+- would you tell me what i said one more time again.
+- please could you replay.
+- please would you tell me one more time again.
+- could you speak the last utterance said once more.
+- i need to hear again.
+- would you replay please.
+- please try your last sentence you said once again.
+- tell me one more again please.
+- what was that one more time.
+- speak the last words one more time please.
+- can you replay your phrase you just said.
+- let's do it again please.
+- tell me that words spoke again please.
+- i would like to hear again.
+- could you say one more time please.
+- would you do it again please.
+- tell me it one more time again please.
+- will you replay please.
+- repeat what i've just said please.
+- will you say once again.
+- i'd like to hear what you have said again.
+- could you speak that once more.
+- please tell me that message spoke once more.
+- will you replay what you have said please.
+- would you tell me it one more time please.
+- will you do it again please.
+- will you tell me again please.
+- i want to hear what i've just said again.
+- tell me again please.
+- could you tell me the last spoke once again.
+- will you speak it once again.
+- what did you say in the last conversation.
+- could you tell me again please.
+- beg your pardon.
+- let us try your last things once more please.
+- please tell me it once again.
+- let's try what you said one more time again please.
+- i need to hear that sentence again.
+- would you try that words spoke one more time again.
+- could you tell me it once again please.
+- please will you replay.
+- i'd like to hear that again.
+- could you tell me it once again.
+- would you reset what i've said please.
+- stop and try what i've just said once more.
+- could you repeat that.
+- i want to hear what said again.
+- i'd like to hear the last things spoke again.
+- please could you tell me that comment said once again.
+- please tell me once more.
+- tell me once more please.
+- please will you speak once again.
+- please speak one more time again.
+- let's try again please.
+- tell me once more.
+- let us do it again please.
+- say it once again please.
+- sorry.
+- will you tell me what you have said one more time please.
+- can you retry please.
+- please let's do it again.
+- can you try what i just said again.
+- tell me that one more time again.
+- could you do it again please.
+- will you say once again please.
+- tell me the last spoke one more time.
+- will you tell me that once more please.
+
+## intent:iot_cleaning
+- by [ten](time) to [eleven am](time) [daily](general_frequency) start my [vacuum cleaner](device_type)
+- please clean the [floor](place_name)
+- start [roomba](device_type)
+- i want to turn on the [robot vacuum cleaner](device_type)
+- activate [robot vacuum](device_type)
+- i want the [robot vacuum cleaner](device_type) to start at [one pm](time) [today](date)
+- initiate cleaning process
+- turn on my [robot vacuum cleaner](device_type) now
+- please start [vacuum cleaner](device_type)
+- start robot vacuum
+- run the [vacuum cleaner](device_type)
+- can you please put the [vacuum](device_type) on
+- turn on [vacuum](device_type)
+- vacuum the [mud room](house_place)
+- clean the [floor](house_place) please
+- please run the [vacuum](device_type)
+- run the [robot vacuum cleaner](device_type)
+- turn on the [vacuum cleaner](device_type) while i am gone
+- activate the [vacuum cleaner](device_type) and use it
+- activate the [robot vacuum](device_type)
+- can you activate the [vacuum](device_type) to clean the [house](house_place)
+- vacuum the floor
+- start [vacuum cleaner](device_type) now
+- activate [robot vacuum cleaner](device_type)
+- my [vacuum cleaner](device_type) should start between [ten](time) to [eleven am](time) [everyday](general_frequency)
+- start the [robotic vacuum](device_type)
+- please run the [vacuum cleaner](device_type)
+- can you put the [vacuum](device_type) on
+- [robot vacuum cleaner](device_type) on
+- it's dirty here make some noise
+- please turn on [roomba](device_type)
+- turn on the [vacuum](device_type)
+- [vacuum cleaner](device_type) start
+- activate [robot cleaner](device_type) in [an hour](time)
+- please turn on my [robot vacuum cleaner](device_type)
+- start [house](house_place) cleanup
+- get the [roomba](device_type) to clean up
+- can you start the [roomba](device_type)
+- [vacuum](device_type) start
+- vacuum the carpet freshener from the carpet
+- can you start the [vacuum](device_type)
+- start the [robot roomba](device_type)
+- turn on [robot vacuum cleaner](device_type)
+- start [vacuum](device_type)
+- vacuum the [living room](house_place) in [ten minutes](time)
+- get the cleaning on
+- start cleaner
+- turn on the [robot vacuum](device_type)
+- initialize the [robot vacuum](device_type)
+- there is a pile of torn paper on the rug to suck up
+- start vacuuming now please
+- let's suck out the dust
+- turn my [iroomba](device_type) on
+- initiate [vacuum cleaner](device_type)
+- vacuum the [house](house_place)
+- is there anything i need to know before i activate the [robot vacuum cleaner](device_type)
+- turn on [vacuum cleaner](device_type)
+- start the [robot vacuum cleaner](device_type) at [one pm](time) [today](date)
+- take it in hand
+- get the [roomba](device_type) to clean the [kitchen](house_place)
+- start the [robot vacuum cleaner](device_type)
+- put on the [vacuum](device_type) on now and clean the [living room](house_place)
+- clean the [carpets](house_place)
+- start [robo vac](device_type)
+- begin [vacuuming](device_type)
+- activate the [roomba](device_type)
+- turn [cleaner robot](device_type) on
+- can you turn on the [vacuum cleaner](device_type)
+- start my [robot vacuum cleaner](device_type)
+- start [robot cleaner](device_type)
+- initiate the [robot vacuum cleaner](device_type)
+- start the [robot vacuum cleaner](device_type) now
+- clean the [flat](house_place)
+- switch on [robot vacuum cleaner](device_type)
+- use [vacuum cleaner](device_type) in the [hall](house_place)
+- make my [iroomba](device_type) clean the [living room](house_place)
+- turn on the [robot vacuum cleaner](device_type)
+- start cleaning floors
+- start [robot vacuum cleaner](device_type)
+- start the [vacuum cleaner](device_type)
+- please start the [vacuum cleaner](device_type)
+- can you set the [vacuum](device_type) to start cleaning at [ten am](time) time
+- will you have the [vacuum](device_type) start cleaning
+- i need you to turn on the [vacuum cleaner](device_type)
+- clean the [floor](house_place)
+- [vacuum](device_type) [living room](house_place)
+- please start the [vacuum](device_type)
+- clean my [house](house_place)
+- vacuum the [dining room](house_place)
+- hey start [vacuum cleaner robot](device_type)
+- turn on the [vacuum cleaner](device_type)
+- hoover the [hallway](house_place)
+- start [house cleaning](house_place)
+- hey go from off to on my [vacuum](device_type) in [five minutes](time)
+- please start [vacuum](device_type)
+- on [vacuum cleaner](device_type)
+- start cleaning
+- how do you turn on the [robot vacuum cleaner](device_type)
+- can you turn on the [vacuum](device_type)
+- robot vacuum the [hallway](house_place) now
+- does the [robot vacuum cleaner](device_type) have to be plugged in
+- robot vacuum the [living room](house_place) now
+- have my [iroomba](device_type) clean the [house](house_place)
+- open [vacuum cleaner](device_type)
+- please set the [vacuum](device_type) to start going now
+- activate the [vacuum cleaner](device_type)
+- start the [vacuum](device_type)
+- start cleaning [robot cleaner](device_type)
+- turn the [vacuum](device_type) on
+- on the button of [cleaner](device_type)
+- hoover the [carpets](house_place) around
+- run [vacuum cleaner](device_type)
+- start vacuuming
+- turn on the [vacuum](device_type) now
+- turn on the [roomba](device_type) for me
+- start a [vacuum cleaner](device_type)
+- vacuum the [living room](house_place) carpet
+- switch on the [vacuum cleaner](device_type)
+- please activate my [vacuum cleaner](device_type)
+- clear the dust and then on the [cleaner](device_type)
+- start [irobot](device_type)
+- activate the [cleaner](device_type) for [furniture](house_place) cleaning
+- have the [roomba](device_type) run the [living room](house_place)
+- enable [cleaner robot](device_type)
+- make [vacuum cleaner](device_type) start
+- how do i start the [robot vacuum cleaner](device_type)
+- switch on the [roomba](device_type)
+- please start vacuuming
+- get the [roomba](device_type) to start cleaning
+- company coming over turn on the [vacuum cleaner](device_type) right now
+- robot do the [whole house](house_place) now
+- vacuum the [kitchen](house_place)
+- start the [vacuum](device_type) at [nine am](time)
+- please help me turn on the [robot vacuum cleaner](device_type)
+- if my [vacuum cleaner](device_type) is not activated please activate it
+- start [vacuum cleaner](device_type)
+- initiate to operate [robot vacuum cleaner](device_type)
+- start the [vacuum](device_type) for me
+- turn on vacuum cleaning
+- [vacuum](device_type) on
+- run the [vacuum](device_type)
+- power up the [vacuum](device_type)
+- go near [vacuum cleaner](device_type)
+- activate [vacuum](device_type)
+- please activate the [vacuum cleaner](device_type)
+- turn the [robot vacuum cleaner](device_type) on
+- olly i need the [living room](house_place) vacuumed can you turn on the [vacuum cleaner](device_type)
+- cleaning is good dust is so bad do now your magic clean my [carpet](house_place)
+- at [one pm](time) [today](date) start the [robot vacuum cleaner](device_type)
+- activate the [robot](device_type) and vacuum the [floor](house_place)
+- i want to clean my bedroom put the [vacuum](device_type) on and go to my [room](house_place)
+
+## intent:iot_coffee
+- please activate my [coffee pot](device_type) for me
+- i need a drink
+- make us a [brew](coffee_type)
+- please make me a coffee using the [coffee machine](device_type)
+- i want coffee [everyday](date)
+- please get the [coffee machine](device_type) to make me some coffee
+- coffee
+- i want a coffee
+- instruct the [coffee maker](device_type) to make a [filter](coffee_type) coffee ready [in ten minutes](time)
+- will you please get the [coffee machine](device_type) to make some coffee
+- make me a coffee
+- prepare my coffee
+- get me a coffee
+- i need some coffee please
+- start [coffee machine](device_type)
+- make a coffee for me
+- cook some coffees
+- make coffee for me
+- cup of coffee please
+- time mr coffee for [six am](time)
+- i would like a coffee now
+- can you make me coffee now
+- can you set my [coffee machine](device_type) to make me coffee at [seven am](time)
+- i need a coffee
+- make me a [cooled](coffee_type) coffee
+- order one coffee to [starbucks](business_name) [coffee shop](business_type)
+- brew me a cup of coffee
+- I'll take my coffee, [black](coffee_type)
+- make a pot of [strong](coffee_type) coffee
+- please make a coffee
+- i want to drink the coffee that you made
+- set [coffee maker](device_type) to start at [three](time)
+- please make coffee
+- can you get me a cup of coffee please
+- can you make coffee
+- brew my coffee
+- turn [coffee maker](device_type) on
+- i'd like a cup of coffee please
+- i would like coffee now
+- turn on the [coffee machine](device_type) to make me some coffee
+- i would like to have a cup of coffee
+- can you make me a cup of coffee
+- please make coffee according to my earlier preference
+- can i please have a cafe [americano](coffee_type)
+- make my coffee
+- start a cup of coffee for me
+- can i have cup of coffee
+- i'd like a coffee please
+- can you please make me a cup of [black](coffee_type) coffee
+- i need some coffee made
+- set my [coffee machine](device_type)
+- i want [hot](coffee_type) coffee
+- start [cappuccino](coffee_type) for me now
+- please turn on [coffee maker](device_type) and start brew cycle
+- make me a coffee please
+- please start the [coffee pot](device_type)
+- i need one cup of coffee
+- please make me nice coffee
+- please make me a cup of coffee
+- start the [coffee machine](device_type)
+- make coffee
+- go and make me a coffee
+- i would like a cup of coffee
+- start a pot of coffee please
+- is the coffee ready
+- make coffee at [eight am](time)
+- make me a cup of coffee with [salted carmel flavored cream](coffee_type)
+- start up the [coffee machine](device_type)
+- make me a [strong](coffee_type) cup of coffee
+- can you boil the [kettle](device_type)
+- make the coffee
+- i want coffee from the [machine](device_type)
+- it's coffee time
+- a cup of coffee please
+- can you set my [coffee machine](device_type) to make me coffee at [four pm](time) time
+- can you make me some coffee
+- i would like a cup of [coffee with one cream and three sugars](coffee_type)
+- start making a coffee
+- my coffee is cold please make more coffee
+- start brewing please
+- please make me a coffee
+- please start me some coffee
+- get [coffee maker](device_type) started for a fresh cup
+- brew some coffee
+- i need coffee please preferably [hot](coffee_type)
+- i need a cup of coffee
+- commence coffee making
+- need a [hot](coffee_type) coffee
+- would you set the [coffee maker](device_type) running
+- brew me some coffee
+- i'd like a [cappuccino](coffee_type) please
+- [greg](person) wants [black](coffee_type) coffee can you make one
+- please turn on my [coffee pot](device_type)
+- can you start the [coffee machine](device_type) for me
+- program [coffee machine](device_type) to brew coffee in [two minutes](time)
+- make me some coffee from the [coffee machine](device_type)
+- please make me some coffee
+- i want a coffee now
+- start the [coffee machine](device_type) at [three](time)
+- activate [coffee machine](device_type)
+- turn on [coffee machine](device_type) and make a pot of coffee
+- make some coffee
+- please make a coffee for me
+- i'd like an [espresso](coffee_type)
+- [double cappuccino small](coffee_type) please
+- make me coffee
+- i want the [coffee machine](device_type) to make me coffee
+- brew coffee
+- order one coffee from nearest [coffee shop](business_type)
+- order a [latte](coffee_type) from [starbucks](business_name)
+- i want to drink coffee
+- start making some coffee
+- do a coffee for me please
+- start coffee
+- could you fix me some coffee
+- make me coffee in [five minutes](time)
+- make me a cup of coffee
+- make a coffee
+- can you please make a coffee
+- prepare a coffee
+- prepare coffee
+- i want coffee
+- turn on the [coffee pot](device_type)
+- prepare a cup of coffee for me
+- please set my [coffee machine](device_type) to start at [four pm](time) time
+- how do i set the timer on my [coffee machine](device_type)
+- want to wake up can you order a [cappochino](coffee_type)
+- brew a pot of coffee
+- can you begin the brew
+- i fancy some coffee now
+- make a coffee please
+- please make ke a coffee
+- please make some coffee for me
+- set the [coffee maker](device_type) to on
+- yo i need a coffee now
+- can you set the [coffee machine](device_type) to make coffee at [three pm](time) time [every week day](date)
+- make me a [cappuccino](coffee_type)
+- explain how to set my [coffee machine](device_type)
+- i need to wake up make me the [strongest](coffee_type) coffee you can make
+- can you make some coffee
+- start the [coffee maker](device_type)
+- make coffee at [three](time)
+- i cup of joe would be nice right now
+- please ask mr coffee to make a [latte](coffee_type)
+- i need coffee
+- coffee make now
+- can you start the coffee
+- make me a cup of coffee please
+- make five coffee tell the [coffee machine](device_type)
+- please make me a [cappuccino](coffee_type)
+- please help serve me coffee with a [no sugar](coffee_type)
+- let me get a cup of coffee please
+- how do i set my [coffee machine](device_type) to make coffee
+- access [coffee maker](device_type) begin process
+- get the coffee started please
+- please warm up [coffee machine](device_type)
+- run [coffee maker](device_type)
+- set coffee to brew at [seven am](time)
+- make coffee at [six am](time)
+- can you bring me a [nice](coffee_type) coffee
+- please start the coffee
+- do coffee
+- prepare a cup of coffee
+- make me [happy juice](coffee_type)
+- i need some coffee
+- can i have an [espresso](coffee_type) please
+- please make me coffee [without sweetener](coffee_type)
+- i will need my [filter](coffee_type) coffee in [ten minutes](time) please ask the [coffee maker](device_type) accordingly
+- can i get a cup of coffee
+- hey can you please make me a [creamy](coffee_type) coffee
+- make me some coffee
+- i want some coffee
+- make me coffee now
+- brew coffee at [noon](timeofday)
+- could you get me some coffee
+
+## intent:iot_hue_lightchange
+- please make the lights [watching friendly](color_type)
+- change [house](house_place) light colors to [blue](color_type)
+- change the colours please
+- change lights from [red](color_type) to [blue](color_type)
+- i need to change the color of this light
+- can i change this light to [orange](color_type)
+- make the lights [shine blue](color_type)
+- change the lights in the [kitchen](house_place) to [blue](color_type)
+- hey olly chance the current light settings
+- i would like the like in the [kitchen](house_place) to be a different color
+- can you do me a favor my eyes are feeling strained on these lights can you please change it to a [cooler tone](color_type)
+- change color
+- change the light colour to [green](color_type)
+- switch lights to dim [red](color_type)
+- turn the [living room](house_place) lights [to one percent](change_amount)
+- change the lights in the [house](house_place) to [green](color_type)
+- change light colour to [blue](color_type)
+- hey can you make it [blue](color_type) in [here](house_place)
+- switch the lights to [blue](color_type)
+- make the lights in my [home](house_place) [yellow](color_type)
+- please change the color of my lights surprise me
+- change the color of lights
+- please change the light colors to [red](color_type)
+- turn lights to [green](color_type)
+- i would like [orange](color_type) lights now
+- adjust light when i get home
+- house change all lights to [blue](color_type)
+- change color of the light to [red](color_type) [outside the house](house_place)
+- change the light color to [red](color_type)
+- it will be good if you [yellowish](color_type) the light
+- please change the lighting to [blue](color_type)
+- [house](house_place) can you make all the lights in the house [blue](color_type)
+- switch on the [green](color_type) light in [playroom](house_place)
+- go to setting
+- adjust the light option
+- transition to another color for the lights
+- light settings
+- change lights to [pink](color_type)
+- change the light to [pink](color_type) color
+- turn my lights to some [random](color_type) color
+- change the light color to [black](color_type) light
+- make the lights [pink](color_type)
+- set the lights on [blue](color_type)
+- change your colors to [green](color_type)
+- make light color [red](color_type)
+- i would like the [house](house_place) lights to be [pink](color_type)
+- please change the color of the light in the [bathroom](house_place)
+- can the lights be changed to [green](color_type)
+- make the light in here [redder](color_type)
+- change the lights to my favorite color
+- how do i change the color of the lights
+- chane light colour to [green](color_type)
+- make the [room](house_place) [blue](color_type)
+- change the lights to [green](color_type)
+- please change the colour of the lights i'll tell you when to stop
+- change the color of the lights in my [house](house_place) from [white](color_type) to [yellow](color_type)
+- change the lights of the [house](house_place) to a [blue](color_type) hue
+- i need some ambiance please
+- change my room lights so that i can get a [good sleep](color_type)
+- please make the lights [blue](color_type)
+- i want to change the color of the lights
+- change the light in the [bathroom](house_place) to [yellow](color_type)
+- change the color of my [porch](house_place) lights to [green](color_type)
+- make the [living room](house_place) [blue](color_type)
+- change the [overhead light](device_type) to [orange](color_type)
+- change my house lights colour to [blue](color_type)
+- i need to change my [house](house_place) lights colour to [blue](color_type)
+- i want [purple](color_type) lights
+- switch to [red](color_type) colored lights
+- hey make the [house](house_place) lights a different color
+- brightness [ninety percent](change_amount)
+- make the [bedroom](house_place) lights light [blue](color_type)
+- please change color of light to [pinkish](color_type)
+- turn the lights [blue](color_type) at [three pm](time)
+- color the lights [red](color_type)
+- turn the lights [blue](color_type)
+- change the color of the lights in my [bedroom](house_place) to [red](color_type)
+- give me [red](color_type) lights
+- show me the available colours of lights
+- change the color of the light
+- change my room lights to [blue](color_type)
+- set the [living room](house_place) lights to [red](color_type)
+- turn the lights to [red](color_type) color
+- make all the lights in the [house](house_place) [orange](color_type)
+- make my lights [blue](color_type)
+- can you make a [red](color_type) shade of light in the [living room](house_place)
+- [pink](color_type) is all we need
+- change light color to [blue](color_type)
+- change the lights to a different hue
+- [White](color_type)
+- change lights to [red](color_type)
+- can this room have [green](color_type) light
+- change the lights in the [living room](house_place) to [green and red](color_type)
+- i want [blue](color_type) lighting
+- make the [living room](house_place) light [orange](color_type)
+- make the [bedroom](house_place) lights [red](color_type) and the [hall](house_place) lights [normal](color_type) color please
+- please change the [house](house_place) lights to [blue](color_type)
+- i want to change the light colors
+- change light colors
+- lights color [red](color_type)
+- make the lighting bit more [warm](color_type) here
+- change light colour to [yellow](color_type)
+- change the lights in my [home](house_place) to [orange](color_type)
+- put [dark](color_type) colours instead of light ones in the [house](house_place)
+- show us [red](color_type)
+- change the lighting to [blue](color_type)
+- set the [living room](house_place) lights [to fifty percent](change_amount)
+- i'd like some [red](color_type) lighting
+- can you please change the mood of the light
+- hi olly change the color of lights in [my room](house_place) to [red](color_type)
+- turn [living room](house_place) lights [red](color_type)
+- hey olly my the lights a little warmer
+- please change the light to [green](color_type)
+- [blue](color_type) lights please
+- transition lights to [blue](color_type) to [green](color_type) to [yellow](color_type)
+- change the [media room](house_place) lights from [purple](color_type) to [green](color_type)
+- set colour [blue](color_type) for all lights of my house
+- change the opacity of the color
+- make the lights a different color
+- light [green](color_type)
+- change the lights into [green](color_type)
+- replace the current light colours in the house with [dark](color_type) ones
+- set brightness [to fifty percent](change_amount)
+- change the color of my lights to something [random](color_type)
+- change lighting colours
+- can you [shuffle](player_setting) the light colors in the [house](house_place)
+- make the lights [pink](color_type) at the [house](house_place)
+- change your colors to something different
+- i want the light to be a little more [red ish](color_type)
+- make the lights in the [house](house_place) [red](color_type)
+- change the lights to [red](color_type)
+- change my light color to [yellow](color_type)
+- change background
+- [rotate](color_type) the light colors
+- modify the light colours of the house and make them [dark](color_type) instead
+- make the lights [blue](color_type) in [here](house_place)
+- adjust the light
+- change the [bedroom](house_place) lights to [green](color_type)
+- change my room lights to some [romantic](color_type) colour
+- lights at percent
+- [romantic](color_type) light setting please
+- set lights [to twenty percent](change_amount)
+- replace color from [light](color_type) to [dark](color_type)
+- select a different color for the lights
+- change to [blue](color_type)
+- can you change the light colors into [dark](color_type) in the [house](house_place)
+- can you change the lights to [white](color_type)
+- can you change the colour to [red](color_type)
+- make the lights [blue](color_type) please
+- change the color of the lights
+- make the [room](house_place) light [blue](color_type)
+- change the light color to [white](color_type)
+- change the light color the [red](color_type)
+- switch from [blue](color_type) to [yellow](color_type) lights
+- color change of lights
+- please change light color to [purple](color_type)
+- change the lights to [blue](color_type)
+- i like [red](color_type) colour for my [home](house_place) change it
+- turn lights [blue](color_type)
+- change lights
+- change light colors from [blue](color_type) to [white](color_type)
+- house lights [blue](color_type)
+- light color change
+- change light whenever i find myself in my house
+- i don't like this light please show me other options
+- switch to night light setting
+- change color of lights
+- make a contrast one
+- want to have [vibrant](color_type) colours
+- please set the lights to [green](color_type)
+- please adjust the colors in my lights
+- give me a new light color
+- change the light to [blue](color_type)
+- make my lights [green](color_type)
+- give me some [lavender](color_type) toned light
+
+## intent:iot_hue_lightdim
+- lower the lights in the [bedroom](house_place)
+- dim the lights in my [bedroom](house_place)
+- period the light should be in dim
+- please turn down the lights in the [house](house_place)
+- lower lights
+- dim the lights in the [kitchen](house_place)
+- dim the lights [a bit](change_amount)
+- lights down [to seven](change_amount)
+- [bed room two](house_place) darken
+- please darken the lights
+- lower lights please
+- i want a lower light
+- lower the light [to forty percent](change_amount)
+- i want dimmer lights
+- please turn down the lights in the [living room](house_place)
+- i want the lights less brighter
+- system please dim lights to [dull blue](color_type)
+- switch light [to lowest level](change_amount) in [dining area](house_place)
+- lower lights down
+- its too bright in here
+- lessen the the light glow
+- turn my lights down to a lower level of brightness
+- dim the lights in the [living room](house_place)
+- dim the lighting in my [living room](house_place)
+- this is too bright
+- please lower the lights
+- can you turn down the lights [by twenty percent](change_amount)
+- decrease brightness of lights
+- lower the brightness of the lights
+- dim my light
+- lower the lighting
+- lights down
+- reduce the lights
+- lower the lights in the [house](house_place)
+- dim the [garden](house_place) light [by half](change_amount)
+- turn down lights
+- make the lights less bright
+- lower the lights in the [house](house_place) please
+- please turn down the lights [to fifty percent](change_amount) in the [den](house_place)
+- reduce the brightness
+- lower lights in [kitchen](house_place)
+- please dim the [overhead](device_type) lights
+- turn the lights down [a bit](change_amount)
+- will you dim all the lights
+- please lower the lights [a little bit](change_amount)
+- dim the lights in the [hall](house_place)
+- turn down the brightness
+- lighter shade on the lights please
+- these lights are too bright please lower them
+- please dim the lights in the [bedrooms](house_place)
+- dim all [interior](house_place) lights
+- bring the lights down [a bit](change_amount)
+- can you lower the lights
+- lower the brightness
+- it is too bright in here dim the lights
+- the lights are too bright
+- decrease brightness
+- please turn the lights down
+- turn the lights down in the [living room](house_place)
+- turn down the lights
+- turn the lights down
+- lower the lights in the [room](house_place)
+- lights dim
+- it is time to lower the [kitchen](house_place) lights
+- dim the lights to level two
+- adjust the lights to a lower setting please
+- change the lights to dim
+- give me some dim light
+- lower the light level in my house
+- darken the [room](house_place) [a bit](change_amount)
+- is it ok to lower the lights
+- can we please lower the lights
+- lower [hallway](house_place) lights
+- reduce the intensity of lights
+- lower lights in my [room](house_place)
+- i would love a less bright up room
+- minimize the light power
+- lower the lights please
+- give me low lighting in the [kitchen](house_place)
+- lower brightness of lights
+- color of light should be dimmed bright
+- turn down the lights in the [living room](house_place)
+- down the light power
+- minimize the lights
+- dim the [living room](house_place) lights
+- turn the lights down [to seven](change_amount)
+- decrease lighting
+- lower the light of [hall](house_place) percent
+- dim lights in [living room](house_place)
+- please lights less brighter
+- reduce the light power
+- reduce the strength of the [bedroom](house_place) lights
+- dim the [bedroom](house_place) lights [to half](change_amount)
+- i need to turn the lights down
+- lower lights now
+- dim the lights
+- reduce light intensity
+- lower the intensity of light
+- lower the [overhead](house_place) lights
+- dim the lights in the [bathroom](house_place)
+- lower the lights in the [living room](house_place)
+- dim the lights down a bit
+- darken
+- please dim the lights
+- may i ask you to dim the lights
+- lower the lights [a little more](change_amount)
+- please dim the lights in the [bedroom](house_place)
+- attenuate the lights
+- could you dim the lights
+- show me the dim colour
+- darker lights please
+- make a [room](house_place) darker
+- dim lights
+- nighttime mode
+
+## intent:iot_hue_lightoff
+- turn off lights in my [room](house_place)
+- turn the lights off
+- shift the light off
+- turn off [bedroom](house_place) light at [nine thirty pm](time)
+- turn off this light
+- [office](house_place) lights off
+- please turn off all the lights outdoor
+- turn lights off in [kitchen](house_place)
+- please turn off the lights in this [room](house_place)
+- lights off [bathroom](house_place)
+- i want the lights turned off
+- could you please turn off the overhead light in the [kitchen](house_place)
+- turn [room](house_place) lights off now
+- turn off lighting
+- turn down the lights to medium
+- shut the lights off in my [bedroom](house_place) please
+- turn off the lights
+- turn off my [room](house_place) lights
+- turn [bedroom](house_place) lights off
+- can you turn off the lights
+- please turn lights off
+- please turn the lights off
+- shut off the lights in the [kitchen](house_place)
+- turn [room](house_place) light off
+- cut off the [bathroom](house_place) lights
+- i want the light switched off can you do it for me
+- can you turn my [bathroom](house_place) lights off
+- turn the light off in the [living room](house_place)
+- light off now
+- turn off lights in [bedroom](house_place)
+- turn the [living rooms](house_place) lights off
+- did i leave the light on in the [garage](house_place)
+- can you turn off one of my [lights](device_type) in my [bathroom](house_place)
+- please turn the lights off in the [bathroom](house_place)
+- turn the [room](house_place) light off
+- please turn off all the lights in my house
+- please turn off the [porch light](device_type)
+- can you please turn off the light of my [bed room](house_place)
+- i want the light in the [kitchen](house_place) powered off
+- switch off all [lights](device_type)
+- assistant please turn the lights off
+- turn off [lobby](house_place) light
+- please turn off any lights that are still on
+- shut down the [garage](house_place) light and set the den light to [orange](color_type) please
+- turn off the [living room](house_place) light
+- lights off in the [kitchen](house_place) please
+- please shut the lights
+- turn the lights off now
+- put the lights off now
+- turn off the light of my [bed room](house_place) please
+- i need you to turn off the light of my [bed room](house_place)
+- hey turn off the light please
+- it's too bright in here can you turn a light off
+- lights turn off
+- please turn off [right side of light](device_type)
+- turn lights off in [living room](house_place)
+- turn off the [room](house_place) lights
+- put out the lights
+- switch off the [master's bedroom](house_place)
+- control lights turn off [room](house_place) lights
+- turn [this room](house_place) light off
+- please turn off the light of the [bathroom](house_place)
+- turn off the lights in this [room](house_place) please
+- turn off all the lights in the [living room](house_place) and den
+- turn the [lamp](device_type) off
+- light off
+- turn all the lights off
+- please turn off the lights
+- turn off the [office](house_place) lights
+- turn off light
+- turn off the [dining room](house_place)
+- switch off [kitchen](house_place) lights
+- i dont need light
+- turn off the [bedroom](house_place) [lamp](device_type)
+- turn off the [living room](house_place) lights
+- turn off all the lights
+- turn off [living room](house_place) lights
+- can you turn off [kitchen](house_place) light for me
+- turn off the [kitchen](house_place) lights
+- make the lights off
+- please turn off only right side [light](device_type)
+- turn off the closet light
+- turn off [kitchen](house_place) light
+- turn off light in [bedroom](house_place)
+- [bed room two](house_place) switch off the lights
+- turn off the [bathroom](house_place) light
+- good night lights off
+- turn the light off
+- switch the lights off
+- can you turn off the [living room](house_place) lights
+- turn off the lights please
+- can you please off the light
+- shift the [balcony](house_place) light to off
+- turn lights off
+- turn off one light on [porch](house_place)
+- cut the lights off
+- please turn off the light in the upstairs [bedroom](house_place)
+- please turn [bedroom](house_place) lights off
+- switch the lights to off
+- please turn off the lights in [bedroom](house_place)
+- i want the light to be switched off
+- turn off the [bathroom](house_place) lights
+- please shut off the [kitchen](house_place) lights
+- cease operating lights
+- turn off the [garage](house_place) light
+- please set the lights off in the [living room](house_place)
+- turn off the light
+- turn off [room](house_place) lights
+- lights off
+- please turn off the lights in [patio](house_place)
+- turn off [garage](house_place) light
+- switch off the light
+- by remote sensor
+- turn off the lights in the [living room](house_place) please
+- turn [office](house_place) lights off
+- shut off the lights in the [bedroom](house_place)
+- please turn off the lights in the [bedroom](house_place)
+- shut off the lights
+- turn off [all lights](device_type)
+- turn light off
+- can you please switch off the lights
+- this [room](house_place) lights off
+- please turn off [kitchen](house_place) light for me
+- turn off the light in the [kitchen](house_place)
+- turn off the [lamps](device_type)
+- turn [house](house_place) lights off
+- turn my [bedroom](house_place) lights off
+- can you please turn off the lights in this [room](house_place)
+- turn off the [lamp](device_type) in the [living room](house_place)
+- turn off the upstairs lights
+- turn off lights in all [bathrooms](house_place)
+- turn off the light in the [living room](house_place)
+- turns [my son's room](house_place) lights off
+- switch off light
+- turn lights off in [bedroom](house_place)
+- can you turn my [bedroom](house_place) lights off
+- kindly switch off the light in the [drawing hall](house_place)
+- close the light
+- please turn off the light
+- turn off the light in the [bathroom](house_place)
+- time to sleep
+- turn the lights off in the [bedroom](house_place)
+- can you make the lights go out
+- switch off the [light on the left](device_type)
+- turn off [bedroom](house_place) lights [in ten seconds](time)
+- could you turn off light
+- please turn off the [lamp](device_type)
+- light off [living room](house_place)
+- [bed room two](house_place) lights off
+- turn off [smart lamp](device_type) in [den](house_place)
+- please turn off [kitchen](house_place) light
+- [all lights](device_type) has to be turned off [during the day](time)
+- turn [all lights](device_type) off [during the day](time)
+- turn off my [bedside lamp](device_type) please
+- turn off [one light](device_type) in my [bedroom](house_place)
+- please switch off the light
+- [desk lamp one](device_type) off
+- shut off lights
+- off lights
+- turn off the lights in the [bedroom](house_place)
+- shutoff light in the [kitchen](house_place)
+- turn the [security light](device_type) off
+- [bedroom](house_place) light off
+- please turn off all the lights in the [house](house_place)
+- turn the lights off to [my room](house_place)
+- please turn off the light of [my son's room](house_place)
+- turn off overhead light
+- turn the [kitchen](house_place) lights off
+- turn lights in the [room](house_place) off
+- by switch off
+- turn off the lights in the [living room](house_place)
+- will you please turn the lights off
+- turn off lights
+- turn off the nearest light to me
+- no lights
+
+## intent:iot_hue_lighton
+- hey turn on [disco lights](device_type) in my [apartment](house_place) and let the party begin
+- overhead lights on please
+- switch on light
+- please turn the lights on
+- turn on the lights that are outdoors
+- i can't see anything
+- it is dark
+- clap on
+- i want to turn on the [blue lights](device_type)
+- turn on [hall](house_place) lights
+- turn the lights on
+- turn the lights on brighter
+- it's too dark here
+- it's too dark i can't even see my hands
+- turn on the [lights](device_type)
+- turn on the [lamp](device_type)
+- please turn on the lights in my [house](house_place)
+- lights out
+- please turn on all the outdoor lights
+- and the light began
+- switch on all the lights
+- light up the lights in the [kitchen](house_place)
+- turn the lights on full bright
+- it's dark in here
+- and the darkness has fallen
+- can you put the lights on the high setting
+- lights on
+- switch on the lights
+- turn all lights on
+- It's too dark in here
+- please turn on my [balcony](house_place) lights
+- turn [corner](house_place) light on
+- turn on all upstairs lights
+- it's awfully dark here
+- put the [disco lights](device_type) on
+
+## intent:iot_hue_lightup
+- i need more light
+- make the light more visible
+- olly brighten the lights
+- can you adjust the lighting for me to be brighter
+- increase the intensity of the lighting in the [room](house_place)
+- i need some more lights
+- can you brighten up the lights please
+- light colour for [study room](house_place)
+- make it brighter in here
+- make lights brightener
+- can you increase the brightness in the [room](house_place)
+- make the lights brighter
+- increase the brightness of the lights
+- can you make the [room](house_place) brighter
+- increase light brightness
+- can you please turn up the lights
+- turn the chandelier all the way up
+- make it brighter in here please
+- increase the brightness of lights [bedroom](house_place)
+- increase the brightness of the light it is hard to see down here
+- raise lights [to full power](change_amount)
+- more light please
+- make it brighter
+- bring up all the [runner](device_type) lights
+- [slightly](change_amount) raise the light
+- lights up
+- please raise the lights [to max](change_amount)
+- please increase the light
+- brighten the lights a little bit
+- increase lighting
+- brighten of lights in [living room](house_place)
+- please make the [room](house_place) brighter
+- retrieve the light for me
+- make this [room](house_place) brighter
+- [every light](device_type) of [room](house_place) increase its intensity
+- brighten the lights in this [room](house_place)
+- please turn up the light a little
+- hey olly turn up the lights a little
+- pull up lights control
+- raise [living room](house_place) lights half way
+- turn up the brightness of the lights
+- it is too dark in here increase the brightness of the lights
+- a little brighter thanks
+- i need the lights raised can you do that
+- increase the light [a little](change_amount)
+- brighten up the lighting
+- brighten the [lamp next to the sofa](device_type)
+- turn up the lights please
+- please turn the lights up
+- increase the light
+- add light
+- i can't see turn up the lights
+- lights brighter
+- please put [all the lights](device_type)
+- turn up the brightness
+- raise the [lamp's light](device_type)
+- brighten the lights in the [hallway](house_place)
+- increase lights please
+- switch up the color of the lights in the [house](house_place)
+- brighten the lights in [living room](house_place)
+- turn up the lights in the [living room](house_place)
+- it's a bit dark increase lighting
+- please brighten the lights
+- raise the brightness of the lights
+- up the brightness on these lights
+- turn up lights
+- raise lights
+- can you brighten the lights for me
+- give me more light
+- please set the brightness of lightness appropriately in [kitchen](house_place)
+- more bright
+- brighten the light of [hall](house_place)
+- please turn the lights brighter
+- please raise the light i am not comfortable at this
+- increase light intensity
+- brighten lights in [living room](house_place)
+- can you turn the lights up
+- brighter
+- brighten up the room
+- can we turn up the lights
+- please brighten the [room](house_place)
+- brighten lights
+- please turn up the lights in this room
+- i want more light
+- make the light more brighter
+- please turn the lights up to eight
+- brighten the lights please
+- more lights please
+- bring up lights
+- change up the light colors at [home](house_place)
+- connect to lights
+- increase light
+- make the [room](house_place) brighter
+- spread some lights
+- can you bright the lights please
+- can the lights be turned up
+- make the [ceiling](house_place) lights brighter
+- brighten more light
+- turn out the lights
+- i can't see let's make it brighter
+- brighten the lights on the [front porch](house_place)
+- turn up the lights in here please
+- can you raise the lights for me please
+- set lights [to full power](change_amount)
+- turn the lights up
+- turn up the lights
+- brighten my [bedroom](house_place) light
+- please make arrangements to make the [hall](house_place) so brighter
+- increase the brightness in [this room](house_place)
+- turn the lights higher
+- turn up the light
+- turn the lights brighter
+- please increase the brightness in this [room](house_place)
+- its dark in here mind turning up the light intensity
+- raise the light
+- increase brightness in [the room](house_place)
+- do more light
+- i want to bright the [room](house_place) more
+- set lights brightness higher
+- please increase the light of [table lamp](device_type)
+- please turn up the [screen](device_type) brightness [all the way](change_amount)
+- increase the bright of the light
+- please olly put on [multi colored lightning](device_type) in my [apartment](house_place) set for festival diwali
+- i want to raise the light
+- brighten light
+- more light
+
+## intent:iot_wemo_off
+- i want the [smart socket](device_type) off now
+- power down the [plug socket one](device_type)
+- power off on
+- switch off the [plug socket](device_type)
+- please make the [smart socket](device_type) turn off
+- turn off [bedroom](house_place) fan
+- turn off my wifi
+- i'd like you to shut off my [smart plug socket](device_type) now please
+- please power down
+- please turn off the [plug socket](device_type) of my [phone](device_type) when it'll be charged
+- please turn off the [smart socket](device_type)
+- off [mobile charger plug](device_type)
+- turn the plug off
+- turn off [kettle socket](device_type)
+- deactivate [smart plug socket](device_type)
+- please turn off the [smart plug socket](device_type)
+- turn off [plug](device_type)
+- turn off the [lamp socket](device_type)
+- turn off the [socket](device_type)
+- please turn off the [wemo plug socket](device_type)
+- turn off [smart socket](device_type)
+- turn off the [wemo plug socket](device_type)
+- can you please turn off my [wemo plug](device_type)
+- [outlet](device_type) off
+- turn off sockets
+- turn the [wemo](device_type) off
+- turn off my [wemo socket](device_type)
+- turn off the [smart socket](device_type)
+- please turn off [wemo socket](device_type)
+- shut off the socket
+- turn off the [wemo plug](device_type)
+- turn socket off
+- disable my [okug](device_type)
+- hello i want to turn off my [wemo plug](device_type)
+- power off the [wemo plug](device_type)
+- stop powering the [wemo socket](device_type)
+- switch off the [power](device_type)
+- switch off the [wemo plug socket](device_type)
+- turn off the [tv](device_type) in
+- switch [wemo plug socket](device_type) off
+- please turn off the [wemo plug](device_type)
+- power off please
+- shut down the plug
+- please mark the [wemo](device_type) socket to off
+- [wemo plug socket](device_type) off
+- the [wemo plug](device_type) should be turned off on
+- turn off the [fan](device_type)
+- disable [smart socket](device_type)
+- keep the socket in off condition
+- turn off my [wemo plug](device_type)
+- switch off the [smart plug socket](device_type) now
+- make the [smart socket](device_type) turn off
+- can you please turn off the [wemo plug socket](device_type)
+- i want you to turn off the [plug socket](device_type) before the [cellphone](device_type) is charged
+- turn off the [fan](device_type) in the [master bedroom](house_place)
+- switch off the [plug point](device_type)
+- off the plug
+- shut down [sps](device_type)
+- turn off the [wemo socket](device_type) in the [kitchen](house_place)
+- i want the [wemo socket](device_type) off
+- [smart plug socket](device_type) off please
+- turn off my [wemo plug socket](device_type) now
+- turn off the [smart plug](device_type)
+- can you turn off on the [wemo plug socket](device_type)
+- shut off my [living room](house_place) [plug](device_type) socket
+- i would love the [wemo](device_type) socket to not be active right now
+- off all type of active devices
+- turn off my [smart plug socket](device_type)
+- turn off [smart plug socket](device_type)
+- switch off [wemo](device_type)
+- turn off on [wemo outlet](device_type)
+- socket off
+- cut [wemo](device_type) power please
+- will you please turn off the [smart plug](device_type)
+- turn [wemo plug socket](device_type) off
+- if idle then turn off else turn on
+- please turn socket off
+- can you turn off [wemo plug socket](device_type)
+- turn off on the socket
+- turn off [wemo socket](device_type)
+- turn off my [wemo plug socket](device_type)
+- turn off [wemo plug](device_type) in [game room](house_place)
+- Switch off the [smart socket](device_type)
+- can you turn off the [smart socket](device_type)
+- turn off socket
+- mute your [android phone](device_type) when you arrive at work
+- disable [wemo socket](device_type)
+- turn off [wemo](device_type)
+- switch off the [wemo plug](device_type)
+
+## intent:iot_wemo_on
+- turn on [wemo plug](device_type) in [game room](house_place)
+- i'd like you to turn turn on the tv
+- turn [wemo](device_type) on
+- turn on the [plug socket one](device_type)
+- switch on the [wemo plug](device_type)
+- turn on plug
+- switch the [smart plug](device_type) socket
+- switch on the [plug](device_type)
+- [wemo plug socket](device_type) turn on
+- turn on socket
+- please turn on my [wemo plug socket](device_type)
+- start the [smart plug](device_type)
+- turn on [living room](house_place) radio
+- turn on the [wemo plug socket](device_type) to plug in my dongle
+- turn on [kitchen](house_place) light
+- please switch on my [wemo plug socket](device_type)
+- turn on the [wemo](device_type)
+- start the laundry
+- turn on the [smart plug](device_type)
+- turn on the [smart charger](device_type)
+- please turn on my door lock
+- turn on the socket
+- could you please turn on the [plug](device_type)
+- make the socket available for me
+- turn my [smart plug socket](device_type) on
+- turn on [wemo](device_type)
+- turn [wemo plug socket](device_type) on
+- [wemo socket](device_type) on
+- turn on the [geyser](device_type)
+- flip the [wemo](device_type) on
+- turn on the [fan socket](device_type)
+- turn on my [plug](device_type)
+- power up the [plug socket one](device_type)
+- on the plug
+- turn on new [smart socket](device_type)
+- turn my [bathroom](house_place) [plug](device_type) socket on
+- activate the [wemo plug socket](device_type)
+- please turn on [wemo socket](device_type)
+- can you turn on the [wemo plug socket](device_type)
+- please turn on my [smart plug socket](device_type)
+- if switch is on then turn on else turn off
+- turn on the [wemo plug](device_type)
+- turn my [plug](device_type) on
+- i need to turn on the plug in my [office](house_place) for my [computer](device_type)
+- start the oven
+- on [mobile charger plug](device_type)
+- enable [smart socket](device_type)
+- turn on when plugged in else turn off
+- times clapping sound times
+- turn the [smart plug](device_type) on
+- turn on the [tv](device_type) socket when i arrive home
+- enable my [plug](device_type)
+- [wemo plug socket](device_type) on
+- turn on my [son](relation)'s [room](house_place) [plug](device_type) socket on off
+- please turn on the [wemo plug socket](device_type)
+- turn on the [light socket](device_type)
+- switch on [smart plug](device_type)
+- [outlet](device_type) on
+- turn on this [socket](device_type)
+- turn on the [rice cooker socket](device_type)
+- turn on the [wemo plug socket](device_type)
+- turn on my [wemo socket](device_type)
+- enable [wemo](device_type)
+- power on [wemo](device_type)
+- turn on switch of [wemo socket](device_type)
+- please turn on the [smart socket](device_type)
+- turn on [smart socket](device_type) in [dining room](house_place)
+- make the [wemo plug socket](device_type) turned on
+- power yourself on
+
+## intent:lists_createoradd
+- add a tab to the [shopping](list_name) list
+- show a new list
+- add grocery shopping to my [to do](list_name) list
+- update my list with shoes
+- include this
+- add sugar to my [shopping](list_name) list
+- add every girl life by [evelyn mayer](person) to the [must read list](list_name)
+- add oil change to my [to do](list_name) list
+- this item should be added to the list
+- a new list to be created by [tomorrow](date)
+- we need milk
+- can you please create a list for me
+- add butter to the list
+- open my notes
+- put wash the car to my [to do](list_name) list
+- i think i ran out of this can you add it to my list
+- can you create new list for me
+- can you create a new list
+- i need oranges added to my [grocery](list_name) list
+- add a item
+- Add pick up kids from school to my [to do](list_name) list for [today](date)
+- add pencil to [school supplies](list_name) list
+- i would like to start a new list
+- remember to put carrots in there
+- add rice on the list
+- add a wrist watch to the [shopping list](list_name)
+- new item for list
+- please update list with new item
+- create new list for [baby names](list_name)
+- create appointment to list
+- i want to have a new playlist of songs
+- add apples to [shopping](list_name) list
+- i need you to put walk the dog on my list [to do](list_name)
+- remind me to order more soap
+- Put milk on my [shopping](list_name) list
+- make a new list
+- could you create a new list for me
+- fresh list
+- add chives to my [shopping](list_name) list
+- add this one also
+- add ketchup to the list
+- i need to create a new [to do](list_name) list
+- bring up a new [shopping](list_name) list
+- add eggs to my [grocery](list_name) list
+- generate fresh list
+- add shopping to my [to do](list_name) list
+- please make a list of [thing i have to shop](list_name) [tomorrow](date)
+- add eggs to the list
+- add mop to [hardware store list](list_name)
+- make a [grocery](list_name) list please
+- start a new [shopping](list_name) list
+- please update my [grocery](list_name) list with one gallon of two percent milk
+- create a new list for me please
+- add wash jeans to [laundry](list_name) list
+- add toothpaste to my [shopping](list_name) list
+- add eggs to my [grocery's shopping](list_name) list
+- produce a new register
+- list new
+- add appointment to list
+- is there room on my [grocery](list_name) list for an extra item
+- add paper towels to the [grocery list](list_name)
+- i need to make a [grocery](list_name) list
+- make new list
+- create [vacation](list_name) list
+- add a movie name to the [wish list](list_name)
+- put shoes on my list
+- [grocery](list_name) list add eggs
+- i want to know could an extra item be added to my [grocery](list_name) list
+- create a new list called [grocery store](list_name) please
+- my new [work schedule](list_name) list
+- new list
+- new scenario time or calendar to new list
+- i want to start a new list
+- open a new list for me
+- create a new list please
+- i want to make [next week](time)'s [to do](list_name) list
+- i need to make a list of [bills that are due](list_name)
+- hey put carrots on that
+- add a new list
+- i want to make this [week](time)'s [shopping](list_name) list
+- include an item to a list
+- please add oranges to my [grocery](list_name) list
+- please add deodorant to my [shopping](list_name) list
+- start creating a new list
+- create a new list for [school supplies](list_name)
+- make a new list for [school supplies](list_name)
+- i need to put together a [todo](list_name) list for work
+- make me a new checklist
+- please put bread on the [grocery](list_name) list
+- add something to my list
+- please add an item in my calendar
+- please create a new list
+- put pencil on a new [grocery](list_name) list
+- please add sugar to my [grocery](list_name) list
+- create a playlist
+- add [bob](person) to my [list of contacts](list_name)
+- make list
+- on my [grocery](list_name) list please add oranges
+- please add new item to list
+- start a [grocery](list_name) list
+- update [work out](list_name) list with new items
+- create new list
+- create a new list by [tomorrow](date)
+- create a list of [jewels to be bought](list_name)
+- please find all name start with alphabetic of g and create a list
+- open up a new list
+- add the item to a list
+- make a things [to do](list_name) list
+- add grocery to list
+- begin new list of [lottery numbers](list_name)
+- bring up the [grocery](list_name) list and add
+- please add list of [friends](relation) to invite for the [party](event_name)
+- add the item to the list
+- can you add cups to my [grocery](list_name) list
+- add this to a list
+- create list
+- please find all name start with alphabetic of a and create a list
+- i want to start a new list of [power tools](list_name) on sale at true value
+- edit list
+- add wine to list
+- put hamburger on my [grocery](list_name) list
+- create [packing](list_name) checklist
+- start a list
+- can you add [gloria](person) to my [list of clients](list_name)
+- add broccoli to my [grocery](list_name) list
+- can you create a new list in the playlist
+- add new item
+- please create a new list for me
+- begin a new list
+- hey i need you to make a list of [cricket players of indian team](list_name) who played for the international team in [two thousand and fourteen](date)
+- create a new list
+- include [meeting](event_name) in the list
+- re add eggs to the list
+- add car service to my list of things [to do](list_name) [today](date)
+- make a new list for me
+- open [grocery](list_name) list and add milk
+- add [ashley](person) to the [wedding invite](event_name) list
+- start me a new list
+- include this item
+- my new [health check up](list_name) new list
+- create a new list of my [due bills](list_name)
+- add eggs to list
+- make a list of [camera photos](list_name)
+- delete the [old playlist](list_name) and create new
+- i need more milk
+- add the post office to my list of [errands](list_name) for [Saturday](date)
+- add juice to my [grocery](list_name) list
+- add paav bhaji in menu card
+- add [coffee](drink_type) to the [grocery](list_name) list
+- [buying of groceries](list_name) new list
+- add milk to [grocery](list_name) list
+- add detergent to the list of [things i need to buy](list_name)
+- add [appointment](event_name) in the list
+- add new items in the [remainder](list_name) list
+- help me start my [kitchen](list_name) list
+- reopen groceries and add milk
+- please add list of things to buy for [party](event_name)
+- pick up dry cleaning [tomorrow](date)
+- create a list for the following
+- add new item to list
+- enter this to a list
+- prepare a new list
+- set list
+- select the item
+- create a list for [today's tasks](list_name)
+- put the item on the list
+- add grocery shopping to [today](date)'s [to do](list_name) list
+- make a list of [numbers](list_name) for me
+- add [new songs](music_descriptor) to playlist
+- new list please
+- please create a list of due payment those who not received more then ten months
+- add to my [groceries](list_name)
+- add spent five dollars in my [expenses](list_name) list
+- make a list about [selena gomez](person) concert schedule
+- start a list of [dog names](list_name)
+
+## intent:lists_query
+- i finished my to do list
+- list the items on my [shopping](list_name) list
+- what are all my lists
+- display my list
+- what kind of lists do i have saved
+- read out my list for [today](date)
+- [to do](list_name) list for [today](date) please
+- can i know what i on the list
+- any sport event is on my list
+- tell me the list about
+- please provide the contents of the list
+- how many lists are open
+- get me to my [friends list](list_name)
+- tell me what is next on my query
+- tell me my list names
+- tell me what's on my [holiday](list_name) list
+- what is on this specific list
+- read out the list
+- what is my [grocery](list_name) list
+- open my list
+- what are the current lists i have
+- count the number of food items on the list
+- what are my lists so far
+- can you tell me what the items on my [grocery](list_name) list are
+- make a list of all the clothing range available on [ralph and lauren](business_name)
+- can you please tell me what i have on my list
+- can you find my lists
+- what is available in your [stock](list_name) of lists
+- do i have anything on the list
+- pull up the [shopping](list_name) list
+- can you read me my lists
+- list items on my [work](list_name) list
+- what is on my [rap](music_genre) playlist
+- what does the list contain
+- what are the list of [things i need to buy](list_name) [today](date)
+- what do i need to [get done](list_name) [today](date)
+- what do i need to complete first from the list
+- whats on my [shopping](list_name) list
+- whats on your list right now
+- what's next on the list
+- tell me what is on my list
+- let me hear my list
+- i do have a [to do](list_name) list for [today](date) don't i
+- how many eggs are on my [grocery](list_name) list
+- open the list
+- give me lists
+- what else do i have on the list
+- what are all the lists i have available
+- give me the list of the top five safest cars to buy
+- what's in my list of [tasks](list_name)
+- list things on my list
+- what's on the [grocery](list_name) list
+- give me the [shopping](list_name) list
+- what are listed
+- will you please show me my lists
+- did i make a [shopping](list_name) list
+- read the list
+- check my list
+- evaluate [today](date)'s schedule
+- make sure bread is on my [grocery](list_name) list
+- please tell me what lists i have
+- list entry
+- anything else left on the list
+- what are the jobs to be done [today](date)
+- recite the [schedules](list_name) of the list
+- please read me my current lists
+- read list for me please
+- check item five on my [to do](list_name) list
+- what are my available lists
+- what all lists are available
+- can you tell me whats on my [shopping](list_name) list
+- did i add milk to the [shopping](list_name) list
+- what lists do i have
+- name the lists available
+- find list in my pda
+- read available lists
+- what lists are available
+- do i have anything on my [to do](list_name) list
+- what's the next thing on my list of [appointments](list_name)
+- what's on my list
+- tell me items that are on my [shopping](list_name) list
+- what items did i plan to [buy](list_name)
+- tell me the name of my lists
+- what items are on my [shopping](list_name) list
+- provide what is there on the list
+- what do i have on my [shopping](list_name) list
+- what is on my playlist of movies on the the dvr
+- what lists do you have on you right now
+- what do i need to pick up at the [grocery store](place_name)
+- what lists do i have queried
+- let me know the list
+- tell me what is in your list
+- show me my lists
+- can you tell me what list i have
+- refresh my list and tell me whats on it
+- open [note pad](app_name)
+- what is included in the [tour](list_name)'s list
+- tell me about the list
+- speak all items for to day
+- read my [grocery](list_name) list
+- what is on the list for [today](date)
+- read my lists to me
+- tell me what is on my [grocery](list_name) list for [this week](date)
+- how many events on my list
+- what are the items on my list
+- put on the [screen](device_type) the lists i have available
+- List all the lists on this device
+- what's on my list to do [today](date)
+- whats on my list for the time being
+- my [party](list_name) list
+- do i have anything lists made for [christmas shopping](list_name)
+- what is on my [to do](list_name) list [today](date)
+- tell me what lists i currently have
+- what are all my lists please
+- what is on my [shopping](list_name) list
+- read that list back to me please
+- send me the last list uploaded
+- the list contain what
+- my list please
+- pull up list
+- i have my [clothes](list_name) list
+- how many lists do i have
+- please show my list
+- what groups are listed in my contacts
+- is there anything left on my list
+- list my lists please
+- do i have coffee on the [grocery](list_name) list
+- do i have anything outstanding on any lists
+- can i see my work lists
+- check my [to do](list_name) list
+- what's on my [todo](list_name) list
+- what's my [to do](list_name) list for [today](date)
+- which lists are present in the notes app
+- what kind of lists do i have
+- display available lists
+- how many lists do i have in contacts
+- give me the names of my lists
+- what list do i have
+- tell me what is on the list
+- check out my [to do](list_name) list
+- lists i have
+- tell me what's on my [shopping](list_name) list
+- do i have banana in my [shopping](list_name) list
+- what are the names of the lists that i have created
+- list the lists i have
+- can i have my list
+- do i have anything planned for [today](date)
+- what are the titles of the lists in contacts
+- what is my list
+- read me back whats on my [shopping](list_name) list
+- what on my play list
+- describe your list
+- what are the names of all my saved lists
+- what is that on the list
+- what is on this list
+- what to do lists do i have
+- show me what lists are available
+- there are anything in my list
+- what is on my [shopping](list_name) list [today](date)
+- what lists available
+- what is on my [to do](list_name) list
+- what's next on my list
+- give me all my lists
+- find the list
+- what lists are in my notebook
+- tell me what lists i have
+- list [to do](list_name)
+- read out my [shopping](list_name) list for [today](date)
+- what lists are open
+- what's still on the list
+- could you open my list app and check for [groceries](list_name) please
+- read my list to me
+- please show me the list that i have
+- give me the details on purchase order
+- arrange the list in alphabetical order that are available
+
+## intent:lists_remove
+- delete the [dog list](list_name) for me
+- delete item on list
+- remove the milk from the [shopping](list_name) list
+- please delete list titled [kickball](list_name)
+- remove this list from the others
+- please delete the last song that played from the playlist
+- remove my [grocery](list_name) list
+- take item off list
+- please tell me how can I remove the item
+- erase [shopping](list_name) list
+- all food items with the prefix dry should be taken away from the list
+- remove [soccer](list_name) list from notes
+- remove [lunch](meal_type) with [co workers](relation) on [thursday](date)
+- move buying eggs item to trash from [to do](list_name) list
+- delete that item from the list
+- delete [happy dance](list_name) playlist
+- this item should be removed from list
+- i don't want eggs
+- i want you to remove the item from the list
+- take milk off my [grocery](list_name) list
+- delete the item two from the list
+- remove a list of employees
+- take off this list
+- remove that from my list
+- delete that item from my list
+- erase previous list
+- remove any kind of list
+- remove [grocery](list_name) list please
+- delete this list
+- delete call newspaper from my [vacation list](list_name)
+- delete bread from [shopping](list_name) list
+- remove the second row from the list
+- delete my list of [appointments](list_name) for [tomorrow](date)
+- can you remove my [to do](list_name) list
+- open lists remove list
+- find my [shopping](list_name) list and delete it
+- i want to cancel the recording i have on the [dvr](list_name) list for this [morning](timeofday)
+- remove the last item
+- delete the following list
+- cancel list
+- get rid of the [wednesday](list_name) list
+- show list items
+- remove item from list
+- delete [shopping](list_name) list
+- remove my list of contacts from work
+- take out the milk from the [shopping](list_name) list
+- delete list for [groceries](list_name)
+- remove [night night](list_name) playlist
+- please delete this item
+- delete list blank
+- please remove item a from my list
+- remove apple from list
+- reset my [locations](list_name) list
+- remove my [to do](list_name) list
+- remove the list of person starting from letter m in my [contact list](list_name)
+- remove my [shopping](list_name) list
+- remove apples from my [shopping](list_name) list
+- remove the list called [party time](list_name)
+- kill item
+- remove last played song
+- drop it from list
+- please delete the [shopping](list_name) list
+- delete an item
+- remove the [guest](list_name) list i created [last week](date)
+- i have already given [mark](person) his gift today please remove him on my [christmas gift list](list_name)
+- delete the list
+- cross out bread from [shopping](list_name) list
+- remove noodles from the list
+- can you remove remove buying eggs item from my [to do](list_name) list
+- please remove apples from my [grocery](list_name) list
+- delete list
+- please clean my [shopping](list_name) list
+- remove list of [due payment of rajesh](list_name)
+- please delete bananas from my [shopping](list_name) list
+- please delete this file
+- take that off there
+- rearrange that off the list
+- get rid of a list
+- please remove sporty event from list
+- please remove a list
+- please remove dallas from my [travel itinerary](list_name)
+- clear the list
+- delete my [groceries](list_name) list
+- please remove the first list
+- remove [grocery](list_name) list
+- remove my [list of notes](list_name) from [last week](date)
+- find apple on list and remove
+- remove that item
+- delete last item listed
+- remove cereal from my [shopping](list_name) list
+- i'm done with [today](date)'s [to do](list_name) list
+- delete the last list
+- please remove the [grocery](list_name) list from my [set of lists](list_name)
+- clear list things to do [this weekend](date)
+- delete everything on the menu
+- remove the [grocery](list_name) list from my [active lists](list_name)
+- please remove tricep pulldown from my [workout list](list_name)
+- we're out of paint so take bathroom painting off the list
+- scratch that one from the list
+- remove [eric](person) name
+- remove the sms recipient which have initials s
+- delete [mike stein](person) from contacts list
+- remove milk from my [grocery](list_name) list
+- eliminate the list [kickball](list_name) but make sure the contacts remain
+- remove the list please
+- delete that item
+- remove [cart](list_name) list
+- remove item three
+- clear my [activities](list_name) list for [today](date)
+- delete this item
+- clear this list
+- remove a list please
+- delete sherlock holmes from [library](list_name)
+- i want you to delete my [shopping](list_name) list from [last month](date)
+- delete item four
+- remove eggs for the [shopping](list_name) list
+- remove cheese from my list
+- clear list
+- get rid of [tax](list_name) list from [nineteen ninety](date)
+- remove the item from list
+- delete from playlist my [old english](list_name) songs list
+- erase spaghetti from list
+- please remove the following list
+- please remove list
+- abolish an item from list
+- erase my [grocery](list_name) list
+- delete the list created [yesterday](date)
+- remove the [santana music](list_name) list
+- delete the [shopping](list_name) list
+- delete the list item about the meeting
+- remove vegetables from the list
+- i need you to remove item s from my list
+- remove a list of [accessories](list_name) purchase [last week](date)
+- remove event from my list
+- delete all lists
+- the list should not contain all food items with the prefix dry
+- get rid of bananas on the list
+- delete the list [brads appointments](list_name)
+- delete my [to do](list_name)'s for [this week](date)
+- delete out item
+- trash the open list google
+- remove list item
+- please clear the list
+- list remove
+- remove the list
+- i don't need [tesco](business_name) item any more delete it
+- delete my [shopping](list_name) list
+- please remove the list
+- delete my list
+- remove events from my list
+- remove the [bank transaction](list_name) list
+- erase that item from my list
+- delete the [famous actors](list_name) list
+- delete my [to do](list_name) list
+- clear all from my iphone
+- throw away my [to do](list_name) list please
+- remove [mike stein](person) from contacts list
+- trash file one
+- remove that event from list
+- find list and remove apple
+- delete the list please
+- erase item please from my list
+- erase the [chore](list_name) list
+- delete this from list
+- remove chores from my [to do](list_name) list
+- delete shopping from my list
+- please delete the list
+- go to the list and remove item
+- delete butterfly clips from my [wish list](list_name)
+- i don't need the [shopping](list_name) list delete it
+- get rid of item on the list
+- delete the last line
+- remove pepper from my [grocery](list_name) list
+- remove pencil from [stationary](list_name)
+- delete the [grocery](list_name) list
+
+## intent:music_likeness
+- save my last playlist
+- save this song in my great songs category
+- i love the songs of [micheal jackson](artist_name) can you save some songs of jackson for me
+- i love that song who sings it
+- make this my favorite
+- I love the eternal voice of the singer she is my favourite
+- i like a song sing by [arijit singh](artist_name)
+- the song touches my heart
+- i like the songs of [yeshudas](artist_name) please play it
+- i like this song
+- save the information which is provided by [aman](artist_name) on this song
+- the song makes me remember certain memories
+- i have to done it on the post important music file
+- the song in background is cool
+- please save my rating on this song it is five stars please
+- record the opinion of each individual about this song
+- please save my opinion about the song that is currently playing
+- this song is too good
+- can you save this what a nice song for me
+- please add this song to my playlist favorites
+- please note i like [jazz](music_genre) and hate [disco](place_name)
+- save this post about the song that i just listened to
+- add this song to my favorite list
+- filter all [arijit singh](artist_name) [sad](music_descriptor) song and save or create playlist of [sad songs of arijit singh](playlist_name)
+- i like [rock](music_genre) music
+- i like this song please save
+- i like music
+- please save the remarks i have on this current song
+- you like the song
+- i like [soft rock](music_genre) music
+- i like [jazz](music_genre) you should know
+- find lyrics of this song and save it it is very nice song
+- keep that song for when i need cheering up
+- the music of this song is very melodious and relaxing
+- i like [senatra](artist_name) songs
+- love me some [brad paisley](artist_name)
+- this song is my favourite
+- i'm into music
+- save this channel on [pandora](app_name) please
+- my favorite singer is [shakira](artist_name)
+- add this song to my music
+- give five stars to this song
+- i like [justin beibers](artist_name) music please play it
+- add that song to my top ten favorites list
+- [slow rock](music_genre) it's ok
+- that's a good song
+- isn't it a lovely song please save this for me
+- put that song in my favourite list
+- my favourite music band is [queen](artist_name)
+- i like [jazz](music_genre)
+- please save this song to my favorites
+- super song
+- this song was very good
+- this is my favorite song
+- i like [classic rock](music_genre)
+- favorite this music
+- i like this song that is playing
+- save this music to my favorites
+- can save this music in my playlist
+- save opinion on song
+- rate this song five stars and save the rating
+- save information about [love](song_name) of [beyonc](artist_name)
+- [replay](player_setting) this song i really like it
+- please keep everything i have on this song
+- nice music
+- i like music from when i was a teenager in the
+- save [chhana mereya](song_name) song in my playlist
+- please rate current song as five stars
+- i like [r n b](music_genre)
+- add that song to my playlist
+- save my opinion on [adele](artist_name)'s song
+- i am the living [blues](music_genre)
+- that song was awesome can you repeat
+- save the opinion that i just posted to this song
+- this is a nice song
+- save this song as a favorite
+- save this songs genre for me
+- add this song to my catalogue
+- remember this music
+- this is one of the best songs for me
+- save my song preferences on playlist
+- compile favorites list according to my song feedback
+- its peaceful
+- i enjoy music
+- i like [top twenty](music_descriptor) music
+- i really ska music
+- this song is amazing is not it
+- save this song as my favorite
+- this is a five star song
+- yes i like to save opinion on song playing and which player support that song
+- i want to listen [daily](general_frequency) to this song
+- this is a good tune please notate file accordingly
+- i love [hip hop](music_genre)
+- please save this song
+- please note on song title good tune
+- save my music preferences
+- hey i like music by [sigur ros](artist_name)
+- you have to check out [kfi](artist_name) he's the best
+- i find [rap](music_genre) music really enjoyable
+- add this song to my playlist
+- i like this song what is it can you please repeat it once
+- note current song as awesome please
+- i love anything by [elton john](artist_name)
+- i am forever [hip hop](music_genre)
+- save that song and my opinion
+- send this song to my favorites
+- how about you save this music
+- please save that song
+- i'm really enjoying this song
+- save all songs from [katy perry](artist_name)
+- this is a good song put it on [repeat](player_setting)
+- i like the [background](music_descriptor) song
+- i love the song do you
+- isn't [keith urban](artist_name) wonderful
+- i love to [rock](music_genre) out with my sock out
+- save my opinion on the currently playing song
+- i like [electronic](music_genre) music
+- save my spotify preferences
+- i love this song
+- my favorite music is [rock](music_genre) from the [early two thousands](date)
+- save the last radio stations of the [last month](date)
+- save this song to playlist
+- great song for the commute
+- add my opinion to this song great
+- rate this song to the maximum
+- tag this song with five stars
+- remember [metallica](artist_name) selections for next time
+- make a note please i like [modern alternative rock](music_genre) music
+- save this song
+- i love that song
+- add the song to my favorites
+- remind me that i like that song
+- i really enjoy [rock and roll](music_genre)
+- store opinion on song
+- mark this song as a favorite
+- download and save song of [dangal movie](music_descriptor)
+- i love this music can you please save this to my dance playlist and remember that i like it
+- i want the music to be saved can you do it for me
+- that song is my favorite
+- i love [zydeco jams](music_genre)
+- i enjoy listening to this song it really calms me down
+- i like [vocals](music_genre)
+- save all of my preferences information specific to songs
+- my all time favorite song is [something like this](song_name) from [chainsmokers](artist_name)
+- remember that this is my favorite music
+- can you save this song to my favorites
+- this is the best band ever
+- what a wonderful song can you save what i just said for me
+- save my music choices
+- thumbs up this song
+- add [bruno mars](artist_name) to my favorites
+- save my opinion about the current song playing
+- i like songs from
+- current song rating three stars
+- Olly save all the songs i have listened to more than once
+- please add note to this file good tune
+- [kfi](artist_name) is my favorite rapper
+- i like top forty music
+- nice lyrics
+- i love [kfi](artist_name) so much he's by far my favorite
+- please record what i have said about this song
+- rate five
+
+## intent:music_query
+- what music is playing right now
+- title of song
+- show me music by that artist
+- name the singer
+- what's the song title
+- which song is currently playing
+- what is the name of the artist that created this song
+- in [classic](music_genre) all music are there ever any singers
+- what is the name of this song playing right now
+- tell me what is song is playing now
+- who's that song by
+- explanation of the song
+- who sung this
+- what is the list about my favorite songs
+- is this song [ed sheeran](artist_name)
+- what is the name of this song
+- tell artist and title of this song
+- how do you feel after hearing [justin bieber](person)'s new album
+- other songs by this artist
+- what artist is singing that song
+- what song do i listen to the most
+- what's on the radio right now
+- what is the title of this song and please [shuffle](player_setting) songs from the artist that sang it
+- show the playlist
+- who sings this
+- what music genre do i listen to the most
+- tell me the date when this song was recorded
+- what's next song on my playlist
+- who wrote the song [i just wanna dance with you](song_name)
+- what are the lyrics to this song playing
+- what music is it
+- what music do i prefer
+- who is the singer of song
+- can you turn down the volume please and tell me what is the title of this song
+- who's current music's author
+- what song is playing
+- please tell me the name of this song that is currently playing
+- who is the singer of this song right now
+- what music is being played right now
+- show me the name of the song playing right now
+- what song is on the radio
+- what is the name of the music playing now
+- when was this song recorded
+- what album is this song on
+- what cd is this song on
+- do you know the name of the song that is playing
+- tell me starting phrase of this music
+- what music do i like
+- who wrote the song that is playing
+- what music is currently playing
+- who covered the song [one more cup of coffee](song_name)
+- name the artist who sang [hotel california](song_name)
+- what song is currently playing
+- olly what songs have i listened to at least ten times
+- is it possible for you to provide the likes of my music
+- what genre is this song currently playing
+- identify song
+- what would you call this kind of music that we're listening to
+- what is the title and artist of this song
+- what music is playing now nine hundred and ninety nine fm
+- nine hundred and ninety nine fm is currently playing what music
+- listen to this song
+- who has covered this song
+- is the song by [shakira](artist_name)
+- tell me my music likes
+- who sang the song that is currently playing
+- what music do i usually like after work
+- which song is this
+- show me my playlist
+- what's the name of this song
+- give me the release date of this song
+- what song do i play most
+- What's playing
+- what is name of the song currently playing
+- who is the music director of this song
+- what is the name of the lead singer in this band
+- when was this song released
+- which was that [coldplay](artist_name) song i listened to [yesterday](date) [evening](timeofday) can you play it again
+- who is the artist of the song playing now
+- is there any [rap](music_genre) that doesn't involve sex money and drugs
+- what song is playing right now
+- what's that the album is current music from
+- where is band playing
+- what is the current song called
+- who is singing that song on now
+- what song is playing on windows media player
+- find out what song this is and tell me the name
+- who's playing this
+- do you hear songs of [arrahman](artist_name) music
+- what genre is most played on my [music player](device_type)
+- this song is composed by whom
+- i've heard this riff before what song stole this riff it's exactly the same
+- whose song is this
+- the song playing now is released by which artist
+- find me the name of the artist of this music
+- what is the title of the song
+- what am i listening to
+- what music genre do i play most
+- what did she just sing
+- which film the music comes from what is the name of the music
+- who is the song playing by
+- who sings this song
+- what are the lyrics to the song [i will always love you](song_name) by [Dolly parton](artist_name)
+- what music do i usually listen to
+- what is a good [rap](music_genre) album that came out [this year](date)
+- what genre is this song in
+- who sings the song that i am listening to right now
+- who is the artist of this song
+- tell me the song that is currently playing
+- what is the name of this musical group
+- what is the name of that song that just went off
+- do you know about this lyrics
+- recommend artists similar to [rihanna](artist_name)
+- what is the song currently playing
+- is that the song from [spectre](artist_name)
+- tell me the details of the music playing
+- tell me the artist name
+- what type of music do i enjoy
+- tell me the name of the song
+- what are my favorite types of music
+- do i have any music by [lady antebellum](artist_name)
+- give me some [bowie](artist_name)
+- [hotel california](song_name) is sung by whom
+- tell me the name of this song
+- what the singer meant by the title of the song [bohemian rhapsody](song_name)
+- tell me the music that is playing
+- which song is this one
+- when was this song first recorded
+- whats the name of the current song
+- please show me detail of previous played song
+- what kind of music do you think i like
+- can you pull up information on the singer of this song
+- recommend songs based on my playlist
+- give me name and type of this music
+- check the current playing music title
+- please tell me the name of this band
+- who sing [we are the world](song_name)
+- show me the picture of the singer
+- was this song in the top twenty
+- bring me the title of current music
+- is that song from [shakira](artist_name)
+- from which movie is the song
+- when was the song playing now released
+- who's playing the oboe on this piece
+- what is my most played song
+- tell me the name of the composer
+- what song am i listening to
+- what is the name of that song
+- what kind of music am i into
+- what year did this song come out
+- who sings the song about a [long black train](song_name)
+- what is this music called
+- what's the name of the piece you are playing
+- what song in the [theme song for frasier](music_album)
+- what song is playing now
+- what genre of music is in my music folder
+- what playlist is on [shuffle](player_setting)
+- tell me the singer of this track
+- who is the singer
+- email me the lyrics to this song
+- what song is this
+- what music is playing
+- i am interested in what emotions are conveyed in grateful dead music
+- what's my favorite music at the moment
+- when is boy band playing
+- what is the song name
+- who wrote this song
+- what is the track information currently
+- who is singing the song i am listening to right now
+- tell me who wrote this song
+- tell me a play list
+- what is the title of this song
+- tell me the artist of this song
+- which song am i listening to right now
+- what genre is this
+
+## intent:music_settings
+- enable [shuffle](player_setting)
+- please put [radio](media_type) in [shuffle](player_setting)
+- please check my playlists for [jazz](music_genre) music
+- [replay](player_setting) the required of the musics
+- select [shuffle](player_setting) all
+- [shuffle](player_setting) the current album of songs
+- please add this song to [work out playlist](playlist_name)
+- please set the [equalizer](device_type) in the [party mode](player_setting)
+- [lower battery consumption](player_setting) to save setting
+- open [music player](device_type) settings
+- put the [last song](song_name) on [repeat](player_setting)
+- [repeat](player_setting) the current song
+- turn off shuffle
+- [replay](player_setting) the musics
+- [shuffle](player_setting) music by [aaron carter](artist_name)
+- [repeat](player_setting) the [last song](song_name)
+- turn on [repeat](player_setting)
+- please [repeat](player_setting) the current song is being played
+- could you please create a pandora channel for [adele](artist_name)
+- [change song](player_setting)
+- [repeat](player_setting) this song three times
+- [loop](player_setting) this track
+- [change](player_setting) the music mode to [rock](music_genre)
+- olly skip song
+- please program volume settings for sixteen when i'm in the room at fourteen for when i've gone to bed
+- please [skip](player_setting) to the next song
+- save settings
+- make sure my shuffles are [always repeat and always shuffled](player_setting)
+- please use [shuffle](player_setting)
+- please check and repeat this song one time more
+- [equalize](player_setting) the bass of this music
+- please turn on [repeat](player_setting) all
+- [shuffle](player_setting) song
+- display volume strength on current track
+- show current track in [music player](device_type)
+- Please turn off [shuffle](player_setting) setting
+- [shazam](player_setting) this music
+- make a laundry setting for the volume at twenty
+- put the current song on [repeat](player_setting)
+- play only particular singer [songs](media_type)
+- turn [shuffle](player_setting) on [music player](device_type) on
+- please [proceed](player_setting) to the next available [rock song](music_genre)
+- please go to settings of the [music player](device_type) and make the [equalizer](device_type) in the [flat sound mode](player_setting)
+- please don't shuffle songs in [music player](device_type) just [playing continuously](player_setting)
+- put the playlist on [shuffle](player_setting)
+- [repeat](player_setting) [the last song](music_descriptor) again
+- music change
+- please [skip](player_setting) two songs
+- [repeat](player_setting) the song playing now
+- [repeat](player_setting) all
+- [shuffle](player_setting) the songs in the [music library](music_descriptor)
+- please [lower](player_setting) the [shuffle](player_setting) rate of [hips don't lie](song_name)
+- please put this playlist on [shuffle](player_setting)
+- [disable](player_setting) [shuffle](player_setting)
+- [shuffle](player_setting) music
+- [stop](player_setting) after current song
+- turn on [spotify](app_name) [shuffle](player_setting)
+- turn on [shuffle](player_setting)
+- [stop repeating](player_setting) this song
+- [move](player_setting) to the next song in the list
+- [repeat](player_setting) song number ten from [main list](playlist_name)
+- olly [shuffle](player_setting) playlist
+- olly skip two songs
+- [repeat](player_setting) [jazz](music_genre)
+- set [track](media_type) twenty eight in music player on [repeat](player_setting)
+- [repeat](player_setting) song
+- [repeat](player_setting) [music](media_type)
+- please [repeat](player_setting) the last song
+- [repeat](player_setting) album
+- [repeat](player_setting) the music
+
+## intent:news_query
+- latest updates
+- hey olly tell my [today](date)'s top news
+- is there any new [environmental](news_topic) news
+- [hackernews](media_type)
+- look up news articles about [trump](person)
+- headline news for [texas](place_name)
+- give me the [winning numbers to the powerball lottery](news_topic)
+- [dea guam prescription drug abuse on the rise](news_topic)
+- what is the latest news from [cbs](media_type)
+- what's going on at the [capitol](place_name)
+- please find me the pe most recent news on
+- what is new news for [today](date)
+- what are the most recent headlines on [cnn](media_type)
+- is anything different [today](date) about [blank](news_topic)
+- what's happening [today](date)
+- search for the latest news about [iphone](news_topic)
+- what is new in [politics](news_topic) [today](date) can you filter out [trump](person) news though
+- what went on in the world [today](date)
+- how are things in the [world](place_name)
+- how is [president's trump office proceeding](news_topic)
+- show me [rediff masala](media_type)
+- keep me updated on the [election](news_topic) results
+- what are [today](date)'s headlines
+- breaking news [fox](media_type) news
+- what is the news [today](date)
+- what does the analysts say about the new [immigration policies](news_topic)
+- check the news
+- please let me know about topic [elections](news_topic)
+- show current news from [bbc](media_type)
+- tell me the top stories in the news
+- open news about [bp oil](news_topic)
+- get me [match highlights](news_topic)
+- what is [trending](news_topic)
+- let me know when you hear about [france](news_topic)
+- give me the latest on [paul ryan](news_topic)
+- have there been updates on [abortion law](news_topic)
+- what is the [bbc](media_type)'s latest news
+- check for recent news stories on [msnbc](media_type)
+- what is latest on the recent events happening right now
+- [people canceling iowa vacations over congressman's words](news_topic)
+- top news
+- what is happening with [brexit](news_topic) [today](date)
+- what's happening in [world](place_name) news [today](date)
+- what and how is [india's economy](news_topic) at the moment
+- keep me informed about [bitcoin price](news_topic)
+- what happened [last week](date)
+- what is the news about [terrorist attack](news_topic) in [afghanistan](place_name)
+- what news updates are there from [news express](media_type)
+- what's happening on [bbc](media_type) news [today](date)
+- let me know the latest [weather](news_topic) news
+- what are the news notification
+- find me news about [trumps speech](news_topic)
+- [cnn](media_type) headlines
+- tell me about current status of [sunderland vs liverpool match](news_topic)
+- what's happening in the news
+- get latest news report on [kidnapping](news_topic) in [ny](place_name)
+- can you give me the latest [sports](news_topic) news
+- open [cnn](media_type) app
+- what is happening in the [world](place_name) news
+- what is new
+- has anything happened to [mass effect](news_topic)
+- tell me the news about [jallikattu](news_topic) in [tamil nadu](place_name)
+- please tell me the latest news about [politics](news_topic)
+- what's the latest on [the travel ban](news_topic)
+- set notification from [world news](media_type)
+- i want to know the latest [local news](news_topic) of [the city](place_name)
+- tell me about the latest [sports](news_topic) news
+- get news about new [foreign policy](news_topic)
+- open the [local news](media_type) app
+- what is latest news about this [world](place_name)
+- tell me about the [presidential race](news_topic)
+- what's happened in the news recently
+- what's the latest news on [donald trump](person)
+- please tell me the latest news about the [election scenario](news_topic) in our [state](place_name)
+- whats the latest
+- what are the top stories on [cnn](media_type)
+- give me [international](place_name) news
+- what is the latest news on [sprint](news_topic)
+- what are they saying about [donald trump](person) on this topic
+- [usa today](media_type) headlines
+- read me the most updated news on [bbc](media_type)
+- i would like to know the latest from [nbc news](media_type)
+- find the [this week](date)'s news about [emigration legislation](news_topic) in the [us](place_name) please
+- [political](news_topic) news of importance for the day
+- what happened [yesterday](date) on [samurai jack](news_topic)
+- what's the latest news about [us election](news_topic)
+- latest updates on [syrian civil war](news_topic)
+- i need [sport](news_topic)'s news
+- get me the latest news of [world](place_name)
+- what is happening in the [world](place_name) [today](date)
+- keep me up to date on the [election](news_topic) news
+- access latest news
+- which teams are playing [today](date) in the [premier league](news_topic)
+- let me know if anything happens on that subject
+- what is happening in the [world](place_name) right now
+- show latest news about [migration](news_topic)
+- the current news
+- Show me articles about [the new iphone eight](news_topic)
+- please tell me the news
+- give me the headlines from [sky news](media_type)
+- is there any new news on [trump](person)
+- give me the latest updates
+- pull up my [cnn](media_type) app and read it to me
+- can you tell me a latest news
+- google search the topic
+- can the latest news be pulled up on the latest [weather forecast](news_topic) for the week
+- how is the news in [ireland](place_name)
+- what is the latest on [donald trump](person)
+- update me on the [standing rock protest](news_topic)
+- new policies
+- get me news on [trump](person)
+- please advise what the current news is on [fox news](media_type)
+- latest news update
+- what's happening with the [hurricane in the gulf](news_topic)
+- The latest [climate and weather](news_topic) news
+- [cnn](media_type)
+- what's the news in [politics](news_topic)
+- celeb news
+- what's the news in [politics](news_topic) on [cnn](media_type)
+- what's the news from [source](media_type)
+- pull up the headlines please
+- [entertainment](news_topic) news
+- olly schedule a news update for [tomorrow](date) [morning at seven am](time)
+- i want to see the news
+- tell me the latest news from [bbc sports](media_type)
+- how about the latest news
+- what are the results of the [election](news_topic)
+- [cnn](media_type) [world](place_name) news
+- get me the latest on current events going on in the [world](place_name)
+- what's going around in the [world](place_name) these days
+- give me the [morning news](media_type)
+- economic affairs
+- provide [wall street journal](media_type) news
+- what's happening in [news express](media_type)
+- give me the news on [donald trump](person)
+- whats happening in [football](news_topic) [today](date)
+- what is currently breaking news
+- are there any status updates on [cnn](media_type) news [facebook](media_type) page
+- newest [world](place_name) news
+- any local news stories for my home city
+- what's going on in [new york](place_name)
+- please provide [world](place_name) hot news
+- tell me if an [earthquake](news_topic) happens in the world
+- can you get me news from [ny](place_name) times
+- current news [cnn](media_type)
+- show me the latest news from the [un](media_type)
+- read me the front page of the [new york times](media_type)
+- please tell me some [international](place_name) news
+- will [trump](person) visit [russia](place_name) anytime soon
+- what is the news [today](date) in [polk county florida](place_name)
+- did the yankees win [last night](date)
+- give me [election](news_topic) updates
+- notification regarding the [new iphone release update](news_topic)
+- get news from [bbc](media_type)
+- [iphone](news_topic)
+- what's going on in the [world](place_name) these days
+- give me the news
+- i want to read [yahoo news](media_type)
+- headlines from [dhaka tribune](media_type)
+- what is the headline from [today](date)'s [morning local news](media_type)
+- get me the latest news in [new york](place_name)
+- what are the news stories on the [cnn](media_type) website
+- latest news
+- olly please read me [today](date)'s news
+- what is trending in tech [today](date)
+- give me the headline news
+- get me fresh news
+- please share up to the minute details on [sprint](news_topic)
+- any recent news about [north korea](place_name)
+- tell the latest news about the [trump](news_topic)
+- tell me updates
+- is [india win today cricket match](news_topic)
+- automobiles
+- is [snap](news_topic) doing good after the [ipo](news_topic)
+- can you search [trump](news_topic)
+
+## intent:play_audiobook
+- [progress](player_setting) from the last paused point of my [audio book](media_type)
+- [go back to](player_setting) [animal farm](audiobook_name)
+- play next episode of [harry potter](audiobook_name) by [j. k. rowling](audiobook_author)
+- [resume](player_setting) [the two towers](audiobook_name)
+- [start playing](player_setting) again
+- [resume](player_setting) [lord of the rings](audiobook_name)
+- [resume](player_setting) the reading of the [french lesson](audiobook_name)
+- [continue](player_setting) the [smurfs](audiobook_name) book
+- can you [put on](player_setting) [the giver](audiobook_name)
+- read that back
+- [start](player_setting) audio playback of [twilight](audiobook_name) again
+- i want to finally read [the mars trilogy](audiobook_name)
+- pick up we left off on [battle royale](audiobook_name)
+- i would like to listen to my [audiobook](media_type)
+- lets have a [break](player_setting) for [five minutes](time)
+- [resume](player_setting) [the two towers](audiobook_name) [audiobook](media_type)
+- can you play my favorite audio book of [king kong](audiobook_name)
+- i want to listen to [treasure island](audiobook_name) by [robert louis stevenson](audiobook_author)
+- [resume](player_setting) [pride and prejudice](audiobook_name)
+- play [the game of thrones](audiobook_name) [audio book](media_type) from the last chapter i was on
+- play the [book](media_type) which i heard on some particular day
+- [stop play](player_setting)
+- get me resume of newest release [audio book](media_type)
+- [keep playing](player_setting) [secret garden](audiobook_name)
+- can you [pause and rewind](player_setting) the [audio](media_type) then [resume](player_setting)
+- play the last played [audiobook](media_type)
+- [start reading](player_setting) that [alan partridge](audiobook_author) [book](media_type)
+- play [magic run](audiobook_name) [after thirty min](time)
+- [resume](player_setting) play on my most recent audiobook selection
+- [start reading](player_setting) [fifty shades of grey](audiobook_name) from chapter four
+- [start chapter five](player_setting) of [physics for future presidents](audiobook_name)
+- [continue](player_setting) [pride and prejudice](audiobook_name)
+- [resume](player_setting) [audio](media_type)
+- [read](player_setting) some more of the [daisy goodwin](audiobook_author) [book](media_type) for me
+- can you play my latest [audio book](media_type)
+- open [harrypotter](audiobook_name) [audiobook](media_type) and play from last played
+- play [audiobook](media_type) of [planets](audiobook_name)
+- [resume](player_setting) my [audiobook](media_type) from the beginning of the last chapter i started
+- [resume](player_setting) the last played [audiobook](media_type)
+- [open](player_setting) book
+- open [the two towers](audiobook_name) and play
+- i need a break [start](player_setting) it [after five minutes](time)
+- [resume](player_setting) playback
+- pick up [wuthering heights](audiobook_name) where we left off
+- [audio](media_type) start
+- please [restart](player_setting) [the handmaid's tale](audiobook_name)
+- book [swan](audiobook_name) [resume](player_setting)
+- [resume](player_setting) [harry potter book four](audiobook_name)
+- [resume](player_setting) play of [american gods](audiobook_name)
+- play [pride and prejudice](audiobook_name)
+- [resume play where i left off](player_setting) in book on [audible](app_name)
+- play the [twilight](audiobook_name) book
+- play me a random [audio book](media_type) that has to do with love
+- can you [put on](player_setting) the [chuck palhunik](audiobook_name) audio book
+- i want you to [fast forward](player_setting) the [audio](media_type) then [resume](player_setting)
+- [resume](player_setting) the playback of [zanes se chronicles](audiobook_name)
+- [hold](player_setting)
+- [start over](player_setting) [the book legacy](audiobook_name)
+- read to me
+- [resume playing](player_setting) [the miniaturist](audiobook_name)
+- open the [davinci code](audiobook_name) where i left off
+- open the books and play [brains book](audiobook_name) from chap nine
+- [start from last time](player_setting) on my [audio book](media_type)
+- i would like to [continue](player_setting) my [audiobook](media_type)
+- [resuming](player_setting) playing my current [audio book](media_type)
+- [pause](player_setting) the book
+- [resume](player_setting) the audiobook i listened to last
+- play [the client](audiobook_name) by [john grisham](audiobook_author)
+- play [audiobook](media_type) [snow white](audiobook_name)
+- [resume](player_setting) the playback of a child called it
+- [continue](player_setting) [audiobook](media_type) playback
+- [resume](player_setting) [audiobook](media_type) please
+- [resume](player_setting) [the art of war](audiobook_name)
+- [read](player_setting) me some more [deadly death killers](audiobook_name)
+- play [fault in our stars](audiobook_name) on [audible](app_name)
+- start playing from where i left off on the goblet of fire
+- [start](player_setting) my [bible study](audiobook_name) book again
+- play [audio](media_type)
+- play [album](media_type) [audiobook](media_type)
+- open [audible](app_name) and [continue](player_setting) playing the book that i was listening to
+- [continue playing](player_setting) where I left off
+- [start](player_setting) chapter seven of [alma](audiobook_name)
+- continue from where we left off in [divergent](audiobook_name)
+- please [continue reading](player_setting) [the hunger games](audiobook_name)
+- play [seven habits of effective people](audiobook_name)
+- play my bookmarked [audiobook](media_type)
+- play audiobook
+- [continue](player_setting) with my [audiobook](media_type) please
+- play it [after five minutes](time)
+- start [audiobook](media_type) again
+- [resume](player_setting) [harry potter](audiobook_name) from the place i have stopped listening to last time
+- please [pause](player_setting) this [audio book](media_type) now
+- [put on](player_setting) [the god of small things](audiobook_name)
+- [continue playing](player_setting) my [book of vitamins](audiobook_name)
+- list me the [audiobooks](media_type) i have already listened to
+- [resume](player_setting) [mind reading book](audiobook_name)
+- [resume](player_setting) [harry potter book five](audiobook_name)
+- [resume](player_setting) audiobook
+- [resume](player_setting) last played [audiobook](media_type)
+- [resume](player_setting) [inkheart](audiobook_name)
+- play this [audiobook](media_type)
+- play [audiobook](media_type) where we left off
+- open [the two towers](audiobook_name)
+- play the [davinci code](audiobook_name)
+- please play back some important points summary
+- [start](player_setting) my [audio book](media_type) from where i left off
+- play [the circle](audiobook_name)
+- play [audiobook](media_type) of [jacob](audiobook_name)
+- can you [continue](player_setting) [audiobook](media_type) [the circle](audiobook_name)
+- please [continue reading](player_setting) [audiobook](media_type)
+- base on my [audiobook](media_type) [collection](list_name) get me recommendation related [audio book](media_type) i should listen get and play me the resume
+- [resume](player_setting) [story](audiobook_name)
+- book [swan](audiobook_name) play
+- i want to listen to [be more chill](audiobook_name) by [ned vizzini](audiobook_author)
+- [go back](player_setting) to [the midnight series](audiobook_name)
+- please play recently paused [audio](media_type)
+- play [little women](audiobook_name)
+- play [biography of jackie kennedy](audiobook_name)
+- play recently added [audiobook](media_type)
+- can you play [hunt for red october](audiobook_name)
+- play [the scarlet letter](audiobook_name)
+- [start reading](player_setting) book
+- play [sam harris](audiobook_name) [audiobook](media_type)
+- [resume](player_setting) [joes book](audiobook_name) from where i left off last time
+- play my book
+- lets listen to [hunt for read october](audiobook_name)
+- [restart](player_setting) the [audiobook](media_type) [heaven is for real](audiobook_name)
+- [restart](player_setting) [bill nye](audiobook_author) [book](media_type)
+- play [animal farm](audiobook_name)
+- play [the time machine](audiobook_name) by [h g wells](audiobook_author)
+- continue playing my [audiobook](media_type)
+- please [resume](player_setting) this playback in [audiobook](media_type)
+- [read](player_setting) the [audiobook](media_type) of [war of the roses](audiobook_name)
+- play the program where i left off [yesterday](date)
+- play book
+- i want to play the [audiobook](media_type) [good grief](audiobook_name)
+- [begin again](player_setting) book [swan](audiobook_name)
+- [keep playing](player_setting) [war and peace](audiobook_name)
+- please play this playback on [audiobook](media_type)
+- [start playing](player_setting) [the hobbit](audiobook_name)
+- [resume](player_setting) audio book [history of rome](audiobook_name)
+- get me resume of best seller [audio book](media_type) [this month](date)
+- play me [harry potter](audiobook_name) from the place i last stopped listening on
+- [resume playing](player_setting) the current [audiobook](media_type)
+- i want to hear the book written by the mother of the shooter at columbine
+- play [wuthering heights](audiobook_name) from where i left off
+- i would like to [start](player_setting) this new [audiobook](media_type)
+- [playback](player_setting) [tom clancy](audiobook_author) [splinter cell](audiobook_name)
+- open [davinci code](audiobook_name) [audiobook](media_type)
+- can you [pause](player_setting) the [audio](media_type)
+- please open [audible](app_name) app and [resume play](player_setting)
+- [start](player_setting) [dune](audiobook_name) from where i left off
+- please repeat the last sentence from that book
+- [resume](player_setting) [harry potter book one](audiobook_name)
+- [restart](player_setting) [american gods](audiobook_name)
+- start play [johns](audiobook_name) [audiobook](media_type)
+- [resume](player_setting) audio playback of [twilight](audiobook_name)
+- please [continue playing](player_setting) [odd thomas](audiobook_name) by [dean koontz](audiobook_author)
+- [stop](player_setting) [audiobook](media_type)
+- [pause](player_setting) the [audiobook](media_type)
+- i want to [start](player_setting) [war and peace](audiobook_name) [where i left off](player_setting)
+- look for this playback in [audiobook](media_type) and play for me
+- [resume](player_setting) [war and peace](audiobook_name)
+- play [the jungle](audiobook_name) book
+- play this [audiobook](media_type) for me
+- [resume playing](player_setting) [you are joking mr feynman](audiobook_name)
+- play [the god of small things](audiobook_name)
+- i want to [resume](player_setting) where i last left off in my [audio book](media_type)
+- play [the two towers](audiobook_name)
+- [start](player_setting) the audiobook file for where i left off in [a tale of two cities](audiobook_name)
+- find me an [audio book](media_type) version of [ready player one](audiobook_name) and play it for me
+- [begin playing](player_setting) the [audiobook](media_type) [beauty and the beast](audiobook_name)
+- play the [audiobook](media_type) [swan](audiobook_name) from first
+- open [audiobook](media_type)
+- [resume](player_setting) [audiobook](media_type) playback
+
+## intent:play_game
+- start up [league of legends](game_name) for me
+- we are going to play [poker](game_name) together
+- can you take a role of enemy in the game of [coc](game_name)
+- run game
+- open [parcheese game](game_name) for you and i
+- let's [roll the dice](game_name)
+- launch game
+- can you do [name that tune](game_name)
+- play the latest games
+- start up [bejeweled](game_name)
+- let's play our favourite [football match](game_name) on [tv](device_type)
+- play this game with me
+- find game
+- list the games you can play with me
+- can you play [monopoly](game_name) with me
+- play [flappy bird](game_name)
+- i need to play [sims](game_name)
+- turn on [flappy bird](game_name)
+- let's play [space invaders](game_name)
+- start [words with friends](game_name)
+- i challenge you to a game of [tic tac toe](game_name)
+- please open [blokus](game_name) game i would like to play with you
+- Please play this game
+- open [tic tac toe](game_name)
+- open games
+- play [gta vice city](game_name) game
+- please play [football](game_name) with me
+- play [chess](game_name)
+- play for me the game [cricket](game_name)
+- play [scrabble](game_name) with me
+- play me a game of [tic tac toe](game_name)
+- let's play [fmod](game_name)
+- lets play
+- please begin [clash of clans](game_name)
+- open [chess](game_name) app and begin game
+- do a tournament with me in [candy crush](game_name)
+- shall we play a game
+- open up [tetris](game_name)
+- please play [trivial pursuit](game_name) with me
+- let's play [chess](game_name)
+- i feel like playing [chess](game_name) can you play that
+- open [temple run](game_name) game
+- open [chess](game_name) play against me
+- play [football](game_name) with me
+- let's play a game how about [tic tac toe](game_name)
+- play [papa pear saga](game_name)
+- play [tic tac toe](game_name) with me
+- play [subway surfers](game_name) with me
+- lets play [chess](game_name) together
+- play game
+- can you play [tic tac toe](game_name)
+- play a game of [contra](game_name) as a second player
+- play a game of [chess](game_name) with me
+- please play my [cricket](game_name) game
+- Lets play [tic tac toe](game_name)
+- [mario](game_name)
+- start [angry bird](game_name)
+- want to play a [game of trivia](game_name)
+- want to play a game
+- i want to play a game
+- let's play [space invaders](game_name) together
+- play for me the game [star wars](game_name)
+- my games to play in my computers
+- i want to play a [trivia game](game_name)
+- can you play a game with me
+- Play my favorite game by name [naughty dog](game_name)
+- play [candy crush](game_name)
+- play [football match](game_name) for myself now
+- start game [temple runner](game_name)
+- let's play [tic tac toe](game_name)
+- play [rummy](game_name)
+- please open [chess](game_name) game i would like to play with you
+- open [subway surfers](game_name)
+- search for the correct game
+- i want to play [poker](game_name) with you
+- load up [ghost recon wildlands](game_name)
+- [tag you're it](game_name)
+- let's play a game together
+- play [ping pong](game_name)
+- open [chess](game_name) game
+- open [saga](game_name)
+- i want you to play this game for me
+- i challenge you to a game
+- lets play [battleship](game_name)
+- let's play [global thermonuclear war](game_name)
+- start a game and play with me
+- let's play [canasta](game_name)
+- start the [poker](game_name) game
+- let's play some [pong](game_name)
+- please play [clash of clans](game_name)
+- lets play [tic tac toe](game_name)
+- i want to play a game with you
+- please choose a game that you can play with me
+- please open and play [chess](game_name) with me
+- open this game
+- could you play [poker](game_name) with me
+- play [poker](game_name) with me
+- play [mindsweeper](game_name) with me
+- do you want to play [solitaire](game_name)
+- video games
+- load a fun game that i can play with you
+- play for me the game [harry potter and the chamber of secrets](game_name)
+- let's play a game of [truth or dare](game_name)
+- lets go nazi hunting
+- launch [super mario](game_name)
+- play my game
+- play [cricket](game_name)
+- start play [road rash](game_name)
+- get the [duet](game_name) game
+- play game with me
+- play [real racing three](game_name) game
+- play [super mario brothers](game_name) game with me
+- start a match of [chess](game_name)
+- let's play a game of [chess](game_name)
+- play [chess](game_name) with me please
+- would you like to play a game
+- play [solitaire](game_name) with me
+- i'm thinking of a [number one to ten](game_name)
+- let's play you'll be the keeper and never change position
+- start a [competitive crossword](game_name) for us
+- would you like to play a game with me
+- let's play [nine ball](game_name) against me adapt with my skill level always let me win
+- could you harvest the crops in [farmvile](game_name)
+- please open [go fish](game_name) game and play it with me
+- open [fishdom](game_name) game
+- open [minestart](game_name) game from previous played level
+- open up [angry birds](game_name)
+- i want to play [fifa seventeen](game_name)
+- lets play [pinball](game_name)
+- I'd like to play [UNO](game_name) with you
+- play [uno](game_name) together
+- want to play a game with me
+- play [candy crush](game_name) with me
+- i want to play [rock paper scissors](game_name) let's play
+- let's play [never have i ever](game_name)
+- can you find [animal crossing](game_name)
+- i would like to play [tetris](game_name)
+- start [spider](game_name)
+- puzzles and games app
+- please open [snooker](game_name) game i would like to play with you
+- how about playing a game of [guess the word i'm thinking of](game_name)
+- play [keno](game_name)
+- play games
+- do you want to play
+- play [scabble](game_name) with me
+- play for me the game [candy crush](game_name)
+- [angry bird](game_name) play
+- turn on [console](device_type)
+- give a hand to this game
+- let's play a game
+- i want to play [blackjack](game_name)
+- games
+- open [solitaire](game_name) play with me
+- start the [league of legends](game_name) game
+- how about a nice game of [chess](game_name)
+- play [fmod](game_name)
+- play [i spy](game_name) with me
+- start play [spider](game_name)
+- co play game [monopoly](game_name)
+- start [candy crush](game_name)
+- how about a game of [snakes and ladders](game_name)
+- will play [chess](game_name)
+- would you like to play [never have i ever](game_name)
+- please run this game
+- start play [fifa seventeen](game_name)
+- play [snake](game_name) with me
+- let us play [millionaires](game_name)
+- play [racing](game_name)
+- create a playing teams and play with them
+- i'd like to play [monopoly](game_name)
+- let's play a game of [trivia](game_name)
+- let's play [checkers](game_name)
+- play [golf](game_name)
+- i wish i could play [video](game_type) games together
+- [angry bird](game_name)
+
+## intent:play_music
+- try to play old [nineties](music_genre) [classic](music_genre) music
+- play new [rihanna](artist_name) song
+- turn on some music
+- can you play my favorite music
+- play [party songs](music_descriptor)
+- please play the song [games](song_name) by [disturbed](artist_name)
+- i want to listen [arijit singh](artist_name) song once again
+- play my first favorite song on loop
+- can you play call me by [aretha franklin](artist_name) after this song is finished playing
+- Play [best friends](song_name) by [yelawolf](artist_name)
+- will you put on the music
+- start music
+- turn on my [michael jackson](artist_name) playlist
+- play any song of [arijit singh](artist_name)
+- hey play the songs from my playlist named [good tunes](playlist_name)
+- play [melody](music_genre) songs
+- start play
+- start the satellite music feed
+- play anything by [cat stevens](artist_name) and i'll be happy
+- take me to [music player](device_type)
+- play the romantic songs
+- play music for me
+- please play [michael jackson](artist_name) [album](media_type)
+- play [jack johnson](artist_name) playlist music
+- find songs from my [big band playlist](playlist_name)
+- play for me [hip hop](music_genre) music
+- play the [last song](song_name) from my most recent playlist
+- please i want to hear [we will rock you](song_name) from [queen](artist_name)
+- i want to listen to [rock](music_genre)
+- i want to listen [jazz](music_genre)
+- now playing
+- i want to hear [surfin usa](song_name)
+- play for me the music by [the beatles](artist_name)
+- google find and play [florida georgia line the one](song_name) with [nelly](artist_name)
+- play songs by [adele](artist_name)
+- play the [bjork](artist_name) album i've heard the least
+- get [sia](artist_name)'s [cheap thrills](song_name) ready to play next
+- best [rap](music_genre) music
+- show me the best podcast of [folk](music_genre) songs having [good rating](music_descriptor) and play it
+- play my most played songs
+- play from favorites song
+- play music by [taylor swift](artist_name)
+- [reshuffle](player_setting) and play music
+- set a [classic](music_genre) music
+- play [led zeppelin houses of the holy](movie_name)
+- please play the [beatles](artist_name) [ps i love you](song_name)
+- play me some [melody](music_genre) song
+- let's hear some [indie rock](music_genre) okay
+- play [jazz](music_genre) from [jennifer](artist_name)'s latest album
+- time to hear me some [blake shelton](artist_name)
+- play the song for me
+- i want to hear my favorite [jazz](music_genre) music genre
+- queue up [ymca](song_name)
+- open songs by [prince](artist_name)
+- play my playlist
+- please play [help](song_name)
+- can you play my music file
+- i want to hear [purple haze](song_name)
+- [hips dont lie](song_name) thats the song i would like you to play for me
+- pull up my [party playlist](playlist_name)
+- play [green day](song_name)
+- run [indian folk](music_genre) song
+- i would like to hear [heathens](song_name) by [twenty one pilots](artist_name)
+- i want to hear [tum hi ho](song_name) next
+- play a song that will make me smile
+- play [thinking out loud](song_name) next
+- play [hopsin](artist_name) from my latest playlist
+- i want to listen to [soft rock](music_genre)
+- i would like to hear some [rap](music_genre) music
+- initiate [celine dion](artist_name) music
+- find and queue all songs of [kate perry](artist_name) and play all [without shuffling](player_setting)
+- start playing my song list
+- i want to hear [chopin](artist_name) now
+- let's play [workout playlist](playlist_name)
+- play all songs by [metallica](artist_name) on [shuffle](player_setting)
+- play what live
+- could you play [you don't bring me flowers](song_name)
+- i want to dance to the tune of [raghu dixit](artist_name)
+- please play some [jazz music](music_genre)
+- please play songs i've purchased and favorited
+- i'dl like to hear any [classical](music_genre) except for [bach](artist_name) or [schubert](artist_name)
+- play my [motivational playlist](playlist_name)
+- let me hear some [bluegrass](music_genre) music
+- play new songs by [barenaked ladies](artist_name)
+- start my [jazz](music_genre) playlist
+- play music from [good playlist](playlist_name)
+- can you play [rfi](media_type)
+- play [foke](music_genre)
+- play music [true love](song_name)
+- play the [electronic](playlist_name) playlist
+- play a [party](music_genre) music list
+- initiate the music on the [electronic](playlist_name) playlist
+- repeat this list in random order
+- i want to listen to [electric slide](song_name)
+- play random music
+- put [classic rock](music_genre) on
+- let me hear some music
+- play me all [jazz](music_genre) music
+- play all the latest [pop](music_genre) songs
+- please play for me [elvis presley](artist_name) song again
+- play music
+- i want to hear [play that funky music](song_name)
+- play [happy playlist](playlist_name) next
+- play music from [workout playlist](playlist_name)
+- please play me a song from my favourite list
+- play me an [upbeat](music_descriptor) song through your speakers
+- coordinate all [pop](music_genre) song genres
+- play my [country](music_genre) playlist
+- Play something random from [google play](app_name)
+- Song next please
+- time to workout
+- play the latest song [adele](artist_name)
+- play from [smashing pumpkins](playlist_name)
+- please play only [sad](music_descriptor) song in [music player](device_type)
+- play [country](music_genre) music
+- play the song title
+- play [let me love you](song_name) by [ariana grande](artist_name)
+- i want to hear [sleeptime playlist](playlist_name) next
+- play some [boy band](artist_name) music
+- play for me [jazz](music_genre) music
+- next i want to hear [shinedown](song_name)
+- hi google play me playlist [wacky](playlist_name) in my gaana application
+- find [jazz](music_genre) music on my playlist
+- play for me the music by [madonna](artist_name)
+- play one more time
+- play all by the [beatles](artist_name)
+- put the song sung by [shreya](artist_name) at the top
+- hey play me a [popular](music_descriptor) [country](music_genre) song
+- play music in [library](music_descriptor)
+- play [neil sedaka](artist_name)
+- i want to hear [radio head](artist_name) please
+- play the billboard top ten
+- play my [preferred](music_descriptor) song
+- resume last playlist
+- play [lady](song_name) by [kenny roger](artist_name)
+- select and play only [christian rock](music_genre) from [one thousand nine hundred and ninety](date) upwards
+- play [be warned](song_name) by [tech n9ne](artist_name)
+- open [spotify](app_name) and play [list five](playlist_name)
+- download the latest [folk](music_genre) songs having [rating of four star or above](music_descriptor) and play all [without shuffle](player_setting)
+- song next
+- play all songs by [martina mcbride](artist_name)
+- play [hurt](song_name) by [johnny cash](artist_name) next
+- [kenny roger](artist_name)'s [lady](song_name) play
+- open my amazon music app and play my playlist
+- please [resume](player_setting) my [music](media_type)
+- play my favorite music
+- play [old fashioned christmas](music_descriptor) music
+- play my [midnight love](playlist_name) playlist
+- play music that are [classical](music_genre) only
+- play the [barney theme](song_name) song
+- play [lady](song_name) now
+- play the [veldt](song_name) by
+- play [chopin](artist_name)
+- play only songs by the [beatles](artist_name) please
+- i want to listen to [classical](music_genre) music
+- please play the song [joy to the world](song_name)
+- play [purple haze](song_name)
+- play song [aces high](song_name)
+- please play the early [franks sinatra stuff](artist_name) i have
+- i'd love to hear any song that i've given [five stars](music_descriptor) by [serge gainsbourg](artist_name)
+- play song [over the rainbow](song_name)
+- [jazz](music_genre) could be choice for me
+- play what [i am](song_name) by [edie brickel](artist_name)
+- play [r and b](playlist_name)
+- go to [youtube](media_type) and play me the [best wedding songs](playlist_name) collection
+- play music from where you left off
+- would you play some music please
+- please play [workout playlist](playlist_name)
+- play [maroon five](artist_name) playlist
+- play the song [get happy](song_name) by [ella fitzgeral](artist_name)
+- play [closer](song_name) music track
+- play my [morning playlist](playlist_name)
+- skip to the next song
+- play [jingle bells](song_name)
+- make my collection mostly [pop](music_genre) with a good bit of psychedelia
+
+## intent:play_podcasts
+- play the [next episode](podcast_descriptor) of [drunks and dragons](podcast_name) please
+- play the latest [seahawks](person) podcast
+- can i see the [previous episode](podcast_descriptor)
+- skip this podcast
+- please play [next episode](podcast_descriptor)
+- aib podcast on [kashmirstart it](podcast_name)
+- i want to hear the [latest podcast episode](podcast_descriptor) of [s town](podcast_name)
+- please go to next date
+- can you please play the [next episode](podcast_descriptor) of [food stuff](podcast_name)
+- jump to the next podcast
+- what are [todays](date) top podcasts
+- play that podcast please
+- [skip to next](player_setting) [nyt](podcast_name) podcast
+- what is my [most played](podcast_name) podcast
+- [next episode](podcast_descriptor)
+- play my latest podcast
+- network podcast
+- can you start my [saved](podcast_name) podcast
+- continue onto the [next podcast](podcast_descriptor)
+- go to [next episode](podcast_descriptor)
+- skip
+- [start](player_setting) podcast from my favorites list
+- [start](player_setting) [next episode](podcast_descriptor) playing
+- please play the podcast from [happypeoplecom](podcast_name)
+- show me the [top rated](podcast_descriptor) podcasts
+- find me a podcast on wrestling
+- can you [backward](player_setting) an episode in the podcast
+- [move](player_setting) to [next episode](podcast_descriptor)
+- start podcast [mlb daily](podcast_name)
+- start podcasts on [nfl](podcast_name)
+- i want to hear this podcast
+- skip to [next podcast](podcast_descriptor)
+- can you play the [next podcast](podcast_descriptor)
+- play the [next episode](podcast_descriptor) of the [BBC tech](podcast_name) podcast
+- please play [forward episode](podcast_descriptor) in [quantico](podcast_name)
+- [vitaly channel](radio_name)
+- podcast play
+- skip ahead to the next podcast
+- play the [previous podcast](podcast_descriptor)
+- please play the newest podcast
+- podcast [next episode](podcast_descriptor)
+- play [rohan sharma](person) podcast for me
+- play favorited podcasts on fishing
+- play the newest [morning show](podcast_name) podcast
+- i want to hear [yesterday](date)'s podcast from my favorite channel
+- resume [series podcast](podcast_descriptor)
+- start playing podcast about [books](podcast_descriptor)
+- play the [next episode](podcast_descriptor) of a podcast
+- play the seventh episode of [the morning after](podcast_name)
+- will you please play the next episode of podcast
+- play my [video game news](podcast_name) podcast starting where i left off
+- play [last reason](podcast_name) podcast
+- [move](player_setting) to next section
+- [forward](player_setting) to [four twenty](time)
+- start my favourite podcast
+- play the [next podcast episode](podcast_descriptor)
+- will you please play a podcast
+- next podcast
+- go to the podcast and play the [next episode](podcast_descriptor) in [friends](podcast_name)
+- start playing my most recent podcast
+- play the [most current episode](podcast_descriptor) of [levin](podcast_name)
+- [ted talks](podcast_name)
+- start my most recently played podcast
+- [rewind](player_setting) button
+- please play [james altucher](podcast_name)'s podcast
+- let me hear that podcast
+- play me [john](person)'s podcast
+- next one please
+- play most recent podcast upload
+- go to the [next episode](podcast_descriptor) in this podcast
+- [move forward](player_setting) [ten minutes](time) in this podcast
+- play anything new from my [podcast subscriptions](podcast_descriptor)
+- play the [next episode](podcast_descriptor) of [adele](person)'s podcast
+- [replay](player_setting) my last played podcast
+- move to the [next episode](podcast_descriptor) of [hipsterhood](podcast_name)
+- show me the [newest podcasts](podcast_name)
+- please play a podcast
+- [skip](player_setting) to next
+- start podcast
+- please go to the [next episode](podcast_descriptor) of the podcast
+- start the [gilmore guys](podcast_name)
+- play the [most recent podcast](podcast_descriptor) for this [american life](podcast_name)
+- play the [next show](podcast_descriptor) on podcast
+- start the podcast i was last listening to
+- please play [next episode](podcast_descriptor) of [bbc history](podcast_name) podcast
+- play current episode
+- plays the podcast from the beginning
+- play podcast [a](podcast_name)
+- can you find the [dave ramsey](person) podcast that aired earlier [today](date)
+- hey play my [favourite](podcast_descriptor) podcast from list
+- play the [next episode](podcast_descriptor) of [radiolab](podcast_name)
+- please play podcasts on [science](podcast_name)
+- play my favourite podcast
+- play the next recording
+- back one episode
+- please [continue](player_setting) with the [next podcast](podcast_descriptor) episode
+- please start the podcast
+- play stuff you should know
+- please play the [next episode](podcast_descriptor)
+- play the podcast of [barack obama](podcast_name) saved in device
+- play that podcast i was [listening to yesterday](podcast_descriptor)
+- play latest [reason](podcast_name) podcast
+- start playlist for podcast
+- go back
+- start the podcast over that i [started last night](podcast_descriptor)
+- play me the [bbc radio](podcast_name) podcast
+- play [compassionate cook](podcast_name) episode twenty three
+- i want to listen to the podcast of the super bowl [this past year](date)
+- play [today](date)'s podcast from the mi
+- find me the latest podcast about [president trump and his immigration ban](podcast_descriptor)
+- i'd like to continue to the [next episode](podcast_descriptor)
+- please play the [next episode](podcast_descriptor) in the podcast
+- start playing my most played podcast
+- [next episode](podcast_descriptor) please
+- let me listen to the [latest](podcast_descriptor) [lovett or leave it](podcast_name) podcast
+- play [cindi](person)'s favorite podcast
+- play the serial podcast
+- go to favourite list
+- [jump](player_setting) to [next podcast](podcast_descriptor)
+- play next on podcast
+- [skip](player_setting) to [next episode](podcast_descriptor)
+- [skip](player_setting) to the [next episode](podcast_descriptor) of this podcast
+- show me the [previous episode](podcast_descriptor)
+- [rewind](player_setting) the episode of podcast
+- play me some podcasts about getting rich quick
+- play the last [next episode](podcast_descriptor)
+- play next [reason](podcast_name) podcast
+- [forward](player_setting) this one
+- i want you to play the podcast
+- i want to listen to a new podcast on [healthcare](podcast_name)
+- play [episode two](podcast_descriptor) of [the intern](podcast_name)
+- [skip](player_setting) forward
+- can you play the [next episode](podcast_descriptor) please
+- play the podcast named [ringcast](podcast_name)
+- i want to listen to podcast
+- find the serial podcast and play it
+- play me a podcast
+- play [musician play list](podcast_descriptor)
+- [next episode](podcast_descriptor) in podcast
+- go to beginning of [previous episode](podcast_descriptor)
+- [npr ted talks](podcast_name)
+- [next episode](podcast_descriptor) of [nyt](podcast_name) podcast
+- play this podcast
+- next podcast play
+- [move on](player_setting) to the [next podcast episode](podcast_descriptor)
+- [go back](player_setting) to the [last episode](podcast_descriptor) in this podcast
+- play me the latest podcast about online surveys
+- play newest [reason](podcast_name) podcast
+- play podcast episode new
+- open podcast player
+- list and play [all theory](podcast_descriptor) podcasts [under ten min](podcast_descriptor)
+- play [next episode](podcast_descriptor) on podcast
+- i want to see the [previous episode](podcast_descriptor)
+- move forward to the [next episode](podcast_descriptor)
+- please start [joe rogan](person) podcast please
+- please check [episode number thirty nine](podcast_descriptor)
+- search for [podcasts](media_type) that cover [men's issues](podcast_descriptor)
+- can you [forward](player_setting) an episode in the podcast
+- play episode ten in the podcast
+- play [heavyweight](podcast_name) podcast
+- skip to the [next podcast](podcast_descriptor)
+- go to the third episode of this podcast
+- please start my podcast
+- i would like to listen to this [mornings](time) [mike](person) and mike podcast
+- [rewind](player_setting) to [four twelve](time)
+- play a podcast about latest [yoga videos](podcast_name)
+- favourite podcast
+- i want to see the [next podcast](podcast_descriptor) available
+- start playing [ringcast](podcast_name)
+- i am ready to hear the [next episode](podcast_descriptor) of podcast
+- can you [pull up](player_setting) the [dave ramsey](person) podcast that aired on [monday](date)
+- play the [next episode](podcast_descriptor) of this series
+- play next [doctor who](podcast_name) episode
+- [next episode](podcast_descriptor) in the podcast please
+- play podcast one
+
+## intent:play_radio
+- play [the bob and tom](radio_name) show
+- play [bbc radio one](radio_name)
+- play my favorite station
+- i would like to listen to this programme on radio
+- play [bbc radio four](radio_name)
+- turn program on [xmtune](radio_name)
+- please play program on [xmtune](radio_name)
+- play an fm
+- play random radio station
+- play [npr](radio_name) through my [living room](house_place) stereo
+- change channel to [one hundred and three](radio_name)
+- play me [news](radio_name) radio channel
+- tune into the [joe rogan](person) show [in ten minutes](time)
+- play radio [ninety five point five](radio_name)
+- turn on a [country](music_genre) music station
+- start my playlist on [i heart radio](radio_name)
+- tune in some radio
+- play any [pop](music_genre) [fm](radio_name) channel
+- radio please
+- play radio
+- change the station to [eighty two point four](radio_name)
+- i need you to find a good channels to listen to
+- could you please help me in listening to the radio
+- turn on my [pandora](app_name) radio
+- put the radio on
+- rj raunak programme play on [ninety two point seven fm](radio_name)
+- open [radia](radio_name)
+- play new radio channel
+- turn on [one oh seven point five](radio_name)
+- can you turn [msnbc](radio_name) on in the car
+- open [pandora](app_name) app
+- i want to hear program one on [lastfm](radio_name)
+- go to [sirius](app_name) and play the hip hop channel
+- play program on [xmtune](radio_name) please
+- i want to listen to the new [sam harris](person) episode
+- please play [red fm](radio_name)
+- switch on the radio
+- can you start [fm eight hundred and ninety](radio_name) radio channel
+- play [radio mirchi](radio_name) for me
+- play old
+- i would like to listen to howard stern on [ninety seven point nine fm](radio_name)
+- play news in [fm](radio_name)
+- switch on [radio mango](radio_name)
+- play the last radio channel
+- play am
+- tune into [ninety nine point five fm](radio_name)
+- play the [kansas city hip hop](radio_name) station
+- i need [ninety nine point five](radio_name) please
+- play my [usher](radio_name) radio station
+- play football news from [radio one](radio_name)
+- play the local [r. n. b.](music_genre) radio station
+- play the [urban](radio_name) radio station
+- activate the radio please
+- could you please play the [fm](radio_name) station which plays [pop](music_genre) songs
+- can you start [ryan seacrest](person)
+- search and play a radio station with [news](radio_name)
+- start playing [fm ninety six point five](radio_name) when it is [one pm](time)
+- start the radio
+- turn it to [frequency nine hundred and ninety seven](radio_name)
+- would you please turn on the [am radio](radio_name)
+- can you turn on [pandora](app_name)
+- play [bbc](radio_name) radio
+- give me a [classical](music_genre) radio station
+- play for me american idol show
+- start radio and go to frequency on [nine hundred and forty three](radio_name)
+- please start the radio
+- turn on radio
+- find me the [local npr](radio_name) station
+- play [music](media_type) now from [radio plus](radio_name)
+- please play the [local latin music channel](radio_name) on the radio
+- i want to listen to [one oh one point one the whiz](radio_name)
+- play the radio band with [sports commentary](radio_name)
+- what are the new [rock](music_genre) radio stations
+- can you play beats [one radio](radio_name)
+- play [hoizer radio station](radio_name) from my [pandora](app_name) app
+- open radio frequency [ninety nine point five](radio_name)
+- i want to listen to the [bob and tom show](radio_name)
+- play [yesterday](date)'s hot [ninety seven morning show](radio_name)
+- i want to hear the radio
+- turn on [wfrn ninety nine point one](radio_name)
+- go to radio
+- start [bbc](radio_name) radio
+- open radio
+- play a [news radio station](radio_name)
+- play the miami heat and warriors game
+- hey olly turn the radio on
+- get me some radio [music](media_type) from [kamp fm](radio_name)
+- i need you to start [fm eight hundred and ninety](radio_name) radio channel
+- find the best [rock station](radio_name) near my location and turn it on
+- get radio
+- play the radio station [one hundred and one point nine](radio_name)
+- play [sam harris](person) please
+- tune in to my favorite radio station please
+- play the college baseball game
+- play howard stern on [sirius](app_name)
+- open [fm](radio_name)
+- play [npr](radio_name) on this station
+- can you please turn on [npr](radio_name) where i am
+- play the radio station [rock one hundred and eight](radio_name)
+- play [radio one](radio_name)
+- hey olly play the radio
+- open [sirius](app_name) app and play the [classical channel](radio_name)
+- activate radio and tune into [nine hundred and eighty nine](radio_name)
+- look for a radio station called [rhythm](radio_name) on the frequency one
+- [eight hundred and eighty nine fm](radio_name) please
+- play [rush limbaugh](radio_name) on [ninety seven fm](radio_name)
+- find radio
+- play by favorite radio station
+- i want to listen some music play a radio station
+- i want to listen to the radio
+- start the radio now
+- play [hot ninety seven](radio_name)
+- channel [seventy two point five](radio_name)
+- turn on radio now
+- turn on [pdr am](radio_name)
+- i'd like to listen to [ninety nine point five](radio_name)
+- let's have the radio on
+- can you find the the preacher joe show on [gospel radio](radio_name)
+- play [radio station](radio_name)
+- ally please play [pandora](app_name) radio
+- put the news on [bbc](radio_name)
+- please find the radio station currently playing howard stern
+- go to the station [fm ninety six point five](radio_name)
+- lets hear [wgrr one hundred and three point five](radio_name)
+- play [radio disney](radio_name)
+- i want you to go to [hot one hundred and five](radio_name) on the radio
+- play [tunes](media_type)
+- on the radio it is time for good [music](media_type)
+- radio [one thousand and twenty seven](radio_name)
+- play the [breakfast club](radio_name)
+- play [netflix](app_name) on my [ps four](device_type)
+- play [power one oh two point three](radio_name)
+- play [station gx](radio_name) in the radio
+- please tune in to [fm ninety five](radio_name)
+- radio play [nine hundred and eighty nine](radio_name) please
+- lets hear it from [fm ninety six point five](radio_name)
+- open [pandora](app_name) play [rock](music_genre) station
+- start radio
+- the radio should play only on [nine hundred and ninety nine fm](radio_name)
+- play all the programs pertaining to rock songs on the radio
+- please turn on radio on [seven am](radio_name)
+- start radio play
+- i want to hear this radio station now
+- play the [jazz](music_genre) station
+- i'd like to listen to my favorite [morning show](radio_name) in the car on the way to work please
+- play my favorite [radio station](device_type)
+- broadcast the health show from the [kitchen](house_place)
+- switch on the radio and play [hello fm station](radio_name)
+- please play the radio
+- can you put on the [next i heart music radio show](radio_name)
+- tune into my selected station
+- play the radio station
+- please start [fm eight hundred and ninety](radio_name) radio channel
+- have remainder of the program to listen
+- start [radio station](radio_name) [one oh seven point five fm](radio_name)
+- start [pandora](app_name)
+- begin radio play
+- play billybob show on [bbc radio four](radio_name)
+- can you play [acoustic music](radio_name) with no commercials
+- scan the radio for howard stern
+- set radio
+- play [miley cyrus](person) radio
+- tune to [pandora](app_name)
+- let's hear [ninety two point one](radio_name)
+- please open my [fm radio](radio_name) and play [nine hundred and eighty seven](radio_name)
+- i want to hear [this week](date)'s midweek motorsport
+- play for me american idol on [television](device_type)
+- play the radio for me
+- play a [pop station](radio_name) on the radio
+- play the radio music band
+- play the health show on the [television](device_type) in the [living room](house_place)
+- open [pandora](app_name) and play top hits
+- i want to listen to today's hits
+- open the radio app
+- play any [country music station](radio_name)
+
+## intent:qa_currency
+- what is the exchange rate for [pounds](currency_name) and [u. s. d.](currency_name)
+- display exchange rate of [euro](currency_name) to [indian rupee](currency_name)
+- how much is one [u. s. d.](currency_name) in [inr](currency_name)
+- how many [yen](currency_name) for each [dollar](currency_name)
+- what is the [dollar](currency_name) price in [inr](currency_name)
+- how much is the [dollar](currency_name) worth compared to the [euro](currency_name)
+- convert one [euros](currency_name) to [us dollars](currency_name)
+- from [dollar](currency_name) to [euro](currency_name)
+- how many [pesos](currency_name) can i get for a [dollar](currency_name) right now
+- i need the exchange rate for the [us dollar](currency_name) and the [euro](currency_name)
+- tell me the exchange rate for the [yen](currency_name)
+- money exchange
+- how much is fifty [us dollars](currency_name) with in [china](currency_name)
+- how many [rupies](currency_name) are in a [dollar](currency_name)
+- what is the difference between the rate of the [american dollar](currency_name) and the [pound](currency_name)
+- [u. s. d.](currency_name) to [yen](currency_name)
+- given me the exchange rates between [u. s. d.](currency_name) and [cad](currency_name)
+- whats the currency exchange rate from [dollars](currency_name) to [euros](currency_name)
+- what's the exchange rate between the [us dollar](currency_name) and the [euro](currency_name)
+- what is the exchange rate for [dollars](currency_name) to pounds
+- new exchange rate
+- what is the exchange rate between the [dollar](currency_name) and the [euro](currency_name) currently
+- what is the exchange rate of [euro](currency_name) [today](date) to [dirham](currency_name)
+- exchanges rates any problems
+- how much is ten [u. s. d.](currency_name) to [cad](currency_name)
+- give me the exchange rate between [united states dollar](currency_name) and [japanese yen](currency_name)
+- what's the current exchange rate for the [euro](currency_name) against [u. s. d.](currency_name)
+- what's the exchange rate between [czk](currency_name) and [euro](currency_name)
+- please give me detail one [dollars](currency_name) equals [rs](currency_name)
+- forex rate of [euro](currency_name) to [u. s. d.](currency_name)
+- tell me the exchange rate [us](currency_name) versus [indian rupees](currency_name)
+- what's the [pound](currency_name) to [dollar](currency_name) exchange rate
+- what is the exchange of [euro](currency_name) to [dollars](currency_name)
+- tell me the current dollar ratio for the [us](place_name) and [canada](place_name)
+- give me the exchange rate between [japanese yen](currency_name) and the [australian dollar](currency_name)
+- what is the currency conversion charges applicable
+- is a [peso](currency_name) worth more than a [dollar](currency_name)
+- how much is a [g. b. p.](currency_name) in [u. s. d.](currency_name)
+- is [euro](currency_name) the best currency to trade
+- how much is the [us dollar](currency_name) versus the [pound](currency_name)
+- how much [philippine peso](currency_name) do i need to make fifty [dollars](currency_name)
+- convert five [s. d.](currency_name) to [rials](currency_name)
+- exchange rate between [dollar](currency_name) and [mexican peso](currency_name)
+- how many [pounds](currency_name) would i get for [dollars](currency_name)
+- how does the [dollar](currency_name) compare to the [pound](currency_name)
+- what is one dollar in [euros](currency_name)
+- convert the [american dollar](currency_name) to the [euro](currency_name)
+- how much is an [euro](currency_name) worth
+- which bank will give better rate for currencies i have
+- what is the current exchange rate from [u. s. d.](currency_name) to [rupies](currency_name)
+- currency converter please
+- how many [dollars](currency_name) is in [pounds](currency_name)
+- how many [euros](currency_name) for one [u. s. d.](currency_name)
+- [euro](currency_name) to [u. s. d.](currency_name)
+- how many [dollars](currency_name) are in a [euro](currency_name)
+- given me the exchange rates between [u. s. d.](currency_name) and [inr](currency_name)
+- show conversion rate of [u. s. d.](currency_name) and [euro](currency_name)
+- foreign exchange rates
+- what is the exchange rate between [us](currency_name) and [canada](currency_name)
+- conversion between [dollars](currency_name) and [pounds](currency_name)
+- what's the exchange between [u. s. d.](currency_name) and [cad](currency_name)
+- please give me detail of one [yen](currency_name) equals [dollar](currency_name)
+- how much is the [euro](currency_name) versus the [canadian dollar](currency_name)
+- is the [pound](currency_name) up or down against the [dollar](currency_name)
+- exchange [euro](currency_name) to [dollar](currency_name)
+- what's the [dollar](currency_name)'s exchange rate with the [euro](currency_name)
+- what is the equivalent of one [inr](currency_name) in [zimbabwe dollars](currency_name)
+- what is the rate for [g. b. p.](currency_name) to [u. s. d.](currency_name)
+- what is the exchange rate of [euro](currency_name) and [dollar](currency_name)
+- what is [dollars](currency_name) in [pesos](currency_name)
+- what is [us dollar](currency_name) [today](date)
+- exchange rates
+- what's the exchange rates
+- what is the exchange rate between [u. s. d.](currency_name) and [inr](currency_name)
+- give me the exchange rate between [united states dollar](currency_name) and [indian rupee](currency_name)
+- i would like my to tell me the trend on foreign exchange rates
+- please check exchange rates
+- what is the exchange rate of [u. s. d.](currency_name) to [cdn](currency_name)
+- tell me the exchange rate of ten [dollar](currency_name) to [euro](currency_name)
+- how much is [dollar](currency_name) worth in [persos](currency_name)
+- what is the exchange rate between the [us dollar](currency_name) and the [aus dollar](currency_name)
+- please check the exchange rates of the [us dollar](currency_name) vs the [euro](currency_name)
+- what is the current rate of [euro](currency_name) to [us dollars](currency_name)
+- show [u. s. d.](currency_name) currency value of [euro](currency_name)
+- how much is the [euro](currency_name) worth versus [us dollar](currency_name)
+- how many [dollars](currency_name) can i get for one [yen](currency_name)
+- show me the exchange rate between [czk](currency_name) and [dollar](currency_name)
+- how many [euro](currency_name) in [u. s. d.](currency_name)
+- if i have a [dablune](currency_name) how many [dollars](currency_name) is that
+- what is the exchange rate between [u. s. d.](currency_name) and [cad](currency_name)
+- what is the exchange rate of [us dollar](currency_name) [today](date) for [rupee](currency_name)
+- what is the current exchange rate between the [dollar](currency_name) and the [euro](currency_name)
+- [dollar](currency_name) rate
+- how much is [us dollar](currency_name) against [rupee](currency_name)
+- what the conversion rate from [yen](currency_name) to [us dollars](currency_name)
+- what is a [canadian dollar](currency_name) worth in the [us](currency_name)
+- convert one [pound](currency_name) to [us dollar](currency_name)
+- how much is [indian rupee](currency_name) going against [us dollar](currency_name)
+- what is the exchange between [dollar](currency_name) and [british pound](currency_name)
+- what is the [us dollar](currency_name) equivalent of one [euro](currency_name)
+- Show me popular exchange rates
+- how much is twenty [argentinian pesos](currency_name) in [pounds](currency_name)
+- tell me the exchange rate of [rupee](currency_name) for [dollar](currency_name)
+- how many [dollars](currency_name) are there in a [g. b. p.](currency_name)
+- rate [u. s. d.](currency_name) to [g. b. p.](currency_name)
+- how much is five [dollars](currency_name) worth in [euros](currency_name)
+- [u. s. d.](currency_name) position now
+- how much is two thousand [yen](currency_name) in [u. s. d.](currency_name)
+- what is the current exchange rate of [euro](currency_name) to [dollar](currency_name)
+- what is the exchange rate as of [today](date)
+- what's the rate between [pesos](currency_name) and [yen](currency_name)
+- what is the [yen](currency_name) [us dollar](currency_name) exchange rate
+- what is the current exchange rate between dollars and euros
+- convert one [us dollar](currency_name) to [british pound](currency_name)
+- exchange [u. s. d.](currency_name) to [g. b. p.](currency_name)
+- [dollar](currency_name) rate at present
+- which currency is greater the [us dollar](currency_name) or [yen](currency_name)
+- exchange rate of [yan](currency_name) with [dollar](currency_name)
+- what is the exchange rate between [u. s. d.](currency_name) and [euro](currency_name)
+- currency conversion of [u. s. d.](currency_name) and [eur](currency_name)
+- siri what is one [american dollar](currency_name) in [japanese yen](currency_name)
+- what's the rate between the [u. s. d.](currency_name) and [ukraine](currency_name)'s currency
+- check currencies
+- how many euros are in a dollar
+- what would be the exchange rate of currency in [japan](place_name)
+- how much is ten [euros](currency_name) in [dollars](currency_name)
+- how much is one [dollar](currency_name) in [pounds](currency_name)
+- exchange rates between [dollar](currency_name) and [euro](currency_name)
+- [canadian](currency_name) [us](currency_name) exchange rate
+- convert one [dollars](currency_name) to [rupees](currency_name)
+- what is the price of [euro](currency_name) to [u. s. d.](currency_name)
+- is the exchange rate changed from [yesterday](date)
+- exchange rates of [inr](currency_name) and [u. s. d.](currency_name)
+- how much [yens](currency_name) per [u. s. d.](currency_name) [today](date)
+- current forex rates
+- how much is the [dollar](currency_name) verus the [pound](currency_name)
+- [dollar](currency_name) rate of [philippiness peso](currency_name)
+- find me the exchange rate between [dollars](currency_name) and [bitcoin](currency_name)
+- currency exchange
+- what is a [peso](currency_name) worth in [dollars](currency_name)
+- look up the exchange rate between [dollars](currency_name) and [bitcoin](currency_name)
+- how many bots are in a [dollar](currency_name)
+- if i have twenty [dollars](currency_name) how many francs is that
+- how many [american dollars](currency_name) are in a [euro](currency_name)
+- siri what is [dollars](currency_name) in [yen](currency_name)
+- show exchange rate of [u. s. d.](currency_name) and [inr](currency_name)
+- how many [pesos](currency_name) to an [american dollar](currency_name)
+- current currency rate
+- what's [euro](currency_name) [u. s. d.](currency_name) right now
+- what is the current value of [yen](currency_name) in [american](currency_name) money
+- what is the [us dollar](currency_name) [euro](currency_name) exchange rate
+- how much is twenty two [usd](currency_name) in [euros](currency_name)
+- what is the exchange rate for the [english pound](currency_name) and [us dollar](currency_name)
+- how much is two thousand five hundred [philippine pesos](currency_name) in [dollars](currency_name)
+- how many [dollars](currency_name) is twelve [pesos](currency_name)
+- exchange rate from [cad](currency_name) to [u. s. d.](currency_name)
+- how much is one [american dollars](currency_name) worth in [england](currency_name)
+- what is price of [dollar](currency_name)
+- please let me know the exchange rate between [indian rupees](currency_name) and [us](currency_name)
+- currency to currency rate
+- what is the exchange rate of [rupee](currency_name) for [dollar](currency_name)
+- what is the [us dollar](currency_name) and [euro](currency_name) exchange rate
+- let me know about the exchange rate of [rupee](currency_name) to [dirham](currency_name)
+- how many [dollars](currency_name) are in a [pound](currency_name)
+- exchange rate for converting ten [dollar](currency_name) to [euro](currency_name)
+- what is six hundred [euros](currency_name) in [u. s. d.](currency_name)
+- what is the [dollar](currency_name) exchange rate
+- what is the [dollar](currency_name) against the [pound](currency_name)
+- please show me the exchange rate between the [dollar](currency_name) and the [yen](currency_name)
+- what is exchange for the [us](currency_name) and [euro](currency_name)
+- could you please tell me what is the rate for [pound](currency_name) to [u. s. d.](currency_name)
+- how many [euro](currency_name) will i get for ten [dollars](currency_name)
+- give me the exchange rate between [united states dollar](currency_name) and [canadian dollar](currency_name)
+- what is the exchange rate between [us dollars](currency_name) and [bitcoin](currency_name)
+- how much money is one [dollars](currency_name) worth in [denmark](currency_name)
+
+## intent:qa_definition
+- give me the definition of the word [fondle](definition_word)
+- [sanctimonious](definition_word) definition
+- what does a [sea lion](definition_word) look like
+- define a phrase [blue sky research](definition_word)
+- please tell me what a [crankshaft](definition_word) is
+- define [oscillate](definition_word)
+- do you know the definition of [school](definition_word)
+- what does it look like
+- tell me what the word [organism](definition_word) means
+- can you describe to me what a [pineapple](definition_word) looks like
+- describe what a [sphere](definition_word) is
+- describe [joe](definition_word) for me please
+- hey what's a [book](definition_word)
+- give me the definition of [carion](definition_word)
+- please describe about [microwave](definition_word)
+- define [loquaciousness](definition_word)
+- what is the definition of [inchoate](definition_word)
+- what is a [chair](definition_word)
+- what is the meaning of [this word](definition_word)
+- please tell me what is the definition of [cylinder](definition_word)
+- can you define [conservative politics](definition_word)
+- describe a [romantic love](definition_word)
+- what does a [geranium](definition_word) look like
+- what does this [stitch long sleeved shirt](definition_word) look like
+- definition of [velocity](definition_word)
+- can you tell me what an [chaise](definition_word) is
+- show meaning of [clarion](definition_word)
+- give me the description of a [smartphone circuit](definition_word)
+- describe a [chart](definition_word)
+- define what's a [goalkeeper](definition_word)
+- what is google
+- define [cpu](definition_word)
+- what is [photosynthesis](definition_word)
+- could you describe that object please
+- give me the definition of the word [armor](definition_word)
+- tell me about [medieval war engines](definition_word)
+- hey what is the definition of [recipe](definition_word)
+- the definition of [life](definition_word)
+- what is the definition of [forensic](definition_word)
+- what does [settle](definition_word) mean
+- give me the definition of [school](definition_word)
+- Define [perpetual](definition_word)
+- tell me what a [freeway](definition_word) is
+- what does [apple of my eye](definition_word) mean
+- siri what does [survey](definition_word) mean
+- where can i use [this word](definition_word)
+- define [transcendet](definition_word)
+- what is the meaning of the word [home](definition_word)
+- what's the meaning of [rumplestiltskin](definition_word)
+- define [elaborate](definition_word)
+- what is a [sphere](definition_word)
+- can you tell me what [the white house](definition_word) is
+- what does [pesto](definition_word) mean
+- explain [photosynthesis](definition_word)
+- look up a [lamp](definition_word)
+- get me new definition
+- define what a [wizard](definition_word) is
+- what is the definition of a [probiotic](definition_word)
+- how would you describe a [ball](definition_word)
+- look up the definition to [ambulance](definition_word)
+- could you please tell me the meaning for the item [laptop](definition_word)
+- siri what does [obstacle](definition_word) mean
+- how is a [typhoon](definition_word) defined
+- describe what a [poltergeist](definition_word) is
+- what does [obsessed](definition_word) mean
+- what is a [shoal](definition_word)
+- how would you describe the [internet](definition_word)
+- give me a description of [iron fist](definition_word) on netflix
+- tell me about it
+- what is [piramid](definition_word)
+- how does the [desk](definition_word) look
+- describe the [computer](definition_word) to me
+- define [love](definition_word) without invoking the term love
+- i would like to know the meaning of [word](definition_word)
+- what are the definitions of [orange](definition_word)
+- what does [tacobell](definition_word) stand for
+- definition for [object name](definition_word)
+- what is the definition of [problematic](definition_word)
+- please search for this word
+- describe [blanket](definition_word)
+- [pontificate](definition_word) definition
+- define the word [novel](definition_word)
+- what is [laptop](definition_word)
+- describe a [fifty inch smart tv](definition_word)
+- what does the word labyrinth mean
+- what does it mean to be [overbearing](definition_word)
+- describe [the statue of liberty](definition_word)
+- define [swerving](definition_word)
+- what is [computer](definition_word)
+- what is [hurricane](definition_word)
+- tell me all about [hurricane](definition_word)
+- what does [speaker](definition_word) mean
+- look up word
+- what is the definition of [session](definition_word)
+- describe a [workhouse](definition_word) for me
+- describe [rock sand](definition_word)
+- describe [london](definition_word) for me please
+- what defines a [triangle](definition_word)
+- give me the definition of [arrow](definition_word)
+- what is [rock sand](definition_word)
+- what is [telekenesis](definition_word)
+- siri what is the definition of [ziggurat](definition_word)
+- what is this thing
+- please describe a [car](definition_word)
+- can you tell me what [haggis](definition_word) looks like
+- i need to get the definition of a word [massive](definition_word)
+- origin of word
+- give me the specs on [the bugatti veyron](definition_word)
+- whats the definition of [indignation](definition_word)
+- could you explain the meaning of [exorbitant](definition_word) for me please
+- please describe an [elephant](definition_word) to me
+- what does [potato](definition_word) mean
+- what is this
+- give me the description of a [mobile battery functioning](definition_word)
+- what is a [banana](definition_word)
+- what is [marketing](definition_word)
+- hey what is the definition of [survey](definition_word)
+- define [god](definition_word)
+- define [television](definition_word)
+- how does a [cheetah](definition_word) look
+- find me a description of [morel mushrooms](definition_word)
+- what does [snafu](definition_word) mean
+- [mobile device](definition_word) explanation
+- please search for [dining tables](definition_word)
+- how would you describe [the sun](definition_word)
+- what is a [monitor](definition_word)
+- give details of [rock sand](definition_word)
+- meaning of [enthusiastic](definition_word)
+- what does [pda](definition_word) mean
+- what does [triumph](definition_word) mean
+- tell me about [the sports stadium](definition_word)
+- look up the word [snafu](definition_word)
+- can i get the definition to [ambulance](definition_word)
+- object identifier
+- description of [iphone seven](definition_word)
+- what is the definition of this
+- what does [happy](definition_word) mean
+- what does a [beech tree](definition_word) look like
+- can you define this word
+- how does merriam webster define [ultra](definition_word)
+- describe a [tomatillo](definition_word)
+- give description of [statue of liberty](definition_word)
+- give me the definition of [formidable](definition_word)
+- [blanket](definition_word) definition
+- tell me about [rock](definition_word)
+- search [this object](definition_word)'s definition
+- google the word
+- define [alarm](definition_word)
+- look up what this word means
+- what is the [nuclear triad](definition_word)
+- describe [texture](definition_word)
+- what does [pro bono](definition_word) mean
+- what does a [soccer ball](definition_word) look like
+- what an [umbrella](definition_word) means
+- define [organism](definition_word)
+- what does the word [hypocrisy](definition_word) mean
+- describe [the empire state building](definition_word)
+- what is the meaning of the word [sanctimonious](definition_word)
+- how would the [volkswagen golf car](definition_word) look like
+- define and describe an [ultraviolet ray](definition_word)
+- how would you describe a [tennis ball](definition_word)
+- what does [joke](definition_word) mean
+- what does [formidable](definition_word) mean
+- what i can do with [laptop](definition_word)
+- how do you describe a [capabara](definition_word)
+- define [forensic](definition_word)
+- tell me what a [workhouse](definition_word) is
+- what is the definition of [god](definition_word)
+- what does a [baguette](definition_word) look like
+- look up the meaning of [logic](definition_word)
+- describe to me what a [ball](definition_word) looks like
+- what does [session](definition_word) mean
+- hey what does [incite](definition_word) mean
+- Explain object
+- define [session](definition_word)
+
+## intent:qa_factoid
+- how many legs does a dog have
+- who was the first president of [united states](place_name)
+- where is place
+- what's the capital of [tanzania](place_name)
+- search for [pink](person)'s [youtube](media_type) channel
+- how many sides are on a pentagon
+- calculate a close integral of exponential function from zero to five
+- what is the age of [britney spears](person)
+- where is the hottest place on [earth](place_name)
+- where is [morocco](place_name) located
+- what is the total number of oceans in the world
+- birth date for movie star [keanu reeves](person)
+- how deep is the deepest point of [the grand canyon](place_name)
+- how is the spouse of [obama](person)
+- what are the climatic conditions in that area
+- what tv show is [jennifer aniston](person) on
+- what is the capital of [china](place_name)
+- how hot are summers in [gibraltar](place_name)
+- what [johncena](person) do
+- how old is [clint eastwood](person)
+- where is the hottest desert located
+- how high is pikes peak
+- how far above sea level is [denver](place_name)
+- show various plants in earth
+- is [brad pitt](person) married
+- what part of the world is the safest
+- how tall is [frank goggins](person)
+- what color is a dragon fruit
+- can you really see [russia](place_name) from [alaska](place_name)
+- where is [los angeles](place_name)
+- where is [kansas](place_name) located
+- tell me about [sean connery](person)
+- can turkeys fly
+- show me the demographic growth rate of [switzerland](place_name) in the [last ten years](time)
+- where do most celebrities hang out
+- wikipedia page about [sean connery](person)
+- what are the coordinates of [everest](place_name)
+- what country was [einstein](person) from
+- when did mount saint helens last erupt
+- what is the size of the united states
+- how many calories are in a serving of grapes
+- who was [john dillinger](person)
+- how is iron made
+- is [black sea](place_name) real
+- when is [madonna](person)'s [birthday](event_name)
+- when did [beyonce](person) and [jay z](person) get married
+- where is stonehenge
+- how far away is the sun
+- look up the number of people living in [miami florida](place_name)
+- how many mega pixel is listed in the description of the canon
+- when is [stassi schroedder](person)'s birthday
+- how old is [brad pitt](person)
+- what was the first car made
+- how long was [bryan cranston](person) on breaking bad
+- where did rama go on his final journey
+- was [einstein](person) married
+- [rowan atkinson](person) info
+- how many countries are in [europe](place_name)
+- Where is [miami](place_name)
+- what is the highest mountain in the [world](place_name)
+- what is the deepest point on earth
+- how many oscars does [morgan freeman](person) have
+- what awards did [erica grebe](person) win [last night](date)
+- tell me about [donald trump](person)
+- get more information on geographic information about this place
+- what is hair made up of
+- how many people live in [los angeles](place_name)
+- how old are [kim kardashian](person)'s children
+- is it true the gym is seven miles away
+- where is [steven spielberg](person) living
+- info of [rowan atkinson](person)
+- tell me who the thirty second president is
+- who is the president of [america](place_name)
+- what is the geographic info of a pop singer [rahman](person)
+- where was [steve jobs](person) born
+- how many countries are in the european union
+- what is the population of [florida](place_name)
+- how old is [christie brinkley](person)
+- how many species of bees are there in [the united states](place_name)
+- when was [frank sinatra](person) born
+- how old is [barack obaba](person)
+- what did [kim kardashian](person) wear to [london](place_name) fashion week
+- Show geographic location of [pyramids](place_name)
+- when was [Dolly parton](person) born
+- where is [russia](place_name) located
+- which are well reviewed movies by [emma watson](person)
+- where do [the rocky mountains](place_name) start
+- how many songs did [michael jackson](artist_name) write
+- for how many years was abraham lincoln president of united states
+- how many kilograms is two hundred and ten pounds
+- could you please confirm if [leonardo](person) is married
+- how many bones does a human body have
+- largest animal
+- longest river in the world
+- find twitter handle of [tom cruise](person)
+- how old is [tom hanks](person)
+- what high school did [halley barry](person) go to
+- how old is [rihanna](person)
+- tell me when [obama](person) was born
+- how is [jennifer garner](person)'s career doing
+- where is the statue of liberty located
+- who is the better half of [obama](person)
+- how much of the earth is made up of water
+- why did gotse shoot [mahatma gandhi](person)
+- why are whales big
+- how many rivers are there in [europe](place_name)
+- when is sunset
+- what creates [buttermilk](food_type)
+- how old was [elvis](person) when he died
+- how many tablespoons are there in a cup
+- how big is [russia](place_name)
+- does [pink](person) have a new baby
+- look up information on mount rushmore
+- just let me know the population of [india](place_name)
+- please give height of [lindsey lohan](person)
+- how big is the tower of london
+- what is [sean connery](person)'s birthday
+- is [keith richards](person) dead
+- how many hook ups had [richard feynman](person)
+- who was in the [beatles](artist_name)
+- how old is [cher](person)
+- where was [marlon brando](person) born
+- i need to know about the height of mount everest
+- what is the length of [amazon river](place_name)
+- how old is [carrie underwood](person)
+- can cats eat fish
+- is the largest ocean in the [world](place_name) [the pacific](place_name)
+- tell me about [alexander the great](person)
+- what was the date when the plum street temple in cincinnati ohio was built
+- who built the prado museum
+- how old is [kim kardashian](person)
+- please tell me about our country latitude and longitude
+- where is yellowstone park
+- when is president's day
+- [michael jackson](artist_name) family background
+- what is [clint eastwood](person) doing these days
+- what country has the most population
+- what is glass made of
+- where [jackie chan](person) currently live
+- how tall is [roraima mount](place_name)
+- tell me distance between sun and moon
+- what is [elvis](person) favorite ride
+- find me the perfect girlfriend
+- what is the plot of the most recent [will smith](person) movie
+- how many kids [jackie chan](person) does have
+- tell me about [neal adams](person)
+- give me a geographic fact about [vilnius](place_name)
+- what is the temperature right now in [new york](place_name)
+- area of [north america](place_name)
+- do you know actor [surya](person)
+- when was born [abraham lincoln](person)
+- did [angelina jolie](person) leave [brad pitt](person)
+- is [yemen](place_name) closer to [japan](place_name) or [india](place_name)
+- why did [bob dylan](person) earn a nobel peace prize
+- how old is [betty white](person)
+- is [adele](artist_name) going to go on tour
+- actually what is the life style of [sahara desert](place_name)
+- what color is the sky
+- how far is [france](place_name) from [miami](place_name)
+- what is the financial capital of [canada](place_name)
+- how far is [parana river](place_name)
+- how far does my dollar go in japan
+- what is the birthday of [hemingway](person)
+- when's [mark lanegan](person)'s next album out
+- what's [bob scrote](person)'s net worth
+- what movies is [kevin spacey](person) in
+- how smooth is marble floor
+- how many cups in a quart
+- tell me why relationships are so hard
+- when is the next lakers game
+- what size is a sperm whale
+- when was [einstein](person)'s [birthday](event_name)
+- how big is [the grand canyon](place_name)
+- when was [justin bieber](person) born
+- what is the temperature in [indianapolis indiana](place_name)
+
+## intent:qa_maths
+- what is the linear equation
+- tell me sum of five and six
+- how much money will i make for the week if i make dollars per hour and work twenty hours
+- solution for eighty one divided by nine
+- what is ten divided by five
+- show me the answer for this problem two hundred and forty six plus six hundred and fifty four
+- what is the square root of ten
+- what is the square root of ninety seven
+- what is the square root of thirty four
+- seven times seven
+- what is five minus one
+- tell me if five hundred and forty is subtracted seven time by twenty eight
+- solve the calculation
+- what is the square root of thirty six
+- what is the square of 4
+- four plus five equals nine
+- whats ten percent off forty dollars
+- what is twenty four times twenty four
+- divide seventy six in two parts
+- what is three times seven
+- find me square root of forty nine
+- what is fifty five minus two
+- how much is twelve divided by four
+- how many miles in five kilometers
+- what is twelve plus one hundred and ninety six
+- can you help me find the answer to this question
+- what is the square root of forty two
+- what is the answer to that question
+- how do i get the answer to two plus two
+- what is twelve divided by four
+- what is the answer to four plus four
+- can you take five and divide it by three
+- is the answer of five plus two seven
+- how much is one hundred and thirty six plus three hundred and eighty seven
+- whats was the value of x if x plus two equals five
+- what is the answer to two plus two
+- answer the equation eight times seven
+- subtract sixty from two hundred and forty four
+- what's two plus two
+- add five plus eighteen minus four please
+- what is ten times ten
+- tell me what the product of eighteen and thirty one is
+- what is twelve times eight
+- what does one plus
+- what is the root of 16
+- solve this equation one plus one
+- what is the answer to two times three
+- what's three plus three hundred and fifty five
+- calculate two multiplied by two
+- how do you solve three two
+- tell what is the value of sin thirty
+- what's the sum of the two numbers four and six
+- ten percentages of hundred
+- convert ten miles to kilometers
+- what is the square root of nine
+- how many pounds do sixty kg make
+- what is six minus four
+- are you solve my math
+- find the sum of thirteen and fourteen
+- four divided by two equals two
+- i need to figure out this percentage
+- answer for three times four
+- what is zero divided by zero
+- if i have fifty dollars and spend twenty four how many dollars will i have left
+- tell me the answer for two plus two
+- what is twenty percent of one hundred and fifty
+- what is the result of one hundred minus fifty
+- what is the answer to dollars minus dollars
+- what is the sum of fifteen ninety nine dollars and six sixty five dollars
+- could you calculate five plus five
+- how much is remaining after subtracting four from eight
+- what is nine time ten
+- what does two plus two equal
+- resolve this thirty twelve
+- what is the total of 500 and 23
+- how many three are available in twenty seven
+- what's thirteen plus fourteen
+- what is four plus five
+- what is two times two
+- what is two plus two
+- what is the factorial of x
+- what is the remainder when five hundred and twenty one is divided by three
+- multiply one thousand by twelve
+- what is six times sixty eight
+- how to calculate trigonametry
+- how many cm make one foot
+- what is fourteen divided by two
+- if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book
+- what is the answer to two by two
+- whats two hundred divided by five
+- what is three hundred and four plus one
+- one plus two equal
+- what's one plus one
+- what is twenty three times fifty two
+- what is two hundred divided by ten
+- what is one hundred and twenty three times one hundred and twenty three
+- i've got dollars for the month how much can i spend [every day](general_frequency) [this month](date)
+- what is three plus four
+- do you know math
+- please add one plus one
+- what is eighty seven minus fourteen
+- what is four plus four
+- how do i subtract four from two
+- tell me what one plus one is
+- what do you get when you multiply sixteen by nine
+- what is twenty four times six
+- what's one divided by plus two divided by cup
+- answer this mathematical question
+- what is the answer to one times two
+- please solve this math
+- what is the square root of one hundred and forty eight thousand five hundred and eighty seven
+- what is six divided by two
+- what is the root of six hundred and twenty five
+- what is five over three
+- do you know how to answer this math question
+- what's the answer to one plus one
+- let's do math
+- tell me the simple interest of seven with interest in two year
+- i want to know the result of twenty is to two
+- what is the result of two by two
+- what is two plus four
+- how much is one plus one
+- sum of five and two
+- calculate two plus 29
+- how do you subtract numbers
+- can you do nine plus two
+- twenty minus ten
+- tell me formula for area of circle
+- what is two hundred divided by thirteen
+- divide one thousand five hundred by one hundred and sixty
+- how many times does fifty go into one million
+- can you tell me what twenty five percent of two thousand one hundred is
+- figure out what percentage thirty is of one hundred and sixty three
+- convert one kilo to pound
+
+## intent:qa_stock
+- is chase doing good
+- please tell me news related to the [stock market](news_topic)
+- how are the top ten stocks at the moment
+- current price of [coca cola](business_name) stock
+- list the current price of [microsoft](business_name) shares
+- current price of [google](business_name) please
+- how expensive is [google](business_name) stock
+- give me the opening stock price of [infosys technologies](business_name) [today](date)
+- which stock markets have lowered in the past three hours
+- what is the [sensex](business_name) and nifty points for [today](date)
+- show me share price of [facebook](business_name)
+- what is the highest [microsoft](business_name) stock price [today](date)
+- what is a stock price of [tata](business_name)
+- have stocks gone up or down [today](date) for [walmart](business_name)
+- what is the [google](business_name) stock at
+- stock exchange rates
+- mention the stock price of [hdfc](business_name)
+- what is the closing price of [apple](business_name) [today](date)
+- how many shares of [apple](business_name) can i get for
+- give me today's market trends for [panasonic](business_name)
+- what are the chances of the stock market closing below the two hundred moving average in the [next fourteen days](time)
+- give me the stock price of [apple](business_name)
+- when does iphone stock usually drop
+- give me the stock price for [tommy hilfiger](business_name)
+- give me the opening stock price of [apple](business_name)
+- how much is [starbuck](business_name)'s stock these days
+- can you tell me the price of [google](business_name) stock
+- what's the latest on [stock market](news_topic)
+- what happened to the dow jones [today](date)
+- give me the stock price of [intel](business_name)
+- notify me of the latest news on the [stock market](news_topic)
+- tell me summary forecast [microsoft](business_name) stock forecast to thirty days ahead
+- what is the stock price of [sensex](business_name) right now
+- tell me the stock rate of [hyundai](business_name)
+- [amazon](business_name) stock price
+- is the stocks which i have invested are increasing
+- show stock value of [goog](business_name)
+- whats the dow jones at [today](date)
+- [honda](business_name) stock price
+- what is the difference between [yesterday](date)'s and [today](date)'s stock prices for [walmart](business_name)
+- how much was [airtel](business_name) sold for sometime back
+- what's going on on wall street [this week](date)
+- look up stock prices for my mutual funds and account
+- whats the stock price of [apple](business_name)
+- [fb](business_name) stocks
+- what is the price of [apple](business_name) stock [today](date)
+- how high is the [s n. p](business_name)
+- what is the current stock price of [rolls royce](business_name)
+- what is [apple](business_name)'s stock
+- what did the [s n. p](business_name) close out at
+- what is the [netflix](business_name) stock price
+- how much rate will be calculated
+- has my stock increased in value
+- how much has [hp](business_name) stock gone up
+- today's closing price for [google](business_name)
+- please check this companies stock
+- what is [starbuck](business_name)'s stock worth
+- how much does the [fb](business_name) stock cost
+- i want to figure out the stock on [microsoft](business_name)
+- stock prices of [rolls royce](business_name)
+- show me the stock prices of target [today](date)
+- [facebook](business_name) current stock rate
+- what is [i. b. m.](business_name)'s stock worth
+- how have [megatel](business_name) shares done [last week](date)
+- show stock of [goog](business_name)
+- what's the change in best buy stick
+- what did [apple](business_name) stock close at [yesterday](date)
+- how are my stocks doing [today](date)
+- what's the stock of [apple](business_name)
+- what is the stock value of [google](business_name)
+- have [bing](business_name)'s stocks dropped
+- will it be good to buy [nike](business_name) stock [today](date)
+- stock up or down for [walgreens](business_name)
+- what is the price for [marvel](business_name)
+- how's the stock for [exxon mobil](business_name) doing [today](date)
+- what is the current stock rate of [facebook](business_name)
+- what is the stock price of [nike](business_name) [today](date)
+- did [apple](business_name) stocks go up or down
+- tell me the latest stock of [pepsi](business_name)
+- what are the stock prices
+- please find out the share price of [i. b. m.](business_name) in nasdaq
+- how much would it cost to buy a share of target
+- what's the closing price of [apple](business_name)
+- what are the current [stock prices](news_topic) for [google](business_name)
+- please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years
+- what is [apple](business_name)'s current stock price
+- tell me [lexmark](business_name)'s current stock price
+- show me share price of [tata](business_name)
+- where is dell standing in stock market right now
+- stock market
+- how much does stock cost in [walmart](business_name)
+- can you find and tell me the prices of [facebook](business_name) stock
+- please tell me what is the stock price of dew in ny market
+- is [warren buffet](person) is investing in my listed stocks
+- how much is [amazon](business_name) stock
+- what's my stock fluctuations
+- what is the daily price of [johnson and johnson](business_name) stock
+- display stock price for [lexmark](business_name) international
+- stock price for [apple](business_name)
+- what is the value of the [yen](currency_name) right now
+- [google](business_name) stock symbol
+- tell me about the stock for [shell](business_name)
+- what is the stock price of [amazon](business_name)
+- [google](business_name) stock price
+- i want to know the stocks of [amazon](business_name)
+- could you give me the exact rate for dow nifty futures
+- give me the opening stock price of [acer](business_name) computers
+- how effective will be to buy [nike](business_name) stock
+- tell me which mutual funds have maximum yearly returns
+- update me on stock price of this company stock
+- give me the opening stock price of [sony](business_name)
+- show me share price of [amazon](business_name)
+- detail for stock price
+- how much is [apple](business_name) stock worth
+- check stock prices on this
+- have i made loss in which stocks
+- find stock price for name
+- what is [today](date)'s close of [goog](business_name)
+- what is the stock price for [lexmark](business_name)
+- can i have stock rate list of [ola](business_name) and [uber](business_name)
+- open stock price for name
+- how is the exchange rate for [microsoft](business_name)
+- what's the stock price of this
+- how much does [bde](business_name) cost
+- what is the stock price of [hdfc](business_name)
+- tell me about price of stock for [innova](business_name)
+- tell me [amd](business_name) stock prices
+- refer the stock price of [hdfc](business_name)
+- what [apple](business_name) trading at
+- what is [motorola](business_name) going for [today](date)
+- give the stock price details of [motorolla](business_name)
+- list the latest [apple](business_name) stock prices
+- what is the price of [starbuck](business_name)'s stock
+- current stock price [intel](business_name)
+- give me the average five year stock price of home depot
+- how's [microsoft](business_name)'s stock
+- how are stocks for [google](business_name)
+- how much would it cost to buy stock in [apple](business_name)
+- stock price [fb](business_name)
+- stock details
+- is [i. b. m.](business_name) up [today](date)
+- set notification for news on the [stock market](news_topic)
+- turn on notification for all news on the [stock market](news_topic)
+- what is [apple](business_name)'s stock price
+- what are [i. b. m.](business_name)'s stock prices
+- please find [today](date)'s stock prices for [samsung](business_name) company
+- is now a good time to sell some [euros](currency_name)
+- were the stocks rising or declining
+- show me the stock price for [google](business_name)
+- i would like to receive updates about the [stock market](news_topic) [every day](general_frequency)
+- please indicate the opening price of [fra](business_name) stock
+- how strong is the [dollar](currency_name) compared to the [peso](currency_name)
+- did the price of [walmart](business_name) stock go up or down
+- what is [amazon](business_name) worth
+- stock [google](business_name) find out
+- how is the stock going in general
+- what's the closing price of [abc](business_name)
+- what is the lowest [microsoft](business_name) stock price [today](date)
+- tell me which stocks were the biggest gainers in stock market nasdaq [today](date)
+- let me know about the stock rate of a [microsoft](business_name)
+- what is the stock for [hp](business_name) company
+- what's new with the [stock market](news_topic)
+- what's the stock price of this item
+- let me know up and down in stock price of this company stock
+- what is the price of [amd](business_name) on the stock market
+- stock
+- what was the stock price for [google](business_name) [yesterday](date)
+- stock please
+- open td ameritrade
+- what is [terranova](business_name) stock going for
+- [tvs](business_name) stock price
+- what's the price of [ge](business_name) right now
+- whats the current price of [mcdonalds](business_name) stock
+- send me the [stock market](news_topic) updates for [today](date)
+- what are [amd](business_name) stock prices
+
+## intent:recommendation_events
+- show me all the events happening in [milan](place_name)
+- what are some local events
+- can you tell me some fun things to do in [kentucky](place_name)
+- is there anything to do [tonight](timeofday)
+- searching for any [special holidays](event_name) for [us country](place_name)
+- what is happening in the area
+- whats happening around my [town](place_name)
+- inform about latest scheduled events near my location
+- what are the events conducted in [new york](place_name)
+- show [todays](date) events in [new york](place_name)
+- what events are scheduled for [this weekend](date) in me area
+- is there a [sporting event](event_name) [tomorrow](date) in [chicago](place_name)
+- is there anything happening nearby
+- what is happening in [delhi](place_name) [today](date)
+- what can i do in [berlin](place_name)
+- what are all the event in area
+- tell me about activities in my area [this weekend](date)
+- what [baseball games](event_name) are scheduled for [this week](date) in [tulsa](place_name)
+- where is the [food festival](event_name) [tonight](timeofday)
+- events in city
+- events in the local area
+- is there any [carnival](event_name) taking place in our area
+- will there be a [farmers market](business_type) in the area [this weekend](date)
+- events [today](date)
+- which event should i attend in my area
+- what are the local events
+- is there any events are in the local area
+- show me nearby [musical events](event_name)
+- what's some upcoming events i might want to go to
+- are there any [crafts fairs](event_name) happening in this area
+- what is happening in me area
+- what kind of event is happening around me
+- [this weekend](date) what events are going on in [seattle](place_name)
+- tell me the local events
+- searching for recent happenings on the particular dates
+- what can i do for fun under dollars around me
+- please search for events in my location
+- please check on the [rock concerts](event_name) scheduled [this weekend](date)
+- search for any upcoming [book fairs](event_name) during [next week](date) in [washington dc](place_name)
+- are there any good [social events](business_type) happening in my area
+- are there any special events in my town
+- tell me about things to do in [london](place_name)
+- info of the upcoming events
+- local area events
+- is there anything happening in town [this weekend](date)
+- what is [tomorrows](date) events
+- are there any interesting events around this area
+- inform about [best circus](event_name) near me
+- latest event in [new york](place_name) city
+- are there [dog shows](event_name) going on near [new york city](place_name)
+- is there a [food festival](event_name) in the area
+- is there any event around
+- what do they have going on at young circle [this week](date)
+- what events are happening near me
+- show local events
+- what is there to do in [new york city](place_name)
+- searching on [holidays](event_name) in my location
+- what is happening in [town](place_name) [tonight](timeofday)
+- can you find me a [street fair](event_name) in the [neighborhood](place_name)
+- any events [this weekend](date) in [pondichery](place_name)
+- what's the next event at the [library](place_name)
+- can you tell me what kind of [show](business_type) can i go [tonight](timeofday) in [miami](place_name)
+- what events are happening [today](date)
+- get local events
+- what's happening near me [this week](date)
+- events in me area
+- list [saturday night events](event_name) [near current location](place_name)
+- show me upcoming events in [chicago](place_name)
+- what [exhibits](event_name) or [shows](event_name) are scheduled at the [metropolitan theater](place_name)
+- recommend a [blue grass band](event_name) event [within twenty miles of manchester](place_name) ma [this week](date)
+- [badminton](event_name)
+- what kind of [musical events](event_name) are happening around here [this week](date)
+- events upcoming
+- [hockey](event_name)
+- i would be happy if you update me the events going on our area
+- what's happening here
+- list [local ongoing exhibitions](event_name)
+- local show
+- what [movie](business_type) can i watch [tonight](timeofday) on the theater here in [boston](place_name)
+- list events nearby [new york](place_name)
+- what is going on in me area [today](date)
+- please show me a list of entertainment options in my area
+- what happens on the [fourth of july](date)
+- what is worth doing around here
+- things to do in my area
+- what bands are playing in [town](place_name) [this weekend](date)
+- where is the event venue
+- what events are going on around my place
+- what kind of [free activities](event_name) can i do locally [this week](date)
+- list events in [ny](place_name)
+- what is going on around me
+- what plays are showing at the [theatre](place_name)
+- what should i do [this weekend](date)
+- tell me all local events
+- any activity in the area
+- i want to know what are happening now in me area
+- is there any [concerts](event_name) taking place in [new york](place_name) [today](date)
+- what's going on [around the neighborhood](place_name)
+- what's happening in my town
+- whats happening in [ny](place_name)
+- what events are going in my [town](place_name) [this week](date)
+- show local events near me
+- i need all the local events for [this area](place_name) that are being held [this weekend](time)
+- any specific event in [washington](place_name)
+- what events are going on in the area
+- what is going on today in [biloxi](place_name)
+- [running competitions](event_name) on [the west side](place_name)
+- what events are in me area
+- local events
+- to which event can i go in [milan](place_name) now
+- what [gun shows](event_name) are in [tulsa](place_name)
+- Show current local events
+- [today](date)'s local events
+- is there anything special going on nearby
+- can you tell me about any local events coming up
+- search events and meetups for [central park west](place_name)
+- which [book fair](event_name) events are taking place [next week](date) in [washington dc](place_name)
+- any [festivals](event_name) in town at this time or in the [coming week](date)
+- what's around [tonight](timeofday)
+- any local activities you can recommend in my area
+- please show me best [run](event_name) program in [jodhpur](place_name)
+- show [todays](date) events in [ny](place_name)
+- are there any events going on nearby
+- what is happening now
+- what is open late in [la](place_name)
+- when does [panama city mall](business_name) open
+- tell me about the events going on around my location
+- show me [concerts](event_name) in [sacramento](place_name)
+- what is this event is called which happening my area
+- are there any events happening [this weekend](date)
+- anything unique to do in the city [today](date)
+- what can i do in [charlotte](place_name)
+- what's going on around here [this weekend](date)
+- please search for local events
+- show me events in [sacramento](place_name)
+- tell me all events for [today](date) in my city
+- are there any events coming up
+- what bands are playing close by
+- what is happening near me
+- show me where i can find a [hamburger](business_type)
+- what are the events taking place in [new york](place_name) [today](date)
+- is there anything happening on [jazz scene](movie_type) around [edinburgh](place_name)
+- which [pubs](business_type) participate in the [jazz festival](event_name)
+- what activities are taking place in my area
+- what is going on in [south tampa](place_name) [today](date)
+- can you recommend some dog's how events going on in our city
+- any free events in [la](place_name) [today](date)
+- what's interesting around here
+- where should i go [this weekend](date)
+- what's going on [tonight](timeofday) in [sacramento](place_name)
+- which teams are playing this [weekend](time)
+- are there any events going on in [milan](place_name)
+- find the events
+- could you suggest some fun in [new york](place_name)
+- Show latest events around [new york](place_name)
+- show me upcoming events in the [quad cities](place_name)
+- are there any events happening in [town](place_name)
+- do i need to undertake any particular activity during my stay at the [yellowstone national park](place_name)
+- tell me all the current events in my [hometown](place_name)
+- any cultural events in [california](place_name)
+- are there any events going on close by
+- what are the local concerts [tonight](timeofday)
+- what is the event name going in me area
+- where should i go for [dinner](meal_type) in [san francisco](place_name) [tonight](timeofday)
+- what is happening [tomorrow](date)
+- what type of event
+- [fun things](event_name) to do [today](date)
+- show me events nearby
+- find events in local area
+- refer [local current events](event_name)
+- show me upcoming events in this area
+- what events are happening in [los angeles](place_name)
+- what is planned for [today](date) in my local area
+- what is going on around here
+- what's happening around me
+
+## intent:recommendation_locations
+- whats the best [place to eat](business_type) near here
+- whats around
+- show [shops](business_type) around [second street](place_name)
+- what's the best [chicken place](business_type) near me
+- where is the best [pizza](food_type) on [sixth street](place_name)
+- find a shop that sells [beer](drink_type)
+- what stores have clearance
+- please look up local [restaurants](business_type) that are open now
+- what [pubs](business_type) are close to me
+- what is a good [lave to eat](business_type) near me
+- i need to know where to get [chicken wings](food_type) in [benton ar](place_name)
+- can you find me a [furniture store](business_type) near me
+- list of the nearby [restaurant](business_type)
+- whats a good place to eat around [midtown new york](place_name)
+- are there any [shopping centers](business_type) nearby
+- where is a good [wine bar](business_type) near me
+- i want to find some [chinese](food_type) food what is near me
+- where is a [theatre](business_type) in my area
+- recommend a local [steak](food_type) [restaurant](business_type)
+- near by [grocery](business_type)
+- what [mexican](food_type) food is around me
+- tell me where i can go [shopping](business_type) in [this area](place_name)
+- where is the closest [sweet frog](business_name)
+- near by [super market](business_type)
+- best [bar](business_type) in local area
+- locate local [pizza](food_type) [shops](business_type)
+- what [restaurants](business_type) around here have good reviews
+- show me [thai](food_type) food near me
+- where can i get [something to eat](business_type) [by the art museum](place_name)
+- list all the nearby [shops](business_type)
+- recommend a [restaurant](business_type) with medium expense
+- where is the best [mechanic](business_type) in [eagle point](place_name)
+- find me the oldest hotel in [washington dc](place_name)
+- how many grocery stores are located in my neighborhood
+- i want to know what [supermarket](business_type) near me has the best price on [gluten free bread](food_type)
+- give me all [ice cream shops](business_type) [within two miles](place_name)
+- where is the nearest [atm machine](business_type)
+- nearest [restaurants](business_type) available at this time
+- where i can find a [bakery](business_name)
+- where is the nearest [pub](business_type) in the [city](place_name)
+- are there any [veg](food_type) [restaurants](business_type) in [phoenix](place_name)
+- [tea shop](business_type)
+- list the [shops](business_type) near me
+- recommend me some [shops](business_type) to shopping in [angel](place_name)
+- where's the best and most affordable place to stay in [san diego](place_name)
+- where is a walking trail near me
+- will the [fast food](food_type) [shop](business_type) at the corner open [today](date)
+- where is a good place to eat cheap [pakistani food](food_type)
+- where is the nearest [olive garden](business_type)
+- What's close by for [dinner](meal_type)
+- which is the best place to visit in [this month](date)
+- have any suggestions for local [italian](food_type) food
+- search for nearby [chinese](food_type) [restaurants](business_type)
+- find [shoe shopping](business_type) near my [home](place_name)
+- find me a [bar](business_type) in [cleveland](place_name) open until [two am](time)
+- [markets](business_type) near by
+- what's around me
+- give me the name of all the [shops](business_type) in my area
+- can you find a nice [restaurant](business_type) [downtown](place_name)
+- i'm looking for some [dress shows](business_type) can you find clothing stores [within one mile](place_name)
+- can you tell me the cheapest place to get ground beef
+- where can i shop as a local tourist
+- what is the best [italian](food_type) [restaurant](business_type) around here
+- what are some good [restaurants](business_type) near by
+- find a [grocery store](business_type) in town that carries creamed pickled herring
+- get me a local [restaurant](business_type)
+- locate nearby [dining places](business_type)
+- what are the best [italian](food_type) [restaurants](business_type) in [los angeles](place_name)
+- please look up [clothing stores](business_type) near me
+- where is the nearest [restaurant](business_type) here
+- find [tacos](business_type) near my [home](place_name)
+- tell me my choices for a good [steak](food_type) [restaurant](business_type) near here
+- which store's got the cheapest three pound beef rump
+- what is the best [shop restaurant](business_type) around [angel](place_name)
+- which is the nearest [restaurants](business_type) available
+- [mobile shop](business_type)
+- what's the most popular [curry place](business_type) in [town](place_name)
+- tell me [pizza](food_type) [restaurants](business_type) close by
+- i would like to know the best rating [pubs](business_type) in the local area
+- can you tell me a good [place to eat](business_type)
+- where to buy cannon cameras
+- tell me [chinese](food_type) [restaurants](business_type) in the area
+- please list the best [clothing shops](business_type) near me
+- hey olly tell me what shops i am near
+- what shops are [round here](place_name)
+- list [shops](business_type) in [douglasville ga](place_name)
+- ask a [restaurant](business_type) in me area
+- find me the smallest [coffee shop](business_type) in [new orleans](place_name)
+- give the list of [theaters](business_type) in the [vicinity](place_name)
+- what are the [vietnamese](food_type) [restaurants](business_type) in the area
+- what's the best [pizza](food_type) [shop](business_type) nearby
+- what's the best [clothes store](business_type) here
+- when does [olive garden](business_type) close [today](date)
+- best [restaurant](business_type) in local area
+- where a good [restaurant](business_type)
+- where's the closest zoo to where i'm at
+- where can i shop around here
+- any good [bike shops](business_type) in [oxford](place_name)
+- where can i go shopping here
+- tell me what is the nicest place to go
+- is there any [grocery](business_type) nearby
+- where is a nearby [park](business_type) where i can go running
+- show me all the shops that i can find in [milan](place_name)
+- find local shops
+- help me locate a shop that [sells clothes for classy ladies](business_type)
+- what [train companies](business_type) are near me
+- i need a good [shop](business_type)
+- please give me all [shop](business_type) names in a two mile radius
+- which shops can i find in [milan](place_name)
+- please find the most popular [store](business_type) in the area
+- i need a place that will deliver [pizza](food_type) to me in [benton ar](place_name)
+- [wine shop](business_type)
+- can you tell me about expensive [sushi](food_type) [restaurants](business_type) in [west philadelphia](place_name)
+- where is the nearest [smoke shop](business_type)
+- i want to know the best [super market](business_type) in this local area
+- i need some [sushi](food_type) what's closest
+- what [bars](business_type) are around me
+- what's the best [italian](food_type) [restaurant](business_type) in [atlanta](place_name)
+- where is the closest [bar](business_type)
+- please list [shops](business_type) within one miles from me
+- where is a great [pub](business_type)
+- where should i go for [mexican](food_type) food in me area
+- recommend [pub](business_type) in [eighth and monte diablo](place_name)
+- what [pubs](business_type) are close
+- name stores within ten mile radius with music
+- what [restaurants](business_type) are open near me
+- where can i go [shopping](business_type) in [this area](place_name)
+- where can i find a good [taco truck](business_type) in [los angles](place_name)
+- what is a good place for cruise
+- what [chinese](food_type) [restaurants](business_type) are in my area
+- where do people shop for clothes here
+- can you recommend a cheap [restaurant](business_type) in this area
+- make a reservation for two at [olive garden](business_type)
+- show me some [vegan](food_type) [restaurants](business_type) close by
+- where [monet's exhibition](event_name) takes place
+- show me reviews of my [nearest location](place_name) [food court](business_type)
+- are there any [grocery stores](business_type) nearby
+- show me some [food court](business_type) [nearest to my location](place_name)
+- can you recommend good [stores](business_type) in [this area](place_name)
+- are there any good [pizza places](business_type) around here
+- what is the best [mexican](food_type) [restaurant](business_type) in [seattle](place_name)
+- list all the shops that are located in [milan](place_name)
+- find me a nice [restaurant](business_type) for [dinner](meal_type)
+- i'm looking for a [bar](business_type) do you know a good one
+- where is the closest kroger
+- i wish to go for cheap shopping is there any [dollars shop](business_type) nearby
+- display nearby places
+- recommend me a [restaurant](business_type) in [west chester](place_name)
+- any [farm markets](business_type) around with local products
+- where can i get organic wheat
+- local shops
+- where is the nearest [italian](food_type) [restaurant](business_type)
+- where can i get [shawarma](food_type) in this area
+- tell me a nice [chinese](food_type) [restaurant](business_type)
+- is there a well rated [pizza](food_type) [place](business_type) [between fourteenth and eighteenth streets](place_name)
+- i want to take [karate classes](event_name) where are local [karate studios](place_name)
+- where is a [petrol station](business_type) in [five mile radius](place_name)
+- is there any [salon](business_type) in [babaji nagar](place_name)
+- find me the cheapest place to buy a new backpack
+- what [restaurant](business_type) is open after [midnight](time)
+- what [clothes store](business_type) would you recommend here
+- please recommend a [restaurant](business_type) in [seattle](place_name)
+- where is a good [place to eat](business_type) in [seattle](place_name)
+- i need to find [a gift](business_type) what [stores](business_type) are [within a one mile radius](place_name)
+- what [pubs](business_type) are near [the metro station](place_name)
+- where is the [pharmacy](business_type) in [leavenworth](place_name)
+- where can i eat along route sixty six
+- locate me the [amazon](business_name) [restaurants](business_type)
+- find [gluten free bakery](business_type) near me
+- which [restaurant](business_type) is there in [shivaji nagar](place_name)
+- best reviews [restaurant](business_type) in [south sacramento](place_name)
+- search for local shops
+- where are [italian](food_type) [restaurants](business_type) in me area
+- what [clothing shops](business_type) are close to my current location
+- nearest walmart location
+
+## intent:recommendation_movies
+- which [rom com](movie_type) movie can i watch in theatres around [new york](place_name)
+- can you tell me what movies are playing at the movies [tonight](timeofday)
+- what movies are playing at [theatres](place_name) near me
+- show me theatre where [pirates of caribbean](movie_name) is playing
+- what new movies are good
+- what is the biggest [blockbuster](movie_type) [this week](date)
+- find an oscar nominee movie
+- recommend a [movie](event_name) which is released [last Friday](date)
+- [training day](movie_name)
+- is [swat](movie_name) a good movie
+- how is the new movie [swat](movie_name)
+- what time does [thor](movie_name) start
+- [logan](movie_name)
+- what movies are playing at [carmike cinemas](business_name)
+- give me a movie for [tonight](timeofday)
+- what movies are playing near me
+- recommend a movie playing in me area
+- recommend a [movie](event_name) with [justin bieber](movie_type)
+- what is a good movie to see right now
+- recommend a [romantic comedy](movie_type) in me area
+- what are movies that are playing near me with high reviews
+- movie times [tonight](timeofday)
+- can you tell me what movie has the best reviews
+- what are the show times for [logan](event_name) at the [nearby theatre](place_name)
+- show me nearest [theatre](business_type)
+- what is a good iranian film from [two thousand and sixteen](date)
+- what movies are playing nearby
+- what new movies are played in cinemas [this week](date)
+- what movie theatres are in [stephenville](place_name)
+- what is the best movie to watch with a glass of wine
+- what do you suggest that i watch [this weekend](date)
+- what film should i watch
+- movies with good reviews
+- what's a good movie that's out right now
+- [fast and the furious](movie_name)
+- what are good movies playing now
+- show me best in class [theatre](business_type)
+- what movies are being shown at the [regal cinema](place_name)
+- whats a new [sci fi](movie_type) movie
+- suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like
+- can you recommend some movies to watch in [theater](place_name) near me
+- what movies are playing [this week](date)
+- what is the latest [action](movie_type) [movie](media_type) running in [theaters](place_name)
+- tell me the movie with [best imdb ratings](movie_type) going on in [theatres](place_name) near me
+- movies with good rotten tomato ratings
+- what are the current movies playing in me area
+- should i watch this movie
+- what's playing at [brea plaza five](place_name)
+- [kung fu panda three](movie_name)
+- when is [trolls](movie_name) playing
+- what movies are playing [tonight](timeofday)
+- any good movies
+- what movies are playing [tonight](timeofday) at [nine pm](time) at the [amc nine](place_name)
+- what movies are going around me
+- please check on the movies playing in [theaters](business_type) nearby
+- what movies are out [this week](date)
+- what are the show times of [logan](movie_name)
+- what movie should i see
+- what are the new [movies](event_name) releasing
+- what's [playing in the roosendaal cinema](event_name)
+- what is a movie like [star wars](movie_name)
+- confirm a movie ticket at [glory theater](place_name)
+- what movies are playing right now
+- what is playing at [amc twenty](place_name)
+- latest movie releases
+- what are new [drama](movie_type) movies opening this [weekend](time)
+- what movies are playing in [columbia](place_name)
+- what is the nearest theatre that plays the new [vin diesel](movie_name) movie
+- what movie should i watch [today](date)
+- what's worth watching
+- what's a movie in [theaters](place_name) that doesn't suck
+- [theaters](business_type) near to me
+- look up movies near me
+- check for all the movie theater prices and availability for a newly released movie in my location
+- local [theater](business_type) screening which [movie](event_name)
+- what movies is out there in the [local cinema](place_name)
+- tell me movies playing in [oceanside](place_name) [tonight](timeofday)
+- top ten movies
+- what should i watch [today](date)
+- [ocean eleven](movie_name)
+- do you have any suggestion [action](movie_type) movies
+- can you suggest a good [drama](movie_type) for me to watch
+- are there any good movies running in nearby [theaters](business_type)
+- i need a good [chick flick](movie_name) any thoughts
+- what movie are playing near me
+- what movie should i go see
+- what highly rated movies are playing [this weekend](date)
+- [deadpool](movie_name)
+- can you tell me which [movie](event_name) is going on in the [nearby multiplex](place_name)
+- inform me about the most popular [rom com](movie_type) movie playing now in theatres across [new york](place_name)
+- is [logan](movie_name) a good movie to watch
+- show me movie times
+- Show times for nearest [theater](business_type)
+- name a [rom com](movie_type) movie playing in and around [new york](place_name) theatres
+- two thousand and seventeen movies
+- what movie do you recommend [tonight](timeofday)
+- what movies are showing in [cinema](business_type) [today](date)
+
+## intent:social_post
+- announce a comment in [facebook](media_type)
+- write a [tweet](media_type) telling [macy](business_name)'s that they should be shutting down instead of jcpenney
+- send a [tweet](media_type) to [tmobile](business_name) for rude employees
+- [tweet](media_type) my complaint and mention this [costumer service](business_name)
+- please [tweet](media_type) waited sixty five minutes for a table at tgi fridays never going back
+- two thumbs down [@companyname](business_name)
+- please [tweet](media_type) for me about the bad service rended by the taj restaurant
+- heading to gym please post to [facebook](media_type)
+- change my status to chillin
+- open [twitter](media_type) and add complaint on doctor patel's feed
+- [tweet](media_type) a complaint to [local municipality](business_name)
+- send a [tweet](media_type) about [sonys](business_name) volume issues
+- [tweet](media_type) to [mcdonalds](business_name) saying that i found a hair in their burger
+- have a moan at [easyjet](business_name)
+- go to [social media](media_type) and post the following status
+- [tweet](media_type) complaint to [american eagle customer service](business_name)
+- [tweet](media_type) this tweet coffee was too hot and at this company [costa coffee](business_name)
+- [tweet](media_type) long wait time and unprofessional employees
+- please post happy [birthday](event_name) usa on my [newsfeed](media_type)
+- bring up [facebook](media_type) and wish a happy [birthday](event_name) to the country [usa](place_name)
+- [tweet](media_type) [british airways](business_name) that my last flight from chicago to london was delayed
+- send report to [consumer service](business_name)
+- take me to the [huffington post](media_type) website
+- start complaint to [walmart](business_name)
+- log a complaint about smart tv to [sony customer service](business_name)
+- let [wendy](business_name)'s know i hate them
+- [tweet](media_type) my current location
+- customer service from [microsoft](business_name) never called me back
+- fraud in weighing products
+- post the following as a status on [facebook](media_type)
+- complain about [walmart service](business_name)
+- [tweet](media_type) bad day at [starbucks](business_name)
+- post this on my [facebook](media_type)
+- place [family phone](personal_info) on [instagram](media_type)
+- write a complaint to [best buy](business_name)
+- post a [facebook](media_type) status engaged
+- i would like to make a post on times [twitter](media_type)
+- complaint on [service provider](business_name) on my [twitter](media_type)
+- [tweet](media_type) [starbucks](business_name) and say that the customer service is awful
+- [tweet](media_type) a complaint to [comcast](business_name)
+- [tweet](media_type) [kohls](business_name) about the cleanliness of their store
+- open [hershey](business_name) twitter
+- please tell [kmart](person) they sent the wrong item
+- please write up a compliant
+- hi olly post my last clicked photo on [facebook](media_type) with title marry christmas
+- [tweet](media_type) [@wendys](business_name) that i don't like their product
+- tell [apple](business_name) in a [tweet](media_type) that their batteries don't hold enough charge
+- send [tweet](media_type) to [wallmart](business_name)
+- [tweet](media_type) a complaint
+- [tweet](media_type) [paula deen's restaurant](business_name) that the line is always too long
+- [tweet](media_type) for me the complaint about drainage choke up
+- [tweet](media_type) error log to [samsung](business_name)
+- please submit status to [facebook](media_type)
+- [tweet](media_type) at [united airlines](business_name) i'm angry you lost my bags
+- use [facebook](media_type) to post
+- [tweet](media_type) your waiting time sucks tag [koc](business_name)
+- listening song of [arijit singh](person) post it on my [facebook](media_type) account
+- bring up a complaint form
+- write a [tweet](media_type) to [burger king](business_name) expressing my disapproval
+- this is a [tweet](media_type) for [comcast](business_name) if i have my internet and phone service from you and it goes out how can i contact you
+- [tweet](media_type) my complaint to [@consumer service](business_name)
+- post this to my [facebook](media_type) lol
+- [tweet](media_type) [freedom pop customer service](business_name) i am dissatisfied
+- i have a complaint
+- [tweet](media_type) I'm complaining about to [consumer service](business_name)
+- pull up the complaint website for [starbucks](business_name)
+- [tweet](media_type) complaint to [consumer service](business_name)
+- can you upload my latest selfie in my [instagram](media_type)
+- send [tweet](media_type) to [united airlines](business_name) i'm angry you lost my bags
+- please [tweet](media_type) the following complaint
+- i want to see the [twitter handler](personal_info) of [samsung](business_name)
+- [tweet](media_type) for me the complaint about drainage work
+- [tweet](media_type) a disgusted face about [mcdonalds](business_name)
+- [tweet](media_type) [insight cable's customer service](business_name) and tell them i have been waiting on hold for thirty minutes
+- post to [facebook](media_type) at the spa yay with a smiley face emoticon
+- [tweet](media_type) [@bobburgers](business_name) they screwed up my order and i had to wait an extra hour
+- post to [facebook](media_type) I'm home
+- [tweet](media_type) [walmart](business_name) and tell them their customer service is horrible
+- send a complaint to my [boss](relation)
+- complain to [philips](business_name)
+- [tweet](media_type) my complaint on [targets](business_name) customer service
+- [tweet](media_type) to [consumer service](business_name) that they should strive to be more accommodating
+- tweet i am doing well on [twitter](media_type)
+- send this message to [@microsoft](business_name) on twitter
+- please [tweet](media_type) the following to [radisson hotels customer service](business_name)
+- [tweet](media_type) complaint to [sony consumer service](business_name)
+- [tweet](media_type) [the president](business_name) and tell him he's doing a horrible job
+- send a snotty [tweet](media_type) to [bbc](business_name)
+- please send a complaint about my horrible experience with a company
+- write this complaint to [comcasts customer service](business_name) [twitter](media_type)
+- new [twitter](media_type) message
+- [tweet](media_type) complaint to [amazon products](business_name)
+- tell my [facebook](media_type) group that i've arrived
+- [tweet](media_type) a complaint to [apple](business_name) about my iphone seven
+- [tweet](media_type) [@phohouse](business_name) your server was rude #badpho
+- i need to submit a complaint
+- open [twitter](media_type) type my complaint and post to [@consumer service](business_name)
+- [tweet](media_type) [consumer service](business_name) that the quantity is wrong
+- send a [tweet](media_type) to [kroger](business_name) about being overcharged for groceries
+- send [twitter](media_type) to [mattel](business_name) that they need to stop making toys in china
+- post a [tweet](media_type) as follows very bad follow up by abc company not satisfied in my account
+- it would be nice if you post status for me
+- send a [tweet](media_type) to [kroger](business_name) about spoiled milk
+- bring up [twitter](media_type) to target customer service
+- tell company their service is bad
+- please send a complaint to [someone](business_name)
+- tell [comcast](business_name) their customer service is slow
+- [tweet](media_type) [consumer service](business_name) that i am very disappointed with my recent interaction
+- write a [tweet](media_type) to this company
+- post complaint about service a
+- let [national grid](business_name) know the power is out again
+- [@nikesupport](business_name) i need some assistance regarding some shoes i bought last week
+- hello my item which i bought from some one has gone out of order
+- please post so bored to [facebook](media_type)
+- send [tweet](media_type) via message to [cardinal cafe](business_name) and tell them their customer service is outstanding
+- send a [tweet](media_type) about my complaint on my truck to consumer digest
+- post that i am going to [woodland shoe store](business_name)
+- can you contact [samsung](business_name) and say my washer is on fire
+- post a [facebook](media_type) status update
+- send a [tweet](media_type) to [amazon customer service](business_name) that the package was delivered late
+- [customer service](business_name) complaint [tweet](media_type) the following
+- send a [tweet](media_type) to [safeway](business_name) about water in my gas
+- send a [tweet](media_type)
+- please retweet this post on [twitter](media_type)
+- [tweet](media_type) [comcast](business_name) and tell them that their service is down again
+- please negative response [tweet](media_type) on [daikin service](business_name)
+- [tweet](media_type) at [koc](business_name) your waiting time sucks
+- [tweet](media_type) [real donald trump](business_name) that angela merkel will not shake his hand anymore
+- [tweet](media_type) [consumer service](business_name) that the goods are of low quality
+- post to [twitter](media_type) got a hectic day ahead
+- [tweet](media_type) complaint
+- [tweet](media_type) the current temperature
+- post this pic to [facebook](media_type)
+- [tweet](media_type) my complaint about my truck to consumer digest
+- [tweet](media_type) to [amazon](business_name) about late delivery of my tv
+- please [tweet](media_type) a complaint about slow service at [applebee](business_name)'s
+- please post this picture on [facebook](media_type)
+- complain for cheating
+- hello can you give the contact details for a particular service centre
+- post i am happy to [facebook](media_type)
+- put this on my [facebook](media_type)
+- what is the customer service feedback
+- can you tweet [lif](business_name) about their app crashing
+- [tweet](media_type) [verizon customer service](business_name)
+- post the following status to [facebook](media_type)
+- [tweet](media_type) a complaint to [amazon](business_name) about late shipment
+- [tweet](media_type) a complaint to [kohl's customer service](business_name)
+- siri open [twitter](media_type) tweet @potus sucks
+- [tweet](media_type) complaint to [dominoes](business_name)
+- send a [tweet](media_type) to [national grid](business_name)
+- send a [tweet](media_type) to company
+- i would like to place a call to [amazon customer service](business_name)
+- post a complaint via [twitter](media_type) to [cvs pharmacy](business_name)
+- i would want you to [tweet](media_type) for me at [india consumer complaints forum](event_name) regarding the late delivery of gas cylinder
+- [customer service](business_name) complaint
+- [tweet](media_type) something for me
+- send a [tweet](media_type) to [esurance](business_name) to say i hate you
+- hello google post my current status on [twitter](media_type) mentioning a great trip to [paris](place_name) with [friends](relation) and [family](relation)
+- post a new status on [facebook](media_type) saying that i am enjoying the [nice weather](weather_descriptor)
+- please create a new [tweet](media_type)
+- send a [tweet](media_type) to [meijer](business_name) tell them that they have the worst customer service
+- can you put this on [facebook](media_type)
+- post to [twitter](media_type) [trump](person) is such an ass
+- [tweet](media_type) a complaint to [old navy website](business_name)
+- [tweet](media_type) on the bad service
+- please say the following on [facebook](media_type)
+- [tweet](media_type) [consumer service](business_name)
+- [tweet](media_type) to the [customer service account of starbucks](business_name)
+- write a [tweet](media_type) of complaint about my tv to [samsung](business_name)
+- tell them that their lines were too long
+- can you send a [tweet](media_type) to [lif](business_name) saying that their app crashed
+- [tweet](media_type) consumer complaint
+- [snapchat](media_type)
+- please add complaint about the service in [tweet](media_type) to [olive garden](business_name)
+- complaint to [dept](business_name) for food quality
+
+## intent:social_query
+- show me my [husbands](relation) [facebook](media_type) posts [today](date)
+- please read my [facebook](media_type) feed
+- may i know what is trending in [twitter](media_type)
+- what new posts are on my page
+- is everyone on my [facebook](media_type) list watching the game
+- can you tell me what happened to my social media
+- i haven't checked my [facebook](media_type) yet are there any updates from my close friends
+- tell me what's new
+- do i have any private messages on any [social media](media_type)
+- [facebook](media_type)
+- any new [facebook](media_type) posts from [amy](person)
+- what are the big news stories on [twitter](media_type)
+- what posts have i missed from my [friends](relation)
+- check my [social networks](media_type)
+- [facebook](media_type) info
+- what does my [facebook](media_type) feed look like
+- what going on
+- let me know if [linda](person) posts anything on my [facebook](media_type) [today](date)
+- hi there tell me latest updates of times of india page in [facebook](media_type)
+- who has written to me or mentioned me in social media
+- get me latest updates from [facebook](media_type)
+- what's new on [facebook](media_type)
+- who has responded to my business within the last [twenty four hours](time)
+- do i have any new [tweets](media_type)
+- what's trending on [twitter](media_type)
+- is anyone likes my latest photo
+- tell me the exact count of followers on my [twitter](media_type) handle as of [today](date)
+- what time is [bina](person) going live with her sale on [facebook](media_type)
+- may i know what is trending in [facebook](media_type)
+- did my [friend](relation) [rohit](person) posted something on [facebook](media_type)
+- what [friends](relation) were in popular places the [last day](date)
+- what is currently trending on twitter
+- latest [tweets](media_type)
+- is anything trending on social media [today](date)
+- let me know if i get a new personal message from [martha](person) on [facebook](media_type) [today](date)
+- hey olly inform me about latest picture updated by [priya chopra](person) on [instagram](media_type)
+- tell me my [friends](relation) most recent update
+- please scan my social media and tell me what's happening
+- how many likes i have got on my eggless cake post on [youtube](media_type)
+- check my [facebook](media_type) notification
+- has anyone follow me today on [twitter](media_type) [today](date)
+- what is going on right now on [twitter](media_type)
+- give me details of my [twitter](media_type) handle profile including the total number of followers
+- brief me about my news feed stories
+- check my [twitter](media_type) notification
+- please tell me latest video going viral on [twitter](media_type) for topic narendra modi
+- tell me what's happening on social media
+- did [renee](person) just post to my [facebook](media_type) feed
+- show me my latest social media activity
+- Has @realdonaldtrump posted anything new on [twitter](media_type)
+- have i received any mentions on [twitter](media_type)
+- read me the last tweet from the [washington post](media_type)
+- are there any news regarding our [president](relation) on [facebook](media_type) [today](date)
+- what is happening on [facebook](media_type)
+- who's [birthdays](event_name) are [today](date) on [facebook](media_type)
+- tell me what's going on with [facebook](media_type)
+- is there anything important happening on social media
+- [instagram](media_type)
+- read to me the last messages in my feed
+- has [john](person) replied to my [facebook](media_type) post
+- do i have new likes
+- what trending on [twitter](media_type)
+- check my last post on [facebook](media_type)
+- what's hot social media topics
+- give me my [facebook](media_type) update [every three hours](general_frequency)
+- please check my [facebook](media_type) account
+- are there any new [snapchats](media_type)
+- did [mark](person) post anything new on [facebook](media_type)
+- please check the news on [social media](media_type)
+- show me latest notifications
+- how many people are following me on [twitter](media_type) now
+- latest [instagram](media_type) posts
+- what was last sent to me in my social media feed
+- what's going on [facebook](media_type)
+- tell me if anything important is happening on social media [today](date)
+- give me my social media update
+- have i got new content in my [twitter](media_type) feed
+- can anyone tell me what's you guys discussing
+- trending social media
+- latest news feed from [facebook](media_type)
+- is there anything new on [snapchat](media_type)
+- what are the latest tweets from the [new york times](media_type)
+- is there anything exciting on [twitter](media_type) [today](date)
+- has [mary](person) posted anything to [facebook](media_type) [today](date)
+- in [every three hours](general_frequency) give me my [facebook](media_type) update
+- is my [friend](relation) [rohit](person) online on [facebook](media_type)
+- how many likes did i get [today](date)
+- give me some funny [facebook](media_type) posts
+- is there any new vegan news on [facebook](media_type)
+- what was the latest post
+- what are [today](date)'s highlights from [facebook](media_type)
+- check my [twitter](media_type) account
+- has [sarah](person) posted anything [today](date)
+- what notifications do i have in [social media](media_type)
+- any new interests from [linda](person)
+- please update me on my social media accounts
+- is there any post from my [friend](relation) [mike](person) in [facebook](media_type)
+- how many likes does my last [instagram](media_type) photo have
+- was there any articles on [shark attacks](news_topic) on [snapchat](media_type) [yesterday](date)
+- open [facebook messenger](media_type)
+- what are the latest updates on my [facebook](media_type) account
+- social media updates
+- how many likes does my status from [yesterday](date) have
+- please inform me of any new status updates
+- do i have any new messages in [twitter](media_type) [instagram](media_type) or [facebook](media_type)
+- can you please update me on the latest [tweets](media_type) from my feed
+- tell me what's happening on [instagram](media_type)
+- has anyone commented on my status
+- anything new on [insta](media_type)
+- has anyone tagged me in a photo on [facebook](media_type)
+- please give me the latest feed updates
+- who recently posted on social media
+- hows [twitter](media_type)
+- do i have any new friend requests
+- social media
+- has [wendy](person) posted on [facebook](media_type)
+- what did happen [today](date)
+- is there anything new on [reddit](media_type)
+- can i see my [facebook](media_type) feed
+- check my last post on [instagram](media_type)
+- find me new comments from my [facebook](media_type)
+- tell me whats on the web
+- anything new on social media
+- are there any updates on [facebook](media_type)
+- new updates
+- what are the latest photos on my [instagram](media_type) account
+- can you show me the popular posts from [facebook](media_type) [today](date)
+- what's trending on social media
+- tell me what's trending on [twitter](media_type)
+- are there any new snaps on [snapchat](media_type)
+- what is the latest from my feed
+- do i have any new [facebook](media_type) notifications
+- what is trending on [twitter](media_type)
+- what are the latest tweets on my [twitter](media_type) account
+- show me my social media notifications
+- check how many likes did i got on my most recent post
+- check [facebook](media_type) and [twitter](media_type) and tell me if anything interesting is happening
+- what are trending topics on [twitter](media_type) right now
+- check my [facebook](media_type) for notifications
+- social info
+- what's new on my [facebook](media_type) account
+- what was the last thing my [mom](relation) said
+- what's happening on social media right now
+- whats online
+- let me know what [maria](person) has put on her [facebook](media_type) over the [weekend](time)
+- what's the latest in my social media
+- [myspace](media_type)
+- did anybody post on [facebook](media_type) [today](date)
+- hi what is the hot topic in [facebook](media_type)
+- please let me know what's happening to my social media
+- my [facebook](media_type) update in [every three hour](general_frequency) should be available
+- what's new on social media
+- new friends request details
+- is [trump](person) [tweeting](media_type) [today](date)
+- what's going on on [fb](media_type)
+- i heard [ale](person) just got married can you please show me the wedding pictures on their [instagram](media_type)
+- what's new in [facebook](media_type)
+- live show reminders
+- what did [jeff](person) post on the yard sale page
+- what's happening in my social media
+- did [tracy](person) update her [facebook](media_type) status [today](date)
+- has [derek](person) logged into [facebook](media_type) [today](date)
+- show me a list of places where my [relatives](relation) have been based on their photos
+- check [instagram](media_type)
+- hi what kind of pictures you uploaded in [pinterest](media_type)
+
+## intent:takeaway_order
+- order me some [chipotle](business_name)
+- could you please help me to order some [sushi](food_type) from [deliveroo](business_name)
+- order [chinese](food_type) food
+- show me [chinese](food_type) food near me
+- ordering food
+- checkout top [restaurant](business_type) near me and order [shahi panner](food_type)
+- find and order [handi paneer](food_type) in [pavitra](business_name)
+- order food
+- order a [ham and cheese sandwich](food_type) from [subway](business_name)
+- can you look up [chinese](food_type) [takeout](order_type) near here
+- any low priced [delicacies](food_type)
+- how much does [general tsos chicken](food_type) cost at [peking garden](business_name)
+- order one [pizza](food_type) from [pizza hut](business_name)
+- how about some [pizza](food_type) tonight can you please order a [pepperoni large](food_type)
+- order [six chicken tacos](food_type) from [chipotle](business_name)
+- i want to eat some [spicy](food_type) thing
+- places with [pizza](food_type) [delivery](order_type) near me
+- make an order for [noodles](food_type) one pack make it as [takeaway](order_type) order
+- order general [t'so eggroll](food_type) to go
+- order [pizza](food_type) for [delivery](order_type)
+- call [pizza hut](business_name) and order a large [pan pizza with ham and mushrooms](food_type)
+- [takeaway](order_type) [noodles](food_type) one pack
+- open [takeout](order_type) menus
+- please call [the golden fork](business_name) and tell them to [deliver](order_type) one portion of the [fish risotto](food_type)
+- order me a [cheese burger](food_type) from [tommy's burgers](business_name)
+- call [eastwind](business_name) and order [lomaine](food_type) [to go](order_type)
+- i would like to order [takeaway](order_type)
+- i am in need of some [pizza](food_type) what's the closest place that [delivers](order_type)
+- order two [hamburgers](food_type) for me
+- please put in an order from [red thai fpr](business_name) [this evening](timeofday)
+- order [pizza](food_type)
+- place a [takeaway](order_type) order for a [cheeseburger and fries](food_type) from [burger king](business_name)
+- closest [chipotle](business_name)
+- call [peking garden](business_name)
+- order [chinese](food_type) for [delivery](order_type)
+- order from [dominos](business_name)
+- place order for usual [burritto](food_type) at [chipolte](business_name)
+- food order from [grubhub](app_name)
+- i want to order some [takeout](order_type) food
+- get us [spaghetti](food_type) from [pizza hut](business_name)
+- what [mexican](food_type) [restaurants](business_type) are there nearby for takeout
+- can you order me a [pizza](food_type) [today](date) from [dominos](business_name)
+- i want to eat something will you order food for me
+- order food from [applebees](business_name)
+- place an order for two [pizzas](food_type) from [dominoes](business_name)
+- i want to order some food
+- from [wangs kitchen](business_name) [restaurant](business_type) home [delivery](order_type) for a [chicken manchow soup](food_type)
+- i want to order a [takeaway](order_type) from [papa john](business_name)'s
+- call [domino's pizza](business_name)
+- id like to put in an order for some [chinese food with hunan wok](food_type)
+- order one [burger](food_type)
+- start a [takeaway](order_type) order for me
+- find and order domino [pizza](food_type) at nearest store of [domino](business_name)
+- order [ribs](food_type) for [dinner](meal_type)
+- order a large [pan pizza with ham and mushrooms](food_type) from [pizza hut](business_name)
+- find the nearest [olive garden](business_name) that has [take out service](order_type)
+- any good [fast food](food_type) items
+- can you order me some [buffalo chicken pizza](food_type)
+- order a [pizza](food_type)
+- who delivers near here
+- what places can i order [takeout](order_type) from near by
+- give me options for [indian](food_type) [carryout](order_type) under dollars
+- i want to order some [takeaway](order_type) food
+- i want to order some [chinese](food_type) food [tonight](timeofday) what's delivering to me
+- call [china wok](business_name)
+- hey order two [wings with french fries](food_type) from the [chinese food store](business_name)
+- i am so hungry and tired and i think i might order some food now
+- order a large [plain pizza](food_type) from [mimo](business_name)'s for me
+- order a [pizza](food_type) with [sausage](ingredient) from [domino](business_name)'s
+- please order me [lo mein and egg rolls](food_type) from [panda express](business_name) now
+- call and order [pizza](food_type) for [delivery](order_type)
+- checkout [subway](business_name) food centre near me and order [tandoori roti](food_type)
+- please order take from [jason's deli](business_name)
+- can you direct me to the menu for the highest rated [chinese](food_type) [carryout](order_type) near me
+- place an order for a [pepperoni pizza](food_type) at [papa johns](business_name)
+- when i get home can you please order a [pizza](food_type)
+- i want to order [chinese](food_type) [takeout](order_type)
+- get me [takeaway](order_type) food
+- order [spaghetti](food_type) from [spaghetti warehouse](business_name) to [bring home](order_type)
+- [macdonald shops](business_name)
+- place an order for a [combo platter](food_type) from [china buffet](business_name)
+- can i order [takeaway](order_type) from [spanish](food_type) place
+- confirm the order and send me the confirmation
+- order me a large [ham and olive pizza](food_type) from [dominos](business_name)
+- please order my favorite dish from my favorite [restaurant](business_type)
+- i want to order a [pizza](food_type) from [michael's pizza](business_name)
+- i want to eat two [pita gyros](food_type) please and some [diet coke](drink_type)
+- what are the offers in [uber eats](order_type)
+- hi i want to order fried chick with white sauce
+- order [pizza](food_type) from [domino](business_name)'s
+- hey order a [side of hot wings](food_type) with my previous order
+- put an order in for two [pizzas](food_type) from [dominoes](business_name)
+- order [takeout](order_type) from [pizza](food_type) [restaurant](business_type)
+- order [chinese](food_type) from [china spring wonton soup](business_name) and a small [beef and broccoli](food_type)
+- near [pizza shops](business_name)
+- i am really craving for [chinese](food_type) food right now please let me order take out
+- places to order [takeaway](order_type) food
+- order me [postmates](food_type) of [mcdonald](business_name)
+- can you order me [takeout](order_type)
+- call the nearest [thai](food_type) [restaurant](business_type) with [delivery](order_type)
+- pull up [peking garden](business_name) online
+- order two [pizzas](food_type) from [dominoes](business_name)
+- order takeout [pizza](food_type) from [domino](business_name)'s for [seven pm](time)
+- [grubhub](app_name) order
+- i need to order some food from [papa john](business_name)'s
+- can i order [takeaway](order_type) [dinner](meal_type) from [byron](business_name)'s
+- order [takeout](order_type)
+- get me some food
+- order a twelve piece [honey mustard wing combo](food_type) with seasonimg altnon the fries and a [sprite](drink_type) as the drink
+- is is [taco o'clock](business_name) yet
+- i would like to order some [takeout](order_type)
+- schedule [pizza](food_type) takeout for [seven pm](time)
+- i would like to have a [sushi](food_type) can you order me a [lunch](meal_type)
+- i want to order some [pizza](food_type)
+- find [hotel](business_type) order food name
+- what is the best [pizza](food_type) near me that [delivers](order_type)
+- please order me [pizza and wings](food_type) from [papa johns](business_name) now
+- i need two [pizzas stat](food_type)
+- find and order [rasgulla](food_type) of [janta sweet home pvt ltd](business_name)
+- call the closest [mexican](food_type) [restaurant](business_type)
+- it's time for [junk food](food_type)
+- checkout [domino](business_name) centre near me and order [cheese pizza](food_type)
+- get large [pizza with pepperoni](food_type)
+- order the best priced general [tofu](food_type) in [nyack](business_name)
+- order me [chinese](food_type) food
+- order a meal from a nice [restaurant](business_type)
+- open [grubhub](app_name)
+- order a medium [pizza](food_type) with [pepperoni and bacon](food_type) on its
+- order two medium [cheese](food_type) and one medium [pepperoni pizza](food_type) from [dominoes](business_name)
+- show me nearby [takeout](order_type) [restaurants](business_type)
+- please order me some [takeout](order_type)
+- can you please order me some [mcdonalds](business_name)
+- tell [the golden fork](business_name) that i want their [fish risotto](food_type) [delivered](order_type)
+- could you order [sushi](food_type) for [tonight](timeofday) [dinner](meal_type)
+- call [china king](business_name) [chinese](food_type) [restaurant](business_type)
+- i'm hungry show me some [takeaway](order_type) food
+- i feel like having [soup](food_type) for [lunch](meal_type) order from [wangs kitchen](business_name) [restaurant](business_type) a chicken manchow soup
+- yo order take out from [jason's deli](business_name) on [sixth ave](business_name)
+- order a [takeaway](order_type)
+- call [pf chang](business_name)'s to order me [egg foo young](food_type)
+- any [fast food](food_type) meal offers
+- order [mcdonalds](business_name)
+- can i order [take out](order_type) from [licari](business_name)'s
+- have [pho](business_name) send three [egg rolls](food_type)
+- contact [pizza hut](business_name) and order a large [pizza with ham and mushrooms](food_type)
+- i want two [burgers](food_type) and one [coke](food_type) order it fast
+- order the usual from [turiellos pizza](business_name)
+- hey i'd like you to order [burger](food_type)
+- order some [takeaway](order_type) food
+- find food and order
+- [noodles](food_type) one pack make it as [takeaway](order_type)
+- order me a [byron](food_type) from [deliveroo](business_name)
+- order two [cheeseburgers](food_type) from [wings n. ale](business_name) on university drive
+- order me some [chinese](food_type) food
+- show me [delivery](order_type) near me
+- order me the [fish risotto](food_type) from [the golden fork](business_name)
+- can i order [take out](order_type) food at [this time](time)
+- place a [take out](order_type) order at [olive garden](business_name)
+- please order some [sushi](food_type) for [dinner](meal_type)
+- i'm in the mood to order [takeaway](order_type)
+- search for [pizza](food_type) nearby
+- order a double [bacon cheeseburger](food_type) with [bacon](food_type) an white [american cheese](food_type)
+- call the nearest [pizza place](business_type) that offers [buffalo pizza](food_type)
+- find [restaurant](business_type) order food name
+- schedule a [delivery](order_type) from food at the nearby [takeaway](order_type) [diner](meal_type)
+- order a [takeaway](order_type) [sandwich](food_type) and [soup](food_type) from the [italian](business_name)'s
+- can you please order some food for me
+- order a large [pepperoni pizza](order_type) from [dominos](business_name) to go
+- give me the best [pizza](food_type) deals offered [today](date)
+- hey order me some take out from [jason's deli](business_name)
+- hey call the nearest [chinese](food_type) [restaurant](business_type) for a [takeaway](order_type)
+- open the [grubhub](app_name) app so i can order take out
+- can you order me some [pizza](food_type)
+- order some [fried chicken](food_type) from [church's chicken](business_name) via [grubhub](app_name)
+- free home [delivery](order_type)
+
+## intent:takeaway_query
+- call [pizza hut](business_name) and find out if my order is ready
+- find a [pizza](food_type) [restaurant](business_type) open until [noon](time)
+- does my favourite [pizza](food_type) place available for [takeaway](order_type)
+- do the [restaurant](business_type) [deliver](order_type)
+- does [pf changs](business_name) do [takeout](order_type)
+- find my [thai](food_type) [takeaways](order_type) around [grassmarket](place_name)
+- look to see if [luigi](business_name)'s has [takeaway](order_type)
+- does [john](person)'s [pizza](food_type) have [takeaway](order_type)
+- can i get [takeout](order_type) from [pf changs](business_name)
+- where is an [olive garden](business_name) that does [takeaway](order_type)
+- how much time it will take to prepare the order
+- when i will get the [delivery](order_type)
+- when is my [takeaway](order_type) going to get here
+- when will my food be ready
+- does [restaurant](business_type) have [takeaway](order_type)
+- can i get [delivery](order_type) from this [restaurant](business_type)
+- what is the status of my order
+- when do i need to leave to pick up my order
+- prepare the order as soon as possible
+- could you please confirm if [paradise](business_name) does [takeaway](order_type)
+- is my order ready for pick up now
+- [restaurant](business_type) delivery update
+- does [paradise](business_name) has [takeaway](order_type)
+- when my [takeaway](order_type) order will arrive
+- is there a [takeaway](order_type) in [chipotle](business_name) [restaurant](business_type)
+- when can i pick up my order
+- how long until my [takeaway](order_type)
+- what time is my [domino](business_name)'s order expected to arrive
+- can i get an order [delivered](order_type) from [romero](business_name)'s
+- please check if [paradise](business_name) does [takeaway](order_type)
+- check to see if [pizza hut](business_name) has my order on the way
+- does [dominos](business_name) deliver
+- when did i place my order and what was the projected time it would take
+- ask [peking garden](business_name) when my food will arrive
+- ask if deliver
+- is my order ready
+- whats up with my [takeaway](order_type)
+- does [fongs](business_name) have [delivery](order_type)
+- how many minutes do i need to wait to pick up my food from [china on the go](business_name)
+- check the status of my order
+- does the nearby [chinese](food_type) [restaurant](business_type) do [delivery](order_type)
+- find my food
+- does the nearby [pizza hut](business_name) [deliver](order_type) in my area
+- can i get the food [to go](order_type)
+- what is the [phone number](personal_info) for the nearest location of [church's chicken](business_name)
+- will [arby](business_name)'s offer [takeaway](order_type)
+- what's up with my order
+- does this [restaurant](business_type) only do [carryout](order_type)
+- call the [restaurant](business_type) to see if the [delivery](order_type) is on the way
+- look up whether or not [charley's steakhouse](business_name) delivers
+- when will by order from [taco bell](business_name) be delivered
+- i just ordered food call and see it has been [delivered](order_type)
+- what is happening to my order
+- can i get takeaway from [arby](business_name)'s
+- [domino](business_name)'s [delivery](order_type) status
+- please [takeaway](order_type) of giving required of the [restaurant](business_type)
+- please find out of [charley's steakhouse](business_name) delivers
+- tell me which catering packages are available
+- hey does that [restaurant](business_type) have [takeout](order_type)
+- is the [restaurant](business_type) having [delivery](order_type) facility
+- tell me when [taco bell](business_name) can deliver my dinner
+- most rated [delivery](order_type) options for [chinese](food_type) food
+- is [gus](business_name)'s a [take out](order_type) place
+- does [lechateau](business_name) have [delivery](order_type) service or only [takeaway](order_type)
+- can i take food home here
+- can i get [takeaway](order_type) from [pings](business_name)
+- does [charley's steakhouse](business_name) deliver
+- does the nearby [dominos](business_name) have delivery
+- does that [restaurant](business_type) allow [take out](order_type) orders
+- search if the [restaurant](business_type) does [take out](order_type)
+- tell me if [taco bell](business_name) delivers
+- find if [takeaway](order_type) possible in [restaurant](business_type) [pizzahouse](business_name)
+- what happened to my [pizza](food_type) order it has been an [hour](time) since i ordered
+- maximum kilometer to [delivery](order_type)
+- what time can i [pick up](order_type) my food
+- where is the closest spot to order food for [pickup](order_type)
+- does it offer [pick up](food_type)
+- does [peking garden](business_name) [deliver](order_type)
+- what is the status of last [take away](order_type) order
+- can i get [delivery](order_type) from [dominos](business_name)
+- when is my food going to be here
+- i want some [curry](food_type) to go any recommendations
+- does the [restaurant](business_type) have [delivery](order_type)
+- will the [pizza](food_type) be here soon
+- is [fongs](business_name) dine in only
+- does [panda garden](business_name) [deliver](order_type)
+- does the [restaurant](business_type) have [carryout](order_type)
+- whats with my dinner order
+- status for the [pizza](food_type) [delivery](order_type) from [pizza hut](business_name)
+- do they have [takeout](food_type)
+- please could you tell me if [george's geek](business_name) [restaurant](business_type) can i order [takeaway](order_type) from there
+- where can i order [takeout](order_type)
+- does [shibaru sushi](business_name) deliver
+- does [pizza hut](business_name) have [delivery](order_type)
+- does [chinese](food_type) deliver
+- does [fridays](date) do [takeaway](order_type)
+- does [arby](business_name)'s do [takeaway](order_type)
+- does [pf changs](business_name) accept [takeout](order_type) orders
+- is there [takeaway](order_type) at [donut junction](business_name)
+- any [restaurant](business_type) in the beautiful
+- will the [restaurant](business_type) [deliver](order_type) the order
+- find out if the [restaurant](business_type) does [takeaway](order_type) orders
+- when is [taco bell](business_name) going to arrive
+- do you serve for home [delivery](order_type)
+- can it [takeaway](order_type) from [ammi biryani](business_name)
+- which [restaurants](business_type) offer [take out](order_type) food
+- what is the status on my latest order
+- tell me the soup of the day at [panera bread](business_name) [restaurant](business_type)
+- does that [restaurant](business_type) deliver
+- current status of [take out](order_type) order
+- when can i pick up my [chinese](food_type) food
+- take out available [louies](business_name)
+- where is my food
+- is [dinner](meal_type) ready yet
+- how is my order
+- does [ming ten](business_name) do [take out](order_type)
+- i want to know if the [olive garden](business_name) provides [takeaway](order_type)
+- tell me if the [olive garden](business_name) allows [takeaway](order_type)
+- does [mcdonalds](business_name) do [takeaway](order_type)
+- how long until my order is ready
+- who takes less of duration of time for [delivery](order_type)
+- charges of [delivery](order_type)
+- is there takeaway at [papa john](business_name)'s
+- does [brick grill](business_name) [deliver](order_type)
+- will they deliver to me
+- can i get [delivery](order_type) from here
+- hey does [open sesame](business_name) do [take out](order_type)
+- does [pizza hut](business_name) have my order ready
+- find out if the [olive garden](business_name) will let me do [takeaway](order_type)
+- how long until my order arrives
+- remember i've ordered a [cake](food_type) for [tonight](timeofday)'s [birthday party](event_name) let me know the status please
+- is the last order is ready
+- does [mr pizza](business_name) [deliver](order_type)
+- does this [restaurant](business_type) deliver
+- i've cancelled the order placed at [mcd](business_name) did it go through
+- is [michael](business_name)'s a [takeaway](order_type) or [delivery](order_type) [restaurant](business_type)
+- last [take away](order_type) order
+- can i carry out with this [restaurant](business_type)
+- are there any [takeaways](order_type) around here
+- is there a [takeout](order_type) menu at the [restaurant](business_type)
+- how much longer until my [pizza](food_type) will be here
+- hello i would like to know whether you provide home [delivery](order_type) services
+- tell me all the [takeaways](order_type) nearby and i want to order food
+- [takeaway](order_type) status
+- does [vocelli](business_name)'s do [takeaway](order_type)
+- could you please recommend a [mexican](food_type) [restaurant](business_type) for [take out](order_type)
+- does [olive garden](business_name) have take out
+- what is the status on my [takeout](order_type)
+- when is my order ready
+- when will my [chinese](food_type) food arrive
+- does [restaurant](business_type) [royale](business_name) deliver [takeaway](order_type)
+- where is my [pizza](food_type) from [domino](business_name)'s at
+- can i pick up my large order at [pizza hut](business_name)
+- does [restaurant](business_type) has home [delivery](order_type)
+- do they [deliver](order_type)
+- does [pings](business_name) have [takeaway](order_type)
+- hows the food order going
+- does [dominos](business_name) has a [delivery](order_type) option
+- what [asian](food_type) [restaurants](business_type) nearby offer to go food
+- check the status of my [pizza hut](business_name) order please
+- when will my [chinese](food_type) food be delivered
+- does [fongs](business_name) do [carry out](order_type)
+- status of [take away](order_type)
+- is [mr pizza](business_name) on skip the dishes
+- does [peking garden](business_name) take orders [over the phone](order_type)
+- does [peking garden](business_name) do [orders online](order_type)
+- does this place do [takeaway](order_type)
+- can i order [olive garden](business_name) to go
+- when is my order arriving
+- check on the [delivery](order_type) of my current order
+- check the [dish](food_type) price and all
+- reviews of the [restaurants](business_type)
+- [domino](business_name)'s has [takeaway](order_type) right
+- where can i get a shot of [tequila](food_type) and some to go [mexican](food_type) food
+- does that [restaurant](business_type) allow [call in](order_type) orders
+
+## intent:transport_query
+- what time will i arrive in [austin tx](place_name)
+- what time is the [train](transport_type) passing by
+- what time does the [train](transport_type) to [iowa](place_name) leave
+- when is my [train](transport_type) coming
+- directions to [sainsburys](place_name)
+- when does the [train](transport_type) from [kansas city to iowa](place_name) leave
+- what time does the [train](transport_type) leave for [chicago](place_name)
+- what times may i travel to location a
+- route to [melbourne](place_name)
+- how long to get [downtown](place_name)
+- direct me towards nearest [railway station](place_name)
+- how long does it take to get the [train](transport_type) from [rome](place_name) to [paris](place_name)
+- tell me the [train](transport_type) ticket price of [california](place_name) to [chicago](place_name)
+- whats the best way to [france](place_name)
+- i want to go to [bank of america](business_name) give me directions
+- how do i get from my house to the target along I forty
+- what is the amount for [train](transport_type) ticket booking
+- when is the next [train](transport_type) to [london](place_name)
+- what time does the first [train](transport_type) depart from [chicago](place_name)
+- what are the [train](transport_type) times [today](date)
+- how far is [walmart](business_name) from here
+- what time are the trains going to [chennai](place_name) leaving
+- is the [four hundred and thirty pm](time) [train](transport_type) running late
+- i would like to know the [train](transport_type) [timings](transport_descriptor) to [bournemouth](place_name) [tomorrow](date)
+- show me the shortest route towards nearest [train station](place_name)
+- next [train](transport_type) to [dc](place_name)
+- running [train](transport_type) status to [vienna](place_name)
+- could you list out the list of trains heading to [chester](place_name) [the day after](date)
+- how long does it take to get there
+- how do i get to [brighton](place_name)
+- can you reserve a ticket to [grand rapids](place_name) by [train](transport_type)
+- can you get me [train](transport_type) ticket prices please
+- where is the closest [train depot](place_name)
+- what time does the [train](transport_type) arrive in [sacremento](place_name)
+- show me the path of nearest [railway station](place_name)
+- please send me info on how to go about purchasing a [train](transport_type) ticket to [new york](place_name)
+- are there any trips to location a provided by the [train](transport_type)
+- i want to go to [mcdo](place_name)
+- show trains and time to [ny](place_name)
+- how much for a [train](transport_type) ticket
+- what is the quickest way to my work [downtown](place_name) without hitting any traffic
+- give me directions for the place
+- [train](transport_type) departure
+- is there a connecting [train](transport_type) from [london](place_name) to [paris](place_name) and what time
+- search cost for amtrak luxury to [los angeles](place_name)
+- when is the next [train](transport_type) to [glasgow](place_name) from [aberdeen](place_name)
+- can you please let me know the next four scheduled trains to [chicago](place_name)
+- tell me if i should use the [train](transport_type) or [bus](transport_type) to get across town [today](date)
+- what is the time [train](transport_type) coming from [sacramento](place_name)
+- visit metronorth dot com to help me purchase [train](transport_type) tickets
+- tell me [today](date)'s direction
+- can you get me a [train](transport_type) ticket to [nyc](place_name)
+- show directions to [pondy](place_name)
+- search earliest trains to [brooklyn ny](place_name) [weekends and holidays](date)
+- are there any available [train](transport_type) tickets to reserve
+- what is the cheapest ticket available [next week](date) for a round trip three day trip to [iceland](place_name)
+- i need the arrival time for [new york](place_name) train
+- train to [athens](place_name) how to
+- what time is the [train](transport_type) to [san francisco](place_name) due
+- go to [agha station](place_name)
+- how do i get to [the mall](place_name)
+- what time does the [train](transport_type) arrive at [edinburgh](place_name)
+- how do i get from where i'm at to [universal](place_name) in [orlando florida](place_name)
+- train times location
+- tell me how to get from here to the [chimes in covington](place_name)
+- what time does the last [train](transport_type) arrive in [dallas](place_name)
+- please tell em the list of [trains](transport_type) to [chicago](place_name) via [california](place_name)
+- search for trains leaving [tonight](timeofday) for [london](place_name)
+- what is time of [indianapolis express](transport_name)
+- how long is it from [dalls](place_name) to [san antonio](place_name) by [train](transport_type)
+- tell me the [trains](transport_type) from [california](place_name) to [new jersey](place_name) [after eleven pm](time)
+- what are the [train](transport_type) times between [eight am](time) and [ten am](time) at [east chicago station](place_name) going [west](place_name) on [sunday](date)
+- what is the departure time for the next [train](transport_type) leaving [new york city](place_name)
+- give me [train](transport_type) times from [station](place_name) to [location](place_name)
+- what times do the trains run between here and the [met](place_name)
+- how can i go from [boston](place_name) to [new york](place_name) by [train](transport_type)
+- is the [train](transport_type) time to a location long
+- what is the fastest way to get to [starbucks](business_name)
+- can you see if there any trains going to
+- what time does the [train](transport_type) departs [lagos](place_name)
+- how long is the [walk](transport_type) from [nyack](place_name) to [valley cottage](place_name)
+- calculate the travel time if i go to [orlando](place_name) by train
+- find a [train](transport_type) going from [prague](place_name) to [brno](place_name)
+- price of [train](transport_type) ticket from [delhi](place_name) to [mumbai](place_name)
+- please give me directions to a [park](place_name) near me
+- what are the prices to get to [chicago](place_name) on a [train](transport_type) book the cheapest one
+- what time does the [train](transport_type) to place leave
+- can i get the directions to the nearest [bar](business_type)
+- when is the next [train](transport_type) to [b street](place_name)
+- when is the next [train](transport_type) leaving for [austin](place_name)
+- show me [today](date) [train](transport_type) time of kalka at [jodhpur](place_name)
+- what time does the [train](transport_type) arrive
+- is there a [train](transport_type) from [philadelphia](place_name) to [new york](place_name) city at [noon](timeofday)
+- what is the time of the [morning](timeofday) [train](transport_type) headed to [chicago](place_name)
+- where is the closest [mexican](food_type) [restaurant](business_type)
+- what trips are available from [new york city](place_name) to [poughkeepsie](place_name)
+- how long i can go to [dundee](place_name)
+- how do i get to [poughkeepsie](place_name) from [new york city](place_name)
+- fix the [driving](transport_type) route from here to [grant market](place_name)
+- how do i go to [athens](place_name) by train
+- directions to nearest [apple store](business_name)
+- how do i get to the grocery store
+- check time of [kalka](transport_name) [train](transport_type) from [jodhpur station](place_name) on [monday](date)
+- how often does the [train](transport_type) arrive and depart from [penn station](place_name)
+- take me to [tnagar](business_name)
+- how much is a [train](transport_type) ticket to [san fransisco](place_name)
+- when [indianapolis express](transport_name) will reach [indiana](place_name)
+- can you give me [train](transport_type) times for [ann arbor](place_name)
+- when is the next [train](transport_type) arriving to [union station from grand central station](place_name)
+- how much is a round trip [train](transport_type) ticket to go to [new york](place_name)
+- directions to [virginia beach](place_name) va
+- give me the driving directions from [faripir](place_name) to [gurpur](place_name)
+- when is the next [train](transport_type) to [philadelphia](place_name)
+- i need directions to [lowes in mount h nj](place_name)
+- display trains going to [antwerp](place_name) [after two pm](time) [saturday](date)
+- when does the next [train](transport_type) to work leave
+- what time does the [train](transport_type) depart from downtown [los angeles](place_name) to [santa barbara](place_name)
+- you need to find an alternate route to my destination
+- what time is the last [train](transport_type) headed to [chicago](place_name)
+- what is the route to the closest [mcdonalds](business_name)
+- when is the last [train](transport_type) [today](date)
+- what is the most convenient hour to catch a [train](transport_type) to [york](place_name) on [Saturday](date)
+- map out a route from here to [abita brew pub](place_name)
+- directions to [mcdo](place_name)
+- can you find me a [train](transport_type) ticket to [montauk](place_name)
+- can i have timing of [keral express](transport_name)
+- please list the available rain trips to location a
+- what street do i take to get to [downtown](place_name)
+- how do i get to [starbucks](business_name)
+- when is the next [train](transport_type) to [new york](place_name)
+- what time does the [train](transport_type) from [new york](place_name) come in
+- find me a [train](transport_type) ticket for the next trip to [washington dc](place_name)
+- how to get somewhere
+- how long does it take for the [train](transport_type) to get to [orlando](place_name)
+- where is the nearest [train](transport_type) to me
+- what is the estimated travel time for the [train](transport_type) ride to [orlando](place_name)
+- tell me the time when [punjab](place_name) mail will reach [gwalior](place_name)
+- tell me the direction to [miami](place_name) from [chicago](place_name)
+- tell me the exact arrival time of [train](transport_type) from [newcastle](place_name) to [edinburgh](place_name)
+- whats the travel time from here to [dallas](place_name) by [train](transport_type)
+- give me directions to get from here to [crescent city brewhouse](place_name) in [new orleans](place_name)
+- what are the [train](transport_type) times from [san francisco](place_name) to [new york](place_name)
+- i need a [train](transport_type) ticket to [denver](place_name)
+- how to go to [multi specialty hospital](place_name)
+- siri find [train](transport_type) tickets to [nc](place_name)
+- show me [today](date) all [train](transport_type) times of [next two hours](time) at [jodhpur](place_name) to [pali](place_name)
+- find me the distance and direction by [train](transport_type) to [rccg in ikoyi lagos](place_name)
+- give the shortest route to the [airport](place_name)
+- [train](transport_type) times to [new york](place_name)
+- can i get a [train](transport_type) ticket to [chicago](place_name) for next [saturday](date) around [noon](timeofday)
+- show me [today](date) all [train](transport_type) times of [next two hours](time) at [jodhpur](place_name) to [jaisalmer](place_name)
+- what is the timing of [bagmati express](transport_name)
+- i'd like a [train](transport_type) ticket to this location
+- [train](transport_type) schedule
+- i would like to know the route the [train](transport_type) will go to get to [miami](place_name)
+- what are departure arrival times for this train
+- get me the local [train](transport_type) timing to destination [cstm](place_name)
+- find [ny](place_name) [train](transport_type) time
+- can you give me the [train](transport_type) times to [nyc](place_name)
+- how far is [orlando](place_name) from [my house](place_name)
+- how far is the distance to [rccg ikoyi lagos](place_name) from here by [train](transport_type)
+- give me the [train](transport_type) time
+- directions to the target on I forty
+- train times to [glasgow](place_name)
+- when does the last [train](transport_type) from work leave
+- how long until we get to [chicago](place_name)
+- get me [train](transport_type) times to [location](place_name) from [station](place_name)
+- how far is it from [tokyo](place_name) to [dallas](place_name)
+- how do i book a [train](transport_type) ticket online
+- is there any [train](transport_type) plying from [pune](place_name) to [mumbai](place_name) [tonight](timeofday)
+- give me the list of available [train](transport_type) tickets from [edinburgh](place_name) to [leeds](place_name)
+- when is the next septa [train](transport_type) to [philadelphia](place_name)
+- get me directions to [meijer](place_name)
+- from where can i get a [train](transport_type) ticket for [athens](place_name)
+- can you look up [train](transport_type) ticket prices for me
+
+## intent:transport_taxi
+- call an [uber](transport_agency) for me
+- call a [taxi](transport_type) for me
+- find the nearest [taxi](transport_type)
+- please book a [taxi](transport_type) for me
+- book a [taxi](transport_type) [uber](transport_agency)
+- book [ola](transport_agency) [cab](transport_type) for now
+- open uber app and book me a [car](transport_type) for pick up at [the airport](place_name)
+- book me a [taxi](transport_type) to the [mall of america](place_name) please
+- book me a [taxi](transport_type)
+- book [taxi](transport_type) to [new york](place_name) city
+- find transportation to [rome](place_name)
+- call a [taxi](transport_type) company
+- find a [taxi](transport_type) to book
+- get me the number for local [taxi service](business_type)
+- find a [taxi](transport_type) service close to me
+- i need a ride [home](place_name)
+- call city [cab](transport_type) to [airport](place_name)
+- call a [taxi](transport_type) for me to where i am [currently located](place_name)
+- i am going to [chinatown](place_name) in [half an hour](time) book an [uber](transport_agency) for me
+- hail [taxi](transport_type)
+- book a [taxi](transport_type) to the [airport](place_name)
+- open the [uber](transport_agency) app and get me a [car](transport_type) please
+- catcha a ride
+- could you please have [uber](transport_agency) be at my [house](place_name) in [fifteen minutes](time)
+- send [golden taxi](transport_agency) to pick me up [as soon as possible](time)
+- please reserve the next [taxi](transport_type) a [nine am](time)
+- book an [uber](transport_agency) to the [nearest mall](place_name) in the [next half hour](time)
+- call me a [taxi](transport_type)
+- find a [taxi](transport_type) to go [home](place_name)
+- i need a [taxi](transport_type) to take me to the [airport](place_name) please
+- call an [uberpool](transport_type) to get me at [long island bar](place_name)
+- i need a [taxi](transport_type) [uber](transport_agency)
+- call me an [uber](transport_agency) to the [movie theater](place_name)
+- call a [car](transport_type) for me
+- i need a [taxi](transport_type) ride now
+- open [uber](transport_agency) and book a car for [twelve](time) o'clock
+- i need a [taxi](transport_type) at [eight](time) [tomorrow](date) [morning](timeofday) to take me to work
+- i need to book a [taxi](transport_type)
+- set up [uber](transport_agency)
+- what's the closest [taxi](transport_type) to me
+- need a [taxi](transport_type) for my travel
+- book my nearest available [taxi](transport_type)
+- where is the closest [uber](transport_agency)
+- call a [uber](transport_agency) in [thirty minutes](time)
+- get city [cab](transport_type) here to [airport](place_name)
+- book a [rental cab](transport_type) of [uber](transport_agency)
+- [uber](transport_agency) please
+- tell [taxi](transport_type) to pick me up at [four pm](time)
+- can you call an [uber](transport_agency) for me
+- find a [taxi](transport_type) for me
+- book a [taxi](transport_type) at my [home](place_name) address for right now
+- book a [taxi](transport_type) for me
+- book [uber](transport_agency) [taxi](transport_type) for my travel
+- book [ola](transport_agency) for [airport](place_name) [today](date) [evening](timeofday)
+- [taxi](transport_type) [uber](transport_agency)
+- book a local [cab](transport_type)
+- can you book an [uber](transport_agency) for me
+- send a [taxi](transport_type) to come pick me up from my location
+- call me a [cab](transport_type)
+- check in a [taxi](transport_type) for booking
+- book me a [taxi](transport_type) for [one pm](time)
+- make a [taxi](transport_type) booking in [uber](transport_agency)
+- help me find transportation to the [mall of america](place_name)
+- get me a [uber](transport_agency)
+- could you please book a [cab](transport_type) for me in [uber](transport_agency) from [la](place_name) to [ny](place_name) [today](date)
+- call a [cab](transport_type)
+- please call a [taxi](transport_type) to arrive at [four hundred](time) and take me to the [manor theater](place_name)
+- [uber](transport_agency) me to the [airport](place_name)
+- get me a [car](transport_type)
+- book a [cab](transport_type) for [new york](place_name)
+- i need a [taxi](transport_type) to go [home](place_name)
+- please reserve an [uber](transport_agency) right now
+- call [golden taxi](transport_agency) to pick me up at [seven pm](time) [today](date)
+- find me a ride to the [mall of america](place_name) please
+- i need a [cab](transport_type) in [thirty minutes](time)
+- i need a [taxi](transport_type) in [thirty minutes](time)
+- could you please book me a [taxi](transport_type) going to location
+- book an [uber](transport_agency) to pick me up now
+- please book me a [taxi](transport_type) [uber](transport_agency)
+- book me a [ride](transport_type)
+- what is the number of the closest [taxi](transport_type) company
+- call [rta](business_name) and book a [taxi](transport_type) for [three](time) o'clock in the [morning](timeofday)
+- book a [taxi](transport_type) to go to the [movies](place_name) at [one](time)
+- need a [taxi](transport_type) [tomorrow](date) at [eight](time) in the [morning](timeofday)
+- book a [cab](transport_type) to [office](place_name) for me
+- could you please hire me a [taxi](transport_type) to go to the [opera](place_name) [tonight](timeofday)
+- open [uber](transport_agency)
+- book an [uber](transport_agency) for me
+- book an outstation [cab](transport_type) of [ola](transport_agency)
+- call me a [cab](transport_type) to the [train station](place_name)
+- find me a [taxi](transport_type)
+- book an [uber](transport_agency) from my location to [the theatre](place_name)
+- just book for me a [lyft](transport_agency) [taxi](transport_type) to [bardonia](place_name)
+- book me a [taxi](transport_type) to [leith](place_name) in [half an hour](time)
+- find an [uber](transport_agency) on [twenty ninth](date)
+- schedule city [cab](transport_type) from [home](place_name) to [airport](place_name) at [eight am](time)
+- can i get a [taxi](transport_type) to come to [my house](place_name) [in an hour](time)
+- book a [taxi](transport_type) to the [airport](place_name) for [tomorrow](date) [morning](timeofday)
+- book [uber](transport_agency) for [tonight](timeofday) at [seven pm](time)
+- get me a [taxi](transport_type)
+- get me an [uber](transport_agency)
+- find the nearest [uber](transport_agency)
+- get me a [ride](transport_type) to [hospital](place_name)
+- i need a [uber](transport_agency) to my current location
+- please book a [taxi](transport_type) in [uber](transport_agency) for me to go to the [airport](place_name) [today](date)
+- find me an [uber](transport_agency)
+- reserve the closest [uber](transport_agency)
+- can you get me a [taxi](transport_type) [home](place_name)
+- call me a [taxi](transport_type) to the [airport](place_name) at [five am](time)
+- i need a ride [in an hour](time)
+- open [lyft](app_name)
+- look for a [taxi](transport_type) to go [home](place_name)
+- can you book me a [taxi](transport_type)
+- please book a [taxi](transport_type) for me to go to the [railway station](place_name)
+- schedule [taxi](transport_type) pickup for [monday](date) at [noon](timeofday)
+- please send a [taxi](transport_type) to [my house](place_name)
+- i need you to book a [taxi](transport_type) for me
+- call an [uber](transport_agency) now
+- request a [taxi](transport_type) from [udrive service](business_name)
+- find a ride to the [bar](business_type)
+- i need a [taxi](transport_type) for [tomorrow](date) at [seven pm](time) to the [arena](place_name)
+- call me an [uber](transport_agency) for right now
+- book a [cab](transport_type) which have cheapest price
+- please book the next [taxi](transport_type)
+- schedule me a [taxi](transport_type) for after my [thursday](date) [meeting](event_name)
+- can i get an [uber](transport_agency) [home](place_name) from the [fox downtown](place_name) as soon as possible
+- send an [uber](transport_agency) to me right now
+- book [taxi](transport_type) for now
+- reserve a [taxi](transport_type)
+- book me a [cab](transport_type)
+- book an [uber](transport_agency) for [one hour](time) from now
+- [taxi](transport_type) now
+- set up a [taxi](transport_type) for [eleven am](time) [tomorrow](date)
+- i need a [taxi](transport_type) to pick me up at the house and take me [downtown](place_name)
+- call [taxi](transport_type)
+- google [uber](transport_agency)
+- i am in need of a [taxi](transport_type) right now
+- book an [uber](transport_agency) to [los angeles cinemas](place_name) [in one hour](time)
+- call a [taxi](transport_type) to pick me up right now
+- book me an [uber](transport_agency) ride to go [home](place_name)
+- book a [taxi](transport_type) for pickup at my current location in [one hour](time)'s time
+- can you call a [taxi](transport_type)
+- book an outstation [cab](transport_type) for [tomorrow](date)
+- book me [golden taxi](transport_agency) for [today](date) at [five pm](time)
+- can you book an [uber](transport_agency) [tomorrow](date)
+- flag me an [uber](transport_agency) for [ten pm](time) [tonight](timeofday)
+- book for me an [uber](transport_agency) [taxi](transport_type) to [bardonia](place_name)
+- check all [cab](transport_type) companies and get a time booked for [three pm](time)
+- call a [taxi](transport_type) for me to arrive [tonight](timeofday) at [five](time)
+- arrange a [taxi](transport_type)
+- get me a [taxi](transport_type) to take me to the [airport](place_name) on [friday](date) at [five thirty am](time)
+- book me a [cab](transport_type) going to location
+- i need to get to location call a [cab](transport_type)
+- get me an [uber](transport_agency) please
+- lets get a [taxi](transport_type)
+- book a [cab](transport_type) in the [evening](timeofday) for me
+- book a [taxi](transport_type) for [tomorrow](date) [morning](timeofday)
+- request an [uber](transport_agency) now
+- book [uber](transport_agency) from my [home](place_name)
+- book me an [uber](transport_agency) please
+- can you book an [uber](transport_agency) after i left for office
+- i need a ride to the [airport](place_name)
+- book a [taxi](transport_type) to [airport](place_name) for me in the [evening](timeofday)
+
+## intent:transport_ticket
+- book me a [train](transport_type) ticket in any [train](transport_type) to [bombay](place_name) for [tomorrow](date)
+- i need the current dart rail schedule from [west irving station](place_name) to [north lake college](place_name)
+- schedule a journey to [las vegas](place_name) by [train](transport_type)
+- book a [train](transport_type) ticket to [boston](place_name) [tomorrow](date)
+- reserve a seat for me on the [train](transport_type) [march twentieth](date)
+- confirm a travel ticket to [german](place_name)
+- i want a [train](transport_type) ticket
+- please book a [train](transport_type) ticket from [jodhpur](place_name) to [jaisalmer](place_name) on [sunday](date)
+- book a [train](transport_type) ticket for one [one way](transport_descriptor) for this [tuesday](date) at [nine am](time)
+- get me a seat on the next [train](transport_type) going to [new york](place_name)
+- order a [train](transport_type) ticket to [boston](place_name)
+- show me [train](transport_type) tickets
+- book a [train](transport_type) ticket for me
+- can you please buy me a [train](transport_type) ticket
+- book a [train](transport_type) for [twenty two march](date) at [twelve pm](time)
+- book ticket to depart in the [morning](timeofday)
+- secure [train](transport_type) passage for me on [july three](date)
+- i want a [train](transport_type) ticket to [oregon](place_name)
+- can you please book [train](transport_type) tickets for two for this [friday](date)
+- i want to book rajdhani [train](transport_type) ticket from [mumbai to ahmadabad](place_name)
+- please book [train](transport_type) ticket to [new york](place_name)
+- book me the cheapest [train](transport_type) ticket to [new york](place_name)
+- best ticket price air plane to [chester](place_name) on the [twenty first](date)
+- book a ticket for [today](date) in [irctc](app_name) site for the stored information
+- i need a [train](transport_type) ticket to [rome](place_name) book ticket
+- help me book a [train](transport_type) ticket
+- i need the times for the [south bound](transport_descriptor) [train](transport_type) on [allison rd](place_name)
+- i want a [train](transport_type) ticket to [edinburgh](place_name)
+- could you make a [train](transport_type) ticket for me
+- [train](transport_type) ticket
+- book me a [train](transport_type) ticket to [new york](place_name) city on the [third](date) i [don't care](time) what time
+- travel book a [train](transport_type) ticket
+- book me a [return](transport_descriptor) trip from [edinburgh](place_name) to [london](place_name) by [train](transport_type)
+- book [train](transport_type) best deal
+- book a [train](transport_type) ticket to [new york](place_name)
+- find me the cheapest [train](transport_type) ticket to [spain](place_name)
+- book a [train](transport_type) ticket to city [leeds](place_name)
+- book a [train](transport_type) ticket from [canada](place_name) to [las vegas](place_name)
+- book me a [train](transport_type) ride
+- book a [train](transport_type) for me
+- order a [train](transport_type) ticket to [los angeles](place_name)
+- get a me a [train](transport_type) ticket to [milwaukee](place_name) from [chicago](place_name) on [sunday](date) [morning](timeofday)
+- book me a [train](transport_type) ticket to [barcelona](place_name) please
+- i need to book a [train](transport_type) ticket from [mumbai to goa](place_name)
+- please purchase me a [train](transport_type) ticket to [atlanta](place_name)
+- i need a [train](transport_type) ticket traveling to [new york](place_name) in [may](date)
+- hey i want to get trains to [manchester](place_name) on [Wednesday](date)
+- book a [train](transport_type) ticket for [tomorrow](date) going to [new york](place_name)
+- book my [train](transport_type) ticket from [las vegas](place_name) to [los angeles](place_name)
+- ticket for [delhi](place_name)
+- find a non stop [train](transport_type) to [seattle](place_name)
+- find [train](transport_type) ticket
+- can you book me a [train](transport_type) ticket to [bombay](place_name) for [tomorrow](date) in any train
+- i want a [train](transport_type) ticket from [boston](place_name) to [new york](place_name)
+- look for [train](transport_type) tickets to [edinburgh](place_name) [tomorrow](date)
+- i need a [train](transport_type) ticket to
+- book for me a [train](transport_type) ticket to [washingdon dc](place_name)
+- book a [train](transport_type) ticket for an [eight am](time) ride to [charleston west virginia](place_name)
+- confirm a railway reservation ticket to [california](place_name)
+- i want to book a [train](transport_type) ticket
+- book [train](transport_type) to [london](place_name)
+- please book [train](transport_type) ticket from [mumbai](place_name) to [sangli](place_name) for [tomorrow](date) [morning](timeofday)
+- i need a ticket on the [train](transport_type) to [new york city](place_name) [tomorrow](date)
+- book me a [train](transport_type) ticket to [newcastle](place_name)
+- order a [train](transport_type) ticket to [los angeles](place_name) now
+- ticket for [bombay](place_name)
+- book me a [single](transport_descriptor) [train](transport_type) ticket travelling to [new york city](place_name) leaving [after nine am](time)
+- i need a ticket for a [train](transport_type) ride to [atlanta](place_name)
+- i need to get a ticket via [train](transport_type) to [orlando from hwood](place_name)
+- find me a cheap [train](transport_type) ticket for [miamy](place_name)
+- buy me a ticket to [boston](place_name)
+- set up a [train](transport_type) ticket for [next week](date) [Friday](date)
+- book a ticket for me on a [train](transport_type) to get to [boston](place_name) [tomorrow](date) what is available
+- please [train](transport_type)
+- please book a ticket form [jaipur](place_name) to [mumbai](place_name) on [tuesday](date)
+- i need a gold class ticket on [train](transport_type) [number five](transport_name) using my credit card
+- search for two tickets on [tuesday](date)'s [train](transport_type) to [paris](place_name)
+- i need to book rajdhani [train](transport_type) ticket from [mumbai to ahmedabad](place_name)
+- can you book a [train](transport_type) ticket for me under [dollars](currency_name)
+- bring me ticket of [train](transport_type) to city [leeds](place_name)
+- can you book me a [train](transport_type) ticket to [boston](place_name) for next [tuesday](date)
+- book for me a [train](transport_type) ticket to [new york](place_name)
+- book a [train](transport_type) ticket on [the five hundred and two](transport_name) [in fifteen minutes](time)
+- buy [train](transport_type) ticket
+- i want you to book a [train](transport_type) ticket for me
+- book [train](transport_type) ticket for this time
+- book next [ny](place_name) [train](transport_type) ticket
+- get me a [train](transport_type) ticket to go to
+- can you book [train](transport_type) ticket from [mumbai](place_name) to [sangli](place_name) for [tomorrow](date) [morning](timeofday)
+- can you please book a [train](transport_type) ticket for next [saturday](date) to [boston](place_name)
+- book my chair class ac [train](transport_type) ticket from [manhattan](place_name) to [new york](place_name)
+- book a ticket for the [evening](timeofday) [train](transport_type) line
+- can you book a [train](transport_type) ticket
+- book me a [train](transport_type) ticket for [saturday](date)
+- go to www dot metronorth dot com for [train](transport_type) tickets
+- read the ticket for tesla
+- buy a [train](transport_type) ticket to [cleveland](place_name) for [april fourteenth](date)
+- book a rajdhani [train](transport_type) ticket from [mumbai to ahmedabad](place_name)
+- book for me a [train](transport_type) ticket to [california](place_name)
+- book me a [train](transport_type) ticket to [atlanta](place_name) please
+- book a [train](transport_type) ticket for [friday april fourteenth](date) for [boston](place_name)
+- book me a [train](transport_type) ride [covering five destinations](transport_descriptor) to see in [new york](place_name)
+- i need to leave on the [five pm](time) [train](transport_type) to [rockville](place_name)
+- book me a [train](transport_type) ticket at earliest time [tomorrow](date)
+- repurchase last [train](transport_type) ticket to [phillyx](place_name)
+- book a ticket to [paris](place_name) on [eurostar](transport_name) at [five pm](time) [this Friday](date)
+- buy me a ticket to take the [train](transport_type) to [atlanta](place_name)
+- buy me [today](date) [train](transport_type) ticket to city [leeds](place_name)
+- book a [train](transport_type) ticket with a [berth seat](transport_descriptor) to [lucknow](place_name) for [next week](date)
+- open [train](transport_type) ticket app
+- book me a [train](transport_type) for the next available train
+- book a [first class](transport_descriptor) ticket in the next [train](transport_type) to [miami](place_name)
+- i need you to book a [train](transport_type) ticket that leaves at [two pm](time)
+- book a [train](transport_type) ticket to [mumbai](place_name) for [tomorrow](date)
+- [train](transport_type) ticket please
+- reserve a [train](transport_type) ticket for me [today](date) to [des moines](place_name)
+- book my [first class](transport_descriptor) ac [train](transport_type) ticket from [new york](place_name) to [san francisco](place_name)
+- could you please cancel my [train](transport_type) ticket
+- book a [train](transport_type) ticket from [washington dc](place_name) to [savannah georgia](place_name)
+- book [train](transport_type) ticket to [new york](place_name)
+- tell me about the cheapest flight fares to [nj](place_name) [today](date)
+- book a [train](transport_type) ticket from here to [charleston west virginia](place_name) at [eight am](time) [today](date)
+- please go to amtrak dot com to purchase tickets
+- find me [train](transport_type) tickets
+- i need to book a [train](transport_type) for [tomorrow](date) to go to [new york](place_name)
+- find me the earliest [train](transport_type) ticket departing [friday](date) [morning](timeofday) to [miami](place_name)
+- book a [train](transport_type) ticket to arrive in [cambridge](place_name) by [eight thirty pm](time) [today](date)
+- book a [train](transport_type) ticket from [orlando](place_name) to [chicago](place_name)
+- help me buy a [train](transport_type) ticket to [denver](place_name) for next [tuesday](date) [morning](timeofday)
+- ticket for [new york](place_name)
+- buy a [train](transport_type) ticket for [one week from now](date) from [new york](place_name) to [las vegas nevada](place_name)
+- buy a [train](transport_type) ticket to
+- can you check [train](transport_type) schedule to [berkeley](place_name)
+- get [train](transport_type) ticket
+- id like to get on the next [train](transport_type) that will be departing [indianapolis](place_name) headed to [chicago](place_name)
+- buy me a [train](transport_type) ticket
+- i need to get to [bristol](place_name) [Friday](date) [night](time) can you book me a ticket please
+- can you book a [train](transport_type) ticket for my [father](relation)
+- i want the cheapest [train](transport_type) ticket to [new york](place_name)
+- can i get a [train](transport_type) ticket to
+- buy an [acela](transport_name) [train](transport_type) ticket on [thursday](date)
+- can you reserve a [train](transport_type) ticket for [this day](date)
+- buy [train](transport_type) tickets from [delhi](place_name) to [mumbai](place_name) for [twenty third march](date)
+- [train](transport_type) tickets for two people from [delhi](place_name) to [mumbai](place_name)
+- book a [train](transport_type) ticket to [charleston west virginia](place_name) [eight am](time)
+- buy a [train](transport_type) ticket from [lakeland florida](place_name) to [new york](place_name)
+- can you book a [train](transport_type) ticket to [berkeley](place_name) for me
+- Hello book [train](transport_type) ticket from [mumbai](place_name) to [sangli](place_name) for [tomorrow](date) [morning](timeofday)
+- book a [train](transport_type) ticket from [los angeles](place_name) to [chicago](place_name) that [goes via miami](transport_descriptor)
+- i need to go to [dundee](place_name) at [five am](time) on [sunday](date) by [train](transport_type)
+- book a [train](transport_type) tickets for me
+- book me a [train](transport_type) ticket for [this afternoon](timeofday) to [chicago](place_name)
+- book a ticket for the [ethan allen express](transport_name) to [vermont](place_name)
+- find me a [train](transport_type) ticket next [monday](date) to [new york city](place_name)
+- i want to buy a [train](transport_type) ticket [tomorrow](date) for [boston](place_name) to [new york](place_name)
+- book a ride from [new york](place_name) to [orlando](place_name) covering [ten places to see](transport_descriptor)
+- book a ticket to [ny](place_name) by [train](transport_type)
+- i need to book a [train](transport_type) ticket to [la](place_name)
+- fetch me two [train](transport_type) tickets for the earliest [train](transport_type) to [paris](place_name)
+- transportation ticket booking [train](transport_type)
+- please purchase a [train](transport_type) ticket for this [weekend](time)
+- reserve a ticket to go to [destination](place_name) by [train](transport_type)
+- book a [train](transport_type) ticket from [baltimore maryland](place_name) to [new york new york](place_name)
+- book a [train](transport_type) ticket from [mumbai to goa](place_name)
+- i want a [train](transport_type) ticket from [los angeles](place_name) to [phoenix](place_name)
+- google can you book me a ticket on the [train](transport_type) for [tomorrow](date)
+- search for a [train](transport_type) ticket to [newcastle](place_name)
+- book [train](transport_type) ticket to [ny](place_name)
+- please book the [five pm](time) [train](transport_type) to [rockville](place_name)
+- get me a ticket to [boston](place_name)
+- can you book a [train](transport_type) ticket for my [mother](relation)
+- get me a [train](transport_type) ticket from [mumbai to goa](place_name)
+- please order one [train](transport_type) ticket to [los angeles](place_name)
+- i need to go to [lyon](place_name) book a [train](transport_type) ticket
+- order travel ticket
+
+## intent:transport_traffic
+- is there any stopped traffic on [route eighty](place_name) [today](date)
+- traffic alert
+- what is the traffic now
+- how is the traffic now
+- will traffic be good when i leave in [five minutes](time)
+- how bad is traffic this [morning](timeofday)
+- is the traffic bad enough that i should leave early
+- show traffic
+- is it bumper to bumper
+- is the road in some particular area wide or narrow
+- do you have a traffic update
+- give me current information about traffic at [central park road](place_name)
+- how is the traffic on [I twenty five](place_name)
+- are there any accidents on [harvard](place_name)
+- is traffic light
+- are there any [accidents](event_name) [today](date)
+- should i go through the valley or on the ten to get to [westwood](place_name)
+- what is the traffic [today](date)
+- what is level of traffic at [washington](place_name)
+- am i gonna hit traffic
+- check the traffic to our [home](place_name)
+- is traffic heavy
+- how heavy is traffic on interstate twenty
+- how is the traffic at [the moment](time)
+- is traffic to work clear
+- what is the fastest route to town
+- is there any traffic to work
+- is the traffic smooth right now
+- what is the traffic like
+- how long will it take me to drive to work [today](date)
+- how is the traffic in [florida](place_name)
+- just let me know about current traffic in [carmen drive](place_name)
+- where should i avoid this [morning](timeofday)
+- give me a current traffic report
+- how's the traffic
+- system pull any traffic news for my commute
+- please update me the traffic status
+- whats the traffic like near [ypsilanti](place_name)
+- are there any accidents on the [four hundred and five](place_name)
+- what's the traffic situation from [kamycka](place_name) to [dejvicka](place_name)
+- can i make back [home](place_name) without a traffic jam
+- what's the traffic on [eighty](place_name) [today](date)
+- how bad is the traffic on [sunset boulevard](place_name)
+- i would like to know the traffic condition
+- what is the traffic condition of [florida](place_name)
+- traffic please
+- how is the traffic on [harvard](place_name)
+- how long will it take to get home
+- what is the condition of traffic from work to [home](place_name)
+- is there any traffic [downtown](place_name) right now
+- how is the traffic around [city center](place_name)
+- what is the traffic this [morning](timeofday)
+- tell me about [city](place_name) traffic
+- how is the traffic in [broadway](place_name) street
+- please check the traffic to the [home](place_name)
+- is the road a free way or a toll road
+- are there any traffic delays
+- is there is a high traffic
+- what traffic is there on the route to the [pittsburgh airport](place_name)
+- what is traffic
+- please let me know about current traffic in [carmen drive](place_name)
+- tell me current situation of traffic near [central park road](place_name)
+- how long to get to work
+- how is the traffic right now
+- latest news on traffic at my current location
+- what is the traffic like right now
+- how is my commute
+- how is the traffic [today](date)
+- id like to know if there are any [accidents](event_name) on the route that i am taking
+- is there any traffic on my way to work
+- show traffic in [ohio](place_name)
+- how is the traffic near me
+- what is traffic like
+- give me a traffic update
+- what is the traffic like [today](date)
+- how long will it take me to get to the [west side](place_name)
+- traffic status please
+- road traffic
+- are there any roadblocks
+- is there any construction on [route sixty six](place_name)
+- fast road to get home
+- how is the traffic presently near [central park road](place_name)
+- traffic congestion issues
+- current traffic conditions
+- are there any delays in traffic [today](date)
+- give me the update on traffic at [new york](place_name)
+- how is the traffic
+- let me know about current traffic in [carmen drive](place_name)
+- what is the latest traffic report for [miami](place_name)
+- what does the traffic look like headed to [la](place_name)
+- how congested is the traffic on my way to work
+- how long will it take to drive to [long beach](place_name)
+- how is traffic over the donner summit now
+- is there traffic right now in [maiden lane](place_name)
+- how's are the roads looking right now
+- what is traffic like right now
+- what amount of traffic in this road
+- how is the traffic from [home](place_name) to work
+- how is the traffic in [mg road](place_name)
+- is the traffic free in some particular road
+- are there any traffic issues
+- current traffic
+- are there any construction areas on [harvard](place_name)
+- can you tell me the current traffic condition of my location
+- can you tell me about the traffic
+- how is traffic
+- is there a traffic jam on my route
+- what is the average speed on [main highway](place_name)
+- how long untill i get [home](place_name)
+- give me the idea of current traffic condition
+- what is the traffic like this [morning](timeofday)
+- give details about the current traffic
+- can i pass the [bypass road](place_name) at current traffic
+- tell me the traffic condition from here to [home](place_name)
+- what is the status quo for traffic right now
+- what is current traffic in [ohio](place_name)
+- please give me the road forecast for i95 sb
+- how is the traffic situation in [houston street](place_name)
+- what is traffic to work now
+- what's traffic likexchange on [four hundred and forty one](place_name)
+- is there heavy traffic on the [I fifteen](place_name) in [las vegas](place_name) right now
+- what is the traffic situation at the [bazaar highway](place_name)
+- what is the traffic like now
+- how much traffic is there right now in [bowery street](place_name)
+- what are the traffic conditions currently
+- are there any traffic restrictions due to the president's visit
+- how heavy is the traffic on the [i fifteen](place_name) in [las vegas](place_name) [this hour](time)
+- how bad is the traffic near the [airport](place_name)
+- what's the traffic on the [one hundred and one](place_name)
+- is there traffic
+- what does the traffic look like on my usual route to work
+- in [delhi](place_name) traffic level too high
+- Show me a traffic map from [kamycka](place_name) to [dejvicka](place_name)
+- are there any detours that i need to know about
+- how is the current traffic between
+- is traffic heavy on [route eighty](place_name) [today](date)
+- what is the current traffic situation
+- what's traffic look like over the [golden gate bridge](place_name)
+- please give me the traffic report for [this afternoon](timeofday)
+- how slow is traffic on [the five](place_name)
+- which route has less traffic [today](date)
+- could you please check the traffic to our [home](place_name)
+- how is the traffic on [third street](place_name)
+- are there any accidents on my way to work
+- how long should the drive to work take
+- is there any traffic right now
+- any traffic issues [today](date)
+- may i know the traffic situation
+- how is traffic from work to [home](place_name)
+- what is the traffic situation right in [broadway street](place_name)
+- traffic report
+- i would have avoided the traffic if i went early
+- how is the traffic on [the i fifteen](place_name) in [las vegas](place_name) [today](date)
+- what is my eta to the office if i leave in [thirty minutes](time)
+- what about the [new york](place_name) city traffic
+- length of traffic
+- how is the traffic in [san francisco](place_name) over the [bay bridge](place_name)
+- how heavy is traffic now in [denver](place_name)
+- which place has more traffic
+- what is the current traffic in [washington town](place_name)
+- few traffic roads
+- traffic
+- what does i [seventy five](place_name) look like
+- are the streets congested right now
+- how was the traffic now
+- is there more traffic in [canal street](place_name)
+- in [jaipur](place_name) traffic level is high
+- are there any backups on [route eighty](place_name) [today](date)
+- is the road clear in [florida](place_name)
+- is there bad traffic on the [highway](place_name) right now
+- whats the traffic density in
+
+## intent:weather_query
+- give me the weather for [merced](place_name) at [three pm](time)
+- weather [this week](date)
+- find weather report
+- i will need a [scarf](weather_descriptor) in [afternoon](timeofday) to overcome sunlight
+- should i wear a [hat](weather_descriptor) [today](date)
+- what should i wear is it [cold](weather_descriptor) outside
+- is it going to [snow](weather_descriptor) [tonight](timeofday)
+- tell me what was the [temperature](weather_descriptor) in [our city](place_name) at [twelve pm](time)
+- tell me about [this week](date)'s weather
+- what will be the weather on [monday](date) [this week](date)
+- how's the weather [today](date)
+- weather forecast for [this week](date)
+- what is [today](date)'s weather in [springfield](place_name)
+- is it going to be [cloudy](weather_descriptor) or [sunny](weather_descriptor) [today](date) in [bangalore](place_name)
+- [temperature](weather_descriptor) [this hour](time)
+- tell me the weather for [new york city](place_name)
+- i dont want to carry an [umbrella](weather_descriptor) will we have [rain](weather_descriptor) [today](date)
+- what will the weather be like on [saturday](date)
+- is the [sun gonna shine](weather_descriptor) in [devon](place_name) [this weekend](date)
+- is it [snowing](weather_descriptor) in [california](place_name)
+- any signs of [rain](weather_descriptor)
+- is it a [soft evening](weather_descriptor) [tonight](timeofday)
+- how hot is it outside [today](date)
+- status of weather
+- what will be the [temperature](weather_descriptor) [today](date) for [miami florida](place_name)
+- will there be [snow](weather_descriptor) [tomorrow](date)
+- what is weather [today](date)
+- how much [snow](weather_descriptor) has fallen in [maine](place_name) since [yesterday](date)
+- how [hot](weather_descriptor) is it in [quebec](place_name)
+- is it going to [rain](weather_descriptor) [today](date) in [san diego](place_name)
+- is it going to [rain](weather_descriptor) in the [next few days](date) in [tucson](place_name)
+- is it going to [rain](weather_descriptor) in [seattle](place_name) [today](date)
+- will it get [warmer](weather_descriptor) here [next week](date)
+- how me the [highest](weather_descriptor) weather [this week](date)
+- let me know the weather for [today](date)
+- weather in [chicago](place_name) please
+- whether it would be [sunny](weather_descriptor) in [califonia](place_name)
+- will it be [rainy](weather_descriptor) [tomorrow](date)
+- what's the [temperature](weather_descriptor)
+- what will be the weather update for [monday](date) [noon](timeofday)
+- do i need [pants](weather_descriptor)
+- do i need a [rain coat](weather_descriptor) [today](date)
+- weather forecast please
+- check the weather app to see if
+- weather for the [next week](date) in [new york](place_name)
+- how's the weather like in [beijing](place_name)
+- what is the weather for the [school week](date)
+- [sunny](weather_descriptor) in [oslo](place_name)
+- Is it going to be [windy](weather_descriptor) on [Saturday](date) in [denver](place_name)
+- will i need an [umbrella](weather_descriptor) [tomorrow](date)
+- when is the next time it will [rain](weather_descriptor)
+- what's the weather [this week](date)
+- whats the weather like right now in [new york](place_name)
+- what is the current weather conditions in [chicago illinois](place_name)
+- get [today](date)'s weather report
+- is it currently [raining](weather_descriptor)
+- will the weather be [bad](weather_descriptor) on [Sunday](date)
+- it looks [sunny and clear](weather_descriptor) [today](date) is that true
+- what [degree](weather_descriptor) is it outside
+- what is the weather like in [grand rapids mi](place_name)
+- how does it feel outside
+- what is the [temperature](weather_descriptor)
+- what's the weather forecast for [today](date)
+- i need to know current weather in [new york](place_name) city
+- what is the weather [today](date)
+- is the weather [bad](weather_descriptor) in [new york](place_name) right now
+- how is it outside [today](date)
+- please tell me the chances of [rain](weather_descriptor) [this week](date) for zip code twenty nine thousand nine hundred and seventy eight
+- what will be the [highest temperature](weather_descriptor) [this week](date)
+- open the weather app
+- how soon can we expect [rain](weather_descriptor)
+- it seems [cold](weather_descriptor)
+- is [today](date) a [sunscreen](weather_descriptor) day
+- how is it outside
+- do i need a [sweater](weather_descriptor) [today](date)
+- do i need a [jacket](weather_descriptor) [today](date)
+- what's it like outside
+- is it going to [rain](weather_descriptor) later
+- what is the weather going to be like on [march twentieth two thousand and seventeen](date)
+- it is [cloudy](weather_descriptor) [today](date)
+- what is [home town](place_name) weather
+- check and see what will be the weather condition in [new jersey](place_name) at [eight am](time) [tomorrow](date)
+- how many degrees is it in [orange tx](place_name) right now
+- on [Tuesday](date) what is the weather supposed to be
+- what will the weather be [next week](date)
+- what is the weather forecast for [chicago](place_name)
+- is it [snowing](weather_descriptor) in [seattle](place_name)
+- is it [raining](weather_descriptor) now
+- am i going to need a [jacket](weather_descriptor) [tomorrow](date)
+- how is the weather likely to be [this week](date)
+- is it [sunny](weather_descriptor) in [gonbad](place_name) now
+- what is the weather in [utah](place_name)
+- what's the weather in [toronto](place_name) [today](date)
+- [home town](place_name) weather
+- shall i change my car tyres to [snow tyres](weather_descriptor) soon
+- what is the forecast
+- what is the weather like outside
+- what will the weather be for the [next week](date)
+- what a [sunny](weather_descriptor) day
+- how is the weather down in [orange tx](place_name)
+- should i take an [umbrella](weather_descriptor) [today](date)
+- what is the current [temperature](weather_descriptor) outside
+- will it be [raining](weather_descriptor) on [thursday](date)
+- is it going to be [nice](weather_descriptor) [tomorrow](date)
+- i am need my [hat](weather_descriptor) [today](date)
+- what is the forecast for the [week](date)
+- whats the weather like
+- weather report of the [week](time)
+- is it going to [snow](weather_descriptor)
+- what are the [estimated temperatures](weather_descriptor) [this afternoon](timeofday)
+- how's weather [today](date)
+- do i need to wear a [coat](weather_descriptor) [today](date)
+- whats the [average temperature](weather_descriptor) in [mangalore](place_name) for [this week](date)
+- is [mysore](place_name) going to be [very hot and humid](weather_descriptor) [today](date) whats the weather status
+- show me [this week](date)'s forecast
+- do i need to carry [umbrella](weather_descriptor) for [evening](timeofday)
+- is it colder than [yesterday](date)
+- weather like
+- will there be [snow](weather_descriptor) [this week](date)
+- will i be able to get away with [shorts](weather_descriptor) [today](date)
+- is there any chances of [rain](weather_descriptor) [this week](date)
+- do i need [boots](weather_descriptor) [today](date)
+- has the weather changed for [wednesday](date) at all
+- what's the current [temperature](weather_descriptor) outside
+- weather in [home town](place_name)
+- what will the weather be like [this week](date)
+- what is the weather for [this week](date)
+- current weather forecast
+- what is [today](date)'s weather forecast
+- how is weather on such and such day
+- am i going to [swim or work](weather_descriptor) [today](date)
+- what is the weather update for [tuesday](date)
+- is it going to be [cloudy](weather_descriptor) in [london](place_name) during the [weekend](date)
+- is it going to [rain](weather_descriptor) on [monday](date)
+- do i need to take an [umbrella](weather_descriptor) [today](date)
+- will it be [nice](weather_descriptor) at the [beach](place_name) on [friday](date)
+- what was the weather for the [week](time)
+- whats the weather now
+- tell me the weather for [this week](date)
+- please show me the local weather
+- how was the weather [this week](date)
+- is there any [rains](weather_descriptor) predicted for [bangalore](place_name) [today](date)
+- tell me about the current weather
+- tell me the [temperature](weather_descriptor) in [pheonix](place_name)
+- i want the complete weather details of [seventh march](date)
+- how [cold](weather_descriptor) is [today](date)
+- do i need a [light or heavy jacket](weather_descriptor) [today](date)
+- should i take my [raincoat](weather_descriptor) with me now
+- should i bring an umbrella [today](date)
+- please confirm the weather for the [thirteenth](date) of [this month](date)
+- what will be the highest [temperature](weather_descriptor) in [coming week](date)
+- what will the weather be like in [austin](place_name) on [march sixteenth](date)
+- what's the weather supposed to be like on [wednesday](date)
+- how is [this weeks](date) weather
+- will the [temperature](weather_descriptor) be in the [today](date)
+- what is the current weather in [denver](place_name)
+- how warm is it in [columbus ohio](place_name)
+- it is very [hot](weather_descriptor) [today](date) is not it
+- will i need an [umbrella](weather_descriptor) [today](date)
+- its [cold](weather_descriptor) outside
+- will I need a [raincoat](weather_descriptor) when I go to [glasgow](place_name) on [sunday](date)
+- how [cold](weather_descriptor) is it outside
+- will it [rain](weather_descriptor)
+- tell me weather forecast
+- can i go outing without any [raincoat](weather_descriptor)
+- give me the [weekly](date) weather near me
+- will i need [sunblock](weather_descriptor) [this weekend](date)
+- is it supposed to [rain](weather_descriptor) [tomorrow](date)
+- tell me the current weather for [danville il](place_name)
+- how is the weather of this place
+- how [hot](weather_descriptor) is it in [miami](place_name)
+- will it [snow](weather_descriptor) [next week](date)
+- am i gonna need [rain boots](weather_descriptor)
+- should i bring [warm clothes](weather_descriptor)
+- what is the weather this [friday](date)
+
+## regex:alarm_key_0
+- alarm
+
+## regex:alarm_key_1
+- alarms
+
+## regex:alarm_key_2
+- wake me up
+
+## regex:alarm_key_3
+- wake up
+
+## regex:audio_key_0
+- audio
+
+## regex:audio_key_1
+- volume
+
+## regex:audio_key_2
+- mute
+
+## regex:audio_key_3
+- muted
+
+## regex:audio_key_4
+- unmute
+
+## regex:audio_key_5
+- silent mode
+
+## regex:audio_key_6
+- silence mode
+
+## regex:audio_key_7
+- speak up
+
+## regex:audio_key_8
+- loud.
+
+## regex:audiobook_key_0
+- audiobook
+
+## regex:audiobook_key_1
+- audio book
+
+## regex:audiobook_key_2
+- book.
+
+## regex:calendar_key_0
+- calendar
+
+## regex:calendar_key_1
+- calendars
+
+## regex:calendar_key_10
+- reminders.
+
+## regex:calendar_key_2
+- appointment
+
+## regex:calendar_key_3
+- appointments
+
+## regex:calendar_key_4
+- schedule
+
+## regex:calendar_key_5
+- schedules
+
+## regex:calendar_key_6
+- scheduled
+
+## regex:calendar_key_7
+- remind me
+
+## regex:calendar_key_8
+- reminding me
+
+## regex:calendar_key_9
+- reminder
+
+## regex:cooking_key_0
+- cook
+
+## regex:cooking_key_1
+- cooking
+
+## regex:cooking_key_2
+- ingredient
+
+## regex:cooking_key_3
+- ingredients
+
+## regex:cooking_key_4
+- recipe
+
+## regex:cooking_key_5
+- boiled
+
+## regex:email_key_0
+- email
+
+## regex:email_key_1
+- emails
+
+## regex:email_key_2
+- mail
+
+## regex:game_key_0
+- game
+
+## regex:game_key_1
+- games
+
+## regex:iot_key_0
+- dim
+
+## regex:iot_key_1
+- mute
+
+## regex:iot_key_2
+- unmute
+
+## regex:iot_key_3
+- dirty
+
+## regex:iot_key_4
+- noise
+
+## regex:iot_key_5
+- down
+
+## regex:iot_key_6
+- up
+
+## regex:iot_key_7
+- off
+
+## regex:iot_key_8
+- quieter
+
+## regex:music_key_0
+- music
+
+## regex:music_key_1
+- song
+
+## regex:music_key_2
+- songs
+
+## regex:news_key_0
+- news
+
+## regex:podcasts_key_0
+- podcast
+
+## regex:podcasts_key_1
+- podcasts
+
+## regex:radio_key_0
+- radio
+
+## regex:radio_key_1
+- channel
+
+## regex:radio_key_2
+- station
+
+## regex:takeaway_key_0
+- takeway
+
+## regex:takeaway_key_1
+- take away
+
+## regex:takeaway_key_2
+- delivery
+
+## regex:takeaway_key_3
+- take out
+
+## regex:weather_key_0
+- rain
+
+## regex:weather_key_1
+- snow
+
+## regex:weather_key_2
+- sunny
+
+## regex:weather_key_3
+- cold
+
+## regex:weather_key_4
+- temperature
+
+## regex:weather_key_5
+- forecast
+
+## regex:weather_key_6
+- forecasts
