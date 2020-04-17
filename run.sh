@@ -44,10 +44,10 @@ for filename in $FILES; do
         echo "Running experiment $PARENTDIR/$NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
     fi
 
+    eval $(parse_yaml $filename "config_")
+
     mkdir -p $EXPERIMENT_FOLDER
     cd $EXPERIMENT_FOLDER
-
-    eval $(parse_yaml $filename "config_")
 
     rasa train nlu --nlu "$CURRENT_DIR/$config_data_train_file" --config "$CURRENT_DIR/$filename" &> "train.log"
     rasa test nlu --nlu "$CURRENT_DIR/$config_data_test_file" --config "$CURRENT_DIR/$filename" &> "test.log"
