@@ -1,0 +1,17 @@
+language: en
+
+pipeline:
+  - name: "ConveRTTokenizer"
+  - name: "ConveRTFeaturizer"
+  - name: "DIETClassifier"
+    use_masked_language_model: False
+    number_of_transformer_layers: 0
+    entity_recognition: False
+    hidden_layers:
+      text: [256,128]
+    bilou_flag: False
+    weight_sparsity: 0
+
+data:
+  train_file: "data/NLU-Evaluation-Data/KFold_10/train.md"
+  test_file: "data/NLU-Evaluation-Data/KFold_10/test.md"
