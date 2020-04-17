@@ -30,5 +30,5 @@ pipeline:
     use_sparse_input_dropout: True
 
 data:
-  train_file: "data/ATIS/train.md"
-  test_file: "data/ATIS/test.md"
+  train_file: "data/NLU-Evaluation-Data/KFold_7/train.md"
+  test_file: "data/NLU-Evaluation-Data/KFold_7/test.md"

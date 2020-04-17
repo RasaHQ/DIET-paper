@@ -43,3 +43,5 @@ for filename in $FILES; do
 
     CURRENT_EXPERIMENT=$((CURRENT_EXPERIMENT + 1))
 done
+
+python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "experiments/config-NLU-Evaluation-Data-Fold-{}"

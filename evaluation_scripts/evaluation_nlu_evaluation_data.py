@@ -1,8 +1,8 @@
 import converters
 import argparse
-from progress.bar import Bar
 import os
-
+from pathlib import Path
+import numpy as np
 
 
 # Code taken from
@@ -32,10 +32,7 @@ def evaluate(predictions_file):
     combined_fp = 0.0
     combined_fn = 0.0
 
-    bar = Bar("Processing predictions: ", max=len(squeezed_predictions))
     for example in squeezed_predictions:
-        bar.next()
-
         # Intent confusion matrix
         for intent_gold in example["intent_gold"]:
             if intent_gold in example["intent_pred"]:
@@ -152,12 +149,68 @@ def evaluate(predictions_file):
     f.close()
 
 
-def evaluate_folder(folder):
-    for root, directories, filenames in os.walk(folder):
-        filenames = [fi for fi in filenames if fi.endswith(".json")]
-        for filename in filenames:
-            evaluate(os.path.join(root, filename))
-            print("")
+def read_results(file_name):
+    f = open(file_name, "r")
+    lines = f.readlines()
+
+    entity_precision = float(lines[0].split(" ")[3][:-1])
+    entity_recall = float(lines[0].split(" ")[5][:-1])
+    entity_fscore = float(lines[0].split(" ")[7][:-1])
+
+    intent_score = float(lines[1].split(" ")[3][:-1])
+
+    return entity_precision, entity_recall, entity_fscore, intent_score
+
+
+def get_numbers(scores):
+    avg_score = sum(scores) / len(scores)
+    std = np.std(np.array(scores), axis=0, dtype=np.float64)
+
+    avg_score = round(avg_score * 100, 2)
+    std = round(float(std) * 100, 2)
+
+    return avg_score, std
+
+
+def run(folder_name):
+    e_precision = []
+    e_recall = []
+    e_fscore = []
+    i_acc = []
+
+    for i in range (1, 11):
+        folder = Path(folder_name.format(i))
+        results_file = folder / "results" / "hermit_results.txt"
+
+        try:
+            entity_precision, entity_recall, entity_fscore, intent_score = read_results(results_file)
+        except FileNotFoundError:
+            print(f"Result file '{results_file}' is missing.")
+            continue
+
+        e_precision.append(entity_precision)
+        e_recall.append(entity_recall)
+        e_fscore.append(entity_fscore)
+        i_acc.append(intent_score)
+
+    if len(e_precision) != 10:
+        print("STOP! Missing some values.")
+        #return
+
+    e_precision_avg, e_precision_deviation = get_numbers(e_precision)
+    e_recall_avg, e_recall_deviation = get_numbers(e_recall)
+    e_fscore_avg, e_fscore_deviation = get_numbers(e_fscore)
+    i_acc_avg, i_acc_deviation = get_numbers(i_acc)
+
+    print("Results for complete NLU Evaluation Dataset:")
+    print("Entity:")
+    print(f"P: {e_precision_avg} +-{e_precision_deviation}")
+    print(f"R: {e_recall_avg} +-{e_recall_deviation}")
+    print(f"F: {e_fscore_avg} +-{e_fscore_deviation}")
+    print("Intent:")
+    print(f"P: {i_acc_avg} +-{i_acc_deviation}")
+    print(f"R: {i_acc_avg} +-{i_acc_deviation}")
+    print(f"F: {i_acc_avg} +-{i_acc_deviation}")
 
 
 if __name__ == "__main__":
@@ -174,10 +227,11 @@ if __name__ == "__main__":
         "--folder",
         type=str,
         default=None,
-        help="Input folder (to evaluate an entire folder)",
+        help="Folder name template (to average results of different folds)",
     )
+
     args = parser.parse_args()
     if args.folder is not None:
-        evaluate_folder(args.folder)
+        run(args.folder)
     else:
         evaluate(args.input)
