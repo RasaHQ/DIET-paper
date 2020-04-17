@@ -125,7 +125,7 @@ def evaluate(predictions_file):
 
     # open and read the file after the appending:
     directory = os.path.dirname(predictions_file)
-    f = open(os.path.join(directory, "hermit_results.txt"), "w")
+    f = open(os.path.join(directory, "nlu-evaluation-data-results.txt"), "w")
     f.write(
         "Entity scores: P: {}, R: {}, F1: {}".format(
             entity_precision, entity_recall, entity_f1
@@ -177,7 +177,7 @@ def run(folder_name):
 
     for i in range (1, 11):
         folder = Path(folder_name.format(i))
-        results_file = folder / "results" / "hermit_results.txt"
+        results_file = folder / "results" / "nlu-evaluation-data-results.txt"
 
         try:
             entity_precision, entity_recall, entity_fscore, intent_score = read_results(results_file)
@@ -204,6 +204,19 @@ def run(folder_name):
     print(f"P: {i_acc_avg} +-{i_acc_deviation}")
     print(f"R: {i_acc_avg} +-{i_acc_deviation}")
     print(f"F: {i_acc_avg} +-{i_acc_deviation}")
+
+    directory = os.path.dirname(folder_name)
+    f = open(os.path.join(directory, "results-on-complete-nlu-evaluation-data.txt"), "w")
+    f.write("Results for complete NLU Evaluation Dataset:")
+    f.write("Entity:")
+    f.write(f"P: {e_precision_avg} +-{e_precision_deviation}")
+    f.write(f"R: {e_recall_avg} +-{e_recall_deviation}")
+    f.write(f"F: {e_fscore_avg} +-{e_fscore_deviation}")
+    f.write("Intent:")
+    f.write(f"P: {i_acc_avg} +-{i_acc_deviation}")
+    f.write(f"R: {i_acc_avg} +-{i_acc_deviation}")
+    f.write(f"F: {i_acc_avg} +-{i_acc_deviation}")
+    f.close()
 
 
 if __name__ == "__main__":

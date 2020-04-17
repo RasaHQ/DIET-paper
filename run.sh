@@ -26,12 +26,8 @@ then
 fi
 
 CONFIGS="configs/$TABLE_FOLDER"
-
 FILES=$(find $CONFIGS -name '*.yml')
-
 CURRENT_DIR=$(pwd)
-echo $CURRENT_DIR
-
 CURRENT_EXPERIMENT=1
 ALL_EXPERIMENTS=$(find $CONFIGS -name '*.yml' | wc -l | awk '{$1=$1};1')
 
@@ -40,18 +36,19 @@ for filename in $FILES; do
     PARENTDIR="$(basename "$(dirname "$filename")")"
 
     echo "----------------------------------------------------------------"
-    echo "Running experiment $NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
-
-    eval $(parse_yaml $filename "config_")
 
     if [ "$PARENTDIR" = "$TABLE_FOLDER" ]; then
         EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$NAME
+        echo "Running experiment $NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
     else
         EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$PARENTDIR/$NAME
+        echo "Running experiment $PARENTDIR/$NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
     fi
 
     mkdir -p $EXPERIMENT_FOLDER
     cd $EXPERIMENT_FOLDER
+
+    eval $(parse_yaml $filename "config_")
 
     rasa train nlu --nlu "$CURRENT_DIR/$config_data_train_file" --config "$CURRENT_DIR/$filename" &> "train.log"
     rasa test nlu --nlu "$CURRENT_DIR/$config_data_test_file" --config "$CURRENT_DIR/$filename" &> "test.log"
@@ -65,4 +62,17 @@ for filename in $FILES; do
     CURRENT_EXPERIMENT=$((CURRENT_EXPERIMENT + 1))
 done
 
-python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "experiments/$TABLE_FOLDER/config-NLU-Evaluation-Data-Fold-{}"
+for filename in $FILES; do
+    NAME=$(basename "$filename" .yml)
+    PARENTDIR="$(basename "$(dirname "$filename")")"
+
+    if [ "$PARENTDIR" = "$TABLE_FOLDER" ]; then
+        EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/
+    else
+        EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$PARENTDIR/
+    fi
+
+    if [[ "$NAME" == *"NLU-Evaluation-Data"* ]]; then
+        python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "$EXPERIMENT_FOLDER/config-NLU-Evaluation-Data-Fold-{}"
+    fi
+done

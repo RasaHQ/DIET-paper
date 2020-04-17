@@ -182,7 +182,7 @@ def evaluate(predictions_file):
 
     # open and read the file after the appending:
     directory = os.path.dirname(predictions_file)
-    f = open(os.path.join(directory, "atis_snips_results.txt"), "w")
+    f = open(os.path.join(directory, "atis-snips-results.txt"), "w")
     f.write(
         "Entity scores: P: {}, R: {}, F1: {}".format(
             precision, recall, f1
