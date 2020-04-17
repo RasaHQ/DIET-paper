@@ -20,6 +20,10 @@ NLU Evaluation Dataset. Make sure you are at the root directory of this reposito
 sh run.sh
 ```
 
-Consider executing the experiments on a machine with a GPU to speedup the experiments.
+Consider executing the experiments on a machine with a GPU to speed up the experiments.
 
 (3) The experiments results can be found in the folder `experiments`.
+
+To test other featurization or hyperparameters update the configuration files in the `configs` folder.
+Available featurization components and a list of available hyperparameters can be found 
+[here](https://rasa.com/docs/rasa/nlu/components/).

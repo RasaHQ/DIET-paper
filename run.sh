@@ -17,7 +17,6 @@ parse_yaml() {
    }'
 }
 
-
 FILES=$(find configs -name '*.yml')
 
 CURRENT_EXPERIMENT=1

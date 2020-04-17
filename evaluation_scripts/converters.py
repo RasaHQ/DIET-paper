@@ -14,7 +14,6 @@ arg_annotation_pattern = r"\[\s*[\w']*\s*:[\s\w'\.@\-&+]+\]"
 
 def load_json_prediction_file(predictions_file):
     _, filename = os.path.split(predictions_file)
-    print ("Loading {}..".format(filename))
     with open(predictions_file, "r") as f:
         json_prediction = json.load(f)
         f.close()

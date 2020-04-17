@@ -173,6 +173,7 @@ def evaluate(predictions_file):
 
     f1, precision, recall = computeF1Score(correct_slots, pred_slots)
 
+    print("Evaluation scores according to Chen et al. (2019) and Goo et al.(2018):")
     print(
         "Entity scores: P: {}, R: {}, F1: {}".format(
             precision, recall, f1

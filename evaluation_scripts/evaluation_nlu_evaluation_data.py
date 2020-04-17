@@ -76,8 +76,6 @@ def evaluate(predictions_file):
         combined_fn = intent_fn + entity_fn
         combined_fp = intent_fp + entity_fp
 
-    print("")
-
     intent_precision = (
         intent_tp / (intent_tp + intent_fp) if (intent_tp + intent_fp) > 0.0 else 0.0
     )
@@ -108,18 +106,17 @@ def evaluate(predictions_file):
         combined_precision + combined_recall
     )
 
+    print("Evaluation scores according to Vanzo et al. (2019):")
     print(
         "Entity scores: P: {}, R: {}, F1: {}".format(
             entity_precision, entity_recall, entity_f1
         )
     )
-
     print(
         "Intent scores: P: {}, R: {}, F1: {}".format(
             intent_precision, intent_recall, intent_f1
         )
     )
-
     print(
         "Combined scores: P: {}, R: {}, F1: {}".format(
             combined_precision, combined_recall, combined_f1
