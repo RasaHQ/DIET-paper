@@ -8,8 +8,12 @@ In order to reproduce the experiments results, execute the following steps:
 You first need to clone the repository, checkout the branch `diet-paper` and install Rasa.
 
 ```bash
+# clone the repository and checkout 'diet-paper' branch
 git clone https://github.com/RasaHQ/rasa
+cd rasa
 git checkout diet-paper
+# installation
+curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3
 make install-full
 ```
 

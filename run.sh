@@ -18,8 +18,7 @@ parse_yaml() {
 
 TABLE_FOLDER=$1
 
-if [ -z "$TABLE_FOLDER" ]
-then
+if [[ -z "$TABLE_FOLDER" ]]; then
     echo "Usage:"
     echo "./run.sh [table-1|table-2|table-3|table-4|table-5]"
     exit
@@ -37,7 +36,7 @@ for filename in $FILES; do
 
     echo "----------------------------------------------------------------"
 
-    if [ "$PARENTDIR" = "$TABLE_FOLDER" ]; then
+    if [[ "$PARENTDIR" = "$TABLE_FOLDER" ]]; then
         EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$NAME
         echo "Running experiment $NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
     else
@@ -62,17 +61,25 @@ for filename in $FILES; do
     CURRENT_EXPERIMENT=$((CURRENT_EXPERIMENT + 1))
 done
 
+# calculate avg results for NLU Evaluation Data
+
+CHECKED_FOLDERS=()
+
 for filename in $FILES; do
     NAME=$(basename "$filename" .yml)
     PARENTDIR="$(basename "$(dirname "$filename")")"
 
-    if [ "$PARENTDIR" = "$TABLE_FOLDER" ]; then
+    if [[ "$PARENTDIR" = "$TABLE_FOLDER" ]]; then
         EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/
     else
         EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$PARENTDIR/
     fi
 
     if [[ "$NAME" == *"NLU-Evaluation-Data"* ]]; then
-        python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "$EXPERIMENT_FOLDER/config-NLU-Evaluation-Data-Fold-{}"
+        if ! [[ $CHECKED_FOLDERS =~ (^|[[:space:]])$EXPERIMENT_FOLDER($|[[:space:]]) ]]; then
+            python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "$EXPERIMENT_FOLDER/config-NLU-Evaluation-Data-Fold-{}"
+        fi
     fi
+
+    CHECKED_FOLDERS+=($EXPERIMENT_FOLDER)
 done

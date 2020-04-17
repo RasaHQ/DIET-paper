@@ -29,7 +29,8 @@ pipeline:
       label: 20
     scale_loss: True
     use_sparse_input_dropout: True
-
+    weight_sparsity: 0
+    
 data:
   train_file: "data/SNIPS/train.md"
   test_file: "data/SNIPS/test.md"

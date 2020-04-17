@@ -24,6 +24,7 @@ pipeline:
       label: 20
     scale_loss: True
     use_sparse_input_dropout: True
+    weight_sparsity: 0
 
 data:
   train_file: "data/NLU-Evaluation-Data/KFold_3/train.md"
