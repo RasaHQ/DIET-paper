@@ -1,6 +1,13 @@
 import os
 import json
 
+
+# Code taken from
+# https://gitlab.com/hwu-ilab/hermit-nlu/blob/master/data/nlu_benchmark/
+# to ensure same evaluation metrics as https://arxiv.org/abs/1910.00912
+# Additional methods were added to be able to call desired evaluation methods.
+
+
 arg_format_pattern = r"\[\s*(?P<label>[\w']*)\s*:(?P<filler>[\s\w'\.@\-&+]+)\]"
 arg_annotation_pattern = r"\[\s*[\w']*\s*:[\s\w'\.@\-&+]+\]"
 

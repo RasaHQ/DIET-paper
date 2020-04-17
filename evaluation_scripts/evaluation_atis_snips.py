@@ -4,6 +4,11 @@ import os
 import converters
 
 
+# Code taken from https://github.com/MiuLab/SlotGated-SLU/blob/master/utils.py
+# to ensure same evaluation metrics as http://arxiv.org/abs/1902.10909
+# Additional methods were added to be able to call desired evaluation methods.
+
+
 # compute f1 score is modified from conlleval.pl
 def __startOfChunk(prevTag, tag, prevTagType, tagType, chunkStart = False):
     if prevTag == 'B' and tag == 'B':

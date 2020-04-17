@@ -3,12 +3,12 @@ import argparse
 from progress.bar import Bar
 import os
 
-import sys
 
-sys.path.insert(
-    0,
-    "/Users/tabergma/Downloads/hermit-nlu-master-data-nlu_benchmark/data/nlu_benchmark",
-)
+
+# Code taken from
+# https://gitlab.com/hwu-ilab/hermit-nlu/blob/master/data/nlu_benchmark/
+# to ensure same evaluation metrics as https://arxiv.org/abs/1910.00912
+# Additional methods were added to be able to call desired evaluation methods.
 
 
 def evaluate(predictions_file):
