@@ -190,10 +190,6 @@ def run(folder_name):
         e_fscore.append(entity_fscore)
         i_acc.append(intent_score)
 
-    if len(e_precision) != 10:
-        print("STOP! Missing some values.")
-        #return
-
     e_precision_avg, e_precision_deviation = get_numbers(e_precision)
     e_recall_avg, e_recall_deviation = get_numbers(e_recall)
     e_fscore_avg, e_fscore_deviation = get_numbers(e_fscore)

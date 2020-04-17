@@ -24,6 +24,7 @@ ALL_EXPERIMENTS=$(ls -1 configs/*.yml | wc -l | awk '{$1=$1};1')
 
 for filename in $FILES; do
     NAME=$(basename "$filename" .yml)
+    echo "----------------------------------------------------------------"
     echo "Running experiment $NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
 
     eval $(parse_yaml $filename "config_")
