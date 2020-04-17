@@ -29,27 +29,38 @@ CONFIGS="configs/$TABLE_FOLDER"
 
 FILES=$(find $CONFIGS -name '*.yml')
 
+CURRENT_DIR=$(pwd)
+echo $CURRENT_DIR
+
 CURRENT_EXPERIMENT=1
-ALL_EXPERIMENTS=$(ls -1 $CONFIGS/*.yml | wc -l | awk '{$1=$1};1')
+ALL_EXPERIMENTS=$(find $CONFIGS -name '*.yml' | wc -l | awk '{$1=$1};1')
 
 for filename in $FILES; do
     NAME=$(basename "$filename" .yml)
+    PARENTDIR="$(basename "$(dirname "$filename")")"
+
     echo "----------------------------------------------------------------"
     echo "Running experiment $NAME ($CURRENT_EXPERIMENT/$ALL_EXPERIMENTS)."
 
     eval $(parse_yaml $filename "config_")
 
-    mkdir -p experiments/$TABLE_FOLDER/$NAME
-    cd experiments/$TABLE_FOLDER/$NAME
+    if [ "$PARENTDIR" = "$TABLE_FOLDER" ]; then
+        EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$NAME
+    else
+        EXPERIMENT_FOLDER=experiments/$TABLE_FOLDER/$PARENTDIR/$NAME
+    fi
 
-    rasa train nlu --nlu "../../../$config_data_train_file" --config "../../../$filename" &> "train.log"
-    rasa test nlu --nlu "../../../$config_data_test_file" --config "../../../$filename" &> "test.log"
+    mkdir -p $EXPERIMENT_FOLDER
+    cd $EXPERIMENT_FOLDER
 
-    python ../../../evaluation_scripts/evaluation_nlu_evaluation_data.py -i results/diet-paper-eval.json
-    python ../../../evaluation_scripts/evaluation_atis_snips.py -i results/diet-paper-eval.json
+    rasa train nlu --nlu "$CURRENT_DIR/$config_data_train_file" --config "$CURRENT_DIR/$filename" &> "train.log"
+    rasa test nlu --nlu "$CURRENT_DIR/$config_data_test_file" --config "$CURRENT_DIR/$filename" &> "test.log"
 
-    cd ../../..
-    cp $filename experiments/$TABLE_FOLDER/$NAME/
+    python $CURRENT_DIR/evaluation_scripts/evaluation_nlu_evaluation_data.py -i results/diet-paper-eval.json
+    python $CURRENT_DIR/evaluation_scripts/evaluation_atis_snips.py -i results/diet-paper-eval.json
+
+    cd $CURRENT_DIR
+    cp $filename $EXPERIMENT_FOLDER
 
     CURRENT_EXPERIMENT=$((CURRENT_EXPERIMENT + 1))
 done
