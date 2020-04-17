@@ -3,6 +3,7 @@ language: en
 pipeline:
   - name: "ConveRTTokenizer"
   - name: "ConveRTFeaturizer"
+  - name: "RegexFeaturizer"
   - name: "CountVectorsFeaturizer"
     analyzer: "word"
     min_ngram: 1
@@ -15,8 +16,9 @@ pipeline:
     epochs: 200
     batch_size: [64, 128]
     entity_recognition: True
+    BILOU_flag: False
     intent_classification: True
-    use_masked_language_model: True
+    use_masked_language_model: False
     transformer_size: 256
     number_of_transformer_layers: 2
     number_of_attention_heads: 4
@@ -30,5 +32,5 @@ pipeline:
     use_sparse_input_dropout: True
 
 data:
-  train_file: "data/ATIS/train.md"
-  test_file: "data/ATIS/test.md"
+  train_file: "data/NLU-Evaluation-Data/KFold_6/train.md"
+  test_file: "data/NLU-Evaluation-Data/KFold_6/test.md"

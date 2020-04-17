@@ -13,11 +13,12 @@ git checkout diet-paper
 make install-full
 ```
 
-(2) Execute the `run.sh` script to train and test models using the best model configuration on ATIS, SNIPS, and
-NLU Evaluation Dataset. Make sure you are at the root directory of this repository before executing the script.
+(2) Execute the `run.sh` script to train and test models on ATIS, SNIPS, and NLU Evaluation Dataset. 
+You need to specify what results you want to reproduce by specifying the table in the paper.
+Make sure you are at the root directory of this repository before executing the script.
 
 ```bash
-sh run.sh
+./run.sh [table-1|table-2|table-3|table-4|table-5]
 ```
 
 Consider executing the experiments on a machine with a GPU to speed up the experiments.

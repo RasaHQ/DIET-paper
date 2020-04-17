@@ -1,8 +1,7 @@
 language: en
 
 pipeline:
-  - name: "ConveRTTokenizer"
-  - name: "ConveRTFeaturizer"
+  - name: "WhitespaceTokenizer"
   - name: "CountVectorsFeaturizer"
     analyzer: "word"
     min_ngram: 1
@@ -15,6 +14,7 @@ pipeline:
     epochs: 200
     batch_size: [64, 128]
     entity_recognition: True
+    BILOU_flag: True
     intent_classification: True
     use_masked_language_model: True
     transformer_size: 256
@@ -30,5 +30,5 @@ pipeline:
     use_sparse_input_dropout: True
 
 data:
-  train_file: "data/SNIPS/train.md"
-  test_file: "data/SNIPS/test.md"
+  train_file: "data/ATIS/train.md"
+  test_file: "data/ATIS/test.md"

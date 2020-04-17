@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-
 parse_yaml() {
    local prefix=$2
    local s='[[:space:]]*' w='[a-zA-Z0-9_]*' fs=$(echo @|tr @ '\034')
@@ -17,10 +16,21 @@ parse_yaml() {
    }'
 }
 
-FILES=$(find configs -name '*.yml')
+TABLE_FOLDER=$1
+
+if [ -z "$TABLE_FOLDER" ]
+then
+    echo "Usage:"
+    echo "./run.sh [table-1|table-2|table-3|table-4|table-5]"
+    exit
+fi
+
+CONFIGS="configs/$TABLE_FOLDER"
+
+FILES=$(find $CONFIGS -name '*.yml')
 
 CURRENT_EXPERIMENT=1
-ALL_EXPERIMENTS=$(ls -1 configs/*.yml | wc -l | awk '{$1=$1};1')
+ALL_EXPERIMENTS=$(ls -1 $CONFIGS/*.yml | wc -l | awk '{$1=$1};1')
 
 for filename in $FILES; do
     NAME=$(basename "$filename" .yml)
@@ -29,19 +39,19 @@ for filename in $FILES; do
 
     eval $(parse_yaml $filename "config_")
 
-    mkdir -p experiments/$NAME
-    cd experiments/$NAME
+    mkdir -p experiments/$TABLE_FOLDER/$NAME
+    cd experiments/$TABLE_FOLDER/$NAME
 
-    rasa train nlu --nlu "../../$config_data_train_file" --config "../../$filename" &> "train.log"
-    rasa test nlu --nlu "../../$config_data_test_file" --config "../../$filename" &> "test.log"
+    rasa train nlu --nlu "../../../$config_data_train_file" --config "../../../$filename" &> "train.log"
+    rasa test nlu --nlu "../../../$config_data_test_file" --config "../../../$filename" &> "test.log"
 
-    python ../../evaluation_scripts/evaluation_nlu_evaluation_data.py -i results/diet-paper-eval.json
-    python ../../evaluation_scripts/evaluation_atis_snips.py -i results/diet-paper-eval.json
+    python ../../../evaluation_scripts/evaluation_nlu_evaluation_data.py -i results/diet-paper-eval.json
+    python ../../../evaluation_scripts/evaluation_atis_snips.py -i results/diet-paper-eval.json
 
-    cd ../..
-    cp $filename experiments/$NAME/
+    cd ../../..
+    cp $filename experiments/$TABLE_FOLDER/$NAME/
 
     CURRENT_EXPERIMENT=$((CURRENT_EXPERIMENT + 1))
 done
 
-python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "experiments/config-NLU-Evaluation-Data-Fold-{}"
+python evaluation_scripts/evaluation_nlu_evaluation_data.py -f "experiments/$TABLE_FOLDER/config-NLU-Evaluation-Data-Fold-{}"
