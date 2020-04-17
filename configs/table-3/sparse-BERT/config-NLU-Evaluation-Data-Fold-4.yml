@@ -1,0 +1,38 @@
+language: en
+
+pipeline:
+  - name: "HFTransformersNLP"
+    model_name: "bert"
+    model_weights: "bert-base-uncased"
+  - name: "LanguageModelTokenizer"
+  - name: "LanguageModelFeaturizer"
+  - name: "RegexFeaturizer"
+  - name: "CountVectorsFeaturizer"
+    analyzer: "word"
+    min_ngram: 1
+    max_ngram: 1
+  - name: "CountVectorsFeaturizer"
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 5
+  - name: "DIETClassifier"
+    epochs: 200
+    batch_size: [64, 128]
+    entity_recognition: True
+    intent_classification: True
+    use_masked_language_model: False
+    transformer_size: 256
+    number_of_transformer_layers: 2
+    number_of_attention_heads: 4
+    hidden_layers_sizes:
+      text: []
+      label: []
+    dense_dim:
+      text: 512
+      label: 20
+    scale_loss: True
+    use_sparse_input_dropout: True
+
+data:
+  train_file: "data/NLU-Evaluation-Data/KFold_4/train.md"
+  test_file: "data/NLU-Evaluation-Data/KFold_4/test.md"
