@@ -4,9 +4,10 @@ pipeline:
   - name: "ConveRTTokenizer"
   - name: "ConveRTFeaturizer"
   - name: "DIETClassifier"
+    entity_recognition: False
+    intent_classification: True
     use_masked_language_model: False
     number_of_transformer_layers: 0
-    entity_recognition: False
     hidden_layers:
       text: [256,128]
     weight_sparsity: 0

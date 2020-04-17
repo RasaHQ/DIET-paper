@@ -19,6 +19,7 @@ pipeline:
     epochs: 200
     batch_size: [64, 128]
     entity_recognition: True
+    BILOU_flag: Flase
     intent_classification: True
     use_masked_language_model: True
     transformer_size: 256

@@ -1,17 +1,25 @@
 language: en
 
 pipeline:
-  - name: "HFTransformersNLP"
-    model_name: "bert"
-    model_weights: "bert-base-uncased"
-  - name: "LanguageModelTokenizer"
-  - name: "LanguageModelFeaturizer"
+  - name: "SpacyNLP"
+  - name: "SpacyTokenizer"
+  - name: "SpacyFeaturizer"
+  - name: "RegexFeaturizer"
+  - name: "CountVectorsFeaturizer"
+    analyzer: "word"
+    min_ngram: 1
+    max_ngram: 1
+  - name: "CountVectorsFeaturizer"
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 5
   - name: "DIETClassifier"
     epochs: 200
     batch_size: [64, 128]
     entity_recognition: True
+    BILOU_flag: Flase
     intent_classification: True
-    use_masked_language_model: False
+    use_masked_language_model: True
     transformer_size: 256
     number_of_transformer_layers: 2
     number_of_attention_heads: 4
