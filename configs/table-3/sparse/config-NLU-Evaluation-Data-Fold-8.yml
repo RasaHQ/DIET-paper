@@ -2,7 +2,6 @@ language: en
 
 pipeline:
   - name: "WhitespaceTokenizer"
-  - name: "RegexFeaturizer"
   - name: "CountVectorsFeaturizer"
     analyzer: "word"
     min_ngram: 1

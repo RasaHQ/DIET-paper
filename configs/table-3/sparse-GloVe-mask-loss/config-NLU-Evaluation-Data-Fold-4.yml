@@ -4,7 +4,6 @@ pipeline:
   - name: "SpacyNLP"
   - name: "SpacyTokenizer"
   - name: "SpacyFeaturizer"
-  - name: "RegexFeaturizer"
   - name: "CountVectorsFeaturizer"
     analyzer: "word"
     min_ngram: 1

@@ -6,7 +6,6 @@ pipeline:
     model_weights: "bert-base-uncased"
   - name: "LanguageModelTokenizer"
   - name: "LanguageModelFeaturizer"
-  - name: "RegexFeaturizer"
   - name: "CountVectorsFeaturizer"
     analyzer: "word"
     min_ngram: 1
