@@ -7,3 +7,5 @@ __pycache__/
 
 # experiment results
 experiments/*
+
+.DS_Store
