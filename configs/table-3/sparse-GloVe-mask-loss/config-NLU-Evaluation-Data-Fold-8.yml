@@ -28,7 +28,7 @@ pipeline:
     dense_dim:
       text: 512
       label: 20
-    scale_loss: True
+    scale_loss: False
     use_sparse_input_dropout: True
     weight_sparsity: 0
 
