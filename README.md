@@ -1,4 +1,4 @@
-# DIET-paper
+# DIET: Lightweight Language Understanding for Dialogue Systems
 
 Source code to reproduce results of our paper "[DIET: Lightweight Language Understanding for Dialogue Systems](https://arxiv.org/pdf/2004.09936.pdf)"
 
