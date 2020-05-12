@@ -1,8 +1,9 @@
 language: en
 
 pipeline:
-  - name: "ConveRTTokenizer"
-  - name: "ConveRTFeaturizer"
+  - name: "SpacyNLP"
+  - name: "SpacyTokenizer"
+  - name: "SpacyFeaturizer"
   - name: "CountVectorsFeaturizer"
     analyzer: "word"
     min_ngram: 1
@@ -17,7 +18,7 @@ pipeline:
     entity_recognition: True
     BILOU_flag: True
     intent_classification: True
-    use_masked_language_model: False
+    use_masked_language_model: True
     transformer_size: 256
     number_of_transformer_layers: 2
     number_of_attention_heads: 4
@@ -30,7 +31,7 @@ pipeline:
     scale_loss: False
     use_sparse_input_dropout: True
     weight_sparsity: 0
-    
+
 data:
   train_file: "data/SNIPS/train.md"
   test_file: "data/SNIPS/test.md"
